@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Estonia ülestõstmine kerkib taas päevakorda 
+Jaanus Piirsalu 
+ <TIMEX3 tid="t106" type="DATE" value="1994" mod="APPROX" anchorTimeID="t0">Ligi 12 aastat tagasi</TIMEX3> uppunud Estonia vraki võiks vajadusel üles tõsta , on märgitud Keskerakonna ja Rahvaliidu seni avalikustamata koostöölepingus . 
+ Eesti Päevalehe andmetel leppisid Keskerakond ja Rahvaliit kokku , et taotlevad Estonia huku kohta täiendavate uuringute tegemist ning vajadusel vraki ülestõstmist . 
+ Seni on Eesti , Rootsi ja Soome valitsuste ametlik seisukoht , et 852 inimest hauda viinud Estonia vrakki ei tõsteta üles , ning selle tagamiseks on sõlmitud hauarahu kokkulepe . 
+ Poliitikutest on Estonia täiendava uurimise teemat Eestis <TIMEX3 tid="t107" type="DATE" value="PAST_REF" anchorTimeID="t0">viimasel ajal</TIMEX3> kõige aktiivsemalt ajanud just Keskerakonna liige Evelyn Sepp ja rahvaliitlane Margus Leivo , kes juhib vastavat riigikogu erikomisjoni . 
+ Estonia-teema on siiski vaid detail Keskerakonna ja Rahvaliidu ülimalt põhjalikust koostöölepingust , mida võib sisuliselt nimetada koalitsioonilepinguks <TIMEX3 tid="t108" type="DURATION" value="P7M" >seitse kuud</TIMEX3> enne riigikogu valimisi . 
+</TimeML>

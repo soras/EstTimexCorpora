@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-10T10:22" functionInDocument="CREATION_TIME"/>
+
+<TIMEX3 tid="t1" type="DATE" value="2010-03" anchorTimeID="t0">Tuleva aasta märtsist</TIMEX3> kaotab töö 22 päästjat
+(25)
+
+<TIMEX3 tid="t2" type="TIME" value="2009-12-10T10:22" >10.12.2009 10:22</TIMEX3>
+
+Urmas Seaver
+
+Kommenteeri | Prindi
+Siseminister Marko Pomerants sõlmis <TIMEX3 tid="t3" type="DATE" value="2009-12-10" anchorTimeID="t0">täna</TIMEX3> ametiühinguga kokkuleppe päästjate palkade kohta ning lõpptulemusena kaotab <TIMEX3 tid="t4" type="DATE" value="2010-03-01" anchorTimeID="t0">1. märtsist</TIMEX3> töö 22 päästjat ja 16 muud päästeametnikku.
+REKLAAM
+
+Sellega muutus oluliselt ka viimati üleval olnud kava, et riigieelarves ette nähtud personalikulude kärpe tõttu peab töökohast loobuma 30 komandodes töötavat päästjat ja 10 teistes struktuurides olevat päästeametnikku.
+
+Pomerants rõhutas Riigi- ja Omavalitsusasutuste Töötajate Ametiühingute Liiduga (ROTAL) sõlmitud kokkuleppe positiivseid pooli, milleks on näiteks see, et 1780 päästetöötaja sissetulek jääb <TIMEX3 tid="t5" type="DATE" value="2010" anchorTimeID="t0">tuleval aastal</TIMEX3> samale tasemele, kui see on <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu.</TIMEX3>
+
+Samuti suureneb pidevalt vähemalt kolme mehega töötavate komandode arv praeguselt 42-lt 64-le ning sellega kasvab ministri sõnul kõigi eestimaalaste julgeolek.
+
+Pomerants ütles, et kolme mehega töötavate komandode arvu sai kasvatada tänu sellele, et päästjate vahetused hakkavad senise <TIMEX3 tid="t7" type="DURATION" value="PT12H" >12 tunni</TIMEX3> asemel olema <TIMEX3 tid="t8" type="DURATION" value="PT24H" >24-tunnised.</TIMEX3> Pikematele vahetustele üleminekut soovisid päästjad ise.
+
+Minister märkis veel, et päästetöötajad said kokkuleppe kohaselt täiendavat puhkust <TIMEX3 tid="t9" type="DURATION" value="P7D" >seitse päeva.</TIMEX3>
+
+<TIMEX3 tid="t10" type="DATE" value="2010" >2010. aasta</TIMEX3> riigieelarve eelnõu näeb kõikides riigi valdkondades ette personalikulude kärpeid ning selle elluviimiseks plaanis päästeameti juhtkond algselt koondada 90 päästjat ja 20 muud päästetöötajat. Koondamiste täielik vältimine oleks nõudnud 22,8 miljonit krooni lisaraha.
+
+Riigikogu otsustas <TIMEX3 tid="t11" type="DATE" value="2009-W50" anchorTimeID="t0">sel nädalal</TIMEX3> eraldada päästeametile täiendavad 15 miljonit krooni, mille tulemusel koondamisele minevate arv vähenes.
+
+ROTALi ja siseministri kokkulepe puudutab ka politseinike palkasid, kuid seal sündis lepe valutumalt. Politseinikke koondamine ei ähvarda, sest eelarveaugud lapitakse palgata vabade päevade võtmisega.
+
+Siseministri ja ROTALi vahel sõlmitud leping näeb ette, et alates <TIMEX3 tid="t12" type="DATE" value="2010-01-01">1.jaanuarist 2010</TIMEX3> on <TIMEX3 tid="t13" type="DURATION" value="PT40H" >40-tunnise</TIMEX3> töönädala puhul minimaalne astmepalk politseiametnikul 8280 krooni, I grupi komando päästjal 6900 krooni, II grupi komando päästjal 8280 krooni ning III grupi komando päästjal 9200 krooni <TIMEX3 tid="t15" type="SET" value="P1M" >kuus.</TIMEX3>
+
+</TimeML>
+

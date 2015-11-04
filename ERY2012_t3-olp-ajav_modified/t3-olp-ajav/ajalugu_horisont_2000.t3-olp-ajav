@@ -1,0 +1,3172 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-XX-XXTXX:XX" />
+<ignoreeri>
+|
+autor:
+HELMUT
+PIIRIMÄE
+|
+ajakirjanumber:
+Horisont
+1
+,
+2000
+|
+artikkel:
+20.
+SAJANDISSE
+TRÜGIDES
+Rahvusvahelised
+suhted
+eelmisel
+sajandivahetusel
+|
+</ignoreeri>
+<s>
+Rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+suhete    suhe+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+sõdade    sõda+de //_S_ pl g, //
+rägastikus    rägastik+s //_S_ sg in, //
+seaduspärasusi    seadus_pärasus+i //_S_ pl p, //
+otsides    otsi+des //_V_ des, //
+võiks    või+ks //_V_ ks, //
+jõuda    jõud+a //_V_ da, //
+veendumusele    veendumus+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t1" type="SET" temporalFunction="true" value="XX" >
+iga    iga+0 //_P_ sg n, //
+uus    uus+0 //_A_ sg n, //
+sajand    sajand+0 //_S_ sg n, //
+</TIMEX>
+algab    alga+b //_V_ b, //
+suurte    suur+te //_A_ pl g, //
+sõdadega    sõda+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Tegelikkuses    tegelikkus+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+suuri    suur+i //_A_ pl p, //
+sõdu    sõda+u //_S_ pl p, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="XXX" comment="ebatäpne" >
+teistel    teine+tel //_O_ pl ad, //    teine+tel //_P_ pl ad, //
+aastakümnetel    aasta_kümme+tel //_S_ pl ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Nullide    null+de //_N_ pl g, //
+maagia    maagia+0 //_S_ sg n, //
+</s>
+<s>
+Inimkond    inimkond+0 //_S_ sg n, //
+paistab    paist+b //_V_ b, //
+olevat    ole+vat //_V_ vat, //
+endale    ise+le //_P_ sg all, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t1_2" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0">
+ammu    ammu+0 //_D_ //
+</TIMEX>
+teadvustanud    teadvusta+nud //_V_ nud, //    teadvusta=nud+0 //_A_ //    teadvusta=nud+0 //_A_ sg n, //    teadvusta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="20" >
+uue    uus+0 //_A_ sg g, //
+sajandi    sajand+0 //_S_ sg g, //
+</TIMEX>
+tulek    tulek+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+midagi    miski+dagi //_P_ sg p, //
+erilist    eriline+t //_A_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Nullpunkt    null_punkt+0 //_S_ sg n, //
+pidi    pida+i //_V_ s, //
+ju    ju+0 //_D_ //
+olema    ole+ma //_V_ ma, //
+Jeesuse    Jeesus+0 //_H_ sg g, //
+Kristuse    Kristus+0 //_H_ sg g, //
+sündimine    sündimine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+ilma    ilma+0 //_D_ //
+et    et+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+oleks    ole+ks //_V_ ks, //
+järgnenud    järgne+nud //_V_ nud, //    järgne=nud+0 //_A_ //    järgne=nud+0 //_A_ sg n, //    järgne=nud+d //_A_ pl n, //
+<TIMEX  tid="t1_3" type="DATE" temporalFunction="true" value="0000">
+0    0+0 //_N_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Algul    algul+0 //_D_ //
+oli    ole+i //_V_ s, //
+küll    küll+0 //_D_ //
+kergem    kergem+0 //_C_ sg n, //
+mõista    mõist+a //_V_ da, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P100Y" >
+saja    sada+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+täitumist    täitumine+t //_S_ sg p, //
+kahe    kaks+0 //_N_ sg g, //
+nulliga    null+ga //_N_ sg kom, //
+ja    ja+0 //_J_ //
+number    number+0 //_S_ sg n, //
+ühte    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+uue    uus+0 //_A_ sg g, //
+algust    algus+t //_S_ sg p, //
+,    , //_Z_ //
+hiljem    hiljem+0 //_D_ //
+hakkas    hakka+s //_V_ s, //
+köitma    köit+ma //_V_ ma, //
+kahe    kaks+0 //_N_ sg g, //
+nulli    null+0 //_N_ sg g, //
+maagia    maagia+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Niisiis    nii_siis+0 //_D_ //
+tekkis    tekki+s //_V_ s, //
+ka    ka+0 //_D_ //
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" comment="raske täpset semantikat välja tuua">
+eelmisel    eelmine+l //_A_ sg ad, //
+sajandivahetusel    sajandi_vahetus+l //_S_ sg ad, //
+</TIMEX>
+arusaamatus    aru_saamatus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="19" >
+uus    uus+0 //_A_ sg n, //
+sajand    sajand+0 //_S_ sg n, //
+</TIMEX>
+algab    alga+b //_V_ b, //
+pärast    pärast+0 //_K_ //
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="1900" >
+1900.    1900.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+täitumist    täitumine+t //_S_ sg p, //
+või    või+0 //_J_ //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="false" value="1900" >
+1900.    1900.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+saabumisel    saabumine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Neile    tema+le //_P_ pl all, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+arvestavad    arvesta+vad //_V_ vad, //
+aega    aeg+0 //_S_ sg p, //
+<TIMEX  tid="t8" type="DURATION" temporalFunction="true" value="PXCE" >
+sajanditega    sajand+tega //_S_ pl kom, //
+</TIMEX>
+,    , //_Z_ //
+</kiil>
+lõpeb    lõp+b //_V_ b, //    lõppe+b //_V_ b, //
+<TIMEX  tid="t9" type="SET" temporalFunction="true" value="P1C" quant="EVERY" >
+iga    iga+0 //_P_ sg n, //
+sajand    sajand+0 //_S_ sg n, //
+</TIMEX>
+muidugi    muidugi+0 //_D_ //
+siis    siis+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lõppenud    lõppe+nud //_V_ nud, //    lõppenud+0 //_A_ //    lõppenud+0 //_A_ sg n, //    lõppenud+d //_A_ pl n, //
+<TIMEX  tid="t1_5"  type="DATE"  temporalFunction="true"  value="XX00" >
+kahe    kaks+0 //_N_ sg g, //
+nulliga    null+ga //_N_ sg kom, //
+märgitud    märgi=tud+0 //_A_ //    märgi=tud+0 //_A_ sg n, //    märgi=tud+d //_A_ pl n, //    märki+tud //_V_ tud, //
+aasta    aasta+0 //_S_ sg n, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Teistmoodi    teist_moodi+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+keeltega    keel+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="false" value="18" >
+19.    19.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+</TIMEX>
+asemel    asemel+0 //_K_ //
+öeldakse    ütle+dakse //_V_ takse, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="false" value="180" >
+1800ndad    1800=s+d //_O_ pl n, //
+aastad    aasta+d //_S_ pl n, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+näiteks    näide+ks //_S_ sg tr, //
+skandinaavia    skandinaavia+0 //_G_ //
+kõnepruugis    kõne_pruuk+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t12" type="DURATION" temporalFunction="true" value="PXCE" >
+Paljude    palju+de //_P_ pl g, //
+sajandite    sajand+te //_S_ pl g, //
+</TIMEX>
+ootel    oode+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="XX" >
+uue    uus+0 //_A_ sg g, //
+sajandi    sajand+0 //_S_ sg g, //
+</TIMEX>
+tulekuga    tulek+ga //_S_ sg kom, //
+peaks    pida+ks //_V_ ks, //
+kaasnema    kaasne+ma //_V_ ma, //
+midagi    miski+dagi //_P_ sg p, //
+enneolematut    enne_olematu+t //_A_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Keskajal    kesk_aeg+l //_S_ sg ad, //
+olid    ole+id //_V_ sid, //
+tavalised    tavaline+d //_A_ pl n, //
+kujutlused    kujutlus+d //_S_ pl n, //
+viimsepäeva    viimne_päev+0 //_S_ sg g, //
+saabumisest    saabumine+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+hiljem    hiljem+0 //_D_ //
+said    saa+id //_V_ sid, //
+ülekaalu    üle_kaal+0 //_S_ sg p, //
+optimistlikud    optimistlik+d //_A_ pl n, //
+ootused    ootus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Pärast    pärast+0 //_K_ //
+seda    see+da //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+oli    ole+i //_V_ s, //
+kujunenud    kujune+nud //_V_ nud, //    kujune=nud+0 //_A_ //    kujune=nud+0 //_A_ sg n, //    kujune=nud+d //_A_ pl n, //
+arusaam    aru_saam+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+iga    iga+0 //_P_ sg g, //
+sündmuse    sündmus+0 //_S_ sg g, //
+põhjuseks    põhjus+ks //_S_ sg tr, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+Jumala    jumal+0 //_S_ sg g, //
+konkreetne    konkreetne+0 //_A_ sg n, //
+sekkumine    sekkumine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+püüti    püüd+ti //_V_ ti, //
+ootusi    ootus+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+kartusi    kartus+i //_S_ pl p, //
+analüüsides    analüüsi+des //_V_ des, //
+seaduspärasusi    seadus_pärasus+i //_S_ pl p, //
+leida    leid+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+suhete    suhe+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+sõdade    sõda+de //_S_ pl g, //
+rägastikus    rägastik+s //_S_ sg in, //
+seaduspärasusi    seadus_pärasus+i //_S_ pl p, //
+otsides    otsi+des //_V_ des, //
+kippus    kippu+s //_V_ s, //
+peale    peale+0 //_D_ //
+jääma    jää+ma //_V_ ma, //
+veendumus    veendumus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t14" type="DATE" temporalFunction="true" value="XX" >
+iga    iga+0 //_P_ sg n, //
+uus    uus+0 //_A_ sg n, //
+sajand    sajand+0 //_S_ sg n, //
+</TIMEX>
+algab    alga+b //_V_ b, //
+suurte    suur+te //_A_ pl g, //
+sõdadega    sõda+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Tõepoolest    tõe_poolest+0 //_D_ //
+,    , //_Z_ //
+varauusaja    vara_uus_aeg+0 //_S_ sg g, //
+algusesse    algus+sse //_S_ sg ill, //
+-    - //_Z_ //
+<TIMEX  tid="t15" type="DATE" temporalFunction="false" value="15" >
+16.    16.+0 //_O_ ?, //
+sajandisse    sajand+sse //_S_ sg ill, //
+</TIMEX>
+-    - //_Z_ //
+jäävad    jää+vad //_V_ vad, //
+Itaalia    Itaalia+0 //_H_ sg g, //
+sõjad    sõda+d //_S_ pl n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX tid="t1_16" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t1_17" endPoint="t1_18" >
+<TIMEX text="1494-" tid="t1_17" type="DATE" temporalFunction="false" value="1494" >
+<TIMEX text="1559"  tid="t1_18" type="DATE" temporalFunction="false" value="1559" >
+1494-1559    1494-1559+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+lisaks    lisa+ks //_S_ sg tr, //
+neile    tema+le //_P_ pl all, //
+veel    veel+0 //_D_ //
+Hispaania    Hispaania+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Portugali    Portugal+0 //_H_ sg g, //
+meeletult    meeletult+0 //_D_ //
+suured    suur+d //_A_ pl n, //
+koloniaalvallutused    koloniaal_vallutus+d //_S_ pl n, //
+koos    koos+0 //_K_ //
+Ameerika    Ameerika+0 //_H_ sg g, //
+vanade    vana+de //_A_ pl g, //
+tsivilisatsioonide    tsivilisatsioon+de //_S_ pl g, //
+hävinguga    häving+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t16" type="DATE" temporalFunction="false" value="19" mod="START" >
+20.    20.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+künnisel    künnis+l //_S_ sg ad, //
+</TIMEX>
+meenutati    meenuta+ti //_V_ ti, //
+veel    veel+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+peaaegu    pea_aegu+0 //_D_ //
+kogu    kogu+0 //_A_ //
+Euroopat    Euroopa+t //_H_ sg p, //
+haaranud    haara+nud //_V_ nud, //    haara=nud+0 //_A_ //    haara=nud+0 //_A_ sg n, //    haara=nud+d //_A_ pl n, //
+heitlusi    heitlus+i //_S_ pl p, //
+<TIMEX  tid="t17" type="DATE" temporalFunction="false" value="17" mod="START" >
+18.    18.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+algul    algul+0 //_K_ //
+</TIMEX>
+-    - //_Z_ //
+Põhjasõda    põhja_sõda+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t20" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t18" endPoint="t19" >
+<TIMEX text="1721"  tid="t19" type="DATE" temporalFunction="false" value="1721" >
+<TIMEX text="1700-"  tid="t18" type="DATE" temporalFunction="false" value="1700" >
+1700-1721    1700-1721+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+Hispaania    Hispaania+0 //_H_ sg g, //
+pärilussõda    pärilus_sõda+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t23" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t21" endPoint="t22" >
+<TIMEX text="1714"  tid="t22" type="DATE" temporalFunction="false" value="1714" >
+<TIMEX text="1701-"  tid="t21" type="DATE" temporalFunction="false" value="1701" >
+1701-1714    1701-1714+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+eelkõige    eel_kõige+0 //_D_ //
+aga    aga+0 //_J_ //
+Napoleoni    Napoleon+0 //_H_ sg g, //
+sõdu    sõda+u //_S_ pl p, //
+<TIMEX  tid="t24" type="DATE" temporalFunction="false" value="18" mod="START" >
+19.    19.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+algul    algul+0 //_K_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t25" type="DATE" temporalFunction="true" value="20" anchorTimeID="t0" comment="pole selge, kas kõnehetkest lähtuvalt või abstraktselt">
+uus    uus+0 //_A_ sg n, //
+sajand    sajand+0 //_S_ sg n, //
+</TIMEX>
+toob    too+b //_V_ b, //
+kaasa    kaasa+0 //_D_ //
+uue    uus+0 //_A_ sg g, //
+suure    suur+0 //_A_ sg g, //
+sõja    sõda+0 //_S_ sg g, //
+?    ? //_Z_ //
+</s>
+<s>
+Seda    see+da //_P_ sg p, //
+kardeti    kart+ti //_V_ ti, //
+,    , //_Z_ //
+<kindel_piir/>
+sellele    see+le //_P_ sg all, //
+loodeti    loot+ti //_V_ ti, //
+.    . //_Z_ //
+</s>
+<s>
+Iseasi    ise_asi+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muidugi    muidugi+0 //_D_ //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuivõrd    kui_võrd+0 //_D_ //
+õige    õige+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+suurte    suur+te //_A_ pl g, //
+sõdade    sõda+de //_S_ pl g, //
+seostamine    seostamine+0 //_S_ sg n, //
+just    just+0 //_D_ //    just+0 //_I_ //
+<TIMEX  tid="t26" type="DATE" temporalFunction="true" value="XX" mod="START" >
+uue    uus+0 //_A_ sg g, //
+sajandi    sajand+0 //_S_ sg g, //
+algusega    algus+ga //_S_ sg kom, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+On    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ju    ju+0 //_D_ //
+suuri    suur+i //_A_ pl p, //
+sõdu    sõda+u //_S_ pl p, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t1_19" type="DATE" temporalFunction="true" value="XXX" comment="ebatäpne" >
+teistel    teine+tel //_O_ pl ad, //    teine+tel //_P_ pl ad, //
+aastakümnetel    aasta_kümme+tel //_S_ pl ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Uus    uus+0 //_A_ sg n, //
+jõud    jõud+0 //_S_ sg n, //    jõud+d //_S_ pl n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+südames    süda+s //_S_ sg in, //
+</s>
+<s>
+Rahvusvahelised    rahvus_vaheline+d //_A_ pl n, //
+suhted    suhe+d //_S_ pl n, //
+<TIMEX  tid="t27" type="DATE" temporalFunction="false" value="18X" mod="END" >
+19.    19.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+viimastel    viimane+tel //_A_ pl ad, //
+aastakümnetel    aasta_kümme+tel //_S_ pl ad, //
+</TIMEX>
+määras    määra+s //_V_ s, //
+suurelt    suur+lt //_A_ sg abl, //
+osalt    osa+lt //_S_ sg abl, //
+Saksa-Prantsuse    Saksa-Prantsuse+0 //_H_ sg g, //
+<kiil>
+(    ( //_Z_ //
+Prantsuse-Preisi    Prantsuse-Preis+0 //_H_ sg g, //    Prantsuse-Preisi+0 //_H_ sg g, //
+)    ) //_Z_ //
+</kiil>
+sõda    sõda+0 //_S_ sg n, //
+<TIMEX  tid="t30" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t28" endPoint="t29" >
+<TIMEX text="aastail 1870-"  tid="t28" type="DATE" temporalFunction="false" value="1870" >
+aastail    aasta+il //_S_ pl ad, //
+<TIMEX text="1871."  tid="t29" type="DATE" temporalFunction="false" value="1871" >
+1870-1871.    1870-1871.+0 //_O_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+</s>
+<s>
+<TIMEX  tid="t31" type="DATE" temporalFunction="false" value="1871-01-18" >
+18.    18.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+1871    1871+0 //_N_ ?, //
+</TIMEX>
+kuulutati    kuuluta+ti //_V_ ti, //
+Versailles'    Versailles+0 //_H_ sg g, //
+lossi    loss+0 //_S_ sg g, //
+Peeglisaalis    peegli_saal+s //_S_ sg in, //
+välja    välja+0 //_D_ //
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+keisririik    keisri_riik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ühendatud    ühenda+tud //_V_ tud, //    ühenda=tud+0 //_A_ //    ühenda=tud+0 //_A_ sg n, //    ühenda=tud+d //_A_ pl n, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+näol    nägu+l //_S_ sg ad, //
+kujutas    kujuta+s //_V_ s, //
+endast    ise+st //_P_ sg el, //
+uut    uus+t //_A_ sg p, //
+poliitilist    poliitiline+t //_A_ sg p, //
+ja    ja+0 //_J_ //
+sõjalist    sõjaline+t //_A_ sg p, //
+jõudu    jõud+0 //_S_ sg p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+südames    süda+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Lüüasaanud    lüüa_saanud+0 //_A_ //    lüüa_saanud+0 //_A_ sg n, //    lüüa_saanud+d //_A_ pl n, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+liiga    liiga+0 //_D_ //
+nõrk    nõrk+0 //_A_ sg n, //
+selleks    see+ks //_P_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t32" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t31" >
+lähiaastatel    lähi_aasta+tel //_S_ pl ad, //
+</TIMEX>
+või    või+0 //_J_ //
+koguni    koguni+0 //_D_ //
+<TIMEX  tid="t1_20" type="DURATION" temporalFunction="true" value="PXXY" >
+aastakümnetel    aasta_kümme+tel //_S_ pl ad, //
+</TIMEX>
+revanši    revanš+0 //_S_ sg p, //
+saavutada    saavuta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ometi    ometi+0 //_D_ //
+jäi    jää+i //_V_ s, //
+Prantsuse-Saksa    Prantsuse-Saks+0 //_H_ sg g, //    Prantsuse-Saksa+0 //_H_ sg g, //
+vaen    vaen+0 //_S_ sg n, //
+üheks    üks+ks //_N_ sg tr, //    üks+ks //_P_ sg tr, //
+kõige    kõige+0 //_D_ //
+määravamaks    määra=vam+ks //_C_ sg tr, //
+faktoriks    faktor+ks //_S_ sg tr, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+jõudmisel    jõud=mine+l //_S_ sg ad, //
+<TIMEX  tid="t33" type="DATE" temporalFunction="true" value="19" anchorTimeID="t32">
+uude    uus+de //_A_ adt, //
+sajandisse    sajand+sse //_S_ sg ill, //
+</TIMEX>
+ja    ja+0 //_J_ //
+kõige    kõige+0 //_D_ //
+ohtlikumaks    ohtlikum+ks //_C_ sg tr, //
+süütematerjaliks    süüte_materjal+ks //_S_ sg tr, //
+uuele    uus+le //_A_ sg all, //
+sõjale    sõda+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Kolmekeisriliit    kolme_keisri_liit+0 //_S_ sg n, //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+seisukohalt    seisu_koht+lt //_S_ sg abl, //
+vaadatuna    vaadatud+na //_A_ sg es, //
+oli    ole+i //_V_ s, //
+esialgu    esi_algu+0 //_D_ //
+põhiprobleemiks    põhi_probleem+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+vältida    välti+da //_V_ da, //
+Prantsusmaal    Prantsus_maa+l //_H_ sg ad, //
+liitlaste    liitlane+te //_S_ pl g, //
+leidmist    leidmine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Parim    parim+0 //_U_ sg n, //
+lahendus    lahendus+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+vastase    vastane+0 //_S_ sg g, //
+võimalike    võimalik+e //_A_ pl g, //
+liitlaste    liitlane+te //_S_ pl g, //
+enda    ise+0 //_P_ sg g, //
+poole    poole+0 //_K_ //
+tõmbamine    tõmbamine+0 //_S_ sg n, //
+või    või+0 //_J_ //
+vähemalt    vähemalt+0 //_D_ //
+mingil    mingi+l //_P_ sg ad, //
+moel    moel+0 //_K_ //
+endaga    ise+ga //_P_ sg kom, //
+sidumine    sidumine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sellest    see+st //_P_ sg el, //
+lähtus    lähtu+s //_V_ s, //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t1_21" type="DURATION" temporalFunction="true" value="PXXY" >
+mitme    mitu+0 //_P_ sg g, //
+aastakümne    aasta_kümme+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+Saksa    saksa+0 //_G_ //
+keisririigi    keisri_riik+0 //_S_ sg g, //
+poliitikat    poliitika+t //_S_ sg p, //
+suunanud    suuna+nud //_V_ nud, //    suuna=nud+0 //_A_ //    suuna=nud+0 //_A_ sg n, //    suuna=nud+d //_A_ pl n, //
+kantsler    kantsler+0 //_S_ sg n, //
+Otto    Otto+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Bismarck    Bismarck+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+võimalikuks    võimalik+ks //_A_ sg tr, //
+liitlaseks    liitlane+ks //_S_ sg tr, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+võis    või+s //_V_ s, //
+olla    ole+a //_V_ da, //
+ennekõike    enne_kõike+0 //_D_ //
+<TIMEX  tid="t1_22" type="DATE" temporalFunction="false" value="1867" >
+1867    1867+0 //_N_ ?, //
+</TIMEX>
+loodud    loo+dud //_V_ tud, //    loodud+0 //_A_ //    loodud+0 //_A_ sg n, //    loodud+d //_A_ pl n, //
+Austria-Ungari    Austria-Ungari+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+Austria    Austria+0 //_H_ sg g, //
+keisririik    keisri_riik+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+lüüa    löö+a //_V_ da, //
+<TIMEX  tid="t34" type="DATE" temporalFunction="false" value="1866" >
+1866.    1866.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Preisi-Austria    Preisi-Austria+0 //_H_ sg g, //
+sõjas    sõda+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Juba    juba+0 //_D_ //
+siis    siis+0 //_D_ //
+oli    ole+i //_V_ s, //
+Otto    Otto+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Bismarck    Bismarck+0 //_H_ sg n, //
+peatanud    peata+nud //_V_ nud, //    peata=nud+0 //_A_ //    peata=nud+0 //_A_ sg n, //    peata=nud+d //_A_ pl n, //
+Preisi    preisi+0 //_G_ //
+kindralitele    kindral+tele //_S_ pl all, //
+ja    ja+0 //_J_ //
+sõduritele    sõdur+tele //_S_ pl all, //
+nii    nii+0 //_D_ //
+ahvatleva    ahvatlev+0 //_A_ sg g, //
+võidumarsi    võidu_marss+0 //_S_ sg g, //
+Viini    Viin+0 //_H_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mitte    mitte+0 //_D_ //
+liigselt    liigselt+0 //_D_ //
+alandada    alanda+da //_V_ da, //
+Austriat    Austria+t //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kartus    kartus+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+et    et+0 //_J_ //
+Austria    Austria+0 //_H_ sg n, //
+võib    või+b //_V_ b, //
+asuda    asu+da //_V_ da, //
+revanšipoliitika    revanši_poliitika+0 //_S_ sg g, //
+teele    tee+le //_S_ sg all, //
+,    , //_Z_ //
+</kiil>
+oli    ole+i //_V_ s, //
+siiski    siiski+0 //_D_ //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t35" type="DATE" temporalFunction="false" value="1871-10" >
+1871.    1871.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+oktoobris    oktoober+s //_S_ sg in, //
+</TIMEX>
+sai    saa+i //_V_ s, //
+aga    aga+0 //_J_ //
+Austria-Ungari    Austria-Ungar+0 //_H_ sg g, //    Austria-Ungari+0 //_H_ sg g, //
+välisministriks    välis_minister+ks //_S_ sg tr, //
+ungarlane    ungarlane+0 //_S_ sg n, //
+Gyula    Gyula+0 //_H_ sg n, //
+Andràssy    Andràssy+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+pidas    pida+s //_V_ s, //
+peavaenlaseks    pea_vaenlane+ks //_S_ sg tr, //
+slaavlasi    slaavlane+i //_S_ pl p, //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+Suur-Serbia    Suur-Serbia+0 //_H_ sg g, //
+liikumist    liikumine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+Balkanile    Balkan+le //_H_ sg all, //
+tungivat    tungiv+t //_A_ sg p, //
+Venemaad    Vene_maa+d //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Uus    uus+0 //_A_ sg n, //
+välisminister    välis_minister+0 //_S_ sg n, //
+taotles    taotle+s //_V_ s, //
+koostööd    koos_töö+d //_S_ sg p, //
+Saksamaaga    Saksa_maa+ga //_H_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+pidades    pida+des //_V_ des, //
+silmas    silm+s //_S_ sg in, //
+liitu    liit+0 //_S_ sg p, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Bismarck    Bismarck+0 //_H_ sg n, //
+suhtus    suhtu+s //_V_ s, //
+tsaaririiki    tsaari_riik+0 //_S_ adt, //
+vaenulikult    vaenulikult+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+ta    tema+0 //_P_ sg n, //
+ka    ka+0 //_D_ //
+kartis    kart+is //_V_ s, //
+Venemaad    Vene_maa+d //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+oskas    oska+s //_V_ s, //
+arvestada    arvesta+da //_V_ da, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+gigantseid    gigantne+id //_A_ pl p, //
+mõõtmeid    mõõde+id //_S_ pl p, //
+,    , //_Z_ //
+suuri    suur+i //_A_ pl p, //
+inimhulki    inim_hulk+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+majanduslikke    majanduslik+e //_A_ pl p, //
+ressursse    ressurss+e //_S_ pl p, //
+ning    ning+0 //_J_ //
+karmi    karm+0 //_A_ sg p, //
+kliimat    kliima+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Tagantjärele    tagant_järele+0 //_D_ //
+tarkusena    tarkus+na //_S_ sg es, //
+jääb    jää+b //_V_ b, //
+kõlama    kõla+ma //_V_ ma, //
+Bismarcki    Bismarck+0 //_H_ sg g, //    Bismarcki+0 //_H_ sg g, //
+hoiatus    hoiatus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+peab    pida+b //_V_ b, //
+hoiduma    hoidu+ma //_V_ ma, //
+sõjast    sõda+st //_S_ sg el, //
+kahel    kaks+l //_N_ sg ad, //
+rindel    rinne+l //_S_ sg ad, //
+,    , //_Z_ //
+üheaegselt    ühe_aegne+lt //_A_ sg abl, //
+läänes    lääs+s //_S_ sg in, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+idas    ida+s //_S_ sg in, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Venemaa    Vene_maa+0 //_H_ sg n, //
+omalt    oma+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+pelgas    pelga+s //_V_ s, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Austria-Ungari    Austria-Ungar+0 //_H_ sg g, //    Austria-Ungari+0 //_H_ sg g, //
+liitu    liit+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+millises    milline+s //_P_ sg in, //
+osas    osa+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+parimaks    parim+ks //_U_ sg tr, //
+lahenduseks    lahendus+ks //_S_ sg tr, //
+selles    see+s //_P_ sg in, //
+liidus    liit+s //_S_ sg in, //
+osalemine    osalemine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+kerkiski    kerki+ski //_V_ s, //
+päevakorda    päeva_kord+0 //_S_ adt, //
+Bismarcki    Bismarck+0 //_H_ sg g, //    Bismarcki+0 //_H_ sg g, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+Kolme    kolm+0 //_N_ sg g, //
+keisri    keiser+0 //_S_ sg g, //
+liidu    liit+0 //_S_ sg g, //
+idee    idee+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t37" type="DATE" temporalFunction="true" value="1872-09" >
+Septembris    september+s //_S_ sg in, //
+1872    1872+0 //_N_ ?, //
+</TIMEX>
+toimus    toimu+s //_V_ s, //
+Berliinis    Berliin+s //_H_ sg in, //
+kolme    kolm+0 //_N_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+keisrite    keiser+te //_S_ pl g, //
+esimene    esimene+0 //_O_ sg n, //
+kohtumine    kohtumine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Välispoliitilisi    välis_poliitiline+i //_A_ pl p, //
+probleeme    probleem+e //_S_ pl p, //
+arutati    aruta+ti //_V_ ti, //
+siiski    siiski+0 //_D_ //
+peamiselt    peamiselt+0 //_D_ //
+diplomaatide    diplomaat+de //_S_ pl g, //
+kahepoolsetel    kahe_poolne+tel //_A_ pl ad, //
+läbirääkimistel    läbi_rääkimine+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Arutelud    arutelu+d //_S_ pl n, //
+jätkusid    jätku+sid //_V_ sid, //
+Wilhelm    Wilhelm+0 //_H_ sg n, //
+I    I+0 //_Y_ ?, //
+visiidi    visiit+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+Peterburi    Peterburi+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+Aleksander    Aleksander+0 //_H_ sg n, //
+II    II+0 //_O_ ?, //
+vastuvõtul    vastu_võtt+l //_S_ sg ad, //
+Viinis    Viin+s //_H_ sg in, //
+1873    1873+0 //_N_ ?, //
+jõuti    jõud+ti //_V_ ti, //
+niikaugele    nii_kaugele+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sõlmiti    sõlmi+ti //_V_ ti, //
+nn.    nn+0 //_Y_ ?, //
+Kolmekeisriliit    kolme_keisri_liit+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Selles    see+s //_P_ sg in, //
+osalejad    osaleja+d //_S_ pl n, //
+kohustusid    kohustu+sid //_V_ sid, //
+üksteisega    üks_teise+ga //_P_ sg kom, //
+konsulteerima    konsulteeri+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+säilitama    säili+tama //_V_ tama, //    säilita+ma //_V_ ma, //
+heatahtliku    hea_tahtlik+0 //_A_ sg g, //
+erapooletuse    era_pooletus+0 //_S_ sg g, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+üht    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+neist    see+st //_P_ pl el, //
+ähvardab    ähvarda+b //_V_ b, //
+neljanda    neljas+0 //_O_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+kallaletung    kallale_tung+0 //_S_ sg n, //
+või    või+0 //_J_ //
+<kindel_piir/>
+puhkeb    puhke+b //_V_ b, //
+sõda    sõda+0 //_S_ sg p, //
+mõne    mõni+0 //_P_ sg g, //
+sellise    selline+0 //_P_ sg g, //
+riigiga    riik+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Uus    uus+0 //_A_ sg n, //
+liitlane    liitlane+0 //_S_ sg n, //
+Itaalia    Itaalia+0 //_H_ sg n, //
+</s>
+<s>
+Kolmekeisriliit    kolme_keisri_liit+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+püsinud    püsi+nud //_V_ nud, //    püsi=nud+0 //_A_ //    püsi=nud+0 //_A_ sg n, //    püsi=nud+d //_A_ pl n, //
+kaua    kaua+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+nurjasid    nurja+sid //_V_ sid, //
+eeskätt    ees_kätt+0 //_D_ //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Ausria-Ungari    Ausria-Ungari+0 //_H_ sg g, //
+vastuolud    vastu_olu+d //_S_ pl n, //
+Balkanil    Balkan+l //_H_ sg ad, //
+seoses    seoses+0 //_K_ //
+nn.    nn+0 //_Y_ ?, //
+Ida    ida+0 //_S_ sg g, //
+kriisiga    kriis+ga //_S_ sg kom, //
+<kiil>
+(    ( //_Z_ //
+ülestõus    üles_tõus+0 //_S_ sg n, //
+Bosnias    Bosnia+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Hertsegoviinas    Hertsegoviina+s //_H_ sg in, //
+<TIMEX tid="t1_23" type="DATE" temporalFunction="false" value="1875" >
+1875    1875+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+Vene-Tür-gi    Vene-Tür-gi+0 //_Y_ ?, //
+sõda    sõda+0 //_S_ sg n, //
+<TIMEX  tid="t40" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t38" endPoint="t39" >
+<TIMEX text="1878"  tid="t39" type="DATE" temporalFunction="false" value="1878" >
+<TIMEX text="1877-"  tid="t38" type="DATE" temporalFunction="false" value="1877" >
+1877-1878    1877-1878+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_24" type="DATE" temporalFunction="false" value="1881" >
+1881    1881+0 //_N_ ?, //
+</TIMEX>
+Kolmekeisriliitu    kolme_keisri_liit+0 //_S_ sg p, //
+ametlikult    ametlikult+0 //_D_ //
+küll    küll+0 //_D_ //
+uuendati    uuenda+ti //_V_ ti, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+seekord    see_kord+0 //_D_ //
+ainult    ainult+0 //_D_ //
+neutraliteedikokkuleppena    neutraliteedi_kokku_lepe+na //_S_ sg es, //
+ning    ning+0 //_J_ //
+juba    juba+0 //_D_ //
+<TIMEX tid="t1_25" type="DATE" temporalFunction="false" value="1879" >
+1879    1879+0 //_N_ ?, //
+</TIMEX>
+olid    ole+id //_V_ sid, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Austria-Ungari    Austria-Ungar+0 //_H_ sg g, //    Austria-Ungari+0 //_H_ sg g, //
+sõlminud    sõlmi+nud //_V_ nud, //    sõlmi=nud+0 //_A_ //    sõlmi=nud+0 //_A_ sg n, //    sõlmi=nud+d //_A_ pl n, //
+salajase    salajane+0 //_A_ sg g, //
+liidulepingu    liidu_leping+0 //_S_ sg g, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+sellega    see+ga //_P_ sg kom, //
+<TIMEX  tid="t41" type="DATE" temporalFunction="false" value="1882" >
+1882.    1882.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+liitus    liitu+s //_V_ s, //
+Itaalia    Itaalia+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+oligi    ole+igi //_V_ s, //
+kujunenud    kujune+nud //_V_ nud, //    kujune=nud+0 //_A_ //    kujune=nud+0 //_A_ sg n, //    kujune=nud+d //_A_ pl n, //
+Kolmikliit    kolmik_liit+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tõsi    tõsi+0 //_S_ sg n, //
+küll    küll+0 //_D_ //
+,    , //_Z_ //
+Itaalia    Itaalia+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+ebakindel    eba_kindel+0 //_A_ sg n, //
+partner    partner+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+oli    ole+i //_V_ s, //
+sellesse    see+sse //_P_ sg ill, //
+liitu    liit+0 //_S_ adt, //
+viinud    vii+nud //_V_ nud, //    vii=nud+0 //_A_ //    vii=nud+0 //_A_ sg n, //    vii=nud+d //_A_ pl n, //
+Tuneesia    Tuneesia+0 //_H_ sg g, //
+vallutamine    vallutamine+0 //_S_ sg n, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+poolt    poolt+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Ometi    ometi+0 //_D_ //
+pani    pane+i //_V_ s, //
+Kolmikliit    kolmik_liit+0 //_S_ sg n, //
+aluse    alune+0 //_S_ sg g, //    alus+0 //_S_ sg g, //
+<TIMEX  tid="t42" type="DATE" temporalFunction="true" value="19" anchorTimeID="t41">
+uude    uus+de //_A_ adt, //
+sajandissegi    sajand+ssegi //_S_ sg ill, //
+</TIMEX>
+ulatuvale    ulatuv+le //_A_ sg all, //
+liitude    liit+de //_S_ pl g, //
+süsteemile    süsteem+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Kolmikliidu    kolmik_liit+0 //_S_ sg g, //
+sõlmimine    sõlmimine+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+tähendanud    tähenda+nud //_V_ nud, //    tähenda=nud+0 //_A_ //    tähenda=nud+0 //_A_ sg n, //    tähenda=nud+d //_A_ pl n, //
+siiski    siiski+0 //_D_ //
+veel    veel+0 //_D_ //
+lõplikku    lõplik+0 //_A_ sg p, //
+lõhet    lõhe+t //_S_ sg p, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Otse    otse+0 //_D_ //
+vastupidi    vastu_pidi+0 //_D_ //
+,    , //_Z_ //
+<TIMEX tid="t1_26" type="DATE" temporalFunction="true" value="1887">
+1887    1887+0 //_N_ ?, //
+</TIMEX>
+said    saa+id //_V_ sid, //
+teoks    tegu+ks //_S_ sg tr, //    tigu+ks //_S_ sg tr, //
+Saksa-Vene    Saksa-Vene+0 //_H_ sg g, //
+läbirääkimised    läbi_rääkimine+d //_S_ pl n, //
+kaksikkokkuleppe    kaksik_kokku_lepe+0 //_S_ sg g, //
+sõlmimiseks    sõlmimine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Tulemuseks    tulemus+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+nn.    nn+0 //_Y_ ?, //
+Edasikindlustamisleping    edasi_kindlustamis_leping+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+mõlemad    mõlema+d //_P_ pl n, //
+pooled    pool+d //_S_ pl n, //
+võtsid    võt+sid //_V_ sid, //
+endale    ise+le //_P_ sg all, //
+kohustuse    kohustus+0 //_S_ sg g, //
+säilitada    säilita+da //_V_ da, //
+heatahtlik    hea_tahtlik+0 //_A_ sg n, //
+erapooletus    era_pooletus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+neist    see+st //_P_ pl el, //
+peaks    pida+ks //_V_ ks, //
+sattuma    sattu+ma //_V_ ma, //
+sõtta    sõda+0 //_S_ adt, //
+mõne    mõni+0 //_P_ sg g, //
+kolmanda    kolmas+0 //_O_ sg g, //
+suurriigiga    suur_riik+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Erandiks    erand+ks //_S_ sg tr, //
+kuulutati    kuuluta+ti //_V_ ti, //
+olukord    olu_kord+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Venemaa    Vene_maa+0 //_H_ sg n, //
+peaks    pida+ks //_V_ ks, //
+ründama    ründa+ma //_V_ ma, //
+Austria-Ungarit    Austria-Ungar+t //_H_ sg p, //    Austria-Ungari+t //_H_ sg p, //
+või    või+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+Prantsusmaad    Prantsus_maa+d //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Vana    vana+0 //_A_ sg n, //
+vaenlane    vaenlane+0 //_S_ sg n, //
+Venemaa    Vene_maa+0 //_H_ sg n, //
+</s>
+<s>
+Bismarcki    Bismarck+0 //_H_ sg g, //    Bismarcki+0 //_H_ sg g, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+isoleerimispoliitika    isoleerimis_poliitika+0 //_S_ sg n, //
+kandis    kand+is //_V_ s, //
+vilja    vili+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Mitmel    mitu+l //_P_ sg ad, //
+korral    korral+0 //_K_ //
+oli    ole+i //_V_ s, //
+tekkinud    tekki+nud //_V_ nud, //    tekki=nud+0 //_A_ //    tekki=nud+0 //_A_ sg n, //    tekki=nud+d //_A_ pl n, //
+sõjaärevus    sõja_ärevus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+tingitud    tingi+tud //_V_ tud, //    tingitud+0 //_A_ //    tingitud+0 //_A_ sg n, //    tingitud+d //_A_ pl n, //
+kartusest    kartus+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+võib    või+b //_V_ b, //
+Prantsusmaad    Prantsus_maa+d //_H_ sg p, //
+rünnata    ründa+ta //_V_ da, //
+enne    enne+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+viimane    viimane+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+taastanud    taasta+nud //_V_ nud, //    taasta=nud+0 //_A_ //    taasta=nud+0 //_A_ sg n, //    taasta=nud+d //_A_ pl n, //
+oma    oma+0 //_P_ sg g, //
+sõjalise    sõjaline+0 //_A_ sg g, //
+jõu    jõud+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Pingeid    pinge+id //_S_ pl p, //
+teravdasid    teravda+sid //_V_ sid, //
+<TIMEX  tid="t43" type="DURATION" temporalFunction="true" value="PXCE" >
+sajandite    sajand+te //_S_ pl g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+kujunenud    kujune+nud //_V_ nud, //    kujune=nud+0 //_A_ //    kujune=nud+0 //_A_ sg n, //    kujune=nud+d //_A_ pl n, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+vastuolud    vastu_olu+d //_S_ pl n, //
+koloniaalküsimustes    koloniaal_küsimus+tes //_S_ pl in, //
+ning    ning+0 //_J_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+lähenemine    lähenemine+0 //_S_ sg n, //
+Austria-Ungarile    Austria-Ungar+le //_H_ sg all, //    Austria-Ungari+le //_H_ sg all, //
+ja    ja+0 //_J_ //
+Itaaliale    Itaalia+le //_H_ sg all, //
+seoses    seoses+0 //_K_ //
+vastuoludega    vastu_olu+dega //_S_ pl kom, //
+Balkanil    Balkan+l //_H_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_27" type="DATE" temporalFunction="true" value="1889">
+1889    1889+0 //_N_ ?, //
+</TIMEX>
+tegi    tege+i //_V_ s, //
+Bismarck    Bismarck+0 //_H_ sg n, //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+peaministrile    pea_minister+le //_S_ sg all, //
+Robert    Robert+0 //_H_ sg n, //
+Arthur    Arthur+0 //_H_ sg n, //
+Talbot    Talbot+0 //_H_ sg n, //
+Gascoyne-Cecil    Gascoyne-Cecil+0 //_H_ sg n, //
+Salisburyle    Salisbury+le //_H_ sg all, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+sõlmida    sõlmi+da //_V_ da, //
+ametlik    ametlik+0 //_A_ sg n, //
+,    , //_Z_ //
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+salajane    salajane+0 //_A_ sg n, //
+,    , //_Z_ //
+liiduleping    liidu_leping+0 //_S_ sg n, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+Prantsusmaal    Prantsus_maa+l //_H_ sg ad, //
+muud    muu+d //_P_ sg p, //
+üle    üle+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+leida    leid+a //_V_ da, //
+liitlane    liitlane+0 //_S_ sg n, //
+sealt    sealt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kust    kust+0 //_D_ //
+ühiskondlik    ühiskondlik+0 //_A_ sg n, //
+arvamus    arvamus+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+osanud    osa=nud+0 //_A_ //    osa=nud+0 //_A_ sg n, //    osa=nud+d //_A_ pl n, //    oska+nud //_V_ nud, //
+seda    see+da //_P_ sg p, //
+oodata    oota+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+või    või+0 //_J_ //
+vanade    vana+de //_A_ pl g, //
+vaenlaste    vaenlane+te //_S_ pl g, //
+seast    seast+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Viimaste    viimane+te //_A_ pl g, //
+hulka    hulka+0 //_K_ //
+kuulus    kuulu+s //_V_ s, //
+eeskätt    ees_kätt+0 //_D_ //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+…    …+0 //_Y_ ?, //
+</s>
+<s>
+Vene-Prantsuse    Vene-Prantsuse+0 //_H_ sg g, //
+vastuolude    vastu_olu+de //_S_ pl g, //
+põhjused    põhjus+d //_S_ pl n, //
+olid    ole+id //_V_ sid, //
+traditsioonilised    traditsiooniline+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ühelt    üks+lt //_N_ sg abl, //    üks+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+olid    ole+id //_V_ sid, //
+need    see+d //_P_ pl n, //
+ajaloolised    aja_looline+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Põlvkondade    põlvkond+de //_S_ pl g, //
+meelest    meelest+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+veel    veel+0 //_D_ //
+kustunud    kustu+nud //_V_ nud, //    kustunud+0 //_A_ //    kustunud+0 //_A_ sg n, //    kustunud+d //_A_ pl n, //
+mälestused    mälestus+d //_S_ pl n, //
+võitlustest    võitlus+test //_S_ pl el, //
+<TIMEX  tid="t44" type="DATE" temporalFunction="false" value="18" mod="START" >
+19.    19.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+alguse    algus+0 //_S_ sg g, //
+</TIMEX>
+Napoleoni    Napoleon+0 //_H_ sg g, //
+sõdade    sõda+de //_S_ pl g, //
+ajal    ajal+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Prantsuse    prantsuse+0 //_G_ //
+väed    vägi+d //_S_ pl n, //
+koos    koos+0 //_K_ //
+liitlastega    liitlane+tega //_S_ pl kom, //
+teistest    teine+test //_O_ pl el, //    teine+test //_P_ pl el, //
+riikidest    riik+dest //_S_ pl el, //
+<TIMEX  tid="t45" type="DATE" temporalFunction="false" value="1812" >
+1812.    1812.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Moskvasse    Moskva+sse //_H_ sg ill, //
+jõudsid    jõud+sid //_V_ sid, //
+,    , //_Z_ //
+<kindel_piir/>
+Vene    Vene+0 //_H_ sg g, //
+väed    vägi+d //_S_ pl n, //
+vastupealetungi    vastu_peale_tung+0 //_S_ sg g, //
+käigus    käigus+0 //_K_ //
+aga    aga+0 //_J_ //
+oma    oma+0 //_P_ sg g, //
+püssid    püss+d //_S_ pl n, //
+Pariisis    Pariis+s //_H_ sg in, //
+hakki    hakk+0 //_S_ adt, //
+panid    pane+id //_V_ sid, //
+.    . //_Z_ //
+</s>
+<s>
+Vastuolude    vastu_olu+de //_S_ pl g, //
+teiseks    teine+ks //_O_ sg tr, //    teine+ks //_P_ sg tr, //
+allikaks    allikas+ks //_S_ sg tr, //
+olid    ole+id //_V_ sid, //
+aga    aga+0 //_J_ //
+ka    ka+0 //_D_ //
+ühiskondliku    ühiskondlik+0 //_A_ sg g, //
+korra    kord+0 //_S_ sg g, //
+erinevused    erinevus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Alates    alates+0 //_K_ //
+aktiivsest    aktiivne+st //_A_ sg el, //
+tegevusest    tegevus+st //_S_ sg el, //
+Püha    püha+0 //_A_ sg g, //
+Liidu    liit+0 //_S_ sg g, //
+juhtiva    juhtiv+0 //_A_ sg g, //
+riigina    riik+na //_S_ sg es, //
+võis    või+s //_V_ s, //
+Venemaad    Vene_maa+d //_H_ sg p, //
+lugeda    luge+da //_V_ da, //
+reaktsiooniliste    reaktsiooniline+te //_A_ pl g, //
+jõudude    jõud+de //_S_ pl g, //
+peamiseks    peamine+ks //_A_ sg tr, //
+kantsiks    kants+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg n, //
+kõikidest    kõik+dest //_P_ pl el, //
+revolutsioonidest    revolutsioon+dest //_S_ pl el, //
+ja    ja+0 //_J_ //
+pööretest    pööre+test //_S_ pl el, //
+hoolimata    hoolimata+0 //_K_ //
+oli    ole+i //_V_ s, //
+ikka    ikka+0 //_D_ //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+vabariikliku    vaba_riiklik+0 //_A_ sg g, //
+,    , //_Z_ //
+liberaalse    liberaalne+0 //_A_ sg g, //
+või    või+0 //_J_ //
+lausa    lausa+0 //_D_ //
+mässumeelse    mässu_meelne+0 //_A_ sg g, //
+ideoloogia    ideoloogia+0 //_S_ sg g, //
+kandjaks    kandja+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Vastasseis    vastas_seis+0 //_S_ sg n, //
+vaimumaailmas    vaimu_maa_ilm+s //_S_ sg in, //
+ilmnes    ilmne+s //_V_ s, //
+eriti    eriti+0 //_D_ //
+seoses    seoses+0 //_K_ //
+reformidega    reform+dega //_S_ pl kom, //
+Kolmanda    kolmas+0 //_O_ sg g, //
+vabariigi    vaba_riik+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+,    , //_Z_ //
+<TIMEX  tid="t46" type="DATE" temporalFunction="false" value="1880" >
+1880.    1880.+0 //_O_ ?, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+hümniks    hümn+ks //_S_ sg tr, //
+sai    saa+i //_V_ s, //
+senine    senine+0 //_A_ sg n, //
+mässulaul    mässu_laul+0 //_S_ sg n, //
+“    “ //_Z_ //
+Marseljees    Marseljees+0 //_H_ sg n, //
+”    ” //_Z_ //
+,    , //_Z_ //
+rahvuspühaks    rahvus_püha+ks //_S_ sg tr, //
+<TIMEX  tid="t47" type="DATE" temporalFunction="true" value="XXXX-07-14" >
+14.    14.+0 //_O_ ?, //
+juuli    juuli+0 //_S_ sg n, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kuulutati    kuuluta+ti //_V_ ti, //
+välja    välja+0 //_D_ //
+amnestia    amnestia+0 //_S_ sg n, //
+Pariisi    Pariis+0 //_H_ sg g, //
+Kommuuni    Kommuun+0 //_H_ sg g, //    Kommuuni+0 //_H_ sg g, //
+eest    eest+0 //_K_ //
+võidelnuile    võidel=nu+ile //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Vestluses    vestlus+s //_S_ sg in, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+kantsleri    kantsler+0 //_S_ sg g, //
+poja    poeg+0 //_S_ sg g, //    poja+0 //_S_ sg g, //
+Herbert    Herbert+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Bismarckiga    Bismarck+ga //_H_ sg kom, //    Bismarcki+ga //_H_ sg kom, //
+ütles    ütle+s //_V_ s, //
+vene    vene+0 //_G_ //
+välisminister    välis_minister+0 //_S_ sg n, //
+Nikolai    Nikolai+0 //_H_ sg n, //
+Giers    Giers+0 //_H_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Liit    Liit+0 //_H_ sg n, //
+bandega    bande+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+kuuluvad    kuulu+vad //_V_ vad, //
+Grévy    Grévy+0 //_H_ sg n, //
+,    , //_Z_ //
+Clemenceau    Clemenceau+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+sulid    suli+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+oleks    ole+ks //_V_ ks, //
+võrdne    võrdne+0 //_A_ sg n, //
+enesetapuga    enese_tapp+ga //_S_ sg kom, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_28" type="DATE" temporalFunction="true" value="1887">
+1887    1887+0 //_N_ ?, //
+</TIMEX>
+lausus    lausu+s //_V_ s, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+Jules    Jules+0 //_H_ sg n, //
+Grévy    Grévy+0 //_H_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Oleks    ole+ks //_V_ ks, //
+tõsine    tõsine+0 //_A_ sg n, //
+eksitus    eksitus+0 //_S_ sg n, //
+tõmmata    tõmba+ta //_V_ da, //
+meid    mina+d //_P_ pl p, //
+liitu    liit+0 //_S_ adt, //
+tsaari    tsaar+0 //_S_ sg g, //
+impeeriumiga    impeerium+ga //_S_ sg kom, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Marseljeesi    Marseljees+0 //_H_ sg p, //
+”    ” //_Z_ //
+kuulamas    kuula+mas //_V_ mas, //
+</s>
+<s>
+Ometi    ometi+0 //_D_ //
+olid    ole+id //_V_ sid, //
+riikide    riik+de //_S_ pl g, //
+julgeoleku    julge_olek+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+välispoliitika    välis_poliitika+0 //_S_ sg g, //
+probleemid    probleem+d //_S_ pl n, //
+mõjukamad    mõjuka=m+d //_C_ pl n, //
+poliitilistest    poliitiline+test //_A_ pl el, //
+ja    ja+0 //_J_ //
+ideoloogilistest    ideoloogiline+test //_A_ pl el, //
+sümpaatiatest    sümpaatia+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t48" type="DATE" temporalFunction="true" value="1891-07" >
+Juulis    juuli+s //_S_ sg in, //
+1891    1891+0 //_N_ ?, //
+</TIMEX>
+saabus    saabu+s //_V_ s, //
+Kroonlinna    Kroon_linn+0 //_H_ adt, //
+Prantsuse    prantsuse+0 //_G_ //
+sõjalaevastiku    sõja_laevastik+0 //_S_ sg g, //
+eskaader    eskaader+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+vastuvõtmisel    vastu_võtmine+l //_S_ sg ad, //
+tuli    tule+i //_V_ s, //
+keiser    keiser+0 //_S_ sg n, //
+Aleksander    Aleksander+0 //_H_ sg n, //
+IIIndal    IIIndal+0 //_H_ sg n, //
+paljastada    paljasta+da //_V_ da, //
+pea    pea+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+orkester    orkester+0 //_S_ sg n, //
+mängis    mängi+s //_V_ s, //
+“    “ //_Z_ //
+Marseljeesi    Marseljees+0 //_H_ sg p, //
+”    ” //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+Venemaal    Vene_maa+l //_H_ sg ad, //
+peeti    pida+ti //_V_ ti, //
+revolutsiooniliseks    revolutsiooniline+ks //_A_ sg tr, //
+lauluks    laul+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Esialgu    esi_algu+0 //_D_ //
+sõlmiti    sõlmi+ti //_V_ ti, //
+kokkulepe    kokku_lepe+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+kohustuti    kohustu+ti //_V_ ti, //
+kooskõlastama    koos_kõlasta+ma //_V_ ma, //
+abinõud    abi_nõu+d //_S_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ühte    üks+0 //_N_ adt, //    üks+0 //_P_ adt, //
+poolt    poolt+0 //_K_ //
+ähvardab    ähvarda+b //_V_ b, //
+kallaletung    kallale_tung+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_30" type="DATE" temporalFunction="false" value="1893" >
+1893    1893+0 //_N_ ?, //
+</TIMEX>
+toimus    toimu+s //_V_ s, //
+Vene    Vene+0 //_H_ sg g, //
+eskaadri    eskaader+0 //_S_ sg g, //
+vastukülaskäik    vastu_külas_käik+0 //_S_ sg n, //
+Touloni    Touloni+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+visiidi    visiit+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+sõlmiti    sõlmi+ti //_V_ ti, //
+juba    juba+0 //_D_ //
+Prantsuse-Vene    Prantsuse-Vene+0 //_H_ sg g, //
+sõjaline    sõjaline+0 //_A_ sg n, //
+liit    liit+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+<TIMEX  tid="t49" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t1_30" comment="pigem sündmusega seotud" >
+sõlmimise    sõlmimine+0 //_S_ sg g, //
+hetkel    hetk+l //_S_ sg ad, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+suunatud    suuna+tud //_V_ tud, //    suuna=tud+0 //_A_ //    suuna=tud+0 //_A_ sg n, //    suuna=tud+d //_A_ pl n, //
+eelkõige    eel_kõige+0 //_D_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Olid    ole+id //_V_ sid, //
+ju    ju+0 //_D_ //
+mõlemal    mõlema+l //_P_ sg ad, //
+liitlasel    liitlane+l //_S_ sg ad, //
+viimasega    viimane+ga //_A_ sg kom, //
+teravad    terav+d //_A_ pl n, //
+suhted    suhe+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+huvid    huvi+d //_S_ pl n, //
+põrkusid    põrku+sid //_V_ sid, //
+Lähis-    Lähis //_H_ ?, //
+ja    ja+0 //_J_ //
+Kaug-Idas    Kaug-Ida+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+seisid    seis+id //_V_ sid, //
+sajanditepikkused    sajandi+te_pikkune+d //_A_ pl n, //
+vastuolud    vastu_olu+d //_S_ pl n, //
+kolooniates    koloonia+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Esialgu    esi_algu+0 //_D_ //
+olid    ole+id //_V_ sid, //
+lepingud    leping+d //_S_ pl n, //
+salajased    salajane+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+ometi    ometi+0 //_D_ //
+võis    või+s //_V_ s, //
+nende    see+de //_P_ pl g, //
+olemasolu    olemas_olu+0 //_S_ sg p, //
+aimata    aima+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Prantsuse-Vene    Prantsuse-Vene+0 //_H_ sg g, //
+lepingud    leping+d //_S_ pl n, //
+tähendasid    tähenda+sid //_V_ sid, //
+kahe    kaks+0 //_N_ sg g, //
+bloki    blokk+0 //_S_ sg g, //
+kujunemist    kujunemine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+need    see+d //_P_ pl n, //
+ei    ei+0 //_V_ neg, //
+haaranud    haara+nud //_V_ nud, //    haara=nud+0 //_A_ //    haara=nud+0 //_A_ sg n, //    haara=nud+d //_A_ pl n, //
+veel    veel+0 //_D_ //
+kõiki    kõik+0 //_P_ pl p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+suurriike    suur_riik+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Hiilgav    hiilgav+0 //_A_ sg n, //
+isolatsioon    isolatsioon+0 //_S_ sg n, //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg n, //
+jagunes    jagune+s //_V_ s, //
+kaheks    kaks+ks //_N_ sg tr, //
+blokiks    blokk+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+Suurbritannia    Suur_britannia+0 //_H_ sg n, //
+hoidus    hoidu+s //_V_ s, //
+neist    tema+st //_P_ pl el, //
+kõrvale    kõrvale+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ametlikult    ametlikult+0 //_D_ //
+oli    ole+i //_V_ s, //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+poliitikaks    poliitika+ks //_S_ sg tr, //
+kuulutatud    kuuluta+tud //_V_ tud, //    kuuluta=tud+0 //_A_ //    kuuluta=tud+0 //_A_ sg n, //    kuuluta=tud+d //_A_ pl n, //
+“    “ //_Z_ //
+hiilgav    hiilgav+0 //_A_ sg n, //
+isolatsioon    isolatsioon+0 //_S_ sg n, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+tähendanud    tähenda+nud //_V_ nud, //    tähenda=nud+0 //_A_ //    tähenda=nud+0 //_A_ sg n, //    tähenda=nud+d //_A_ pl n, //
+maailma    maa_ilm+0 //_S_ sg g, //
+suurpoliitikast    suur_poliitika+st //_S_ sg el, //
+eemalejäämist    eemale_jäämine+t //_S_ sg p, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+võimalust    võimalus+t //_S_ sg p, //
+sekkuda    sekku+da //_V_ da, //
+kohustusi    kohustus+i //_S_ pl p, //
+võtmata    võt+mata //_V_ mata, //
+.    . //_Z_ //
+</s>
+<s>
+Erandiks    erand+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t50" type="DATE" temporalFunction="false" value="1887" >
+1887.    1887.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+nootide    noot+de //_S_ pl g, //
+vahetuse    vahetus+0 //_S_ sg g, //
+teel    teel+0 //_K_ //
+sõlmitud    sõlmi+tud //_V_ tud, //    sõlmi=tud+0 //_A_ //    sõlmi=tud+0 //_A_ sg n, //    sõlmi=tud+d //_A_ pl n, //
+kokkulepe    kokku_lepe+0 //_S_ sg n, //
+Itaaliaga    Itaalia+ga //_H_ sg kom, //
+status    statu+s //_V_ s, //
+quo    quo+0 //_S_ sg g, //
+säilitamiseks    säilitamine+ks //_S_ sg tr, //
+Vahemere    Vahe_meri+0 //_H_ sg g, //
+,    , //_Z_ //
+Musta    Must+0 //_H_ sg g, //    Musta+0 //_H_ sg g, //
+,    , //_Z_ //
+Egeuse    Egeus+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Aadria    Aadria+0 //_H_ sg g, //
+mere    meri+0 //_S_ sg g, //
+kallastel    kallas+tel //_S_ pl ad, //
+ning    ning+0 //_J_ //
+Põhja-Aafrika    Põhja-Aafrika+0 //_H_ sg g, //    Põhja-Aafrikas+0 //_H_ sg g, //
+rannikul    rannik+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Veel    veel+0 //_D_ //
+<TIMEX  tid="t51" type="DATE" temporalFunction="true" value="1887" anchorTimeID="t50" >
+samal    sama+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+ühines    ühine+s //_V_ s, //
+kokkuleppega    kokku_lepe+ga //_S_ sg kom, //
+ka    ka+0 //_D_ //
+Austria-Ungari    Austria-Ungari+0 //_H_ sg n, //
+,    , //_Z_ //
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+mõningate    mõningas+te //_P_ pl g, //
+reservatsioonidega    reservatsioon+dega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+lepingut    leping+t //_S_ sg p, //
+hakati    hakka+ti //_V_ ti, //
+nimetama    nimeta+ma //_V_ ma, //
+Vahemere    Vahe_meri+0 //_H_ sg g, //
+Entente'iks    Entente+ks //_H_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Tegelikult    tegelikult+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+Suurbritannia    Suur_britannia+0 //_H_ sg n, //
+ka    ka+0 //_D_ //
+seekord    see_kord+0 //_D_ //
+endale    ise+le //_P_ sg all, //
+sõjalisi    sõjaline+i //_A_ pl p, //
+kohustusi    kohustus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_31" type="DATE" temporalFunction="false" value="1890" >
+1890    1890+0 //_N_ ?, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+sunnitud    sundi+tud //_V_ tud, //    sunnitud+0 //_A_ //    sunnitud+0 //_A_ sg n, //    sunnitud+d //_A_ pl n, //
+erru    eru+0 //_S_ adt, //
+minema    mine+ma //_V_ ma, //
+kantsler    kantsler+0 //_S_ sg n, //
+Otto    Otto+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Bismarck    Bismarck+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Teda    tema+da //_P_ sg p, //
+asendas    asenda+s //_V_ s, //
+kindrali    kindral+0 //_S_ sg g, //
+aukraadis    au_kraad+s //_S_ sg in, //
+krahv    krahv+0 //_S_ sg n, //
+Leo    Leo+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Caprivi    Caprivi+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tõi    too+i //_V_ s, //
+kaasa    kaasa+0 //_D_ //
+nn.    nn+0 //_Y_ ?, //
+uue    uus+0 //_A_ sg g, //
+kursi    kurss+0 //_S_ sg g, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+välispoliitikas    välis_poliitika+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Bismarck    Bismarck+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+seisukohal    seisu_koht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+tugev    tugev+0 //_A_ sg n, //
+eelkõige    eel_kõige+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+mandril    mander+l //_S_ sg ad, //    manner+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+ka    ka+0 //_D_ //
+koloniaalvallutuste    koloniaal_vallutus+te //_S_ pl g, //
+vastu    vastu+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+oli    ole+i //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+arvamusel    arvamus+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+jõude    jõud+e //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+tohi    tohti+0 //_V_ o, //
+liigselt    liigselt+0 //_D_ //
+killustada    killusta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+poliitika    poliitika+0 //_S_ sg g, //
+osas    osas+0 //_K_ //
+arvas    arva+s //_V_ s, //
+Caprivi    Caprivi+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+võimalik    võimalik+0 //_A_ sg n, //
+vältida    välti+da //_V_ da, //
+sõda    sõda+0 //_S_ sg p, //
+kahel    kaks+l //_N_ sg ad, //
+rindel    rinne+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+eest    eest+0 //_K_ //
+oli    ole+i //_V_ s, //
+hoiatanud    hoiata+nud //_V_ nud, //    hoiata=nud+0 //_A_ //    hoiata=nud+0 //_A_ sg n, //    hoiata=nud+d //_A_ pl n, //
+Bismarck    Bismarck+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Uus    uus+0 //_A_ sg n, //
+kantsler    kantsler+0 //_S_ sg n, //
+nägi    näge+i //_V_ s, //
+väljapääsu    välja_pääs+0 //_S_ sg p, //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Kolmikliitu    kolmik_liit+0 //_S_ adt, //
+tuleb    tule+b //_V_ b, //
+tõmmata    tõmba+ta //_V_ da, //
+ka    ka+0 //_D_ //
+Suurbritannia    Suur_britannia+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+jõudude    jõud+de //_S_ pl g, //
+vahekord    vahe_kord+0 //_S_ sg n, //
+maailmas    maa_ilm+s //_S_ sg in, //
+muutuks    muutu+ks //_V_ ks, //
+oluliselt    oluliselt+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+ta    tema+0 //_P_ sg g, //
+liitlaste    liitlane+te //_S_ pl g, //
+kasuks    kasu+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Ühtlasi    ühtlasi+0 //_D_ //
+kindlustaks    kindlusta+ks //_V_ ks, //
+see    see+0 //_P_ sg n, //
+Itaalia    Itaalia+0 //_H_ sg g, //
+truuduse    truudus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+pika    pikk+0 //_A_ sg g, //
+rannajoone    ranna_joon+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+kartis    kart+is //_V_ s, //
+Itaalia    Itaalia+0 //_H_ sg n, //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+laevastikku    laevastik+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+aitaks    aita+ks //_V_ ks, //
+liitu    liit+0 //_S_ sg p, //
+tõmmata    tõmba+ta //_V_ da, //
+ka    ka+0 //_D_ //
+Türgit    Türgi+t //_H_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+oli    ole+i //_V_ s, //
+põhjust    põhjus+t //_S_ sg p, //
+karta    kart+a //_V_ da, //
+Vene    Vene+0 //_H_ sg g, //
+agressiooni    agressioon+0 //_S_ sg p, //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+Konstantinoopoli    Konstantinoopol+0 //_H_ sg g, //
+ründamist    ründamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+loodeti    loot+ti //_V_ ti, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+vastuolud    vastu_olu+d //_S_ pl n, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Venemaaga    Vene_maa+ga //_H_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+suuremad    suurem+d //_C_ pl n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Saksamaaga    Saksa_maa+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Caprivi    Caprivi+0 //_H_ sg n, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+kursist    kurss+st //_S_ sg el, //
+lähtudes    lähtu+des //_V_ des, //
+loovutas    loovuta+s //_V_ s, //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+Inglismaale    Inglis_maa+le //_H_ sg all, //
+rea    rida+0 //_S_ sg g, //
+tähtsaks    tähtis+ks //_A_ sg tr, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+maa-alasid    maa-ala+sid //_S_ pl p, //
+Aafrikas    Aafrika+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+nende    see+de //_P_ pl g, //
+seas    seas+0 //_K_ //
+Uganda    Uganda+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+avas    ava+s //_V_ s, //
+juurdepääsu    juurde_pääs+0 //_S_ sg p, //
+Niiluse    Niilus+0 //_H_ sg g, //
+ülemjooksule    ülem_jooks+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+nõustus    nõustu+s //_V_ s, //
+Briti    briti+0 //_G_ //
+protektoraadiga    protektoraat+ga //_S_ sg kom, //
+India    India+0 //_H_ sg g, //
+ookeanis    ookean+s //_S_ sg in, //
+asuva    asuv+0 //_A_ sg g, //
+Sansibari    Sansibar+0 //_H_ sg g, //
+üle    üle+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Vastutasuks    vastu_tasu+ks //_S_ sg tr, //
+sai    saa+i //_V_ s, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+Põhjameres    Põhja_meri+s //_H_ sg in, //
+asuva    asuv+0 //_A_ sg g, //
+Helgolandi    Helgoland+0 //_H_ sg g, //    Helgolandi+0 //_H_ sg g, //    Helgolant+0 //_H_ sg g, //
+saare    saar+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+strateegiline    strateegiline+0 //_A_ sg n, //
+tähtsus    tähtsus+0 //_S_ sg n, //
+ilmnes    ilmne+s //_V_ s, //
+Esimese    esimene+0 //_O_ sg g, //
+maailmasõja    maa_ilma_sõda+0 //_S_ sg g, //
+ajal.    aeg+l //_S_ sg ad, //
+</s>
+<s>
+Aafrikas    Aafrika+s //_H_ sg in, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+järeleandmistele    järele_andmine+tele //_S_ pl all, //
+lootes    loot+es //_V_ des, //
+tegi    tege+i //_V_ s, //
+Caprivi    Caprivi+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+kantsleriks    kantsler+ks //_S_ sg tr, //
+oleku    olek+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t54" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t52" endPoint="t53" >
+<TIMEX text="1894"  tid="t53" type="DATE" temporalFunction="false" value="1894" >
+<TIMEX text="1890-"  tid="t52" type="DATE" temporalFunction="false" value="1890" >
+1890-1894    1890-1894+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+diplomaatidele    diplomaat+dele //_S_ pl all, //
+korduvalt    korduvalt+0 //_D_ //
+ettepanekuid    ette_panek+id //_S_ pl p, //
+ühinemiseks    ühinemine+ks //_S_ sg tr, //
+Kolmikliiduga    kolmik_liit+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+said    saa+id //_V_ sid, //
+ikka    ikka+0 //_D_ //
+eitava    eitav+0 //_A_ sg g, //
+vastuse    vastus+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+nõuame    nõud+me //_V_ me, //
+kohta    koht+0 //_S_ sg p, //
+päikese    päike+0 //_S_ sg g, //    päikene+0 //_S_ sg g, //
+all    all+0 //_K_ //
+…    …+0 //_Y_ ?, //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+traditsioonilisele    traditsiooniline+le //_A_ sg all, //
+ametlikest    ametlik+est //_A_ pl el, //
+liitudest    liit+dest //_S_ pl el, //
+hoidumise    hoidumine+0 //_S_ sg g, //
+poliitikale    poliitika+le //_S_ sg all, //
+kujundas    kujunda+s //_V_ s, //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+valitsuse    valitsus+0 //_S_ sg g, //
+meelsust    meelsus+t //_S_ sg p, //
+ka    ka+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+maailmapoliitika    maa_ilma_poliitika+0 //_S_ sg g, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+tahk    tahk+0 //_S_ sg n, //
+-    - //_Z_ //
+koloniaalpoliitika    koloniaal_poliitika+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_32" type="DATE" temporalFunction="false" value="1891">
+1891    1891+0 //_N_ ?, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+tekkinud    tekki+nud //_V_ nud, //    tekki=nud+0 //_A_ //    tekki=nud+0 //_A_ sg n, //    tekki=nud+d //_A_ pl n, //
+ühiskondliku    ühiskondlik+0 //_A_ sg g, //
+organisatsioonina    organisatsioon+na //_S_ sg es, //
+Pangermaani    Pangermaan+0 //_H_ sg g, //    Pangermaani+0 //_H_ sg g, //
+Liit    liit+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+avaldas    avalda+s //_V_ s, //
+suurt    suur+t //_A_ sg p, //
+mõju    mõju+0 //_S_ sg p, //
+nii    nii+0 //_D_ //
+riigi    riik+0 //_S_ sg g, //
+diplomaatiale    diplomaatia+le //_S_ sg all, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+Wilhelm    Wilhelm+0 //_H_ sg n, //
+II-le    II+le //_Y_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Pangermaani    Pangermaan+0 //_H_ sg g, //    Pangermaani+0 //_H_ sg g, //
+Liit    Liit+0 //_H_ sg n, //
+nõudis    nõud+is //_V_ s, //
+suure    suur+0 //_A_ sg g, //
+Saksa    saksa+0 //_G_ //
+koloniaalimpeeriumi    koloniaal_impeerium+0 //_S_ sg g, //
+loomist    loomine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+seoses    seoses+0 //_K_ //
+sellega    see+ga //_P_ sg kom, //
+asumaade    asu_maa+de //_S_ pl g, //
+ümberjagamist    ümber_jagamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Nõuet    nõue+t //_S_ sg p, //
+kordasid    korda+sid //_V_ sid, //
+avalikult    avalikult+0 //_D_ //
+ka    ka+0 //_D_ //
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+diplomaadid    diplomaat+d //_S_ pl n, //
+,    , //_Z_ //
+sealhulgas    seal_hulgas+0 //_D_ //
+välisasjade    välis_asi+de //_S_ pl g, //
+riigisekretär    riigi_sekretär+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+vastab    vasta+b //_V_ b, //
+välisministrile    välis_minister+le //_S_ sg all, //
+)    ) //_Z_ //
+</kiil>
+Bernhard    Bernhard+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Bülow    Bülow+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+kõnes    kõne+s //_S_ sg in, //
+Riigipäeval    riigi_päev+l //_S_ sg ad, //
+<TIMEX  tid="t55" type="DATE" temporalFunction="false" value="1897" >
+1897.    1897.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Me    mina+0 //_P_ pl n, //
+nõuame    nõud+me //_V_ me, //
+endale    ise+le //_P_ sg all, //
+kohta    kohta+0 //_K_ //
+päikese    päike+0 //_S_ sg g, //    päikene+0 //_S_ sg g, //
+all    all+0 //_K_ //
+”    ” //_Z_ //
+kõlas    kõla+s //_V_ s, //
+esialgne    esi_algne+0 //_A_ sg n, //
+loosung    loosung+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t56" type="DATE" temporalFunction="true" value="19" anchorTimeID="t55">
+Uuele    uus+le //_A_ sg all, //
+sajandile    sajand+le //_S_ sg all, //
+</TIMEX>
+vastu    vastu+0 //_D_ //
+minnes    mine+es //_V_ des, //
+ennustas    ennusta+s //_V_ s, //
+<TIMEX  tid="t57" type="DATE" temporalFunction="false" value="1900" >
+1900.    1900.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+kantsleriks    kantsler+ks //_S_ sg tr, //
+tõusnud    tõus+nud //_V_ nud, //    tõus=nud+0 //_A_ //    tõus=nud+0 //_A_ sg n, //    tõus=nud+d //_A_ pl n, //
+v.    v+0 //_Y_ ?, //
+Bülow    Bülow+0 //_H_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+<TIMEX  tid="t58" type="DATE" temporalFunction="true" value="19" anchorTimeID="t57">
+Saabuval    saabuv+l //_A_ sg ad, //
+sajandil    sajand+l //_S_ sg ad, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+kas    kas+0 //_D_ //
+haamriks    haamer+ks //_S_ sg tr, //
+või    või+0 //_J_ //
+alasiks    alasi+ks //_S_ sg tr, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Inglise-Saksa    Inglise-Saks+0 //_H_ sg g, //    Inglise-Saksa+0 //_H_ sg g, //
+suhteid    suhe+id //_S_ pl p, //
+teravdas    teravda+s //_V_ s, //
+ka    ka+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+tung    tung+0 //_S_ sg n, //
+Lähis-Itta    Lähis-Ida+0 //_H_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_33" type="DATE" temporalFunction="false" value="1898">
+1898    1898+0 //_N_ ?, //
+</TIMEX>
+võttis    võt+is //_V_ s, //
+keiser    keiser+0 //_S_ sg n, //
+Wihelm    Wihelm+0 //_H_ sg n, //
+II    II+0 //_O_ ?, //
+ette    ette+0 //_D_ //
+pika    pikk+0 //_A_ sg g, //
+reisi    reis+0 //_S_ sg g, //
+Idamaadesse    Ida_maa+desse //_H_ pl ill, //    Idamaa+desse //_H_ pl ill, //
+,    , //_Z_ //
+külastamaks    külasta+maks //_V_ maks, //
+sealseid    sealne+id //_A_ pl p, //
+pühasid    püha+sid //_A_ pl p, //
+paikasid    paik+sid //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Teel    tee+l //_S_ sg ad, //
+peatus    peatu+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+Konstantinoopolis    Konstantinoopol+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+pidas    pida+s //_V_ s, //
+Damaskuses    Damaskus+s //_H_ sg in, //
+kõne    kõne+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+kuulutas    kuuluta+s //_V_ s, //
+end    ise+0 //_P_ sg p, //
+300    300+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+muhameedlase    muhameedlane+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Türgi    Türgi+0 //_H_ sg g, //
+sultani    sultan+0 //_S_ sg g, //
+sõbraks    sõber+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Sakslased    sakslane+d //_S_ pl n, //
+aga    aga+0 //_J_ //
+said    saa+id //_V_ sid, //
+kontsessiooni    kontsessioon+0 //_S_ sg p, //
+nn.    nn+0 //_Y_ ?, //
+BBB    BBB+0 //_Y_ ?, //
+<kiil>
+(    ( //_Z_ //
+Ber-liin-Bosporos-Bagdad    Ber-liin-Bosporos-Bagdad+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+raudteeliini    raud_tee_liin+0 //_S_ sg g, //
+ehitamiseks    ehitamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Pikemas    pikem+s //_C_ sg in, //
+perspektiivis    perspektiiv+s //_S_ sg in, //
+halvendas    halvenda+s //_V_ s, //
+Saksa-Inglise    Saksa-Inglis+0 //_H_ sg g, //    Saksa-Inglise+0 //_H_ sg g, //
+suhteid    suhe+id //_S_ pl p, //
+eriti    eriti+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+kurss    kurss+0 //_S_ sg n, //
+võimsa    võimas+0 //_A_ sg g, //
+sõjalaevastiku    sõja_laevastik+0 //_S_ sg g, //
+ehitamisele    ehitamine+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+eestvõitlejaks    eest_võitleja+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+admiral    admiral+0 //_S_ sg n, //
+Alfred    Alfred+0 //_H_ sg n, //
+v.    v+0 //_Y_ ?, //
+Tirpitz    Tirpitz+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+laevastiku    laevastik+0 //_S_ sg g, //
+ehitamisest    ehitamine+st //_S_ sg el, //
+oli    ole+i //_V_ s, //
+eriliselt    eriliselt+0 //_D_ //
+huvitatud    huvita+tud //_V_ tud, //    huvitatud+0 //_A_ //    huvitatud+0 //_A_ sg n, //    huvitatud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+keiser    keiser+0 //_S_ sg n, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+impeeriumi    impeerium+0 //_S_ sg g, //
+vastasseisust    vastas_seis+st //_S_ sg el, //
+hakkas    hakka+s //_V_ s, //
+välja    välja+0 //_D_ //
+kujunema    kujune+ma //_V_ ma, //
+<TIMEX  tid="t59" type="DATE" temporalFunction="true" value="19" anchorTimeID="t1_33">
+uue    uus+0 //_A_ sg g, //
+sajandi    sajand+0 //_S_ sg g, //
+</TIMEX>
+põhivastuolu    põhi_vastu_olu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Esialgu    esi_algu+0 //_D_ //
+oli    ole+i //_V_ s, //
+see    see+0 //_P_ sg n, //
+siiski    siiski+0 //_D_ //
+varjatud    varja+tud //_V_ tud, //    varjatud+0 //_A_ //    varjatud+0 //_A_ sg n, //    varjatud+d //_A_ pl n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+püsis    püsi+s //_V_ s, //
+kokkuleppe    kokku_lepe+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+koguni    koguni+0 //_D_ //
+liidu    liit+0 //_S_ sg g, //
+sõlmimise    sõlmimine+0 //_S_ sg g, //
+võimalus    võimalus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Prantsusmaa    Prantsus_maa+0 //_H_ sg n, //
+taandub    taandu+b //_V_ b, //
+</s>
+<s>
+Vahetult    vahetult+0 //_D_ //
+<TIMEX tid="t1_37" type="DATE" temporalFunction="false" value="189X" anchorTimeID="t1_33">
+sajandilõpu    sajandi_lõpp+0 //_S_ sg g, //
+</TIMEX>
+eel    eel+0 //_K_ //
+kerkis    kerki+s //_V_ s, //
+rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+elu    elu+0 //_S_ sg g, //
+tulipunkti    tuli_punkt+0 //_S_ adt, //
+Inglise-Prantsuse    Inglise-Prantsuse+0 //_H_ sg g, //
+sõja    sõda+0 //_S_ sg g, //
+võimalus    võimalus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tagapõhjaks    taga_põhi+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+<TIMEX tid="t1_35" type="DURATION" temporalFunction="true" value="PXC">
+sajanditepikkune    sajandi+te_pikkune+0 //_A_ sg n, //
+</TIMEX>
+suur    suur+0 //_A_ sg n, //
+vastasseis    vastas_seis+0 //_S_ sg n, //
+võitluses    võitlus+s //_S_ sg in, //
+hegemoonia    hegemoonia+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+nii    nii+0 //_D_ //
+Euroopas    Euroopa+s //_H_ sg in, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+kolooniates    koloonia+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_36" type="DURATION" temporalFunction="true" comment="comment esialgu jääb lahtiseks">
+Sajandivahetuseks    sajandi_vahetus+ks //_S_ sg tr, //
+</TIMEX>
+tõusis    tõus+is //_V_ s, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+riikide    riik+de //_S_ pl g, //
+vastuoludest    vastu_olu+dest //_S_ pl el, //
+tulipunkti    tuli_punkt+0 //_S_ adt, //
+Aafrika    Aafrika+0 //_H_ sg g, //
+jagamine    jagamine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_38" type="DATE" temporalFunction="false" value="1882">
+1882    1882+0 //_N_ ?, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+okupeerinud    okupeeri+nud //_V_ nud, //    okupeeri=nud+0 //_A_ //    okupeeri=nud+0 //_A_ sg n, //    okupeeri=nud+d //_A_ pl n, //
+Egiptuse    Egiptus+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kunagi    kunagi+0 //_D_ //
+oli    ole+i //_V_ s, //
+Napoleoni    Napoleon+0 //_H_ sg g, //
+sõjaretke    sõja_retk+0 //_S_ sg g, //
+sihiks    siht+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_39" type="DATE" temporalFunction="false" value="1896">
+1896    1896+0 //_N_ ?, //
+</TIMEX>
+saatis    saat+is //_V_ s, //
+Inglise    Inglis+0 //_H_ sg g, //
+valitsus    valitsus+0 //_S_ sg n, //
+Egiptusest    Egiptus+st //_H_ sg el, //
+lõunasse    lõuna+sse //_S_ sg ill, //
+-    - //_Z_ //
+Sudaani    Sudaan+0 //_H_ sg p, //
+vallutama    valluta+ma //_V_ ma, //
+-    - //_Z_ //
+ekspeditsioonikorpuse    ekspeditsiooni_korpus+0 //_S_ sg g, //
+Horatio    Horatio+0 //_H_ sg n, //
+Herbert    Herbert+0 //_H_ sg n, //
+Kitcheneri    Kitchener+0 //_H_ sg g, //    Kitcheneri+0 //_H_ sg g, //
+juhtimisel    juhtimine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t60" type="DATE" temporalFunction="true" value="1896" anchorTimeID="t1_39">
+Samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+</TIMEX>
+liikus    liiku+s //_V_ s, //
+kapten    kapten+0 //_S_ sg n, //
+Marchand'i    Marchand+0 //_H_ sg g, //
+juhitud    juhi=tud+0 //_A_ //    juhi=tud+0 //_A_ sg n, //    juhi=tud+d //_A_ pl n, //    juhti+tud //_V_ tud, //
+Prantsuse    prantsuse+0 //_G_ //
+väeüksus    väe_üksus+0 //_S_ sg n, //
+Prantsuse    prantsuse+0 //_G_ //
+Kongost    Kongo+st //_H_ sg el, //
+lääne    lääs+0 //_S_ sg g, //
+suunas    suunas+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t61" type="DATE" temporalFunction="false" value="1898-07" >
+Juulis    juuli+s //_S_ sg in, //
+1898    1898+0 //_N_ ?, //
+</TIMEX>
+jõudsid    jõud+sid //_V_ sid, //
+prantslased    prantslane+d //_S_ pl n, //
+välja    välja+0 //_D_ //
+Niiluseni    Niilus+ni //_H_ sg ter, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+heiskasid    heiska+sid //_V_ sid, //
+oma    oma+0 //_P_ sg g, //
+lipu    lipp+0 //_S_ sg g, //
+Fašoda    Fašoda+0 //_H_ sg g, //
+külas    küla+s //_S_ sg in, //
+,    , //_Z_ //
+vanas    vana+s //_A_ sg in, //
+lagunenud    lagune+nud //_V_ nud, //    lagunenud+0 //_A_ //    lagunenud+0 //_A_ sg n, //    lagunenud+d //_A_ pl n, //
+Egiptuse    Egiptus+0 //_H_ sg g, //
+kindluses    kindlus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t62" type="DATE" temporalFunction="true" value="1898-09" anchorTimeID="t61" >
+Sama    sama+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+septembris    september+s //_S_ sg in, //
+</TIMEX>
+jõudis    jõud+is //_V_ s, //
+selle    see+0 //_P_ sg g, //
+Sudaani    Sudaan+0 //_H_ sg g, //
+küla    küla+0 //_S_ sg g, //
+lähistele    lähis+tele //_S_ pl all, //
+Kitcheneri    Kitchener+0 //_H_ sg g, //    Kitcheneri+0 //_H_ sg g, //
+Inglise    Inglis+0 //_H_ sg g, //
+väeüksus    väe_üksus+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+nõudis    nõud+is //_V_ s, //
+Prantsuse    prantsuse+0 //_G_ //
+vägede    vägi+de //_S_ pl g, //
+tagasitõmbumist    tagasi_tõmbu=mine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Marchand    Marchand+0 //_H_ sg n, //
+keeldus    keeldu+s //_V_ s, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kerkis    kerki+s //_V_ s, //
+oht    oht+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+puhkeb    puhke+b //_V_ b, //
+sõda    sõda+0 //_S_ sg n, //
+kahe    kaks+0 //_N_ sg g, //
+konkureeriva    konkureeriv+0 //_A_ sg g, //
+koloniaalriigi    koloniaal_riik+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t63" type="DATE" temporalFunction="false" value="1891-07" >
+Juulis    juuli+s //_S_ sg in, //
+1891    1891+0 //_N_ ?, //
+</TIMEX>
+pidi    pida+i //_V_ s, //
+keiser    keiser+0 //_S_ sg n, //
+Aleksander    Aleksander+0 //_H_ sg n, //
+III    III+0 //_O_ ?, //
+paljastama    paljasta+ma //_V_ ma, //
+pea    pea+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+orkester    orkester+0 //_S_ sg n, //
+mängis    mängi+s //_V_ s, //
+Kroonlinna    Kroon_linn+0 //_H_ adt, //
+saabunud    saabu+nud //_V_ nud, //    saabunud+0 //_A_ //    saabunud+0 //_A_ sg n, //    saabunud+d //_A_ pl n, //
+Prantsuse    prantsuse+0 //_G_ //
+sõjalaevastiku    sõja_laevastik+0 //_S_ sg g, //
+eskaadri    eskaader+0 //_S_ sg g, //
+auks    au+ks //_S_ sg tr, //
+Kolmanda    kolmas+0 //_O_ sg g, //
+vabariigi    vaba_riik+0 //_S_ sg g, //
+hümniks    hümn+ks //_S_ sg tr, //
+kuulutatud    kuuluta+tud //_V_ tud, //    kuuluta=tud+0 //_A_ //    kuuluta=tud+0 //_A_ sg n, //    kuuluta=tud+d //_A_ pl n, //
+“    “ //_Z_ //
+Marseljeesi    Marseljees+0 //_H_ sg p, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Inglise    Inglis+0 //_H_ sg g, //
+ajakirjandus    aja_kirjandus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+ka    ka+0 //_D_ //
+poliitikud    poliitik+d //_S_ pl n, //
+võtsid    võt+sid //_V_ sid, //
+äärmiselt    äärmiselt+0 //_D_ //
+sõjaka    sõjakas+0 //_A_ sg g, //
+hoiaku    hoiak+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Prantsuse    prantsuse+0 //_G_ //
+välisminister    välis_minister+0 //_S_ sg n, //
+Théophile    Théophile+0 //_H_ sg n, //
+Delcassé    Delcassé+0 //_H_ sg n, //
+kartis    kart+is //_V_ s, //
+eriti    eriti+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+võib    või+b //_V_ b, //
+seda    see+da //_P_ sg p, //
+sõda    sõda+0 //_S_ sg p, //
+ära    ära+0 //_D_ //
+kasutada    kasuta+da //_V_ da, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+uueks    uus+ks //_A_ sg tr, //
+ründamiseks    ründamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Muret    mure+t //_S_ sg p, //
+tekitas    tekita+s //_V_ s, //
+ka    ka+0 //_D_ //
+küsimus    küsimus+0 //_S_ sg n, //
+,    , //_Z_ //
+kuivõrd    kui_võrd+0 //_D_ //
+Prantsuse    prantsuse+0 //_G_ //
+merevägi    mere_vägi+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+alati    alati+0 //_D_ //
+oli    ole+i //_V_ s, //
+osutunud    osutu+nud //_V_ nud, //    osutu=nud+0 //_A_ //    osutu=nud+0 //_A_ sg n, //    osutu=nud+d //_A_ pl n, //
+nõrgemaks    nõrgem+ks //_C_ sg tr, //
+,    , //_Z_ //
+</kiil>
+suudab    suut+b //_V_ b, //
+vastu    vastu+0 //_D_ //
+panna    pane+a //_V_ da, //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+moodsale    moodne+le //_A_ sg all, //
+laevastikule    laevastik+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Keerulises    keeruline+s //_A_ sg in, //
+olukorras    olu_kord+s //_S_ sg in, //
+pöördus    pöördu+s //_V_ s, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+liitlase    liitlane+0 //_S_ sg g, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+poole    poole+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kuna    kuna+0 //_J_ //
+sealt    sealt+0 //_D_ //
+aga    aga+0 //_J_ //
+abi    abi+0 //_S_ sg p, //
+loota    loot+a //_V_ da, //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+tuli    tule+i //_V_ s, //
+järele    järele+0 //_D_ //
+anda    and+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Esialgu    esi_algu+0 //_D_ //
+püüti    püüd+ti //_V_ ti, //
+taganemise    taganemine+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+mingitki    mingi+tki //_P_ sg p, //
+hüvitust    hüvitus+t //_S_ sg p, //
+saada    saa+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+aga    aga+0 //_J_ //
+vastane    vastane+0 //_S_ sg n, //
+keeldus    keeldu+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+Prantsusmaal    Prantsus_maa+l //_H_ sg ad, //
+muud    muu+d //_P_ sg p, //
+üle    üle+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+väed    vägi+d //_S_ pl n, //
+Sudaanist    Sudaan+st //_H_ sg el, //
+ära    ära+0 //_D_ //
+viia    vii+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Fašoda    Fašoda+0 //_H_ sg g, //
+konflikt    konflikt+0 //_S_ sg n, //
+sai    saa+i //_V_ s, //
+pöördepunktiks    pöörde_punkt+ks //_S_ sg tr, //
+Inglise-Prantsuse    Inglise-Prantsuse+0 //_H_ sg g, //
+suhetes    suhe+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+taustal    taust+l //_S_ sg ad, //
+võib    või+b //_V_ b, //
+vaid    vaid+0 //_D_ //
+imestada    imesta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+<TIMEX  tid="t64" type="DATE" temporalFunction="true" value="19" anchorTimeID="t63">
+uuel    uus+l //_A_ sg ad, //
+sajandil    sajand+l //_S_ sg ad, //
+</TIMEX>
+jõuti    jõud+ti //_V_ ti, //
+sõjalise    sõjaline+0 //_A_ sg g, //
+koostöö    koos_töö+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+liitlassuheteni    liitlas_suhe+teni //_S_ pl ter, //
+.    . //_Z_ //
+</s>
+<s>
+Konfliktidega    konflikt+dega //_S_ pl kom, //
+<TIMEX  tid="t65" type="DATE" temporalFunction="true" value="XX" >
+uude    uus+de //_A_ adt, //
+sajandisse    sajand+sse //_S_ sg ill, //
+</TIMEX>
+</s>
+<s>
+Suureks    suur+ks //_A_ sg tr, //
+vastuolude    vastu_olu+de //_S_ pl g, //
+piirkonnaks    piirkond+ks //_S_ sg tr, //
+kujunes    kujune+s //_V_ s, //
+<TIMEX  tid="t66" type="DATE" temporalFunction="false" value="18" mod="END" >
+19.    19.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+lõpul    lõpp+l //_S_ sg ad, //
+</TIMEX>
+Kaug-Ida    Kaug-Ida+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+ristusid    ristu+sid //_V_ sid, //
+sealsete    sealne+te //_A_ pl g, //
+riikide    riik+de //_S_ pl g, //
+omavahelised    oma_vaheline+d //_A_ pl n, //
+konfliktid    konflikt+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+riikide    riik+de //_S_ pl g, //
+võitlus    võitlus+0 //_S_ sg n, //
+mõjusfääride    mõju_sfäär+de //_S_ pl g, //
+pärast    pärast+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t69" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t67" endPoint="t68" >
+<TIMEX text="Aastatel 1894-"  tid="t67" type="DATE" temporalFunction="false" value="1894" >
+Aastatel    aasta+tel //_S_ pl ad, //
+<TIMEX text="1895"  tid="t68" type="DATE" temporalFunction="false" value="1895" >
+1894-1895    1894-1895+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+toimus    toimu+s //_V_ s, //
+Jaapani-Hiina    Jaapani-Hiina+0 //_H_ sg g, //
+sõda    sõda+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+tulemusel    tulemus+l //_S_ sg ad, //
+tuli    tule+i //_V_ s, //
+Hiinal    Hiina+l //_H_ sg ad, //
+loobuda    loobu+da //_V_ da, //
+Korea    Korea+0 //_H_ sg g, //
+valitsemisest    valitsemine+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+suurriikide    suur_riik+de //_S_ pl g, //
+toel    toel+0 //_K_ //
+Korea    Korea+0 //_H_ sg g, //
+iseseisvus    ise_seisvus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+oma    oma+0 //_P_ sg g, //
+mõju    mõju+0 //_S_ sg n, //
+kindlustas    kindlusta+s //_V_ s, //
+seal    seal+0 //_D_ //
+Jaapan    Jaapan+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sõja    sõda+0 //_S_ sg g, //
+lõpetamiseks    lõpetamine+ks //_S_ sg tr, //
+sõlmitud    sõlmi+tud //_V_ tud, //    sõlmi=tud+0 //_A_ //    sõlmi=tud+0 //_A_ sg n, //    sõlmi=tud+d //_A_ pl n, //
+Shimonoseki    Shimonosek+0 //_H_ sg g, //    Shimonoseki+0 //_H_ sg g, //    Shimonosekk+0 //_H_ sg g, //
+rahuga    rahu+ga //_S_ sg kom, //
+omandas    omanda+s //_V_ s, //
+Jaapan    Jaapan+0 //_H_ sg n, //
+ka    ka+0 //_D_ //
+Liaodongi    Liaodong+0 //_H_ sg g, //    Liaodongi+0 //_H_ sg g, //    Liaodonk+0 //_H_ sg g, //
+poolsaare    pool_saar+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+,    , //_Z_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+üheaegselt    ühe_aegselt+0 //_D_ //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+nõudel    nõu+del //_S_ pl ad, //    nõue+l //_S_ sg ad, //
+see    see+0 //_P_ sg n, //
+siiski    siiski+0 //_D_ //
+tagastati    tagasta+ti //_V_ ti, //
+Hiinale    Hiina+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_40" type="DURATION" temporalFunction="true" comment="ankurdub pigem sündmuse külge">
+Samaaegselt    sama_aegselt+0 //_D_ //
+</TIMEX>
+ruttasid    rutta+sid //_V_ sid, //
+suurriigid    suur_riik+d //_S_ pl n, //
+üksteise    üks_teise+0 //_P_ sg g, //
+võidu    võidu+0 //_K_ //
+looma    loo+ma //_V_ ma, //
+Kaug-Idas    Kaug-Ida+s //_H_ sg in, //
+endale    ise+le //_P_ sg all, //
+tugipunkte    tugi_punkt+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+mõjusfääre    mõju_sfäär+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+maandas    maanda+s //_V_ s, //
+<TIMEX tid="t1_41" type="DATE" temporalFunction="false" value="1897" >
+1897    1897+0 //_N_ ?, //
+</TIMEX>
+dessandi    dessant+0 //_S_ sg g, //
+Kiaotšau    Kiaotšau+0 //_H_ sg g, //
+lahe    laht+0 //_S_ sg g, //
+Shandongi    Shandong+0 //_H_ sg g, //    Shandongi+0 //_H_ sg g, //
+poolsaarel    pool_saar+l //_S_ sg ad, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+surus    suru+s //_V_ s, //
+<TIMEX  tid="t70" type="DATE" temporalFunction="true" value="1898" anchorTimeID="t1_41">
+järgmisel    järgmine+l //_A_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Hiinale    Hiina+le //_H_ sg all, //
+peale    peale+0 //_D_ //
+lepingu    leping+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+sai    saa+i //_V_ s, //
+seal    seal+0 //_D_ //
+endale    ise+le //_P_ sg all, //
+tugipunkti    tugi_punkt+0 //_S_ sg g, //
+<TIMEX  tid="t71" type="DURATION" temporalFunction="false" value="P99Y" >
+99    99+0 //_N_ ?, //
+aastaks    aasta+ks //_S_ sg tr, //
+</TIMEX>
+rendile    rent+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Venemaa    Vene_maa+0 //_H_ sg n, //
+vallutas    valluta+s //_V_ s, //
+<TIMEX tid="t1_42" type="DATE" temporalFunction="false" value="1897" >
+1897    1897+0 //_N_ ?, //
+</TIMEX>
+Port    Port+0 //_H_ sg n, //
+Arturi    Artur+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+luues    loo+es //_V_ des, //
+pinged    pinge+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+<TIMEX  tid="t72" type="DATE" temporalFunction="true" value="19" anchorTimeID="t1_42">
+uuel    uus+l //_A_ sg ad, //
+sajandil    sajand+l //_S_ sg ad, //
+</TIMEX>
+lahvatasid    lahvata+sid //_V_ sid, //
+Vene-Jaapani    Vene-Jaapan+0 //_H_ sg g, //    Vene-Jaapani+0 //_H_ sg g, //
+sõjaks    sõda+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Inglismaa    Inglis_maa+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+hankisid    hanki+sid //_V_ sid, //
+endale    ise+le //_P_ sg all, //
+Hiinas    Hiina+s //_H_ sg in, //
+kaubanduslikud    kaubanduslik+d //_A_ pl n, //
+mõjusfäärid    mõju_sfäär+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t73" type="DATE" temporalFunction="true" value="18" mod="END" anchorTimeID="t72">
+Sajandi    sajand+0 //_S_ sg g, //
+lõpul    lõpp+l //_S_ sg ad, //
+</TIMEX>
+lahvatas    lahvata+s //_V_ s, //
+uus    uus+0 //_A_ sg n, //
+sõda    sõda+0 //_S_ sg n, //
+ka    ka+0 //_D_ //
+Ameerika    Ameerika+0 //_H_ sg g, //
+mandril    mander+l //_S_ sg ad, //    manner+l //_S_ sg ad, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+suurriikide    suur_riik+de //_S_ pl g, //
+vastuolud    vastu_olu+d //_S_ pl n, //
+jõudsid    jõud+sid //_V_ sid, //
+Vaiksele    Vaikne+le //_H_ sg all, //    Vaikse+le //_H_ sg all, //
+ookanile    ookan+le //_S_ sg all, //    ookani+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Vallutuste    vallutus+te //_S_ pl g, //
+teele    tee+le //_S_ sg all, //
+asunud    asu+nud //_V_ nud, //    asu=nud+0 //_A_ //    asu=nud+0 //_A_ sg n, //    asu=nud+d //_A_ pl n, //
+USA    USA+0 //_Y_ ?, //
+<kiil>
+(    ( //_Z_ //
+meenutame    meenuta+me //_V_ me, //
+sõda    sõda+0 //_S_ sg p, //
+Mehhikoga    Mehhiko+ga //_H_ sg kom, //
+<TIMEX  tid="t76" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t74" endPoint="t75" >
+<TIMEX text="1848"  tid="t75" type="DATE" temporalFunction="false" value="1848" >
+<TIMEX text="1846-"  tid="t74" type="DATE" temporalFunction="false" value="1846" >
+1846-1848    1846-1848+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+kasutas    kasuta+s //_V_ s, //
+ära    ära+0 //_D_ //
+<TIMEX tid="t1_43" type="DATE" temporalFunction="false" value="1895" >
+1895    1895+0 //_N_ ?, //
+</TIMEX>
+alanud    ala=nud+0 //_A_ //    ala=nud+0 //_A_ sg n, //    ala=nud+d //_A_ pl n, //    alga+nud //_V_ nud, //
+Kuuba    Kuuba+0 //_H_ sg g, //
+ülestõusu    üles_tõus+0 //_S_ sg g, //
+Hispaania    Hispaania+0 //_H_ sg g, //
+koloniaalvõimu    koloniaal_võim+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+alustas    alusta+s //_V_ s, //
+<TIMEX tid="t1_44" type="DATE" temporalFunction="false" value="1898" >
+1898    1898+0 //_N_ ?, //
+</TIMEX>
+sõda    sõda+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+lõppes    lõppe+s //_V_ s, //
+veel    veel+0 //_D_ //
+<TIMEX  tid="t77" type="DATE" temporalFunction="true" value="1898" anchorTimeID="t1_44" >
+samal    sama+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Hispaania    Hispaania+0 //_H_ sg g, //
+lüüasaamisga    lüüasaamisga+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuuba    Kuuba+0 //_H_ sg n, //
+sai    saa+i //_V_ s, //
+<TIMEX  tid="t78" type="DATE" temporalFunction="true" value="19" mod="START" anchorTimeID="t77" >
+uue    uus+0 //_A_ sg g, //
+sajandi    sajand+0 //_S_ sg g, //
+algul    algul+0 //_K_ //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t79" type="DATE" temporalFunction="false" value="1901" >
+1901    1901+0 //_N_ ?, //
+</TIMEX>
+uueks    uus+ks //_A_ sg tr, //
+iseseisvaks    ise_seisev+ks //_A_ sg tr, //
+riigiks    riik+ks //_S_ sg tr, //
+,    , //_Z_ //
+<TIMEX tid="t1_45" type="DATE" temporalFunction="false" value="1898" >
+1898    1898+0 //_N_ ?, //
+</TIMEX>
+sõlmitud    sõlmi+tud //_V_ tud, //    sõlmi=tud+0 //_A_ //    sõlmi=tud+0 //_A_ sg n, //    sõlmi=tud+d //_A_ pl n, //
+rahulepinguga    rahu_leping+ga //_S_ sg kom, //
+läksid    mine+sid //_V_ sid, //
+Ühendriikide    Ühend_riik+de //_H_ pl g, //
+võimu    võim+0 //_S_ sg g, //
+alla    alla+0 //_K_ //
+Puerto Rico    Puerto Rico+0 //_H_ sg n, //
+,    , //_Z_ //
+Guam    Guam+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Filipiinid    Filipiinid+d //_H_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Filipiinidele    Filipiinid+dele //_H_ pl all, //
+oli    ole+i //_V_ s, //
+pretendeerinud    pretendeeri+nud //_V_ nud, //    pretendeeri=nud+0 //_A_ //    pretendeeri=nud+0 //_A_ sg n, //    pretendeeri=nud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+tuli    tule+i //_V_ s, //
+leppida    leppi+da //_V_ da, //
+sellega    see+ga //_P_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sõjas    sõda+s //_S_ sg in, //
+lüüa    löö+a //_V_ da, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+Hispaania    Hispaania+0 //_H_ sg n, //
+müüs    müü+s //_V_ s, //
+talle    tema+lle //_P_ sg all, //
+Karoliini    Karo_liin+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Mariaani    Mariaan+0 //_H_ sg g, //    Mariaani+0 //_H_ sg g, //
+saared    saar+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+Inglismaaga    Inglis_maa+ga //_H_ sg kom, //
+kokku    kokku+0 //_D_ //
+leppides    leppi+des //_V_ des, //
+veel    veel+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+saart    saar+t //_S_ sg p, //
+Samoa    Samoa+0 //_H_ sg g, //
+saarestikust    saarestik+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t80" type="DATE" temporalFunction="false" value="18" >
+19.    19.+0 //_O_ ?, //
+sajandil    sajand+l //_S_ sg ad, //
+</TIMEX>
+alanud    ala=nud+0 //_A_ //    ala=nud+0 //_A_ sg n, //    ala=nud+d //_A_ pl n, //    alga+nud //_V_ nud, //
+sõdadest    sõda+dest //_S_ pl el, //
+jõudis    jõud+is //_V_ s, //
+<TIMEX  tid="t81" type="DATE" temporalFunction="true" value="19" anchorTimeID="t80">
+uude    uus+de //_A_ adt, //
+sajandisse    sajand+sse //_S_ sg ill, //
+</TIMEX>
+Inglise-Buuri    Inglise-Buur+0 //_H_ sg g, //    Inglise-Buuri+0 //_H_ sg g, //
+sõda    sõda+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t84" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t82" endPoint="t83" >
+<TIMEX text="1902"  tid="t83" type="DATE" temporalFunction="false" value="1902" >
+<TIMEX text="1899-"  tid="t82" type="DATE" temporalFunction="false" value="1899" >
+1899-1902    1899-1902+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Sõja    sõda+0 //_S_ sg g, //
+käigus    käigus+0 //_K_ //
+kasutasid    kasuta+sid //_V_ sid, //
+buurid    buur+d //_S_ pl n, //
+edukalt    edukalt+0 //_D_ //
+partisanisõja    partisani_sõda+0 //_S_ sg g, //
+taktikat    taktika+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+inglastel    inglane+tel //_S_ pl ad, //
+tuli    tule+i //_V_ s, //
+nende    see+de //_P_ pl g, //
+alistamiseks    alista=mine+ks //_S_ sg tr, //
+kohale    kohale+0 //_D_ //
+tuua    too+a //_V_ da, //
+üha    üha+0 //_D_ //
+uusi    uus+i //_A_ pl p, //
+vägesid    vägi+sid //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+sõda    sõda+0 //_S_ sg n, //
+kompromiteeris    kompromiteeri+s //_V_ s, //
+Briti    briti+0 //_G_ //
+impeeriumi    impeerium+0 //_S_ sg g, //
+maailma    maa_ilm+0 //_S_ sg g, //
+avaliku    avalik+0 //_A_ sg g, //
+arvamuse    arvamus+0 //_S_ sg g, //
+silmis    silm+is //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t85" type="DATE" temporalFunction="true" value="18X" mod="END" anchorTimeID="t80">
+Vana    vana+0 //_A_ sg g, //
+sajandi    sajand+0 //_S_ sg g, //
+viimastel    viimane+tel //_A_ pl ad, //
+aastakümnetel    aasta_kümme+tel //_S_ pl ad, //
+</TIMEX>
+kujunenud    kujune+nud //_V_ nud, //    kujune=nud+0 //_A_ //    kujune=nud+0 //_A_ sg n, //    kujune=nud+d //_A_ pl n, //
+liitude    liit+de //_S_ pl g, //
+süsteem    süsteem+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+veel    veel+0 //_D_ //
+lõplik    lõplik+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Maailm    maa_ilm+0 //_S_ sg n, //
+läks    mine+s //_V_ s, //
+<TIMEX  tid="t86" type="DATE" temporalFunction="false" value="19" >
+20.    20.+0 //_O_ ?, //
+sajandisse    sajand+sse //_S_ sg ill, //
+</TIMEX>
+uute    uus+te //_A_ pl g, //
+diplomaatiliste    diplomaatiline+te //_A_ pl g, //
+kombinatsioonide    kombinatsioon+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+konfliktidega    konflikt+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Suure    suur+0 //_A_ sg g, //
+sõjani    sõda+ni //_S_ sg ter, //
+kulus    kulu+s //_V_ s, //
+veel    veel+0 //_D_ //
+veidi    veidi+0 //_D_ //
+aega    aeg+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+God    God+0 //_H_ sg n, //
+,    , //_Z_ //
+save    save+0 //_S_ sg n, //
+us    us+0 //_Y_ ?, //
+!    ! //_Z_ //
+peaksime    pida+ksime //_V_ ksime, //
+ütlema    ütle+ma //_V_ ma, //
+inglaste    inglane+te //_S_ pl g, //
+kombel    kombel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+me    mina+0 //_P_ pl n, //
+parasjagu    paras_jagu+0 //_D_ //
+<TIMEX  tid="t87" type="DATE" temporalFunction="true" value="20" anchorTimeID="t0">
+uude    uus+de //_A_ adt, //
+sajandisse    sajand+sse //_S_ sg ill, //
+</TIMEX>
+oleme    ole+me //_V_ me, //
+suundumas    suundu+mas //_V_ mas, //
+.    . //_Z_ //
+</s>
+<s>
+HELMUT    Helmut+0 //_H_ sg n, //
+PIIRIMÄE    piirimäe+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t88" type="DATE" temporalFunction="true" value="1930" >
+1930    1930+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ajaloodoktor    aja_loo_doktor+0 //_S_ sg n, //
+,    , //_Z_ //
+Tartu    Tartu+0 //_H_ sg g, //
+Ülikooli    Üli_kool+0 //_H_ sg g, //
+emeriitprofessor    emeriit_professor+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Pildid    pilt+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+-.    -. //_Z_ //
+Versailles'    Versailles+0 //_H_ sg g, //
+lossi    loss+0 //_S_ sg g, //
+Peeglisaalis    peegli_saal+s //_S_ sg in, //
+<TIMEX  tid="t89" type="DATE" temporalFunction="false" value="1871-01-18" >
+18.    18.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+1871.    1871.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+-.    -. //_Z_ //
+Kolm    kolm+0 //_N_ sg n, //
+keisrit    keiser+t //_S_ sg p, //
+Berliinis    Berliin+s //_H_ sg in, //
+<TIMEX  tid="t90" type="DATE" temporalFunction="true" value="1873-09" >
+septembris    september+s //_S_ sg in, //
+1873.    1873.+0 //_O_ ?, //
+</TIMEX>
+</s>

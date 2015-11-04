@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Raamat - seos maailmaga 
+ SIRJE ENDRE 
+ Riigikogu liige ja kirjastaja 
+ Raamat peab aitama inimesel hoida iseendaga tasakaalu . 
+ Ning aitama orienteeruda ja mõtelda vaimselt vabalt selles maailmas , kus meedia töötab põhimõttel : kui sind pole meedias , siis pole sind olemaski . 
+ Raamatu peamine ülesanne ongi tasakaalu leidmine ja targemaks saamine . 
+ Kriminullidki on väga head raamatud , kui need on hea ja vaimuka süzheega , kus lugeja saab ise kaasa mõelda . 
+ Kui sõdur teeb päevast päeva oma sõdurielulisi harjutusi ja puutub kokku ühtede ja samade inimestega , siis see maailmapilt jääb tal kindlasti kitsamaks , kui ta ei ole näiteks raamatu kaudu selle maailmaga seotud . 
+ Raamat loob ka eriliselt intiimse olukorra , kus inimene ühtaegu vaatab raamatu kaudu endasse ja samas maailma , sest raamatud räägivad ju kõigepealt lugusid maailmast . 
+ Millise raamatu mina sõdurile kingiksin ? 
+ <TIMEX3 tid="t132" type="DATE" value="2000-01" anchorTimeID="t0">Tänavu jaanuaris</TIMEX3> trükikojast tulnud ja peaaegu läbi müüdud huvitava raamatu , dr Erik Linnolti " Linnutiivul " . 
+ Autor kirjeldab , kuidas ta Tondi sõjakoolis sõduriks õppis , sattus kursandipraktikale Oru lossi president Pätsi neljamehelisse kaitsesalka teenima ja lõpuks räägib sellest , kuidas ta töötas psühhiaatrina maailmakuulsas instituudis Ameerikas . 
+ Kui ma juba räägin , et kingiksin , siis peangi sõduritele kinkima . 
+ Ja lisaks veel üht-teist , meie kirjastus on kindlasti sellega nõus . 
+</TimeML>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Hansapank sai <TIMEX3 tid="t25" type="DATE" value="2000-Q1" anchorTimeID="t26">kvartaliga</TIMEX3> 326 miljonit krooni tulu 
+ Hansagrupi aastakasumiks ennustatakse 1,2 miljardit 
+ ERKKI ERILAID , erkki.erilaid@postimees.ee 
+ Hansapanga grupp teenis <TIMEX3 tid="t26" type="DATE" value="2000-Q1" anchorTimeID="t0">esimeses kvartalis</TIMEX3> 326 miljonit krooni kasumit , mis ületas kolmandiku võrra analüütikute ootusi . 
+ Ühispank teenis <TIMEX3 tid="t27" type="DATE" value="2000-Q1" anchorTimeID="t26">samal ajavahemikul</TIMEX3> vaid keskpärase , 37 miljoni kroonise kasumi . 
+ Hansapanga finantsdirektor Erkki Raasuke hoiatas analüütikuid pärast kasuminumbri avalikustamist , et tegu on siiski vaid <TIMEX3 tid="t28" type="DATE" value="2000-Q1" anchorTimeID="t0">esimese kvartali</TIMEX3> tulemustega ning <TIMEX3 tid="t29" type="DURATION" value="PXQ" beginPoint="t0" endPoint="t346">järgmistes kvartalites</TIMEX3><TIMEX3 tid="t346" type="DATE" value="XXXX-QX" temporalFunction="true"/> ei pruugi pank enam nii suuri numbreid näidata . 
+ " Suurenev laenuportfell nõuab ka suuremaid provisjone ning need vähendavad kasumit , " märkis Raasuke . 
+ Hansabanka Lätis edukas 
+ Hansapanga<TIMEX3 tid="t30" type="DATE" value="2000-01"/> <TIMEX3 tid="t31" type="DURATION" value="P3M" beginPoint="t30" endPoint="t32" anchorTimeID="t0">kolme esimese kuu</TIMEX3> <TIMEX3 tid="t32" type="DATE" value="2000-03"/>kasum on <TIMEX3 tid="t33" type="DATE" value="1999" anchorTimeID="t0">möödunud aasta</TIMEX3> <TIMEX3 tid="t34" type="DURATION" value="P3M" beginPoint="t35" endPoint="t36" anchorTimeID="t31" comment="poolik ankurdamine">sama ajavahemiku</TIMEX3> <TIMEX3 tid="t35" type="DATE" value="1999-01"/>näitajast <TIMEX3 tid="t36" type="DATE" value="1999-03"/>71 protsenti enam . 
+ Raasukese hinnangul vähendab aastakasumit eeldatavasti IT-kulutuste suurenemine . 
+ Tema arvates on analüütikute prognoositav kasumivahemik 900 miljonit kuni 1,2 miljardit krooni küllalt reaalne . 
+ Hansapanga juhatuse esimehe Indrek Neivelti hinnangul oli <TIMEX3 tid="t37" type="DATE" value="2000-Q1" anchorTimeID="t0">esimese kvartali</TIMEX3> tähtsamaks sündmuseks Ventspils UBB panga ostmine , millega saavutati Lätis hoiuste mahu poolest teine positsioon ja mööduti Unibankast . 
+ Lisaks sai pank <TIMEX3 tid="t38" type="DATE" value="2000-Q1" anchorTimeID="t0">esimeses kvartalis</TIMEX3> reitinguagentuurilt Moody's Ida-Euroopa pankadele omistatud parima reitingu . 
+ " <TIMEX3 tid="t39" type="DATE" value="2000-Q1" anchorTimeID="t0">Esimese kvartali</TIMEX3> tulemusi mõjutasid ennekõike paranenud laenukvaliteet ja alanenud provisjonide määr , " ütles Neivelt . 
+ " Oluliselt kasvasid ärimahud tänu Hansabankale Lätis ja Hansa Capitalile . " 
+ Grupi bilansimaht oli <TIMEX3 tid="t40" type="DATE" value="2000-03" mod="END" anchorTimeID="t0">märtsi lõpu</TIMEX3> seisuga 34,65 miljardit krooni , kasvades <TIMEX3 tid="t41" type="DURATION" value="P3M" >kolme kuuga</TIMEX3> 1,2 protsenti . 
+ Pangandus Eestis andis Hansapangale <TIMEX3 tid="t42" type="DATE" value="2000-Q1" anchorTimeID="t0">kvartalis</TIMEX3> kasumit 197,7 miljonit , liising ja faktooring 90,1 miljonit , pangandus Lätis 32,6 miljonit , varahaldus viis miljonit ja elukindlustus 2,9 miljonit . 
+ Pangandustegevus Leedus andis 6,5 miljonit krooni kahjumit . 
+ Ühispanga kasum 37 miljonit 
+ Ühispanga grupi <TIMEX3 tid="t43" type="DATE" value="2000-Q1" anchorTimeID="t0">esimese kvartali</TIMEX3> puhaskasum oli 36,9 miljonit krooni , võrrelduna 14,7 miljoniga <TIMEX3 tid="t44" type="DATE" value="1999-Q1" anchorTimeID="t43">eelmise aasta samal ajal.</TIMEX3> 
+ Grupi bilansimaht oli <TIMEX3 tid="t45" type="DATE" value="2000-03-31" anchorTimeID="t0">31. märtsi</TIMEX3> seisuga 15,236 miljardit krooni , kasvades <TIMEX3 tid="t46" type="DURATION" value="P3M" >kolme kuuga</TIMEX3> 1,78 protsenti ehk 266 miljonit krooni . 
+ Ühispanga kapitaliturgude strateegi Aivo Kanguse sõnul oli Ühispanga tulemus ootuspärane , kui välja arvata ootamatult suured provisjonid - 10 miljonit krooni . 
+ " See aga näitab endiselt panga konservatiivset joont , " märkis Kangus . 
+ Hansapanga tugeva küljena tuleb tema sõnul nimetada grupi ettevõtete osatähtsuse kasvu üldtuludest , eriti komisjoni- ja teenustasude osas . 
+ " Samas aitab elektrooniliste teenuste osakaalu jätkuv kasv koos nende tasuliseks muutumisega pangal <TIMEX3 tid="t47" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >tulevikus</TIMEX3> teenustasudelt hästi teenida , " lisas Kangus . 
+ Ka tegevuskulude kasv on püsinud äärmiselt mõõdukas , mis näitab suunda efektiivsuse paranemise suunas . 
+ " Oluliselt on vähenenud Hansapanga laenu- ja garantiikahjumid ning samuti on suurenenud mahakantud laenude tagasisaamine , " rääkis Kangus . 
+ Lisaks on vähenenud laenuprovisjonide määr , umbes 10 protsenti , mis kokkuvõttes näitab laenuportfelli kvaliteedi kasvu . 
+ Kanguse hinnangul suudab Hansapanga juhtkond suure tõenäosusega täita <TIMEX3 tid="t48" type="DATE" value="2000" mod="START" anchorTimeID="t0">aasta alguses</TIMEX3> välja käidud 25-protsendilise omakapitali tootlikkuse , mis küündis juba <TIMEX3 tid="t49" type="DATE" value="2000-Q1" anchorTimeID="t0">esimeses kvartalis</TIMEX3> 25,5 protsendini . 
+</TimeML>

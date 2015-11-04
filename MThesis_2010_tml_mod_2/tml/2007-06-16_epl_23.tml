@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Harjumaal Kiili vallas , Tallinna ringtee ja Kurna - Tuhala tee ristmikul toimus <TIMEX3 tid="t77" type="DATE" value="2007-06-15" anchorTimeID="t0">eile</TIMEX3> , <TIMEX3 tid="t78" type="TIME" value="2007-06-15T10:21" anchorTimeID="t0">15. juunil kella 10.21 ajal</TIMEX3> liiklusõnnetus , kus vasakpööret sooritanud veoauto ei andnud teed peateel otse liikunud sõiduautole . 
+ Toyota Corolla , mida juhtis Anna (s <TIMEX3 tid="t79" type="DATE" value="1974">1974</TIMEX3>) , hakkas veokist mööda sõitma ning põrkas kokku veoki varjust välja sõitnud sõiduautoga Citroeni Xsara , mida juhtis Enn ( s <TIMEX3 tid="t80" type="DATE" value="1953">1953</TIMEX3> ) , teatas politseikorrapidaja . 
+ Veoauto lahkus sündmuskohalt . 
+ Toyotas viibinud Natalja ( s <TIMEX3 tid="t81" type="DATE" value="1947">1947</TIMEX3> ) ja Gennadi ( s <TIMEX3 tid="t82" type="DATE" value="1943">1943</TIMEX3> ) said vigastada ja viidi Põhja-Eesti regionaalhaigla Mustamäe korpusesse . 
+ Päästemeeskond hoidis ära sõidukite võimaliku süttimisohu ning kattis sõiduteele tekkinud kütusereostuse . 
+ Liiklusõnnetuse pealtnägijatel palutakse helistada telefonil 6125666. 
+</TimeML>

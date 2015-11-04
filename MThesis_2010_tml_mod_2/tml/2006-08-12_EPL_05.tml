@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Valikuliselt kirgedest ja ajaloost 
+Eesti Päevalehe ühiskondlikus-poliitilises lisas Möte ( <TIMEX3 tid="t22" type="DATE" value="2006-08-01" comment="päris 100% kindel pole, et ajaväljend">1.8</TIMEX3> ) vaagitakse " miks elab suur osa Eesti avalikkusest ikka veel Teises maailmasõjas ning kas see , kui pronksmees oma kohalt ära viidaks , tooks kaasa pingelanguse " . 
+ Pikas arutelus pole püütudki analüüsida kirgede tekkimise tõelisi põhjuseid . 
+ On ju suur osa Eestisse elama suunatud venelasi ikka arvamusel , et neil on õigus Eestis olla . 
+ Eestlased on alates <TIMEX3 tid="t23" type="DATE" value="1944" >aastast 1944</TIMEX3> teadnud , et see pole nii . 
+ Miks valitsus venelaste staatuse osas mingit konkreetset deklaratsiooni pole väljastanud ning miks aeglase loomuga rahvas on alles <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> hakanud tajuma , et Eesti on iseseisev riik , kus pole vaja arvestada teiste riikide kodanike või Eesti kodakondsust mitte soovivate elanike nõudeid , on vastamist vajavad küsimused , kuid kahe rahvuse vahekord peab toimima <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegusest</TIMEX3> teisiti . 
+ Siia suunatud venelased pidid märkama eeliseid , mis neil olid ja mida eestlastel polnud . 
+ Sellises olukorras nemad said ja eestlased pidid elama <TIMEX3 tid="t26" type="DURATION" value="P46Y" >46 aastat</TIMEX3> . 
+ Eesti taasiseseisvumisel oleksid venelased pidanud mõistma , et neil puudub õigus nõuda eelisõiguste kehtimajäämist . 
+ Toimitud on aga hoopis vastupidi - <TIMEX3 tid="t27" type="DURATION" value="PXY" >aastatega</TIMEX3> on vene kogukonna esindajad hakanud üha rohkem nõudma Eestis vene keele teise riigikeelena kasutusele võtmist . 
+ Riigi poolt rahastatud venekeelsetes koolides õpetatakse <TIMEX3 tid="t28" type="DATE" value="PAST_REF" anchorTimeID="t0">lähiajalugu</TIMEX3> venelastele " südamelähedasel " ehk Eesti-vaenulikul viisil . 
+ Eestlaste ja venelaste rahumeelne kooselamine on võimalik , kui venelased mõistavad , et oma rahvusliku kultuuri viljelemine Eestis peab toimuma Eesti seaduste kohaselt ning et eestlaste lugupidamise pälvimiseks tuleb neid seadusi täita . 
+ Kohe on vaja keelata ka kõigi Nõukogude Liidu vallutusi ülistavate tähtpäevade avalik tähistamine . 
+ Nii oleks juba ammu tehtud näiteks Hollandis , kui pärast natsistliku Saksamaa alistamist oleks sinna jäänud elama neli miljonit sakslast , kes <TIMEX3 tid="t29" type="SET" value="P1Y" quant="EVERY">igal aastal</TIMEX3> oleks avalikult hakanud tähistama Hollandi okupeerimist . 
+</TimeML>

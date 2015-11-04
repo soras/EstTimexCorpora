@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Peeter Helme tutvustab kultuuri 
+Kaarel Kressa 
+ <TIMEX3 tid="t377" type="DURATION" value="P28Y" >28-aastane</TIMEX3> Peeter Helme on mittetulundusühingu Eesti Instituut pressiesindaja ja ajakirja Estonian Culture toimetaja . 
+ Vabast ajast annab ta välja võrguajakirja Kriteerium , mis tegeleb konservatiivse revolutsiooni põhimõtete tutvustamisega . 
+ Eesti Instituudi missiooniks on tutvustada välismaal eesti kultuuri . 
+ Ühingu esindused asuvad Helsingis , Budapestis , Stockholmis ja Pariisis , ent koostöös välisministeeriumiga on üritusi korraldatud ka mujal . 
+ Helme sõnul on kultuuriühingu eesmärk viia välismaale võimalikult erinevaid kultuurinähtusi , mis haakuksid kohaliku kontekstiga . 
+ Kui tuua näiteid muusikavallast , siis on ?otlastele tutvustatud RAM-i , näidatud inglise klubikultuurile Kohvirecordsi artiste ning Rootsis toimunud festivalile eestivene bände Rasta Orchestra ning Euforia . 
+ <TIMEX3 tid="t378" type="DATE" value="PAST_REF" anchorTimeID="t0" >Aastaid tagasi</TIMEX3> põrandaaluses kirjandusrühmituses MUNG tegutsenud Helme vaatab noorte bravuursele algatusele <TIMEX3 tid="t379" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> tagasi lõbusa muigega . 
+ Tartus , Göttingenis ja Berliinis ajalugu ning usuteadust tudeerinud mees kirjutab küll endiselt ilukirjandust , ent olulisema väljundi annab aadressil kriteerium.ee asuva võrguajakirja toimetamine . 
+ " Taipasin , et on ideid , mida tahaksin väljendada ainult iseenda tehtud ajakirjas . " 
+</TimeML>

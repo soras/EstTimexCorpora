@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Postimees kutsub : kingi sõdurile raamat 
+ Eesti kaitseväelaste <TIMEX3 tid="t233" type="SET" value="P1D" quant="EVERY">igapäevane</TIMEX3> lugemisvara pärineb justkui pioneeritoa raamaturiiulilt 
+ KAAREL KAAS , TOOMAS SILDAM , uudised@postimees.ee 
+ NATOsse pürgiva Eesti <TIMEX3 tid="t234" type="DATE" value="2000" anchorTimeID="t0">tänavusest</TIMEX3> 1,16 miljardi kroonisest kaitse-eelarvest saab vaid 700 000 krooni kulutada väeosade lugemistubade täiendamiseks ning sõdurite teatri- ja kinokülastusteks . 
+ <TIMEX3 tid="t235" type="DATE" value="2000" anchorTimeID="t0">Sel aastal</TIMEX3> sundaega teenima minevast 3230 ajateenijast igaühe kultuurihuvi peale kulutab kaitseministeerium keskmiselt 216 krooni ja 70 senti . 
+ Samas suurusjärgus summa eest saaksid pataljonide ja üksikkompaniide raamatukoguhoidjad interneti raamatupoest osta kaks eksemplari Jerome D. Salingeri " Kuristik rukkis " juhul , kui nad jätavad tellimata ajalehed-ajakirjad ning keeravad selja ühistele teatri- ja kinokülastustele . 
+ Kaitsejõudude peastaabi pressiesindaja Georgi Kokoshinski andmetel saab iga pataljon <TIMEX3 tid="t236" type="SET" value="P1Y">aastas</TIMEX3> nn kultuurikuludeks ( raamatukogu täiendamine , ajakirjade-ajalehtede tellimine , teater ja kino ) 35 000-40 000 krooni . 
+ Keskmisest veidi vähem saavad <TIMEX3 tid="t237" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> Tallinnas asuvad vahipataljon ja sidepataljon ( mõlemad 30 000 krooni ) , teistest väeosadest enam aga Võru Kuperjanovi jalaväepataljon ( 60 000 krooni ) . 
+ " Raamatute ja ajakirjanduse tarbeks kuluvad summad on <TIMEX3 tid="t238" type="DURATION" value="PXY" beginPoint="t297" endPoint="t0">viimastel aastatel</TIMEX3><TIMEX3 tid="t297" type="DATE" value="XXXX" temporalFunction="true"/> püsinud enam-vähem stabiilselt samal tasemel . 
+ <TIMEX3 tid="t239" type="DURATION" value="P5Y" >Viie aasta</TIMEX3> lõikes võib öelda , et kulutused on suurenenud 1-2% võrra , " märkis Kokoshinski . 
+ Nii seisabki Tallinnast 40 kilomeetrit Tartu pool asuva päästekompanii kapral Märt Põlluveer oma kasarmu puhketoas kahe kõhna raamaturiiuli ees ja ei suuda otsustada , kas valida õhtuseks lugemiseks F. R. Kreutzwaldi " Kalevipoeg " või J. Parre " Veterinaarpara-sitoloogia " . 
+ Kompanii ülem leitnant Kaido Kaurit laiutab kunagise pioneeritoa lugemisriiulit meenutava raamatukogu ees käsi : " Ma pean mehed riidesse panema , neid toitma , kasarmu kütma , remondi tegema , autod tankima ja ongi raha otsas , raamatutele pigistab vaid mõned kroonid . " 
+ Postimees kutsub kõiki oma lugejaid osalema kuni <TIMEX3 tid="t240" type="DATE" value="2000-05" mod="END" anchorTimeID="t0">maikuu lõpuni</TIMEX3> ülemaalises aktsioonis " Kingi sõdurile raamat ! " . 
+ Annetusraamatuid saab viia riigikaitseosakondadesse ja -büroodesse , kust need lõpuks väeosade lugemistubadesse jõuavad . 
+ Selle üleskutse toetuseks on oma jah-sõna öelnud kaitseministeerium ning abi lubas ka Rootsi eestlaste kogukond . 
+ Kaitseliidu pressiohvitseri Tanel Rütmani kinnitusel on vabatahtlik riigikaitseorganisatsioon valmis kahel käel kaasa aitama , et <TIMEX3 tid="t241" type="DATE" value="2000-FA" anchorTimeID="t0">sügisel</TIMEX3> ajateenistusse saabuvaid noortudengeid ootaks kasarmutes lugemisväärne kirjavara . 
+ " Igasugune ajateenijate vaimutreeningu soodustamine on ka meie parimates huvides , " märkis Rütman . 
+ Ta lisas , et Kaitseliidu ülema ringkiri palvega aidata sõduritele raamatuid koguda peaks veel <TIMEX3 tid="t242" type="DATE" value="2000-04-19" anchorTimeID="t0">täna</TIMEX3> kõigi malevate staapidesse jõudma . 
+ Aktsioonist loe päevateemast ja juhtkirjast 
+</TimeML>

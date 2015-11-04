@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-14T14:18" functionInDocument="CREATION_TIME" comment="(esmaspäev)"/>
+
+Suurim hirm töötuse pärast valitseb euroliidu riikidest Eestis (19)
+<TIMEX3 tid="t1" type="TIME" value="2009-12-14T14:18" >14.12.2009 14:18</TIMEX3>
+Värske Eurobaromeetri uuringu esimesed tulemused näitavad, et enim muretsevad Euroopa Liidus töötuse pärast Eesti elanikud, kuid probleemiks on see enamikule
+eurooplastele.
+
+
+Eesti elanikest arvas tervelt 68 protsenti, et nende jaoks on töötus suurim probleem, vahendas Euroopa Komisjoni Eesti esinduse pressiesindaja
+
+See näitaja on kogu Euroopa Liidu kõrgeim - ELis keskmiselt on see protsent 51.
+
+Pisut on vähenenud mure majandusolukorra pärast. Siiski usub enamik, et kriisi halvim osa on veel ees. <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd,</TIMEX3> kui G20 ja IMF on hoogustanud majanduse taastumist, usuvad inimesed, et kõige paremini saavad kriisi mõjudega võidelda liikmesriikide valitsused ja Euroopa Liit.
+
+Enamik eurooplasi (54 protsenti ehk -7 protsendipunkti võrreldes <TIMEX3 tid="t3" type="DATE" value="2009-05">2009. aasta mai</TIMEX3>-<TIMEX3  tid="t4" type="DATE" value="2009-06" anchorTimeID="t3">juuniga</TIMEX3>)<TIMEX3 tid="t5" type="DURATION" value="P2M"  beginPoint="t3" endPoint="t4"/> usub, et kriisi mõjus tööhõivele on halvim veel ees. 38 protsenti arvab, et kriis on oma tipu juba saavutanud – see näitaja on 10 protsendipunkti võrra suurem kui eelmise uuringu ajal.
+
+Samasugust positiivsemat trendi võrreldes <TIMEX3 tid="t6" type="DATE" value="2009-SP">2009. aasta kevadega</TIMEX3> võib täheldada seoses ootustega ELi majandusolukorrale <TIMEX3 tid="t7" type="DURATION" value="P12M" beginPoint="t0" endPoint="t16">järgneva 12 kuu jooksul:</TIMEX3><TIMEX3 tid="t16" type="DATE" value="2010-12" temporalFunction="true"/> 30 protsenti (+6) eurooplastest arvab, et <TIMEX3 tid="t8" type="DURATION" value="P12M" beginPoint="t0" endPoint="t17">järgmised 12 kuud</TIMEX3><TIMEX3 tid="t17" type="DATE" value="2010-12" temporalFunction="true"/> tulevad paremad, 38 protsenti arvab, et olukord jääb samaks ja 21 protsenti (-7), et läheb halvemaks. 11 protsenti (+1) vastasid, et nad ei tea.
+
+Eurobaromeetri standarduuringu viis üksikintervjuude kaupa läbi TNS Opinion &amp; Social. Ajavahemikul <TIMEX3 tid="t9" type="DATE" value="2009-10-23" anchorTimeID="t0">23. oktoobrist</TIMEX3> <TIMEX3 tid="t10" type="DATE" value="2009-11-18" >18. novembrini 2009</TIMEX3><TIMEX3 tid="t11" type="DURATION" value="P26D" beginPoint="t9" endPoint="t10"/> küsitleti kokku 30 238
+inimest. Eurobaromeetri standarduuringuid korraldatakse <TIMEX3 tid="t12" type="SET" value="P1Y" freq="2X">kaks korda aastas,</TIMEX3> <TIMEX3 tid="t13" type="SET" value="XXXX-SP" anchorTimeID="t12">kevadel</TIMEX3> ja <TIMEX3 tid="t14" type="SET" value="XXXX-FA" anchorTimeID="t12">sügisel.</TIMEX3>
+
+«Nii Hispaanias, Lätis, Leedus kui ka Eestis kasvas majandus ehitusmulli abil, mis viis lõhkedes endaga kaasa suure osa ehitusega seotud töökohtadest. Küsimus on <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> selles, kuidas vähendada nendes riikides tööpuudust nii, et uued töökohad oleksid püsivamad ja me ei looks oma edu õhust või kipsplaadist ehitatud lossidele, vaid millelegi, millel oleks püsivam väärtus ja mida kannataks ka eksportida,» kommenteeris Eurobaromeetri tulemusi euroblogis Euroopa Komisjoni Eesti esinduse juht Toivo Klaar.
+Toimetas: Raul Sulbi 
+
+</TimeML>
+

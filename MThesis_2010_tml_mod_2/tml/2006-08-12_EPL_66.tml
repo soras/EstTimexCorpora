@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: India teenijanna kirjutas hitt-teose 
+Teenijanna Baby Halder , kelle ema <TIMEX3 tid="t311" type="DURATION" value="P4Y" >nelja-aastaselt</TIMEX3> maha jättis , kes sunniti <TIMEX3 tid="t312" type="DURATION" value="P12Y" >12-aastaselt</TIMEX3> abiellu vägivaldse mehega ja kes <TIMEX3 tid="t313" type="DURATION" value="P13Y" >13-aastaselt</TIMEX3> sünnitas oma esimese lapse , on India uus kirjandussensatsioon , kelle eluloolist teost " A Life Less Ordinary " saadab tohutu menu . 
+ <TIMEX3 tid="t314" type="DURATION" value="P25Y" >25-aastaselt</TIMEX3> asus mehe juurest pealinna New Delhisse põgenenud naine oma kolme lapse toitmiseks tööle teenijannana ning kirjutas <TIMEX3 tid="t315" type="SET" value="XXXX-XX-XXTNI" >öösiti</TIMEX3> joonelistesse koolivihikutesse oma mälestusi . 
+ Baby Halderi ande avastas tema <TIMEX3 tid="t316" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegune</TIMEX3> tööandja , pensionil olev antropoloogiaprofessor Prabodh Kumar , kes pärast vihikute lugemist julgustas teda kirjutamist jätkama ja aitas hiljem teksti trükikõlblikuks toimetada . 
+ Bestselleriks saanud robustne raamat , mis peegeldab miljonite vaesuses elavate India naiste igapäevaelu , on juba tõlgitud bengali keelest ka teistesse India keeltesse ja inglise keelde . 
+ Hoolimata raamatu menust töötab <TIMEX3 tid="t317" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> <TIMEX3 tid="t318" type="DURATION" value="P32Y" >32-aastane</TIMEX3> Baby Halder edasi Prabodh Kumari juures ja kirjutab majapidamistööde kõrvalt oma teist raamatut . 
+</TimeML>

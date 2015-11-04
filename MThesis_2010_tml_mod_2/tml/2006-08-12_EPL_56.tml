@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Leedus oma Taize klooster 
+Leedus Zarazai rajoonis ( 22 km kaugusel Läti-Leedu piiripunktist ) , kus on ligi 300 järvesilma , asub tiberiaatide klooster , mis sarnaneb tuntud Taize kloostriga Prantsusmaal , kirjutab Ethel Kings . 
+ Täpsemalt asub klooster imepisikeses külas nimega Baltri?kes . 
+ Küla algab ja lõpeb kloostrihoonetega , nende vahele jääb mitu talu . 
+ Kõik hooned on kodused palkmajad , mis lõhnavad mõnusalt puidu järele . 
+ Ehkki munkade raudne elunõue on lihtsus , ei puudu elamisest sellised mugavused nagu soe vesi , du?? , elekter , küte . 
+ Neil on ka üks telefon ja faksimasin . 
+ Kuskil olevat ka arvuti , kuid tiberiaadi vennad kasutavad seda võimalikult vähe . 
+ Kloostrielu 
+ <TIMEX3 tid="t254" type="DATE" value="XXXX-SU" >Suvi</TIMEX3> on munkadele kirev ja tegus aeg . 
+ Toimub palju üritusi ja laagreid , kloostris on pidevalt külalisi ja tegevust neile jätkub . 
+ Näiteks meid pandi <TIMEX3 tid="t255" type="DATE" value="2006" anchorTimeID="t0">selle aasta</TIMEX3> rikkalikku meesaaki purkidesse valama . 
+ Tööd tuli kombineerida nende mesilaste päästmisega , kes omaenda magusa neste sisse kippusid . 
+ Lõunat sõime koos vendadega pika laua taga . 
+ Palvetasime <TIMEX3 tid="t256" type="SET" value="PTXH" quant="EVERY">iga mõne tunni järel</TIMEX3> , kahjuks küll leedu keeles , ent meie rõõmuks loeti ka inglise- ja eestikeelseid palveid , millega saime paremini hakkama . 
+ <TIMEX3 tid="t257" type="DATE" value="XXXX-XX-XX" >Teisel päeval</TIMEX3> aitasime ehitada uut külalistemaja . 
+ Palvuste vaheaegadel kutsuti meid ka Roosipärga lugema - vabatahtlikud , külalised , mungad ja nende lustakas kitsetall käisid mööda küla teid ja põldusid ning lugesid koos ja vaheldumisi meieisa ja neitsi Maarja palvet . 
+</TimeML>

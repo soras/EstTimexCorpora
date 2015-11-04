@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Anneli Ammas 
+ Foto : Rauno Volmar 
+ Paarkümmend Tallinna ja Jõgeva kodutut inimest käis bussiga Palamusel ja Kääpal Tootsi ja Kalevipoja radadel heategeval ekskursioonil . 
+ " Kuhu Pondarenko jäi ? " hõikab sotsiaaltöötaja üle bussi , mis on paarkümmend Tallinna kodutut Jõgevamaale huvireisile toonud . 
+ " Poes ! " vastatakse bussi tagaotsast . 
+ Sotsiaaltöötaja kulm kisub kipra : " Nii , juba õlut ostma ! " 
+ " Näete , tuleb , jäätis käes ! " vastatakse tagaotsast . 
+ Nii ongi . 
+ <TIMEX3 tid="t34" type="TIME" value="2007-08-21T09" anchorTimeID="t0">Teisipäeva hommikul kell üheksa</TIMEX3> võeti Tallinnas Majaka tänavalt kaasa veel seitse kodutut lisaks kaheteistkümnele Akadeemia tee ja Kauge tänava öö- ja sotsiaalmajade klientidele , nagu sotsiaaltöötajad kodutute kohta ütlevad . 
+ " Kitsad pingid siin , " viriseb pikkade koibadega Endel . 
+ " Kas me Tootsi koolimajja ja Tootsi tütretütre juurde ka läheme ? " küsib Endel Jõgeva sotsiaalmaja juhatajalt Renee Rummilt . 
+ Raudtee vastast Jõgeva sotsiaalmaja juurest jätkub pärast võileivapausi koos kümmekonna kohaliku sotsiaalmaja kliendiga reis Palamuse poole . 
+ " Aga loomulikult , " lubab Renee koolimaja kohta , kuid Tootsi tütre-tütrest ei tea tema ega hiljem ka muuseumitöötaja midagi kosta . 
+</TimeML>

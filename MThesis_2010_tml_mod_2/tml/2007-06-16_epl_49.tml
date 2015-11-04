@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ <TIMEX3 tid="t209" type="DATE" value="2007-06-09" anchorTimeID="t0">Seitse päeva tagasi</TIMEX3> Montrealis oma F1-sõitja karjääri esimese parima stardikoha välja sõitnud ning <TIMEX3 tid="t210" type="DATE" value="2007-06-10" anchorTimeID="t209">ööpäev hiljem</TIMEX3> ka esimese GP-võidu teeninud Lewis Hamilton jätkab sama soojaga ka Kanada põhjanaabri USA võidusõidupühamus Indanapolises . 
+ Spetsiaalselt F1 autode jaoks ehitatud rajal edestas britt ajasõidu otsustavas faasis oma tiimikaaslast McLaren-Mercedeses Fernando Alonsot , ehkki hispaanlane oli parimat ringiaega näidanud kõigil kolmel vabatreeningul ning ka ajasõidu kahes esimeses osas . 
+ Hamiltonile kindlustas esikoha tulemus 1.12 , 331 , Alonso aeg oli 1.12 , 500. 
+ Teise stardireaga peavad MM-sarja seitsmendal etapil leppima Ferrarid , kolmanda aja sõitis välja brasiillane Felipe Massa ( 1.12 , 703 ) ja neljanda Kimi Räikkönen ( 1.12 , 839 ) . 
+ Kolmandast reast saavad lähte sakslane Nick Heidfeld ( BMW ) ja soomlane Heikki Kovalainen ( Renault ) , neljandast Robert Kubica asemik vähemalt USA GP-l Sebastian Vettel ( BMW ) ja Jarno Trulli ( Toyota ) ning viiendast Mark Webber ( Red Bull-Renault ) ja Giancarlo Fisichella ( Renault ) , vahendab Sportnet.ee. 
+</TimeML>

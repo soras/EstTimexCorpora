@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Kerttu Rannamäe 
+ Eesti suursaadik Rootsi Kuningriigis Alar Streimann andis <TIMEX3 tid="t16" type="DATE" value="2007-02-01" anchorTimeID="t0">täna</TIMEX3> Rootsi kuningas Carl XVI Gustafile üle oma volikirja . 
+ Volikirja üleandmise tseremooniale järgnenud vestluses tõdesid Eesti suursaadik Alar Streimann ja Rootsi kuningas Carl XVI Gustaf , et riikide vahelised suhted on väga head . 
+ Eesti suursaadik andis ülevaate Eestis toimunud <TIMEX3 tid="t17" type="DATE" value="PAST_REF" anchorTimeID="t0" >viimase aja</TIMEX3> poliitilistest sündmustest ja majandusarengutest ning eelseisvatest parlamendivalimistest . 
+ Veel kõneldi keskkonnapoliitikast ning samuti meenutas Rootsi kuningas oma viimast visiiti Eestisse . 
+ Alar Streimann sündis <TIMEX3 tid="t18" type="DATE" value="1964-02-26" >26. veebruaril 1964. aastal</TIMEX3> . 
+ <TIMEX3 tid="t19" type="DATE" value="1989" >1989. aastal</TIMEX3> lõpetas ta Tartu ülikooli keeleteaduskonna . 
+ Diplomaatilisel tööl on suursaadik alates <TIMEX3 tid="t20" type="DATE" value="1991" >1991. aastast</TIMEX3> , mil ta asus tööle välisministeeriumisse kaubandussuhete osakonda nõunikuna . 
+ <TIMEX3 tid="t21" type="DATE" value="1993" >Aastatel 1993</TIMEX3>-<TIMEX3 tid="t22" type="DATE" value="1996" >1996</TIMEX3> <TIMEX3 tid="t23" type="DURATION" value="P3Y" beginPoint="t21" endPoint="t22"/>töötas Alar Streimann nõunikuna Eesti saatkonnas Rootsis ning <TIMEX3 tid="t24" type="DATE" value="1996" >1996</TIMEX3>-<TIMEX3 tid="t25" type="DATE" value="1997" >1997</TIMEX3> <TIMEX3 tid="t26" type="DURATION" value="P1Y" beginPoint="t24" endPoint="t25"/>välismajanduspoliitika osakonna peadirektorina . 
+ <TIMEX3 tid="t27" type="DATE" value="1997" >Aastatel 1997</TIMEX3>-<TIMEX3 tid="t28" type="DATE" value="2003" >2003</TIMEX3><TIMEX3 tid="t29" value="P6Y" type="DURATION" beginPoint="t27" endPoint="t28"/> oli Alar Streimann Euroopa integratsiooni küsimuste asekantsler , ning <TIMEX3 tid="t30" type="DATE" value="1998" >1998</TIMEX3>-<TIMEX3 tid="t31" type="DATE" value="2003" >2003</TIMEX3> <TIMEX3 tid="t32" type="DURATION" value="P5Y" beginPoint="t30" endPoint="t31"/>Euroopa Liiduga liitumisläbirääkimiste delegatsiooni juht . 
+ <TIMEX3 tid="t33" type="DATE" value="2003" >2003</TIMEX3>-<TIMEX3 tid="t34" type="DATE" value="2006" >2006</TIMEX3> <TIMEX3 tid="t35" type="DURATION" value="P3Y" beginPoint="t33" endPoint="t34"/>oli Streimann Eesti alaline esindaja Euroopa Nõukogu juures . 
+</TimeML>

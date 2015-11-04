@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Kadri Ibrus 
+ Mainori kõrgkool ei saanud kõrghariduse hindamise nõukogult ( KHN ) teist korda üksnes nimetuse tõttu rakenduspsühholoogia õppekava akrediteeringut , kuid asub asja lahendama õppekavale uue nime andmise ja sellele koolitusloa taotlemisega . 
+ KHN jäi <TIMEX3 tid="t149" type="DATE" value="2007-06-14" anchorTimeID="t0">neljapäeval</TIMEX3> <TIMEX3 tid="t150" type="DATE" value="2006" mod="END" anchorTimeID="t0">aasta lõpus</TIMEX3> tehtud otsuse juurde mitte anda akrediteeringut kooli rakenduspsühholoogia õppekavale , kus õpib 800 üliõpilast . 
+ Nõukogu sekretär Hillar Bauman kinnitas , et kuigi õppekava kvaliteedile etteheiteid ei olnud , sai taas põhjuseks õppekava nime ja sisu lahknevus : ekspertkomisjoni hinnangul on tegu pigem personalijuhtide koolitusega . 
+ Õppekava jagatakse kaheks 
+</TimeML>

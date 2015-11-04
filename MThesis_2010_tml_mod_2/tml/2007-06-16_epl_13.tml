@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Riigikohus tühistas kohtuotsuse , milles mõisteti süüdi mustlanna , kes lubas oma ohvri , pangas töötava naise needusest vabastada ning õhutas teda pangast poolt miljonit krooni varastama . 
+ Kelmi jutust hirmutatud pangateller hakkas oma raha lõppedes mustlannale " needusest " pääsemiseks pangast teiste inimeste kontodelt raha varastama , mistõttu Sampo Pangale tekitati ligi pool miljonit krooni kahju , kirjutab Põhjarannik . 
+ Kuigi kahe esimese astme kohtud mõistsid need kaks naist ning rahavahendajaks olnud Veronika süüdi , tühistas riigikohus süüdimõistva otsuse . 
+ Riigikohus leidis , et pangateller Viktoria ei olnud seaduse mõttes ametiisik . 
+ Riigikohtunikud tõdesid , et kohtud pole selgitanud , milline oli Viktoria tegevuse eesmärk , kui ta pangast võõrast raha võttis , ning milline tähendus võib olla süüdistuses märgitud asjaolul , et Viktoria allus Aza nõuetele " selleks , et tagada oma perele elu ja tervis " . 
+ Viru maakohus peab <TIMEX3 tid="t38" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >nüüd</TIMEX3> hakkama seda kriminaalasja uuesti arutama . 
+</TimeML>

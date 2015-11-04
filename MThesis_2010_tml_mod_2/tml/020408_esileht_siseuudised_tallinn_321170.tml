@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2008-04-02T00:01" functionInDocument="CREATION_TIME"/>
+
+Jalakäijatele jääb vanalinnas ruumi vähemaks
+
+Tallinna linnavalitsus plaanib <TIMEX3 tid="t1" type="DATE" value="2008-04-07" temporalFunction="true" anchorTimeID="t0">7. aprillist</TIMEX3>
+arvata vanalinna jalakäijate alast välja tänavad, kus sealsete elanike
+parkimiskohtade tõttu on paratamatult autoliiklus.
+<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF" temporalFunction="true" anchorTimeID="t0">Praegu</TIMEX3> koosneb Raekoja platsi ümbrusesse jääv 
+jalakäijate ala veidi enam kui 20 tänavast, kus on lubatud autoga sõita vaid 
+<TIMEX3 tid="t3" type="TIME" value="T06:00">
+hommikul kella kuuest</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="T10:00">kümneni </TIMEX3><TIMEX3 tid="t5" type="DURATION" value="PT4H" beginPoint="t3" endPoint="t4"/> ettevõtete teenindamiseks või 
+transpordiameti eriloal.
+Tallinna liiklusteenistuse direktori Mati Songisepa sõnul on linn andnud
+vanalinna elanikele hulgaliselt lube Niguliste tänaval parkimiseks, mistõttu
+tegelikult vuravad mööda Harju ja Niguliste tänavat pidevalt autod.
+«Harju tänava liiklus on nii tihe, et ei ole mõtet seda hoida jalakäijate
+alana,» lausus liiklusteenistuse direktor. «Samuti on paratamatult liiklus
+Niguliste tänaval.» Ainult jalakäijatele mõeldud Harju tänaval sõidab 
+<TIMEX3 tid="t6" type="SET" value="P1D"> ööpäevas </TIMEX3> hinnanguliselt 300-400 autot.
+Vana-Posti tänav arvatakse Songisepa sõnul jalakäijate alast välja seetõttu,
+et veel <TIMEX3 tid="t7" type="DATE" value="2008-SP" temporalFunction="true" anchorTimeID="t0"> sel kevadel </TIMEX3>
+kaevatakse Vabaduse plats maa-aluse autoparkla rajamiseks üles ja vanalinna piki
+Harju tänavat sisse sõita pole lihtsalt enam võimalik.
+
+Nii saab <TIMEX3 tid="t8" type="DATE" value="FUTURE_REF" temporalFunction="true" anchorTimeID="t0">tulevikus</TIMEX3> Harju ja sealt 
+edasi Niguliste tänavale sõita piki Vana-Posti tänavat. Samuti puudutab määrus 
+parkimiskohti, mis asuvad jalakäijate alal, kuid kinnistel eramaadel, näiteks 
+sisehoovides.
+
+<TIMEX3 tid="t9" type="DATE" value="2008-04-02" temporalFunction="true" anchorTimeID="t0"> Täna </TIMEX3> linnavalitsuses tõenäoliselt
+heaks kiidetava eelnõu järgi annab transpordiamet nende parkimiskohtade omanikele 
+tõendid, mis lubavad neil autoga jalakäijate alal sõita.
+Kui linn maaomanikele ajutisi lubasid ei annaks, tekiks Songisepa sõnul olukord,
+et <TIMEX3 tid="t10" type="TIME" value="TMO"> hommikul </TIMEX3> saavad nad küll 
+oma parkimiskohtadelt välja sõita, kuid <TIMEX3 tid="t11" type="TIME" value="TEV">
+õhtul </TIMEX3> tagasi tulla ei tohi.
+Samuti saab jalakäijate alal autoga sõitmiseks transpordiametilt loa võtta ka 
+erakorralisteks vajadusteks, olgu selleks näiteks kolimine või kiiresti tahkuva 
+betooni transport.
+Tallinn kehtestas vanalinna jalakäijate ala juba <TIMEX3 tid="t12" type="DATE" value="2000">
+2000. aastal, </TIMEX3> eesmärgiga kaitsta esiteks jalakäijaid ning teiseks UNESCO 
+maailmapärandi nimekirja kuuluvat vanalinna.
+«Liikluse regulatsioon vanalinna jalakäijate alal tuleneb asjaolust, et Tallinna
+vanalinna tänavad on kitsad ning liiklus seal jalakäijaid ohustamata ei ole võimalik,»
+seisab eelnõus. «Liiklejatest prioriteetseim on jalakäija, mistõttu tuleb anda esmaõigus
+liiklemiseks jalakäijale.» 
+</TimeML>
+

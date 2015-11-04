@@ -1,0 +1,240 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1996-03-05TXX:XX" />
+<ignoreeri>
+|
+autor:
+EPP
+ALATALU
+|
+ajalehenumber:
+Postimees
+1996.03.05
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Uudised
+|
+artikkel:
+Arnold
+Rüütel
+:
+Eesti
+tippjuhid
+teadsid
+Venemaa
+visiidi
+kava
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1996-03-04" >
+Eile    eile+0 //_D_ //
+</TIMEX>
+saabus    saabu+s //_V_ s, //
+Joshkar-Olast    Joshkar-Ola+st //_H_ sg el, //
+Arnold    Arnold+0 //_H_ sg n, //
+Rüütli    Rüütel+0 //_H_ sg g, //    Rüütli+0 //_H_ sg g, //
+juhitud    juhi=tud+0 //_A_ //    juhi=tud+0 //_A_ sg n, //    juhi=tud+d //_A_ pl n, //    juhti+tud //_V_ tud, //
+delegatsioon    delegatsioon+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+käis    käi+s //_V_ s, //
+Mar-Eli    Mar-Eli+0 //_H_ sg g, //
+Vabariigis    vaba_riik+s //_S_ sg in, //
+Eesti    Eesti+0 //_H_ sg g, //
+iseseisvuspäeva    ise_seisvus_päev+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Delegatsiooni    delegatsioon+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+Viktor    Viktor+0 //_H_ sg n, //
+Andrejev    Andrejev+0 //_H_ sg n, //
+kohtus    kohtu+s //_V_ s, //
+eraisikuna    era_isik+na //_S_ sg es, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1996-03-04" >
+eile    eile+0 //_D_ //
+</TIMEX>
+Moskvas    Moskva+s //_H_ sg in, //
+patriarh    patriarh+0 //_S_ sg n, //
+Aleksius    Aleksius+0 //_H_ sg n, //
+IIga    IIga+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Arnold    Arnold+0 //_H_ sg n, //
+Rüütel    Rüütel+0 //_H_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1996-03-04" >
+eile    eile+0 //_D_ //
+</TIMEX>
+“    “ //_Z_ //
+Postimehele    Posti_mees+le //_H_ sg all, //    Postimehe+le //_H_ sg all, //
+”    ” //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+visiidi    visiit+0 //_S_ sg g, //
+kava    kava+0 //_S_ sg n, //
+teadsid    tead+sid //_V_ sid, //
+nii    nii+0 //_D_ //
+peaminister    pea_minister+0 //_S_ sg n, //
+,    , //_Z_ //
+välisminister    välis_minister+0 //_S_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+teadsid    tead+sid //_V_ sid, //
+nad    tema+d //_P_ pl n, //
+ka    ka+0 //_D_ //
+võimalikust    võimalik+st //_A_ sg el, //
+õigeusu    õige_usk+0 //_S_ sg g, //
+teema    teema+0 //_S_ sg g, //
+käsitlusest    käsitlus+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Joshkar-Olas    Joshkar-Ola+s //_H_ sg in, //
+kohtuti    kohtu+ti //_V_ ti, //
+Mari-Eli    Mari-Eli+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+presidendi    president+0 //_S_ sg g, //
+Vladislav    Vladislav+0 //_H_ sg n, //
+Zotini    Zotin+0 //_H_ sg g, //    Zotini+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+riigi    riik+0 //_S_ sg g, //
+juhtidega    juht+dega //_S_ pl kom, //
+ning    ning+0 //_J_ //
+Mari-Eesti    Mari-Eest+0 //_H_ sg g, //    Mari-Eesti+0 //_H_ sg g, //
+seltsi    selts+0 //_S_ sg g, //
+esindajatega    esindaja+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+rääkis    rääki+s //_V_ s, //
+Rüütel    Rüütel+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Arnold    Arnold+0 //_H_ sg n, //
+Rüütel    Rüütel+0 //_H_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+reisi    reis+0 //_S_ sg g, //
+ainus    ainus+0 //_A_ sg n, //
+eesmärk    ees_märk+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+Marimaa    Mari_maa+0 //_H_ sg g, //
+külastamine    külastamine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+diplomaatilist    diplomaatiline+t //_A_ sg p, //
+tava    tava+0 //_S_ sg g, //
+järgides    järgi+des //_V_ des, //
+olid    ole+id //_V_ sid, //
+mõned    mõni+d //_P_ pl n, //
+läbisõidu    läbi_sõit+0 //_S_ sg g, //
+kohtumised    kohtumine+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+Moskvas    Moskva+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Arnold    Arnold+0 //_H_ sg n, //
+Rüütel    Rüütel+0 //_H_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+enne    enne+0 //_K_ //
+tema    tema+0 //_P_ sg g, //
+ärasõitu    ära_sõit+0 //_S_ sg p, //
+oli    ole+i //_V_ s, //
+ta    tema+0 //_P_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+tippjuhtidega    tipp_juht+dega //_S_ pl kom, //
+konsulteerinud    konsulteeri+nud //_V_ nud, //    konsulteeri=nud+0 //_A_ //    konsulteeri=nud+0 //_A_ sg n, //    konsulteeri=nud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+otsustati    otsusta+ti //_V_ ti, //
+teostada    teosta+da //_V_ da, //
+üht    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+poliitilist    poliitiline+t //_A_ sg p, //
+joont    joon+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+samuti    samuti+0 //_D_ //
+oli    ole+i //_V_ s, //
+tal    tema+l //_P_ sg ad, //
+olemas    ole+mas //_V_ mas, //
+info    info+0 //_S_ sg n, //
+apostliku    apostlik+0 //_A_ sg g, //
+õigeusu    õige_usk+0 //_S_ sg g, //
+kiriku    kirik+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+üldse    üldse+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Viktor    Viktor+0 //_H_ sg n, //
+Andrejev    Andrejev+0 //_H_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kohtumine    kohtumine+0 //_S_ sg n, //
+Aleksiusega    Aleksius+ga //_H_ sg kom, //
+oli    ole+i //_V_ s, //
+usalduslik    usalduslik+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+avameelne    ava_meelne+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+patriarh    patriarh+0 //_S_ sg n, //
+Aleksius    Aleksius+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+talle    tema+lle //_P_ sg all, //
+kinnitanud    kinnita+nud //_V_ nud, //    kinnita=nud+0 //_A_ //    kinnita=nud+0 //_A_ sg n, //    kinnita=nud+d //_A_ pl n, //
+valmisolekut    valmis_olek+t //_S_ sg p, //
+kompromissideks    kompromiss+deks //_S_ pl tr, //
+.    . //_Z_ //
+</s>
+<s>
+Patriarh    patriarh+0 //_S_ sg n, //
+teatas    teata+s //_V_ s, //
+Andrejevile    Andrejevile+0 //_H_ sg n, //
+ka    ka+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+peatsest    peatne+st //_A_ sg el, //
+</TIMEX>
+kohtumisest    kohtumine+st //_S_ sg el, //
+patriarh    patriarh+0 //_S_ sg n, //
+Bartholomeosega    Bartholomeos+ga //_H_ sg kom, //    Bartholomeose+ga //_H_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+toimub    toimu+b //_V_ b, //
+juba    juba+0 //_D_ //
+ilmselt    ilmselt+0 //_D_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1996-03" >
+märtsis    märts+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+Andrejev    Andrejev+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,1249 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-04-03TXX:XX" />
+<ignoreeri>
+|
+autor:
+tekst
+Hendrik
+Relve
+|
+ajakirjanumber:
+Luup
+Nr
+.
+7
+(
+116
+)
+,
+3.
+aprill
+2000
+|
+rubriik:
+EESTI
+|
+artikkel:
+Metsasõjad
+alles
+algavad
+|
+</ignoreeri>
+<s>
+KONFLIKT    konflikt+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Soomlastele    soomlane+tele //_S_ pl all, //
+ja    ja+0 //_J_ //
+rootslastele    rootslane+tele //_S_ pl all, //
+hästituntud    hästi_tun=tud+0 //_A_ //    hästi_tun=tud+0 //_A_ sg n, //    hästi_tun=tud+d //_A_ pl n, //
+“    “ //_Z_ //
+metsasõjad    metsa_sõda+d //_S_ pl n, //
+”    ” //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüdseks    nüüdne+ks //_A_ sg tr, //
+</TIMEX>
+ka    ka+0 //_D_ //
+Eestisse    Eesti+sse //_H_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Metsaraie    metsa_raie+0 //_S_ sg g, //
+keelustamist    keelustamine+t //_S_ sg p, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="XXXX-SU" mod="START" >
+varasuvel    vara_suvi+l //_S_ sg ad, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõudnud    nõud+nud //_V_ nud, //    nõud=nud+0 //_A_ //    nõud=nud+0 //_A_ sg n, //    nõud=nud+d //_A_ pl n, //
+mitmed    mitu+d //_P_ pl n, //
+nimekad    nimekas+d //_A_ pl n, //
+looduskaitsjad    loodus_kaitsja+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+mõtlejad    mõtleja+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põrkunud    põrku+nud //_V_ nud, //    põrku=nud+0 //_A_ //    põrku=nud+0 //_A_ sg n, //    põrku=nud+d //_A_ pl n, //
+toore    toore+0 //_S_ sg n, //
+turumajanduse    turu_majandus+0 //_S_ sg g, //
+argumentidele    argument+dele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+üüritud    üüri+tud //_V_ tud, //    üüri=tud+0 //_A_ //    üüri=tud+0 //_A_ sg n, //    üüri=tud+d //_A_ pl n, //
+saed    saag+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+mehhanismid    mehhanism+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+tohi    tohti+0 //_V_ o, //
+puhata    puhka+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+lausus    lausu+s //_V_ s, //
+Lennart    Lennart+0 //_H_ sg n, //
+Meri    Meri+0 //_H_ sg n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2000-02-24" >
+tänavu    tänavu+0 //_D_ //
+24.    24.+0 //_O_ ?, //
+veebruaril    veebruar+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+mõte    mõte+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+et    et+0 //_J_ //
+lindude    lind+de //_S_ pl g, //
+pesitsemise    pesitse=mine+0 //_S_ sg g, //
+ajaks    aeg+ks //_S_ sg tr, //
+tuleks    tule+ks //_V_ ks, //
+metsas    mets+s //_S_ sg in, //
+välja    välja+0 //_D_ //
+kuulutada    kuuluta+da //_V_ da, //
+raierahu    raie_rahu+0 //_S_ sg p, //
+,    , //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tõesti    tõesti+0 //_D_ //
+nii    nii+0 //_D_ //
+oluline    oluline+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sunnib    sundi+b //_V_ b, //
+sõna    sõna+0 //_S_ sg g, //
+sekka    sekka+0 //_K_ //
+ütlema    ütle+ma //_V_ ma, //
+isegi    isegi+0 //_D_ //
+presidenti    president+0 //_S_ sg p, //
+?    ? //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1999-12-02" >
+Läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+aasta    aasta+0 //_S_ sg g, //
+2.    2.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+</TIMEX>
+läkitasid    läkita+sid //_V_ sid, //
+loodusteadlased    loodus_teadlane+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+keskkonnaorganisatsioonid    keskkonna_organisatsioon+d //_S_ pl n, //
+ühiskirja    ühis_kiri+0 //_S_ sg g, //
+Riigikogule    riigi_kogu+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+keskkonnaministrile    keskkonna_minister+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Selles    see+s //_P_ sg in, //
+avaldati    avalda+ti //_V_ ti, //
+“    “ //_Z_ //
+sügavat    sügav+t //_A_ sg p, //
+muret    mure+t //_S_ sg p, //
+raiete    raie+te //_S_ pl g, //
+pärast    pärast+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kahjustavad    kahjusta+vad //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+metsade    mets+de //_S_ pl g, //
+bioloogilist    bioloogiline+t //_A_ sg p, //
+mitmekesisust    mitme_kesisus+t //_S_ sg p, //
+,    , //_Z_ //
+tootlikkust    tootlikkus+t //_S_ sg p, //
+,    , //_Z_ //
+uuenemisvõimet    uuenemis_võime+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+elujõulisust    elu_jõulisus+t //_S_ sg p, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Allakirjutanud    alla_kirjutanu+d //_S_ pl n, //
+tegid    tege+id //_V_ sid, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+keelustada    keelusta+da //_V_ da, //
+metsaraie    metsa_raie+0 //_S_ sg n, //
+Eestis    Eesti+s //_H_ sg in, //
+<TIMEX  tid="t7" type="DURATION" temporalFunction="true" value="PXXD" beginPoint="t5" endPoint="t6" >
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="XXXX-04-01" comment="üldises tähenduses" >
+1.    1.+0 //_O_ ?, //
+aprillist    aprill+st //_S_ sg el, //
+</TIMEX>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="XXXX-07-31" comment="üldises tähenduses" >
+31.    31.+0 //_O_ ?, //
+juulini    juuli+ni //_S_ sg ter, //
+</TIMEX>
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Järgnes    järgne+s //_V_ s, //
+laviin    laviin+0 //_S_ sg n, //
+raevukaid    raevukas+id //_A_ pl p, //
+sõnavõtte    sõna_võtt+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+väljaastumisi    välja_astumine+i //_S_ pl p, //
+meedias    meedia+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Väitluste    väitlus+te //_S_ pl g, //
+haripunktina    hari_punkt+na //_S_ sg es, //
+kogunesid    kogune+sid //_V_ sid, //
+osapooled    osa_pool+d //_S_ pl n, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="2000-03-17" >
+17.    17.+0 //_O_ ?, //
+märtsil    märts+l //_S_ sg ad, //
+</TIMEX>
+Eesti    Eesti+0 //_H_ sg g, //
+Põllumajandusülikooli    Põllu_majandus_üli_kool+0 //_H_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Paraku    paraku+0 //_D_ //
+tuli    tule+i //_V_ s, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="false" value="P1D" >
+päev    päev+0 //_S_ sg n, //
+otsa    otsa+0 //_D_ //
+</TIMEX>
+vägikaigast    vägi_kaigas+t //_S_ sg p, //
+vedanud    veda+nud //_V_ nud, //    veda=nud+0 //_A_ //    veda=nud+0 //_A_ sg n, //    veda=nud+d //_A_ pl n, //
+vaenuvägedel    vaenu_vägi+del //_S_ pl ad, //
+<TIMEX  tid="t9" type="TIME" temporalFunction="true" value="2000-03-17TEV" anchorTimeID="t8" >
+õhtul    õhtu+l //_S_ sg ad, //
+</TIMEX>
+sama    sama+0 //_P_ sg n, //
+targalt    targalt+0 //_D_ //
+laiali    laiali+0 //_D_ //
+minna    mine+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+35    35+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+jääb    jää+b //_V_ b, //
+tööta    töö+ta //_S_ sg ab, //
+.    . //_Z_ //
+</s>
+<s>
+Mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+vaidlejad    vaidleja+d //_S_ pl n, //
+siiani    siiani+0 //_D_ //
+kokkuvõttes    kokku_võte+s //_S_ sg in, //
+õieti    õieti+0 //_D_ //
+öelda    ütle+da //_V_ da, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tahtnud    taht+nud //_V_ nud, //    taht=nud+0 //_A_ //    taht=nud+0 //_A_ sg n, //    taht=nud+d //_A_ pl n, //
+?    ? //_Z_ //
+</s>
+<s>
+Sõnasõja    sõna_sõda+0 //_S_ sg g, //
+võitlustander    võitlus_tander+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+jagunenud    jagune+nud //_V_ nud, //    jagune=nud+0 //_A_ //    jagune=nud+0 //_A_ sg n, //    jagune=nud+d //_A_ pl n, //
+kolme    kolm+0 //_N_ sg g, //
+leeri    leer+0 //_S_ adt, //
+-    - //_Z_ //
+metsatöösturid    metsa_tööstur+d //_S_ pl n, //
+,    , //_Z_ //
+looduskaitsjad    loodus_kaitsja+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+metsakasvatajad    metsa_kasvataja+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Metsatööstureid    metsa_tööstur+id //_S_ pl p, //
+esindavad    esinda+vad //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+Metsatööstuse    Metsa_tööstus+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+tegevdirektor    tegev_direktor+0 //_S_ sg n, //
+Antti    Antti+0 //_H_ sg n, //
+Pae    Pae+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Metsatöötajate    metsa_töötaja+te //_S_ pl g, //
+Ametiühingu    ameti_ühing+0 //_S_ sg g, //
+aseesimees    ase_esi_mees+0 //_S_ sg n, //
+Arno    Arno+0 //_H_ sg n, //
+Arukask    Aru_kask+0 //_H_ sg n, //    Arukask+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Antti    Antti+0 //_H_ sg n, //
+Pae    Paas+0 //_H_ sg g, //    Pae+0 //_H_ sg g, //
+väitel    väide+l //_S_ sg ad, //
+võib    või+b //_V_ b, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="XXXX-SP" >
+kevadsuvise    kevad_suvine+0 //_A_ sg g, //
+</TIMEX>
+raiekeelu    raie_keeld+0 //_S_ sg g, //
+kehtestamine    kehtestamine+0 //_S_ sg n, //
+viia    vii+a //_V_ da, //
+peaaegu    pea_aegu+0 //_D_ //
+kogu    kogu+0 //_A_ //
+Eesti    Eesti+0 //_H_ sg g, //
+saetööstuse    sae_tööstus+0 //_S_ sg g, //
+seiskamiseni    seiska=mine+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Kodumaised    kodu_maine+d //_A_ pl n, //
+saetööstused    sae_tööstus+d //_S_ pl n, //
+kaotaksid    kaota+ksid //_V_ ksid, //
+30    30+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+kannaksid    kand+ksid //_V_ ksid, //
+saetööstused    sae_tööstus+d //_S_ pl n, //
+250    250+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+kahju    kahi+0 //_S_ sg g, //    kahju+0 //_S_ sg g, //
+ettevõtete    ette_võte+te //_S_ pl g, //
+seisakukulude    seisaku_kulu+de //_S_ pl g, //
+tõttu    tõttu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Metsatöötajate    metsa_töötaja+te //_S_ pl g, //
+ametiühingu    ameti_ühing+0 //_S_ sg g, //
+esindajate    esindaja+te //_S_ pl g, //
+sõnul    sõna+ul //_S_ pl ad, //
+halvendaks    halvenda+ks //_V_ ks, //
+raiekeeld    raie_keeld+0 //_S_ sg n, //
+järsult    järsult+0 //_D_ //
+35    35+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+Eestis    Eesti+s //_H_ sg in, //
+metsaga    mets+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+töötaja    töötaja+0 //_S_ sg g, //
+olukorda    olu_kord+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Enamik    enamik+0 //_S_ sg n, //
+neist    see+st //_P_ pl el, //
+jääks    jää+ks //_V_ ks, //
+ajutiselt    ajutiselt+0 //_D_ //
+tööta    töö+ta //_S_ sg ab, //
+,    , //_Z_ //
+<kindel_piir/>
+osa    osa+0 //_S_ sg n, //
+kaotaks    kadu+taks //_V_ taks, //
+töö    töö+0 //_S_ sg g, //
+hiljem    hiljem+0 //_D_ //
+ja    ja+0 //_J_ //
+juba    juba+0 //_D_ //
+alaliselt    alaliselt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+pankrotilaine    pankroti_laine+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+väikeettevõtete    väike_ette_võte+te //_S_ pl g, //
+peade    pea+de //_S_ pl g, //
+käib    käi+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+Arno    Arno+0 //_H_ sg n, //
+Arukask    Aru_kask+0 //_H_ sg n, //    Arukask+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kuulutanud    kuuluta+nud //_V_ nud, //    kuuluta=nud+0 //_A_ //    kuuluta=nud+0 //_A_ sg n, //    kuuluta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+raiekeeld    raie_keeld+0 //_S_ sg n, //
+kehtestatakse    kehtesta+takse //_V_ takse, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ametiühing    ameti_ühing+0 //_S_ sg n, //
+valmis    valmis+0 //_D_ //
+alustama    alusta+ma //_V_ ma, //
+protestiaktsioone    protesti_aktsioon+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Tartu    Tartu+0 //_H_ sg g, //
+koosolekul    koos_olek+l //_S_ sg ad, //
+esinenud    esine+nud //_V_ nud, //    esine=nud+0 //_A_ //    esine=nud+0 //_A_ sg n, //    esine=nud+d //_A_ pl n, //
+metsatööstuse    metsa_tööstus+0 //_S_ sg g, //
+esindaja    esindaja+0 //_S_ sg n, //
+Erki    Erki+0 //_H_ sg n, //
+Unn    Unn+0 //_H_ sg n, //
+tuli    tule+i //_V_ s, //
+välja    välja+0 //_D_ //
+väitega    väide+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+linnukaitsjad    linnu_kaitsja+d //_S_ pl n, //
+kaitsevad    kaits+vad //_V_ vad, //    kaitse+vad //_V_ vad, //
+linde    lind+e //_S_ pl p, //
+vales    vale+s //_A_ sg in, //
+paigas    paik+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Metsaraietel    Metsaraietel+0 //_H_ sg n, //
+hukkub    hukku+b //_V_ b, //
+linde    lind+e //_S_ pl p, //
+tühisel    tühine+l //_A_ sg ad, //
+määral    määr+l //_S_ sg ad, //
+võrreldes    võrdle+des //_V_ des, //
+maanteedel    maan_tee+del //_S_ pl ad, //
+,    , //_Z_ //
+hulkuvate    hulkuv+te //_A_ pl g, //
+kasside    kass+de //_S_ pl g, //
+läbi    läbi+0 //_D_ //
+hukkunutega    hukkunu+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Linnud    lind+d //_S_ pl n, //
+surevad    sure+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Looduskaitsjaid    loodus_kaitsja+id //_S_ pl p, //
+esindavad    esinda+vad //_V_ vad, //
+akadeemikud    akadeemik+d //_S_ pl n, //
+-    - //_Z_ //
+mullauurija    mulla_uurija+0 //_S_ sg n, //
+Loit    Loit+0 //_H_ sg n, //
+Reintam    Reintam+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+seeneteadlane    seene_teadlane+0 //_S_ sg n, //
+Erast    era+st //_S_ sg el, //
+Parmasto    Parmasto+0 //_H_ sg n, //
+ning    ning+0 //_J_ //
+hulk    hulk+0 //_S_ sg n, //
+professoreid    professor+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Organisatsioonidest    organisatsioon+dest //_S_ pl el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+looduskaitsjate    loodus_kaitsja+te //_S_ pl g, //
+väegrupis    väe_grupp+s //_S_ sg in, //
+pool    pool+0 //_N_ sg n, //
+tosinat    tosin+t //_N_ sg p, //
+seltsi    selts+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+ühingut    ühing+t //_S_ sg p, //
+eesotsas    ees_ots+s //_S_ sg in, //
+Eesti    Eesti+0 //_H_ sg g, //
+Ornitoloogiaühingu    ornitoloogia_ühing+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+TA    tema+0 //_P_ sg g, //
+looduskaitsekomisjoniga    loodus_kaitse_komisjon+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Looduskaitsjate    loodus_kaitsja+te //_S_ pl g, //
+ühine    ühine+0 //_A_ sg n, //
+väide    väide+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="XXXX-SP" >
+kevadised    kevadine+d //_A_ pl n, //
+</TIMEX>
+raied    raie+d //_S_ pl n, //
+mõjuvad    mõju+vad //_V_ vad, //
+metsade    mets+de //_S_ pl g, //
+elukooslustele    elu_kooslus+tele //_S_ pl all, //
+kõige    kõige+0 //_D_ //
+hukutavamalt    hukuta=vamalt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ei    ei+0 //_V_ neg, //
+kannata    kannata+0 //_V_ o, //
+mitte    mitte+0 //_D_ //
+üksi    üksi+0 //_D_ //
+pesitsevad    pesitse=v+d //_A_ pl n, //
+linnud    lind+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+ka    ka+0 //_D_ //
+sigivad    sigi+vad //_V_ vad, //
+loomad    loom+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+tärkavad    tärka+vad //_V_ vad, //
+taimed    taim+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+pehmeks    pehme+ks //_A_ sg tr, //
+muutunud    muutu+nud //_V_ nud, //    muutu=nud+0 //_A_ //    muutu=nud+0 //_A_ sg n, //    muutu=nud+d //_A_ pl n, //
+muld    muld+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Niisugune    nii_sugune+0 //_P_ sg n, //
+raie    raie+0 //_S_ sg n, //
+olevat    ole+vat //_V_ vat, //
+vastuolus    vastu_olu+s //_S_ sg in, //
+ka    ka+0 //_D_ //
+rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+lepetega    lepe+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+millele    mis+le //_P_ pl all, //    mis+le //_P_ sg all, //
+Eesti    Eesti+0 //_H_ sg g, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+alla    alla+0 //_D_ //
+kirjutanud    kirjuta+nud //_V_ nud, //    kirjutanud+0 //_A_ //    kirjutanud+0 //_A_ sg n, //    kirjutanud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Majanduslikku    majanduslik+0 //_A_ adt, //
+külge    külg+0 //_S_ adt, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+akadeemik    akadeemik+0 //_S_ sg n, //
+Erast    era+st //_S_ sg el, //
+Parmasto    Parmasto+0 //_H_ sg g, //
+hinnanud    hinda+nud //_V_ nud, //    hinna=nud+0 //_A_ //    hinna=nud+0 //_A_ sg n, //    hinna=nud+d //_A_ pl n, //
+järgmiste    järgmine+te //_A_ pl g, //
+sõnadega    sõna+dega //_S_ pl kom, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="XXXX-SP" >
+Kevadsuvine    kevad_suvine+0 //_A_ sg n, //
+</TIMEX>
+raie    raie+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+osake    osake+0 //_S_ sg n, //
+kompleksis    kompleks+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+soodustatakse    soodusta+takse //_V_ takse, //
+arenemata    arene=mata+0 //_A_ //
+<kiil>
+(    ( //_Z_ //
+ehk    ehk+0 //_J_ //
+arengu-    areng+0 //_S_ sg g, //
+)    ) //_Z_ //
+</kiil>
+maale    maa+le //_S_ sg all, //
+iseloomulikku    ise_loomulik+0 //_A_ sg p, //
+röövmajandamist    rööv_majandamine+t //_S_ sg p, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Oluline    oluline+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+raiuda    raiu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Metsakasvatajate    metsa_kasvataja+te //_S_ pl g, //
+poolelt    pool+lt //_S_ sg abl, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+põhjalikumalt    põhjalikumalt+0 //_D_ //
+sõna    sõna+0 //_S_ sg g, //
+sekka    sekka+0 //_K_ //
+öelnud    öel=nud+0 //_A_ //    öel=nud+0 //_A_ sg n, //    öel=nud+d //_A_ pl n, //    ütle+nud //_V_ nud, //
+metsanduse    metsandus+0 //_S_ sg g, //
+emeriitprofessor    emeriit_professor+0 //_S_ sg n, //
+Ivar    Ivar+0 //_H_ sg n, //
+Etverk    Etverk+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+metsakasvatuse    metsa_kasvatus+0 //_S_ sg g, //
+professor    professor+0 //_S_ sg n, //
+Hardi    Hardi+0 //_H_ sg n, //
+Tullus    Tullus+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Omapoolse    oma_poolne+0 //_A_ sg g, //
+jõulise    jõuline+0 //_A_ sg g, //
+seisukohavõtu    seisu_koha_võtt+0 //_S_ sg g, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esitanud    esita+nud //_V_ nud, //    esita=nud+0 //_A_ //    esita=nud+0 //_A_ sg n, //    esita=nud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Metsaülemate    metsa_ülem+te //_S_ pl g, //
+Ühing    ühing+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tunnustades    tunnusta+des //_V_ des, //
+arvamust    arvamus+t //_S_ sg p, //
+<kiil>
+,    , //_Z_ //
+et    et+0 //_J_ //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="XXXX-SP" >
+kevadine    kevadine+0 //_A_ sg n, //
+</TIMEX>
+metsaraie    metsa_raie+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+lüüa    löö+a //_V_ da, //
+metsale    mets+le //_S_ sg all, //
+raskemaid    raskem+id //_C_ pl p, //
+haavu    haav+u //_S_ pl p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+muul    muu+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+raie    raie+0 //_S_ sg n, //
+,    , //_Z_ //
+</kiil>
+peavad    pida+vad //_V_ vad, //
+metsakasvatajad    metsa_kasvataja+d //_S_ pl n, //
+<TIMEX  tid="t14" type="DATE" temporalFunction="true" value="XXXX-SP" >
+kevadsuviste    kevad_suvine+te //_A_ pl g, //
+</TIMEX>
+raiete    raie+te //_S_ pl g, //
+peatamist    peatamine+t //_S_ sg p, //
+lühinägelikuks    lühi_nägelik+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Uba    Uba+0 //_H_ sg n, //
+pole    ole+0 //_V_ neg o, //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+raieid    raie+id //_S_ pl p, //
+keelata    keela+ta //_V_ da, //
+või    või+0 //_J_ //
+mitte    mitte+0 //_D_ //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+raiuda    raiu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Lageraied    lage_raie+d //_S_ pl n, //
+pehmel    pehme+l //_A_ sg ad, //
+maal    maa+l //_S_ sg ad, //
+raskete    raske+te //_A_ pl g, //
+riistadega    riist+dega //_S_ pl kom, //
+tuleks    tule+ks //_V_ ks, //
+keelata    keela+ta //_V_ da, //
+mistahes    mis_tahes+0 //_D_ //
+aastaajal    aasta_aeg+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+mõningaid    mõningas+id //_P_ pl p, //
+hooldusraieid    hooldus_raie+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+üraskitest    ürask+test //_S_ pl el, //
+asustatud    asusta+tud //_V_ tud, //    asusta=tud+0 //_A_ //    asusta=tud+0 //_A_ sg n, //    asusta=tud+d //_A_ pl n, //
+puude    puu+de //_S_ pl g, //    puue+0 //_S_ sg g, //
+raiumist    raiumine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+õige    õige+0 //_A_ sg n, //
+teha    tege+a //_V_ da, //
+nimelt    nimelt+0 //_D_ //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="XXXX-SP" >
+kevadsuvisel    kevad_suvine+l //_A_ sg ad, //
+ajal.    aeg+l //_S_ sg ad, //
+</TIMEX>
+</s>
+<s>
+Totaalselt    totaalselt+0 //_D_ //
+saaks    saa+ks //_V_ ks, //
+raied    raie+d //_S_ pl n, //
+keelata    keela+ta //_V_ da, //
+vaid    vaid+0 //_D_ //
+riigimetsades    riigi_mets+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+tõstaks    tõst+ks //_V_ ks, //
+järsult    järsult+0 //_D_ //
+raiete    raie+te //_S_ pl g, //
+laienemist    laienemine+t //_S_ sg p, //
+erametsades    era_mets+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+riigimetsades    riigi_mets+des //_S_ pl in, //
+hakkaks    hakka+ks //_V_ ks, //
+<TIMEX  tid="t16" type="SET" temporalFunction="true" value="XXXX-WI" >
+talviti    talviti+0 //_D_ //
+</TIMEX>
+kirves    kirves+0 //_S_ sg n, //
+märksa    märksa+0 //_D_ //
+tihedamini    tihedamini+0 //_D_ //
+välkuma    välku+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Lumevaestel    lume_vaene+tel //_A_ pl ad, //
+<TIMEX  tid="t17" type="DATE" temporalFunction="true" value="XXXX-WI" comment="fraasipiiride määramine vaieldav">
+talvekuudel    talve_kuu+del //_S_ pl ad, //
+</TIMEX>
+võiks    või+ks //_V_ ks, //
+see    see+0 //_P_ sg n, //
+tähendada    tähenda+da //_V_ da, //
+metsaloodusele    metsa_loodus+le //_S_ sg all, //
+suuremat    suurem+t //_C_ sg p, //
+katastroofi    katastroof+0 //_S_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+mõistlik    mõistlik+0 //_A_ sg n, //
+raie    raie+0 //_S_ sg n, //
+<TIMEX tid="t18" type="SET" temporalFunction="true" value="P1Y" freq="12M" comment="freq täpsus on vaieldav ...">
+aasta    aasta+0 //_S_ sg g, //
+ringi    ringi+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Metsakasvatajate    metsa_kasvataja+te //_S_ pl g, //
+arvates    arva+tes //_V_ des, //
+lubavad    luba+vad //_V_ vad, //
+juba    juba+0 //_D_ //
+kehtivad    kehti+vad //_V_ vad, //
+seadused    seadus+d //_S_ pl n, //
+võtta    võt+a //_V_ da, //
+vastutusele    vastutus+le //_S_ sg all, //
+igaühe    iga_üks+0 //_P_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+metsa    mets+0 //_S_ sg g, //
+ökosüsteemi    öko_süsteem+0 //_S_ sg p, //
+tõsiselt    tõsiselt+0 //_D_ //
+kahjustaks    kahjusta+ks //_V_ ks, //
+.    . //_Z_ //
+</s>
+<s>
+Häda    häda+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hoopis    hoopis+0 //_D_ //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+seadusi    seadus+i //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+rakendata    rakenda+ta //_V_ ta, //
+.    . //_Z_ //
+</s>
+<s>
+Uute    uus+te //_A_ pl g, //
+keeldude    keeld+de //_S_ pl g, //
+asemel    asemel+0 //_K_ //
+<kiil>
+,    , //_Z_ //
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+täitmist    täitmine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+peaaegu    pea_aegu+0 //_D_ //
+võimatu    võimatu+0 //_A_ sg n, //
+jälgida    jälgi+da //_V_ da, //
+,    , //_Z_ //
+</kiil>
+tuleks    tule+ks //_V_ ks, //
+pearõhk    pea_rõhk+0 //_S_ sg n, //
+asetada    aseta+da //_V_ da, //
+hoopis    hoopis+0 //_D_ //
+rahva    rahvas+0 //_S_ sg g, //
+metsanduslikule    metsandus=lik+le //_A_ sg all, //
+harimisele    harimine+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Metsasõjad    metsa_sõda+d //_S_ pl n, //
+alles    alles+0 //_D_ //
+algavad    alga+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Miks    miks+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+metsatöösturite    metsa_tööstur+te //_S_ pl g, //
+,    , //_Z_ //
+looduskaitsjate    loodus_kaitsja+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+metsakasvatajate    metsa_kasvataja+te //_S_ pl g, //
+leeril    leer+l //_S_ sg ad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+nii    nii+0 //_D_ //
+selgelt    selgelt+0 //_D_ //
+erinevad    erinev+d //_A_ pl n, //
+seisukohad    seisu_koht+d //_S_ pl n, //
+?    ? //_Z_ //
+</s>
+<s>
+Võiks    või+ks //_V_ ks, //
+ehk    ehk+0 //_D_ //
+arvata    arva+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tegemist    tegemine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tüüpilise    tüüpiline+0 //_A_ sg g, //
+eesti    eesti+0 //_G_ //
+jonniga    jonn+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+igaüks    iga_üks+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+omas    oma+s //_A_ sg in, //
+kinni    kinni+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+mõtleb    mõtle+b //_V_ b, //
+vaid    vaid+0 //_D_ //
+sellele    see+le //_P_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+teisele    teine+le //_O_ sg all, //    teine+le //_P_ sg all, //
+“    “ //_Z_ //
+ära    ära+0 //_D_ //
+teha    tege+a //_V_ da, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+lihtne    lihtne+0 //_A_ sg n, //
+asi    asi+0 //_S_ sg n, //
+siiski    siiski+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+.    . //_Z_ //
+</s>
+<s>
+Tegemist    tegemine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+soomlastele    soomlane+tele //_S_ pl all, //
+ja    ja+0 //_J_ //
+rootslastele    rootslane+tele //_S_ pl all, //
+ammuilma    ammu_ilma+0 //_D_ //
+tuttava    tuttav+0 //_A_ sg g, //
+tüüpilise    tüüpiline+0 //_A_ sg g, //
+“    “ //_Z_ //
+metsasõjaga    metsa_sõda+ga //_S_ sg kom, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Eestis    Eesti+s //_H_ sg in, //
+joonistuvad    joonistu+vad //_V_ vad, //
+sõdivad    sõdi+vad //_V_ vad, //
+pooled    pool+d //_S_ pl n, //
+nii    nii+0 //_D_ //
+selgelt    selgelt+0 //_D_ //
+välja    välja+0 //_D_ //
+esmakordselt    esma_kordselt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+vaieldakse    vaidle+dakse //_V_ takse, //
+seejuures    see_juures+0 //_D_ //
+lindude    lind+de //_S_ pl g, //
+kaitsmise    kaitsmine+0 //_S_ sg g, //
+,    , //_Z_ //
+vanade    vana+de //_A_ pl g, //
+metsade    mets+de //_S_ pl g, //
+säilitamise    säilitamine+0 //_S_ sg g, //
+või    või+0 //_J_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+teatava    teatav+0 //_A_ sg g, //
+metsaosa    metsa_osa+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+näiteks    näiteks+0 //_D_ //
+Vällamäe    Välla_mägi+0 //_H_ sg g, //
+)    ) //_Z_ //
+</kiil>
+kaitsmise    kaitsmine+0 //_S_ sg g, //
+ümber    ümber+0 //_K_ //
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seejuures    see_juures+0 //_D_ //
+teisejärguline    teise_järguline+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tähtis    tähtis+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+riigis    riik+s //_S_ sg in, //
+<kiil>
+,    , //_Z_ //
+kus    kus+0 //_D_ //
+metsa    mets+0 //_S_ sg g, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+paljude    palju+de //_P_ pl g, //
+eluvaldkondade    elu_valdkond+de //_S_ pl g, //
+jaoks    jaoks+0 //_K_ //
+väga    väga+0 //_D_ //
+oluline    oluline+0 //_A_ sg n, //
+,    , //_Z_ //
+</kiil>
+oleks    ole+ks //_V_ ks, //
+ühiskond    ühiskond+0 //_S_ sg n, //
+piisavalt    piisavalt+0 //_D_ //
+küps    küps+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+huvirühmad    huvi_rühm+d //_S_ pl n, //
+selgelt    selgelt+0 //_D_ //
+välja    välja+0 //_D_ //
+paistavad    paist+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Soomes    Soome+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Rootsis    Rootsi+s //_H_ sg in, //
+<TIMEX tid="t1_6" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+“    “ //_Z_ //
+metsasõdu    metsa_sõda+u //_S_ pl p, //
+”    ” //_Z_ //
+ja    ja+0 //_J_ //
+Eestis    Eesti+s //_H_ sg in, //
+<TIMEX  tid="t19" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+toimuvat    toimuv+t //_A_ sg p, //
+“    “ //_Z_ //
+lindude    lind+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+metsakombainide    metsa_kombain+de //_S_ pl g, //
+sõda    sõda+0 //_S_ sg n, //
+”    ” //_Z_ //
+eristab    erista+b //_V_ b, //
+vaid    vaid+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+moment    moment+0 //_S_ sg n, //
+-    - //_Z_ //
+neljas    neljas+0 //_O_ sg n, //
+huvigrupp    huvi_grupp+0 //_S_ sg n, //
+,    , //_Z_ //
+metsaomanikud    metsa_omanik+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meil    mina+l //_P_ pl ad, //
+vait    vait+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ju    ju+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+50    50+0 //_N_ ?, //
+000-liikmeline    000_liikmeline+0 //_A_ sg n, //
+seltskond    seltskond+0 //_S_ sg n, //
+veel    veel+0 //_D_ //
+piisavalt    piisavalt+0 //_D_ //
+küps    küps+0 //_A_ sg n, //
+lahinguväljale    lahingu_väli+le //_S_ sg all, //
+tormamiseks    tormamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Midagi    miski+dagi //_P_ sg p, //
+uut    uus+t //_A_ sg p, //
+pole    ole+0 //_V_ neg o, //
+päikese    päike+0 //_S_ sg g, //    päikene+0 //_S_ sg g, //
+all    all+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Sama    sama+0 //_P_ sg g, //
+moodi    moodi+0 //_K_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+<TIMEX  tid="t20" type="DATE" temporalFunction="true" value="PRESENT_REF" >
+täna    täna+0 //_D_ //
+</TIMEX>
+meil    mina+l //_P_ pl ad, //
+,    , //_Z_ //
+ähvardasid    ähvarda+sid //_V_ sid, //
+töösturid    tööstur+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+Soome    Soome+0 //_H_ sg g, //
+järjekordse    järje_kordne+0 //_A_ sg g, //
+“    “ //_Z_ //
+metsasõja    metsa_sõda+0 //_S_ sg g, //
+”    ” //_Z_ //
+puhkedes    puhke+des //_V_ des, //
+looduskaitsjate    loodus_kaitsja+te //_S_ pl g, //
+võidu    võit+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+majanduslanguse    majandus_langus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+töötute    töötu+te //_S_ pl g, //
+hulga    hulk+0 //_S_ sg g, //
+kasvuga    kasv+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Looduskaitsjad    Loodus_kaitsja+d //_H_ pl n, //
+omalt    oma+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+kuulutasid    kuuluta+sid //_V_ sid, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tööstureid    tööstur+id //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+ohjeldata    ohjelda+ta //_V_ ta, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+järgneb    järgne+b //_V_ b, //
+metsalooduse    metsa_loodus+0 //_S_ sg g, //
+pöördumatu    pöördumatu+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+ulatuslik    ulatuslik+0 //_A_ sg n, //
+vaesumine    vaesu=mine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hoiatanud    hoiata+nud //_V_ nud, //    hoiata=nud+0 //_A_ //    hoiata=nud+0 //_A_ sg n, //    hoiata=nud+d //_A_ pl n, //
+rahvuskultuuri    rahvus_kultuur+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+maine    maine+0 //_S_ sg g, //
+allakäigu    alla_käik+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Metsaraiujate    metsa_raiu=ja+te //_S_ pl g, //
+tiiba    tiib+0 //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ikka    ikka+0 //_D_ //
+iseloomustanud    ise_loomusta+nud //_V_ nud, //    ise_loomusta=nud+0 //_A_ //    ise_loomusta=nud+0 //_A_ sg n, //    ise_loomusta=nud+d //_A_ pl n, //
+materialistlik    materialistlik+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+tihti    tihti+0 //_D_ //
+isegi    isegi+0 //_D_ //
+küünilisevõitu    küünilise_võitu+0 //_D_ //
+hoiak    hoiak+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+las    las+0 //_D_ //
+koerad    koer+d //_S_ pl n, //
+hauguvad    hauku+vad //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+küll    küll+0 //_D_ //
+karavan    karavan+0 //_S_ sg n, //
+läheb    mine+b //_V_ b, //
+edasi    edasi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Aatelised    aateline+d //_A_ pl n, //
+metsakaitsjad    metsa_kaitsja+d //_S_ pl n, //
+seevastu    see_vastu+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kergesti    kergesti+0 //_D_ //
+kaldunud    kaldu+nud //_V_ nud, //    kaldu=nud+0 //_A_ //    kaldu=nud+0 //_A_ sg n, //    kaldu=nud+d //_A_ pl n, //
+utopismi    utopism+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Nende    see+de //_P_ pl g, //
+peamise    peamine+0 //_A_ sg g, //
+veendumuse    veendumus+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+tuleb    tule+b //_V_ b, //
+siis    siis+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+olukord    olu_kord+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väga    väga+0 //_D_ //
+hull    hull+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+teha    tege+a //_V_ da, //
+kõva    kõva+0 //_A_ sg n, //
+kära    kära+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Põrkuvad    põrku=v+d //_A_ pl n, //
+äärmused    äärmus+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ikka    ikka+0 //_D_ //
+tõstnud    tõst+nud //_V_ nud, //    tõst=nud+0 //_A_ //    tõst=nud+0 //_A_ sg n, //    tõst=nud+d //_A_ pl n, //
+metsateema    metsa_teema+0 //_S_ sg g, //
+avalikkuse    avalikkus+0 //_S_ sg g, //
+tähelepanu    tähele_panu+0 //_S_ sg g, //
+keskmesse    kese+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+Vahepealsed    vahe_pealne+d //_A_ pl n, //
+metsa    mets+0 //_S_ sg g, //
+huvirühmad    huvi_rühm+d //_S_ pl n, //
+-    - //_Z_ //
+metsakasvatajad    metsa_kasvataja+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+-omanikud    omanik+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oma    oma+0 //_P_ sg g, //
+mõõdukuses    mõõdukus+s //_S_ sg in, //
+pälvinud    pälvi+nud //_V_ nud, //    pälvi=nud+0 //_A_ //    pälvi=nud+0 //_A_ sg n, //    pälvi=nud+d //_A_ pl n, //
+vähem    vähem+0 //_D_ //
+huvi    huvi+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Ehkki    ehkki+0 //_J_ //
+just    just+0 //_D_ //    just+0 //_I_ //
+nemad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tihti    tihti+0 //_D_ //
+pakkunud    pakku+nud //_V_ nud, //    pakku=nud+0 //_A_ //    pakku=nud+0 //_A_ sg n, //    pakku=nud+d //_A_ pl n, //
+realistlikke    realistlik+e //_A_ pl p, //
+lahendusi    lahendus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Rahvusvahelisest    rahvus_vaheline+st //_A_ sg el, //
+praktikast    praktika+st //_S_ sg el, //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+kõige    kõige+0 //_D_ //
+valusamaid    valusam+id //_C_ pl p, //
+võtteid    võte+id //_S_ pl p, //
+<TIMEX tid="t1_5" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+käiku    käik+0 //_S_ adt, //
+pole    ole+0 //_V_ neg o, //
+lastud    las=tud+0 //_A_ //    las=tud+0 //_A_ sg n, //    las=tud+d //_A_ pl n, //    lask+tud //_V_ tud, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="199" >
+90-ndatel    90=s+tel //_O_ pl ad, //
+</TIMEX>
+saavutasid    saavuta+sid //_V_ sid, //
+põhjanaabrite    põhja_naaber+te //_S_ pl g, //
+metsakaitsjad    metsa_kaitsja+d //_S_ pl n, //
+suure    suur+0 //_A_ sg g, //
+võidu    võit+0 //_S_ sg g, //
+sellega    see+ga //_P_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kutsusid    kutsu+sid //_V_ sid, //
+Soome    Soome+0 //_H_ sg g, //
+metsadesse    mets+desse //_S_ pl ill, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+mõjukate    mõjukas+te //_A_ pl g, //
+väljaannete    välja_anne+te //_S_ pl g, //
+ajakirjanikke    aja_kirjanik+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Just    just+0 //_D_ //    just+0 //_I_ //
+Lääne-Euroopa    Lääne-Eu_roobas+0 //_H_ sg g, //    Lääne-Euroopa+0 //_H_ sg g, //
+rohelise    roheline+0 //_A_ sg g, //
+hoiakuga    hoiak+ga //_S_ sg kom, //
+tarbijate    tarbija+te //_S_ pl g, //
+surve    surve+0 //_S_ sg g, //
+sundis    sundi+s //_V_ s, //
+Soome    Soome+0 //_H_ sg g, //
+metsatööstureid    metsa_tööstur+id //_S_ pl p, //
+mõtlema    mõtle+ma //_V_ ma, //
+oma    oma+0 //_P_ sg g, //
+raieviiside    raie_viis+de //_S_ pl g, //
+,    , //_Z_ //
+-tehnoloogia    tehnoloogia+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+-toodete    toode+te //_S_ pl g, //
+loodussõbralikkusele    loodus_sõbralikkus+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Sage    sage+0 //_A_ sg n, //
+purelemine    purele=mine+0 //_S_ sg n, //
+Soome    Soome+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Rootsi    Rootsi+0 //_H_ sg g, //
+meedias    meedia+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sundinud    sundi+nud //_V_ nud, //    sundi=nud+0 //_A_ //    sundi=nud+0 //_A_ sg n, //    sundi=nud+d //_A_ pl n, //
+vaidlevaid    vaidle=v+id //_A_ pl p, //
+osapooli    osa_pool+i //_S_ pl p, //
+ennast    ise+t //_P_ sg p, //
+arendama    arenda+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Algselt    algselt+0 //_D_ //
+emotsioonidele    emotsioon+dele //_S_ pl all, //
+rõhunud    rõhu+nud //_V_ nud, //    rõhu=nud+0 //_A_ //    rõhu=nud+0 //_A_ sg n, //    rõhu=nud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+demagoogiat    demagoogia+t //_S_ sg p, //
+harrastanud    harrasta+nud //_V_ nud, //    harrasta=nud+0 //_A_ //    harrasta=nud+0 //_A_ sg n, //    harrasta=nud+d //_A_ pl n, //
+kemplemine    kemplemine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+järk-järgult    järk-järgult+0 //_D_ //
+asendunud    asendu+nud //_V_ nud, //    asendu=nud+0 //_A_ //    asendu=nud+0 //_A_ sg n, //    asendu=nud+d //_A_ pl n, //
+argumenteeritud    argumenteeri+tud //_V_ tud, //    argumenteeritud+0 //_A_ //    argumenteeritud+0 //_A_ sg n, //    argumenteeritud+d //_A_ pl n, //
+väitlustega    väitlus+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Eestlased    eestlane+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selle    see+0 //_P_ sg g, //
+tee    tee+0 //_S_ sg g, //
+alguses    algus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>

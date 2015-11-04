@@ -1,0 +1,3076 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2001-10-XXTXX:XX" />
+<ignoreeri>
+|
+seadus:
+Koondumise
+teate
+esitamise
+juhend
+(
+okt
+2001
+)
+|
+</ignoreeri>
+<s>
+Koondumise    koondumine+0 //_S_ sg g, //
+teate    teade+0 //_S_ sg g, //
+esitamise    esitamine+0 //_S_ sg g, //
+juhend    juhend+0 //_S_ sg n, //
+</s>
+<s>
+Rahandusministri    rahandus_minister+0 //_S_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="2001-08-27" >
+27.    27.+0 //_O_ ?, //
+augusti    august+0 //_S_ sg g, //
+2001.    2001.+0 //_O_ ?, //
+a    a+0 //_Y_ ?, //
+</TIMEX>
+määrus    määrus+0 //_S_ sg n, //
+nr    nr+0 //_Y_ ?, //
+75    75+0 //_N_ ?, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+RTL    RTL+0 //_Y_ ?, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+105    105+0 //_N_ ?, //
+,    , //_Z_ //
+1451    1451+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+</s>
+<s>
+jõustunud    jõustu+nud //_V_ nud, //    jõustu=nud+0 //_A_ //    jõustu=nud+0 //_A_ sg n, //    jõustu=nud+d //_A_ pl n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="2001-10-01" >
+1.    1.+0 //_O_ ?, //
+oktoobril    oktoober+l //_S_ sg ad, //
+2001.    2001.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+Määrus    määrus+0 //_S_ sg n, //
+kehtestatakse    kehtesta+takse //_V_ takse, //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+56    56+0 //_N_ ?, //
+,    , //_Z_ //
+332    332+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+26    26+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+5    5+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+1.    1.+0 //_O_ ?, //
+peatükk    pea_tükk+0 //_S_ sg n, //
+</s>
+<s>
+Üldsäte    Üld_säte+0 //_H_ sg n, //    Üldsäte+0 //_H_ sg n, //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+1.    1.+0 //_O_ ?, //
+</s>
+<s>
+Määruses    määrus+s //_S_ sg in, //
+sisalduva    sisalduv+0 //_A_ sg g, //
+juhendiga    juhend+ga //_S_ sg kom, //
+sätestatakse    sätesta+takse //_V_ takse, //
+koondumise    koondumine+0 //_S_ sg g, //
+teate    teade+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+edaspidi    edas_pidi+0 //_D_ //
+teade    teade+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumentide    dokument+de //_S_ pl g, //
+esitamise    esitamine+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+2.    2.+0 //_O_ ?, //
+peatükk    pea_tükk+0 //_S_ sg n, //
+</s>
+<s>
+Teate    tead+te //_V_ te, //
+esitajad    esitaja+d //_S_ pl n, //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+2.    2.+0 //_O_ ?, //
+</s>
+<s>
+Koondumisest    koondumine+st //_S_ sg el, //
+teatavad    teata+vad //_V_ vad, //
+selleks    see+ks //_P_ sg tr, //
+kohustatud    kohusta+tud //_V_ tud, //    kohusta=tud+0 //_A_ //    kohusta=tud+0 //_A_ sg n, //    kohusta=tud+d //_A_ pl n, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalised    osaline+d //_A_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+ühinemisel    ühinemine+l //_S_ sg ad, //
+äriseadustiku    äri_seadustik+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+26-28    26-28+0 //_N_ ?, //
+,    , //_Z_ //
+355    355+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91-93    91-93+0 //_N_ ?, //
+,    , //_Z_ //
+1500    1500+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t7" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+155    155+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+23    23+0 //_N_ ?, //
+,    , //_Z_ //
+355    355+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+24    24+0 //_N_ ?, //
+,    , //_Z_ //
+360    360+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+596    596+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+102    102+0 //_N_ ?, //
+,    , //_Z_ //
+907    907+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t8" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+29    29+0 //_N_ ?, //
+,    , //_Z_ //
+172    172+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+49    49+0 //_N_ ?, //
+,    , //_Z_ //
+303    303+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+55    55+0 //_N_ ?, //
+,    , //_Z_ //
+365    365+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+373    373+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t9" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+34    34+0 //_N_ ?, //
+,    , //_Z_ //
+185    185+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+tähenduses    tähendus+s //_S_ sg in, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalised    osaline+d //_A_ pl n, //
+ühiselt    ühiselt+0 //_D_ //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+omandamisel    omandamine+l //_S_ sg ad, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+osa    osa+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+valitsevat    valitsev+t //_A_ sg p, //
+mõju    mõju+0 //_S_ sg p, //
+omandav    omanda+v //_V_ v, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+ühiselt    ühiselt+0 //_D_ //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+omandamisel    omandamine+l //_S_ sg ad, //
+kolmanda    kolmas+0 //_O_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+osa    osa+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+ühist    ühine+t //_A_ sg p, //
+valitsevat    valitsev+t //_A_ sg p, //
+mõju    mõju+0 //_S_ sg p, //
+omandavad    omanda+vad //_V_ vad, //
+ettevõtjad    ette_võtja+d //_S_ pl n, //
+ühiselt    ühiselt+0 //_D_ //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+füüsiline    füüsiline+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+juba    juba+0 //_D_ //
+omab    oma+b //_V_ b, //
+vähemalt    vähemalt+0 //_D_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+valitsevat    valitsev+t //_A_ sg p, //
+mõju    mõju+0 //_S_ sg p, //
+,    , //_Z_ //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+omandamisel    omandamine+l //_S_ sg ad, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+osa    osa+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+füüsilised    füüsiline+d //_A_ pl n, //
+isikud    isik+d //_S_ pl n, //
+ühiselt    ühiselt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+juba    juba+0 //_D_ //
+omavad    oma+vad //_V_ vad, //
+vähemalt    vähemalt+0 //_D_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+valitsevat    valitsev+t //_A_ sg p, //
+mõju    mõju+0 //_S_ sg p, //
+,    , //_Z_ //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+omandamisel    omandamine+l //_S_ sg ad, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+osa    osa+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+ettevõtjad    ette_võtja+d //_S_ pl n, //
+või    või+0 //_J_ //
+füüsilised    füüsiline+d //_A_ pl n, //
+isikud    isik+d //_S_ pl n, //
+ühiselt    ühiselt+0 //_D_ //
+nende    tema+de //_P_ pl g, //
+poolt    poolt+0 //_K_ //
+ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+asutamisel    asutamine+l //_S_ sg ad, //
+;    ; //_Z_ //
+</s>
+<s>
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+väärtpaberite    väärt_paber+te //_S_ pl g, //
+avaliku    avalik+0 //_A_ sg g, //
+ostupakkumise    ostu_pakkumine+0 //_S_ sg g, //
+teel    teel+0 //_K_ //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+omandamisel    omandamine+l //_S_ sg ad, //
+pakkumist    pakkumine+t //_S_ sg p, //
+tegev    tegev+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+3.    3.+0 //_O_ ?, //
+peatükk    pea_tükk+0 //_S_ sg n, //
+</s>
+<s>
+Esitatava    esitatav+0 //_A_ sg g, //
+teate    teade+0 //_S_ sg g, //
+sisu    sisu+0 //_S_ sg n, //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+3.    3.+0 //_O_ ?, //
+</s>
+<s>
+Isikute    isik+te //_S_ pl g, //
+andmed    andmed+d //_S_ pl n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§-s    §+s //_Y_ sg in, //
+2    2+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+teatamiskohustusega    teatamis_kohustus+ga //_S_ sg kom, //
+isikud    isik+d //_S_ pl n, //
+esitavad    esita+vad //_V_ vad, //
+enda    ise+0 //_P_ sg g, //
+kohta    kohta+0 //_K_ //
+järgmised    järgmine+d //_A_ pl n, //
+andmed    andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+registrikood    registri_kood+0 //_S_ sg n, //    registri_kubu+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+tegevusalad    tegevus_ala+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+esindaja    esindaja+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+amet    amet+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+kontaktisik    kontakt_isik+0 //_S_ sg n, //
+või    või+0 //_J_ //
+volitatud    volita+tud //_V_ tud, //    volitatud+0 //_A_ //    volitatud+0 //_A_ sg n, //    volitatud+d //_A_ pl n, //
+isik    isik+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+amet    amet+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaliste    osaline+te //_A_ pl g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+järgmised    järgmine+d //_A_ pl n, //
+andmed    andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+registrikood    registri_kood+0 //_S_ sg n, //    registri_kubu+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+tegevusalad    tegevus_ala+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+esindaja    esindaja+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+amet    amet+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+kontaktisik    kontakt_isik+0 //_S_ sg n, //
+või    või+0 //_J_ //
+volitatud    volita+tud //_V_ tud, //    volitatud+0 //_A_ //    volitatud+0 //_A_ sg n, //    volitatud+d //_A_ pl n, //
+isik    isik+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+amet    amet+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+isiku    isik+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+loobub    loobu+b //_V_ b, //
+valitsevast    valitsev+st //_A_ sg el, //
+mõjust    mõju+st //_S_ sg el, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+osa    osa+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+,    , //_Z_ //
+</kiil>
+esitatakse    esita+takse //_V_ takse, //
+teates    teade+s //_S_ sg in, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+registrikood    registri_kood+0 //_S_ sg n, //    registri_kubu+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+tegevusalad    tegevus_ala+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+esindaja    esindaja+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+amet    amet+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+kontaktisik    kontakt_isik+0 //_S_ sg n, //
+või    või+0 //_J_ //
+volitatud    volita+tud //_V_ tud, //    volitatud+0 //_A_ //    volitatud+0 //_A_ sg n, //    volitatud+d //_A_ pl n, //
+isik    isik+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+amet    amet+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+4.    4.+0 //_O_ ?, //
+</s>
+<s>
+Koondumise    koondumine+0 //_S_ sg g, //
+kirjeldus    kirjeldus+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teates    teade+s //_S_ sg in, //
+tuleb    tule+b //_V_ b, //
+märkida    märki+da //_V_ da, //
+koondumise    koondumine+0 //_S_ sg g, //
+viis    viis+0 //_S_ sg n, //
+vastavalt    vastavalt+0 //_K_ //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§-le    §+le //_Y_ sg all, //
+19.    19.+0 //_O_ ?, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Koondumise    koondumine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+järgmised    järgmine+d //_A_ pl n, //
+andmed    andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+koondumise    koondumine+0 //_S_ sg g, //
+majanduslik    majanduslik+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+finantsiline    finantsiline+0 //_A_ sg n, //
+struktuur    struktuur+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+koondumise    koondumine+0 //_S_ sg g, //
+ajagraafik    aja_graafik+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+koondumisega    koondumine+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+äritegevuse    äri_tegevus+0 //_S_ sg g, //
+kirjeldus    kirjeldus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+tehingueelne    tehingu_eelne+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+-järgne    järgne+0 //_A_ sg n, //
+omandisuhe    omandi_suhe+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+struktuur    struktuur+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+ülevaade    üle_vaade+0 //_S_ sg n, //
+koondumiseni    koondumine+ni //_S_ sg ter, //
+viinud    vii+nud //_V_ nud, //    vii=nud+0 //_A_ //    vii=nud+0 //_A_ sg n, //    vii=nud+d //_A_ pl n, //
+asjaoludest    asja_olu+dest //_S_ pl el, //
+ja    ja+0 //_J_ //
+eesmärkidest    ees_märk+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+asutamisel    asutamine+l //_S_ sg ad, //
+esitatakse    esita+takse //_V_ takse, //
+lisaks    lisa+ks //_S_ sg tr, //
+lõikes    lõige+s //_S_ sg in, //
+2    2+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+teabele    teave+le //_S_ sg all, //
+järgmised    järgmine+d //_A_ pl n, //
+andmed    andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+tegutsemisaeg    tegutsemis_aeg+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+äritegevuse    äri_tegevus+0 //_S_ sg g, //
+iseloomustus    ise_loomustus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+olulisemad    olulisem+d //_C_ pl n, //
+kliendid    klient+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+tarnijad    tarnija+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+iseseisva    ise_seisev+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+püsiva    püsiv+0 //_A_ sg g, //
+äritegevuse    äri_tegevus+0 //_S_ sg g, //
+kirjeldus    kirjeldus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+ühise    ühine+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+juhtimise    juhtimine+0 //_S_ sg g, //
+kirjeldus    kirjeldus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+5.    5.+0 //_O_ ?, //
+</s>
+<s>
+Koondumise    koondumine+0 //_S_ sg g, //
+osaliste    osaline+te //_A_ pl g, //
+käive    käive+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käibe    käive+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+andmed    andmed+d //_S_ pl n, //
+vastavalt    vastavalt+0 //_K_ //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§-le    §+le //_Y_ sg all, //
+24    24+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+rahandusministri    rahandus_minister+0 //_S_ sg g, //
+määrusega    määrus+ga //_S_ sg kom, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+käibe    käive+0 //_S_ sg g, //
+arvutamise    arvutamine+0 //_S_ sg g, //
+juhendile    juhend+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käibe    käive+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+järgmised    järgmine+d //_A_ pl n, //
+andmed    andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="XXXX" >
+eelmise    eelmine+0 //_A_ sg g, //
+majandusaasta    majandus_aasta+0 //_S_ sg g, //
+</TIMEX>
+ülemaailmne    üle_maa_ilmne+0 //_A_ sg n, //
+käive    käive+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="XXXX" >
+eelmise    eelmine+0 //_A_ sg g, //
+majandusaasta    majandus_aasta+0 //_S_ sg g, //
+</TIMEX>
+käive    käive+0 //_S_ sg n, //
+Eestis    Eesti+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+koondumisele    koondumine+le //_S_ sg all, //
+eelnenud    eelne+nud //_V_ nud, //    eelne=nud+0 //_A_ //    eelne=nud+0 //_A_ sg n, //    eelne=nud+d //_A_ pl n, //
+aruandlusperiood    aru_andlus_periood+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+erinev    erinev+0 //_A_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t10" type="DURATION" temporalFunction="false" value="P12M" >
+12    12+0 //_N_ ?, //
+kuud    kuu+d //_S_ sg p, //
+</TIMEX>
+või    või+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+koondumise    koondumine+0 //_S_ sg g, //
+osaline    osaline+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pärast    pärast+0 //_K_ //
+aruandlusperioodi    aru_andlus_periood+0 //_S_ sg g, //
+lõppu    lõpp+0 //_S_ sg p, //
+osalenud    osale+nud //_V_ nud, //    osale=nud+0 //_A_ //    osale=nud+0 //_A_ sg n, //    osale=nud+d //_A_ pl n, //
+mõnes    mõni+s //_P_ sg in, //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+koondumises    koondumine+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+esitatakse    esita+takse //_V_ takse, //
+selgitus    selgitus+0 //_S_ sg n, //
+käibe    käive+0 //_S_ sg g, //
+arvestamise    arvestamine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+koondumisele    koondumine+le //_S_ sg all, //
+<TIMEX  tid="t11" type="DURATION" temporalFunction="true" value="P2Y" beginPoint="??" endPoint="??" >
+eelnenud    eelne+nud //_V_ nud, //    eelne=nud+0 //_A_ //    eelne=nud+0 //_A_ sg n, //    eelne=nud+d //_A_ pl n, //
+kahe    kaks+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§-s    §+s //_Y_ sg in, //
+2    2+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaline    osaline+0 //_A_ sg n, //
+saavutanud    saavuta+nud //_V_ nud, //    saavuta=nud+0 //_A_ //    saavuta=nud+0 //_A_ sg n, //    saavuta=nud+d //_A_ pl n, //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+osa    osa+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§    §+0 //_Y_ ?, //
+24    24+0 //_N_ ?, //
+lõigetes    lõige+tes //_S_ pl in, //
+4    4+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+5    5+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+viisil    viis+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+esitatakse    esita+takse //_V_ takse, //
+selgitus    selgitus+0 //_S_ sg n, //
+käibe    käive+0 //_S_ sg g, //
+arvutamise    arvutamine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+koondumise    koondumine+0 //_S_ sg g, //
+osaline    osaline+0 //_A_ sg n, //
+või    või+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aruandlusperioodil    aru_andlus_periood+l //_S_ sg ad, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+riigiabi    riigi_abi+0 //_S_ sg g, //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§    §+0 //_Y_ ?, //
+30    30+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+tähenduses    tähendus+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+esitatakse    esita+takse //_V_ takse, //
+andmed    andmed+d //_S_ pl n, //
+riigiabi    riigi_abi+0 //_S_ sg g, //
+laadi    laad+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+määra    määr+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+ning    ning+0 //_J_ //
+selgitus    selgitus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+riigiabi    riigi_abi+0 //_S_ sg n, //
+arvestati    arvesta+ti //_V_ ti, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+või    või+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+käibe    käive+0 //_S_ sg g, //
+hulka    hulka+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+6.    6.+0 //_O_ ?, //
+</s>
+<s>
+Osalus    osalus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+valitsev    valitsev+0 //_A_ sg n, //
+mõju    mõju+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalisega    osaline+ga //_A_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluvate    kuuluv+te //_A_ pl g, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+loetelu    loetelu+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+need    see+d //_P_ pl n, //
+ettevõtjad    ette_võtja+d //_S_ pl n, //
+tegutsevad    tegutse+vad //_V_ vad, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+4    4+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturgudel    kauba_turg+del //_S_ pl ad, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+esitatakse    esita+takse //_V_ takse, //
+teave    teave+0 //_S_ sg n, //
+iga    iga+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+vahelise    vaheline+0 //_A_ sg g, //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+iseloomu    ise_loom+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+teostamise    teostamine+0 //_S_ sg g, //
+vahendite    vahend+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Lisaks    lisa+ks //_S_ sg tr, //
+lõikes    lõige+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+teabele    teave+le //_S_ sg all, //
+esitatakse    esita+takse //_V_ takse, //
+andmed    andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+<TIMEX  tid="t12" type="DURATION" temporalFunction="true" value="P2Y" beginPoint="t13" endPoint="??" >
+kahe    kaks+0 //_N_ sg g, //
+eelmise    eelmine+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+omandanud    omanda+nud //_V_ nud, //    omanda=nud+0 //_A_ //    omanda=nud+0 //_A_ sg n, //    omanda=nud+d //_A_ pl n, //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+üle    üle+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tegutsevad    tegutse+vad //_V_ vad, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturgudel    kauba_turg+del //_S_ pl ad, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vähemalt    vähemalt+0 //_D_ //
+10    10+0 //_N_ ?, //
+protsendiline    protsendiline+0 //_A_ sg n, //
+osalus    osalus+0 //_S_ sg n, //
+ettevõtjas    ette_võtja+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tegutseb    tegutse+b //_V_ b, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturgudel    kauba_turg+del //_S_ pl ad, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+juhtimisorganite    juhtimis_organ+te //_S_ pl g, //
+liikmete    liige+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kuuluvad    kuulu+vad //_V_ vad, //
+mõne    mõni+0 //_P_ sg g, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+juhtimisorganitesse    juhtimis_organ+tesse //_S_ pl ill, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tegutseb    tegutse+b //_V_ b, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturgudel    kauba_turg+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teates    teade+s //_S_ sg in, //
+esitatakse    esita+takse //_V_ takse, //
+iga    iga+0 //_P_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+2    2+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+lõike    lõige+0 //_S_ sg g, //
+2    2+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+juhtimisorgani    juhtimis_organ+0 //_S_ sg g, //
+liikme    liige+0 //_S_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+ametikoht    ameti_koht+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+7.    7.+0 //_O_ ?, //
+</s>
+<s>
+Andmed    andmed+d //_S_ pl n, //
+kaubaturgude    kauba_turg+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+kaubaturgude    kauba_turg+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võimaldavad    võimalda+vad //_V_ vad, //
+kindlaks    kindel+ks //_A_ sg tr, //
+määrata    määra+ta //_V_ da, //
+need    see+d //_P_ pl n, //
+tooted    toode+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+teenused    teenus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+konkureerivad    konkureeri+vad //_V_ vad, //
+või    või+0 //_J_ //
+<kindel_piir/>
+võivad    või+vad //_V_ vad, //
+konkureerida    konkureeri+da //_V_ da, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaliste    osaline+te //_A_ pl g, //
+poolt    poolt+0 //_K_ //
+valmistatud    valmista+tud //_V_ tud, //    valmista=tud+0 //_A_ //    valmista=tud+0 //_A_ sg n, //    valmista=tud+d //_A_ pl n, //
+,    , //_Z_ //
+hangitud    hangi=tud+0 //_A_ //    hangi=tud+0 //_A_ sg n, //    hangi=tud+d //_A_ pl n, //    hanki+tud //_V_ tud, //
+või    või+0 //_J_ //
+tarnitud    tarni+tud //_V_ tud, //    tarni=tud+0 //_A_ //    tarni=tud+0 //_A_ sg n, //    tarni=tud+d //_A_ pl n, //
+kaupade    kaup+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+teenustega    teenus+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Andmed    andmed+d //_S_ pl n, //
+esitatakse    esita+takse //_V_ takse, //
+lähtudes    lähtu+des //_V_ des, //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§-s    §+s //_Y_ sg in, //
+3    3+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+kaubaturu    kauba_turg+0 //_S_ sg g, //
+mõistest    mõiste+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+kaubaturgude    kauba_turg+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+koondumine    koondumine+0 //_S_ sg n, //
+mõjutab    mõjuta+b //_V_ b, //
+<kiil>
+(    ( //_Z_ //
+edaspidi    edas_pidi+0 //_D_ //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturud    kauba_turg+d //_S_ pl n, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+järgnevalt    järgnevalt+0 //_D_ //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+kaubaturu    kauba_turg+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+tegutseb    tegutse+b //_V_ b, //
+vähemalt    vähemalt+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalist    osaline+t //_A_ sg p, //
+või    või+0 //_J_ //
+nendega    see+dega //_P_ pl kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluvat    kuuluv+t //_A_ sg p, //
+ettevõtjat    ette_võtja+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+koondumine    koondumine+0 //_S_ sg n, //
+viib    vii+b //_V_ b, //
+vähemalt    vähemalt+0 //_D_ //
+15    15+0 //_N_ ?, //
+protsendilise    protsendiline+0 //_A_ sg g, //
+turuosani    turu_osa+ni //_S_ sg ter, //
+<kiil>
+(    ( //_Z_ //
+horisontaalsed    horisontaalne+d //_A_ pl n, //
+suhted    suhe+d //_S_ pl n, //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+iga    iga+0 //_P_ sg g, //
+kaubaturu    kauba_turg+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+tegutseb    tegutse+b //_V_ b, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaline    osaline+0 //_A_ sg n, //
+või    või+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tootmise    toot=mine+0 //_S_ sg g, //
+või    või+0 //_J_ //
+kauba    kaup+0 //_S_ sg g, //
+turustamise    turustamine+0 //_S_ sg g, //
+eelneval    eelnev+l //_A_ sg ad, //
+või    või+0 //_J_ //
+järgneval    järgnev+l //_A_ sg ad, //
+tasandil    tasand+l //_S_ sg ad, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+kaubaturuga    kauba_turg+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+tegutseb    tegutse+b //_V_ b, //
+koondumise    koondumine+0 //_S_ sg g, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+osaline    osaline+0 //_A_ sg n, //
+või    või+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Andmed    andmed+d //_S_ pl n, //
+tuleb    tule+b //_V_ b, //
+esitada    esita+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+koondumise    koondumine+0 //_S_ sg g, //
+osaliste    osaline+te //_A_ pl g, //
+või    või+0 //_J_ //
+nendega    see+dega //_P_ pl kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluvate    kuuluv+te //_A_ pl g, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+turuosad    turu_osa+d //_S_ pl n, //
+kokku    kokku+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vähemalt    vähemalt+0 //_D_ //
+25    25+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+vertikaalsed    vertikaalne+d //_A_ pl n, //
+suhted    suhe+d //_S_ pl n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+muude    muu+de //_P_ pl g, //
+kaubaturgude    kauba_turg+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+kaubaturgudega    kauba_turg+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Nimetatakse    nimeta+takse //_V_ takse, //
+põhjused    põhjus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+miks    miks+0 //_D_ //
+sellele    see+le //_P_ sg all, //
+kaubaturule    kauba_turg+le //_S_ sg all, //
+kuuluvaid    kuuluv+id //_A_ pl p, //
+tooteid    toode+id //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+peaks    pida+ks //_V_ ks, //
+arvestama    arvesta+ma //_V_ ma, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturgudel    kauba_turg+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+hinnang    hinnang+0 //_S_ sg n, //
+iga    iga+0 //_P_ sg g, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturu    kauba_turg+0 //_S_ sg g, //
+mahu    maht+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+rahaliselt    rahaliselt+0 //_D_ //
+<kiil>
+(    ( //_Z_ //
+realiseerimise    realiseerimine+0 //_S_ sg g, //
+netokäive    neto_käive+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+koguseliselt    koguselise=lt+0 //_D_ //
+<TIMEX  tid="t14" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t15" endPoint="??" >
+viimase    viimane+0 //_A_ sg g, //
+kolme    kolm+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+antakse    and+takse //_V_ takse, //
+hinnang    hinnang+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+iga    iga+0 //_P_ sg n, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturg    kauba_turg+0 //_S_ sg n, //
+võiks    või+ks //_V_ ks, //
+areneda    arene+da //_V_ da, //
+<TIMEX  tid="t16" type="DURATION" temporalFunction="true" value="PXY" beginPoint="??" endPoint="t17" >
+järgnevatel    järgnev+tel //_A_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+<TIMEX  tid="t17" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Lisatakse    lisa+takse //_V_ takse, //
+teabe    teave+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+olevad    olev+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+hinnang    hinnang+0 //_S_ sg n, //
+iga    iga+0 //_P_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+4    4+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturu    kauba_turg+0 //_S_ sg g, //
+mahu    maht+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+rahaliselt    rahaliselt+0 //_D_ //
+<kiil>
+(    ( //_Z_ //
+realiseerimise    realiseerimine+0 //_S_ sg g, //
+netokäive    neto_käive+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+koguseliselt    koguselise=lt+0 //_D_ //
+<TIMEX  tid="t18" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t19" endPoint="??" >
+viimase    viimane+0 //_A_ sg g, //
+kolme    kolm+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t19" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+antakse    and+takse //_V_ takse, //
+hinnang    hinnang+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kaubaturg    kauba_turg+0 //_S_ sg n, //
+võiks    või+ks //_V_ ks, //
+areneda    arene+da //_V_ da, //
+<TIMEX  tid="t20" type="DURATION" temporalFunction="true" value="PXY" beginPoint="??" endPoint="t21" >
+järgnevatel    järgnev+tel //_A_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Lisatakse    lisa+takse //_V_ takse, //
+teabe    teave+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+olevad    olev+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+käibe    käive+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+rahaliselt    rahaliselt+0 //_D_ //
+<kiil>
+(    ( //_Z_ //
+realiseerimise    realiseerimine+0 //_S_ sg g, //
+netokäive    neto_käive+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+koguseliselt    koguselise=lt+0 //_D_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+antakse    and+takse //_V_ takse, //
+hinnang    hinnang+0 //_S_ sg n, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+turuosa    turu_osa+0 //_S_ sg n, //
+kohta    kohta+0 //_K_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+<TIMEX  tid="t22" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t23" endPoint="??" >
+viimase    viimane+0 //_A_ sg g, //
+kolme    kolm+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t23" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Lisatakse    lisa+takse //_V_ takse, //
+teabe    teave+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+olevad    olev+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Nimetatakse    nimeta+takse //_V_ takse, //
+viis    viis+0 //_N_ sg n, //
+olulisemat    olulisem+t //_C_ sg p, //
+konkurenti    konkurent+0 //_S_ sg p, //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+antakse    and+takse //_V_ takse, //
+hinnang    hinnang+0 //_S_ sg n, //
+nende    see+de //_P_ pl g, //
+turuosa    turu_osa+0 //_S_ sg p, //
+kohta    kohta+0 //_K_ //
+<TIMEX  tid="t24" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t25" endPoint="??" >
+kolme    kolm+0 //_N_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t25" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+võimalik    võimalik+0 //_A_ sg n, //
+,    , //_Z_ //
+nimetatakse    nimeta+takse //_V_ takse, //
+iga    iga+0 //_P_ sg g, //
+konkurendi    konkurent+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+tema    tema+0 //_P_ sg g, //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+kontaktisiku    kontakt_isik+0 //_S_ sg g, //    kontakti_sikk+0 //_S_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+amet    amet+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Lisatakse    lisa+takse //_V_ takse, //
+teabe    teave+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+olevad    olev+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+9    9+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+viie    viis+0 //_N_ sg g, //
+olulisema    olulisem+0 //_C_ sg g, //
+kliendi    klient+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+kuulu    kuulu+0 //_V_ o, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalisega    osaline+ga //_A_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+,    , //_Z_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Iga    iga+0 //_P_ sg g, //
+kliendi    klient+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+nimetatakse    nimeta+takse //_V_ takse, //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+kontaktisiku    kontakt_isik+0 //_S_ sg g, //    kontakti_sikk+0 //_S_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+amet    amet+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+esitatakse    esita+takse //_V_ takse, //
+andmed    andmed+d //_S_ pl n, //
+iga    iga+0 //_P_ sg g, //
+kliendi    klient+0 //_S_ sg g, //
+ostude    ost+de //_S_ pl g, //
+osakaalu    osa_kaal+0 //_S_ sg p, //
+kohta    kohta+0 //_K_ //
+lõikes    lõige+s //_S_ sg in, //
+7    7+0 //_N_ ?, //
+määratletud    määratle+tud //_V_ tud, //    määratletud+0 //_A_ //    määratletud+0 //_A_ sg n, //    määratletud+d //_A_ pl n, //
+käibest    käive+st //_S_ sg el, //
+<TIMEX  tid="t26" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t27" endPoint="??" >
+kolme    kolm+0 //_N_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t27" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+viie    viis+0 //_N_ sg g, //
+olulisema    olulisem+0 //_C_ sg g, //
+tarnija    tarnija+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+kuulu    kuulu+0 //_V_ o, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalisega    osaline+ga //_A_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+,    , //_Z_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Iga    iga+0 //_P_ sg g, //
+tarnija    tarnija+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+nimetatakse    nimeta+takse //_V_ takse, //
+ärinimi    äri_nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+kontaktisiku    kontakt_isik+0 //_S_ sg g, //    kontakti_sikk+0 //_S_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+amet    amet+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+esitatakse    esita+takse //_V_ takse, //
+andmed    andmed+d //_S_ pl n, //
+iga    iga+0 //_P_ sg g, //
+tarnija    tarnija+0 //_S_ sg g, //
+tarnete    tarne+te //_S_ pl g, //
+osakaalu    osa_kaal+0 //_S_ sg p, //
+kohta    kohta+0 //_K_ //
+iga    iga+0 //_P_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+hankest    hange+st //_S_ sg el, //
+kokku    kokku+0 //_D_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+<TIMEX  tid="t28" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t29" endPoint="??" >
+kolme    kolm+0 //_N_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t29" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+11    11+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+väliskaubanduse    välis_kaubandus+0 //_S_ sg g, //
+osatähtsuse    osa_tähtsus+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+sealhulgas    seal_hulgas+0 //_D_ //
+antakse    and+takse //_V_ takse, //
+hinnang    hinnang+0 //_S_ sg n, //
+impordi    import+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+ekspordi    eksport+0 //_S_ sg g, //
+väärtuse    väärtus+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+rahaliselt    rahaliselt+0 //_D_ //
+<kiil>
+(    ( //_Z_ //
+realiseerimise    realiseerimine+0 //_S_ sg g, //
+netokäive    neto_käive+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+koguseliselt    koguselise=lt+0 //_D_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+päritolu-    pärit_olu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+sihtkohamaa    siht_koha_maa+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+eraldi    eraldi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluvate    kuuluv+te //_A_ pl g, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+impordis    import+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+ekspordis    eksport+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Andmed    andmed+d //_S_ pl n, //
+esitatakse    esita+takse //_V_ takse, //
+<TIMEX  tid="t30" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t31" endPoint="??" >
+kolme    kolm+0 //_N_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t31" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+lõikes    lõige+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+antakse    and+takse //_V_ takse, //
+hinnang    hinnang+0 //_S_ sg n, //
+kvootide    kvoot+de //_S_ pl g, //
+,    , //_Z_ //
+tollimaksude    tolli_maks+de //_S_ pl g, //
+,    , //_Z_ //
+transpordikulude    transpordi_kulu+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+muude    muu+de //_P_ pl g, //
+seadusandlike    seadus_andlik+e //_A_ pl g, //
+tegurite    tegur+te //_S_ pl g, //
+mõju    mõju+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+impordile    import+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Lisatakse    lisa+takse //_V_ takse, //
+teabe    teave+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+olevad    olev+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+12    12+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+kaubaturule    kauba_turg+le //_S_ sg all, //
+sisenemist    sisenemine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+sealt    sealt+0 //_D_ //
+lahkumist    lahkumine+t //_S_ sg p, //
+mõjutavate    mõjutav+te //_A_ pl g, //
+tegurite    tegur+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+sealhulgas    seal_hulgas+0 //_D_ //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+teate    teade+0 //_S_ sg g, //
+esitajale    esitaja+le //_S_ sg all, //
+teadaolevate    teada_olev+te //_A_ pl g, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t32" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="t33" endPoint="??" >
+viimase    viimane+0 //_A_ sg g, //
+kolme    kolm+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t33" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+alustanud    alusta+nud //_V_ nud, //    alusta=nud+0 //_A_ //    alusta=nud+0 //_A_ sg n, //    alusta=nud+d //_A_ pl n, //
+äritegevust    äri_tegevus+t //_S_ sg p, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturgudel    kauba_turg+del //_S_ pl ad, //
+või    või+0 //_J_ //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t34" type="DURATION" temporalFunction="true" anchorTimeID="t32" >
+sama    sama+0 //_P_ sg g, //
+aja    aeg+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+sealt    sealt+0 //_D_ //
+lahkunud    lahku+nud //_V_ nud, //    lahkunud+0 //_A_ //    lahkunud+0 //_A_ sg n, //    lahkunud+d //_A_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+asjaolude    asja_olu+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+mõjutavad    mõjuta+vad //_V_ vad, //
+kaubaturule    kauba_turg+le //_S_ sg all, //
+sisenemist    sisenemine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+sealt    sealt+0 //_D_ //
+lahkumist    lahkumine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+13    13+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+andmed    andmed+d //_S_ pl n, //
+üldiste    üldine+te //_A_ pl g, //
+asjaolude    asja_olu+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+,    , //_Z_ //
+sealhulgas    seal_hulgas+0 //_D_ //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+kaubaturu    kauba_turg+0 //_S_ sg g, //
+arengufaas    arengu_faas+0 //_S_ sg n, //
+,    , //_Z_ //
+kaupade    kaup+de //_S_ pl g, //
+nõudluse    nõudlus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+pakkumise    pakkumine+0 //_S_ sg g, //
+struktuur    struktuur+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+nende    tema+de //_P_ pl g, //
+eeldatav    eeldatav+0 //_A_ sg n, //
+areng    areng+0 //_S_ sg n, //
+<TIMEX  tid="t35" type="DURATION" temporalFunction="true" value="P3Y" beginPoint="??" endPoint="t36" >
+järgneva    järgnev+0 //_A_ sg g, //
+kolme    kolm+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t36" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+kaupade    kaup+de //_S_ pl g, //
+pakkumise    pakkumine+0 //_S_ sg g, //
+turustuskanalid    turustus_kanal+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+teenindusvõrgud    teenindus_võrk+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+vertikaalse    vertikaalne+0 //_A_ sg g, //
+koostöö    koos_töö+0 //_S_ sg g, //
+laad    laad+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+ulatus    ulatus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+klientide    klient+de //_S_ pl g, //
+eelistuste    eelistus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+tarbimisharjumuste    tarbimis_harjumus+te //_S_ pl g, //
+tähtsus    tähtsus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+klientide    klient+de //_S_ pl g, //
+jagunemine    jagunemine+0 //_S_ sg n, //
+erinevatesse    erinev+tesse //_A_ pl ill, //
+rühmadesse    rühm+desse //_S_ pl ill, //
+ja    ja+0 //_J_ //
+nende    tema+de //_P_ pl g, //
+rühmade    rühm+de //_S_ pl g, //
+iseloomulikud    ise_loomulik+d //_A_ pl n, //
+jooned    joon+d //_S_ pl n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+avaliku    avalik+0 //_A_ sg g, //
+sektori    sektor+0 //_S_ sg g, //
+tähtsus    tähtsus+0 //_S_ sg n, //
+kliendina    klient+na //_S_ sg es, //
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+klientide    klient+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+tarnijate    tarnija+te //_S_ pl g, //
+koondumise    koondumine+0 //_S_ sg g, //
+aste    aste+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+tegevusvabadusele    tegevus_vabadus+le //_S_ sg all, //
+;    ; //_Z_ //
+</s>
+<s>
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+uurimistöö    uurimis_töö+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+tootearenduse    toote_arendus+0 //_S_ sg g, //
+tähtsus    tähtsus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+osakaal    osa_kaal+0 //_S_ sg n, //
+käibest    käive+st //_S_ sg el, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+üldiselt    üldiselt+0 //_D_ //
+ja    ja+0 //_J_ //
+koondumise    koondumine+0 //_S_ sg g, //
+osalistel    osaline+tel //_A_ pl ad, //
+;    ; //_Z_ //
+</s>
+<s>
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+ainuõiguslike    ainu_õigus=lik+e //_A_ pl g, //
+turustuslepingute    turustus_leping+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+pikaajaliste    pika_ajaline+te //_A_ pl g, //
+lepingute    leping+te //_S_ pl g, //
+tähtsus    tähtsus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+9    9+0 //_N_ ?, //
+)    ) //_Z_ //
+kehtiv    kehtiv+0 //_A_ sg n, //
+hinnatase    hinna_tase+0 //_S_ sg n, //
+igal    iga+l //_P_ sg ad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+võrreldes    võrdle+des //_V_ des, //
+geograafiliselt    geo_graafilise=lt+0 //_D_ //
+lähedaste    lähedane+te //_A_ pl g, //
+kaubaturgude    kauba_turg+de //_S_ pl g, //
+hinnatasemega    hinna_tase+ga //_S_ sg kom, //
+;    ; //_Z_ //
+</s>
+<s>
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+muud    muu+d //_P_ pl n, //
+asjaolud    asja_olu+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olulised    oluline+d //_A_ pl n, //
+koondumisele    koondumine+le //_S_ sg all, //
+hinnangu    hinnang+0 //_S_ sg g, //
+andmisel    andmine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+8.    8.+0 //_O_ ?, //
+</s>
+<s>
+Koondumise    koondumine+0 //_S_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+kaubaturule    kauba_turg+le //_S_ sg all, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+hinnang    hinnang+0 //_S_ sg n, //
+koondumise    koondumine+0 //_S_ sg g, //
+mõjust    mõju+st //_S_ sg el, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturgudele    kauba_turg+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Esitatakse    Esitatakse+0 //_H_ sg g, //
+hinnang    hinnang+0 //_S_ sg n, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+koondumisele    koondumine+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+põhjendused    põhjendus+d //_S_ pl n, //
+,    , //_Z_ //
+miks    miks+0 //_D_ //
+tuleks    tule+ks //_V_ ks, //
+koondumisele    koondumine+le //_S_ sg all, //
+luba    luba+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+9.    9.+0 //_O_ ?, //
+</s>
+<s>
+Kuulumine    kuulumine+0 //_S_ sg n, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+ühendustesse    ühendus+tesse //_S_ pl ill, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Nimetatakse    nimeta+takse //_V_ takse, //
+kodu-    kodu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+välismaised    välis_maine+d //_A_ pl n, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+ühendused    ühendus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+liikmeks    liige+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõjutatud    mõjuta+tud //_V_ tud, //    mõjuta=tud+0 //_A_ //    mõjuta=tud+0 //_A_ sg n, //    mõjuta=tud+d //_A_ pl n, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+tegutsev    tegutsev+0 //_A_ sg n, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaline    osaline+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Lõikes    lõige+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+ühenduste    ühendus+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+nimi    nimi+0 //_S_ sg n, //
+,    , //_Z_ //
+aadress    aadress+0 //_S_ sg n, //
+,    , //_Z_ //
+telefoni    telefon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+faksi    faks+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+,    , //_Z_ //
+e-posti    e-post+0 //_H_ sg g, //
+aadress    aadress+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+kontaktisik    kontakt_isik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+10.    10.+0 //_O_ ?, //
+</s>
+<s>
+Koondumisega    koondumine+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+konkurentsipiirangud    konkurentsi_piirang+d //_S_ pl n, //
+</s>
+<s>
+Teates    teade+s //_S_ sg in, //
+nimetatakse    nimeta+takse //_V_ takse, //
+koondumise    koondumine+0 //_S_ sg g, //
+jõustamise    jõustamine+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+olevates    olev+tes //_A_ pl in, //
+lepingutes    leping+tes //_S_ pl in, //
+või    või+0 //_J_ //
+<kindel_piir/>
+muudes    muu+des //_P_ pl in, //
+dokumentides    dokument+des //_S_ pl in, //
+sisalduvad    sisaldu+vad //_V_ vad, //
+koondumisega    koondumine+ga //_S_ sg kom, //
+otseselt    otseselt+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+jõustamiseks    jõustamine+ks //_S_ sg tr, //
+vajalikud    vajalik+d //_A_ pl n, //
+konkurentsipiirangud    konkurentsi_piirang+d //_S_ pl n, //
+nende    tema+de //_P_ pl g, //
+esinemisel    esinemine+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+põhjendus    põhjendus+0 //_S_ sg n, //
+konkurentsipiirangute    konkurentsi_piirang+te //_S_ pl g, //
+vajalikkuse    vajalikkus+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+11.    11.+0 //_O_ ?, //
+</s>
+<s>
+Muud    muu+d //_P_ pl n, //
+koondumisega    koondumine+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+asjaolud    asja_olu+d //_S_ pl n, //
+</s>
+<s>
+Muude    muu+de //_P_ pl g, //
+koondumisega    koondumine+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+asjaolude    asja_olu+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+esitatakse    esita+takse //_V_ takse, //
+ettepanekud    ette_panek+d //_S_ pl n, //
+koondumisega    koondumine+ga //_S_ sg kom, //
+otseselt    otseselt+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+tingimuste    tingimus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+kohustuste    kohustus+te //_S_ pl g, //
+osas    osas+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+koondumine    koondumine+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+tekitada    tekita+da //_V_ da, //
+või    või+0 //_J_ //
+tugevdada    tugevda+da //_V_ da, //
+turguvalitsevat    turgu_valitsev+t //_A_ sg p, //
+seisundit    seisund+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+oluliselt    oluliselt+0 //_D_ //
+kahjustab    kahjusta+b //_V_ b, //
+konkurentsi    konkurents+0 //_S_ sg g, //
+kaubaturul    kauba_turg+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+4.    4.+0 //_O_ ?, //
+peatükk    pea_tükk+0 //_S_ sg n, //
+</s>
+<s>
+Teate    tead+te //_V_ te, //
+esitamine    esitamine+0 //_S_ sg n, //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+12.    12.+0 //_O_ ?, //
+</s>
+<s>
+Teate    tead+te //_V_ te, //
+esitamine    esitamine+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Konkurentsiametile    konkurentsi_amet+le //_S_ sg all, //
+esitatakse    esita+takse //_V_ takse, //
+teade    teade+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§    §+0 //_Y_ ?, //
+26    26+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+2    2+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+<kiil>
+(    ( //_Z_ //
+edaspidi    edas_pidi+0 //_D_ //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+)    ) //_Z_ //
+</kiil>
+ühes    üks+s //_N_ sg in, //    üks+s //_P_ sg in, //
+eksemplaris    eksemplar+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teade    teade+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+sisaldama    sisalda+ma //_V_ ma, //
+teavet    teave+t //_S_ sg p, //
+vastavalt    vastavalt+0 //_K_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+3.    3.+0 //_O_ ?, //
+peatüki    pea_tükk+0 //_S_ sg g, //
+sätetele    säte+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teade    teade+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+esitatakse    esita+takse //_V_ takse, //
+eesti    eesti+0 //_G_ //
+keeles    keel+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Kokkuleppel    kokku_lepe+l //_S_ sg ad, //
+Konkurentsiametiga    konkurentsi_amet+ga //_S_ sg kom, //
+võib    või+b //_V_ b, //
+teatele    teade+le //_S_ sg all, //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+esitada    esita+da //_V_ da, //
+mõnes    mõni+s //_P_ sg in, //
+muus    muu+s //_P_ sg in, //
+keeles    keel+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kokkuleppel    kokku_lepe+l //_S_ sg ad, //
+Konkurentsiametiga    konkurentsi_amet+ga //_S_ sg kom, //
+võivad    või+vad //_V_ vad, //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+olla    ole+a //_V_ da, //
+ärakirjad    ära_kiri+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+vastavust    vastavus+t //_S_ sg p, //
+originaalile    originaal+le //_S_ sg all, //
+kinnitab    kinnita+b //_V_ b, //
+nende    tema+de //_P_ pl g, //
+esitaja    esitaja+0 //_S_ sg n, //
+oma    oma+0 //_P_ sg g, //
+allkirjaga    all_kiri+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Ärakirja    ära_kiri+0 //_S_ sg g, //
+esitamise    esitamine+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Konkurentsiametil    konkurentsi_amet+l //_S_ sg ad, //
+õigus    õigus+0 //_S_ sg n, //
+nõuda    nõud+a //_V_ da, //
+algdokumenti    alg_dokument+0 //_S_ sg p, //
+ärakirja    ära_kiri+0 //_S_ sg g, //
+õigsuse    õigsus+0 //_S_ sg g, //
+kontrollimiseks    kontrollimine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+kirjaliku    kirjalik+0 //_A_ sg g, //
+taotluse    taotlus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+võib    või+b //_V_ b, //
+Konkurentsiameti    konkurentsi_amet+0 //_S_ sg g, //
+peadirektor    pea_direktor+0 //_S_ sg n, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+asetäitja    ase_täitja+0 //_S_ sg n, //
+vastavalt    vastavalt+0 //_K_ //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§    §+0 //_Y_ ?, //
+26    26+0 //_N_ ?, //
+lõikele    lõige+le //_S_ sg all, //
+8    8+0 //_N_ ?, //
+vabastada    vabasta+da //_V_ da, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalise    osaline+0 //_A_ sg g, //
+mõnede    mõni+de //_P_ pl g, //
+andmete    andmed+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+dokumentide    dokument+de //_S_ pl g, //
+esitamise    esitamine+0 //_S_ sg g, //
+kohustusest    kohustus+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+need    see+d //_P_ pl n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+vajalikud    vajalik+d //_A_ pl n, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+koondumise    koondumine+0 //_S_ sg g, //
+menetlemisel    menetlemine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teatel    teade+l //_S_ sg ad, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+selle    see+0 //_P_ sg g, //
+esitamise    esitamine+0 //_S_ sg g, //
+kuupäev    kuu_päev+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+allkiri    all_kiri+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Teatele    teade+le //_S_ sg all, //
+alla    alla+0 //_D_ //
+kirjutanud    kirjuta+nud //_V_ nud, //    kirjutanud+0 //_A_ //    kirjutanud+0 //_A_ sg n, //    kirjutanud+d //_A_ pl n, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+te    sina+0 //_P_ pl n, //
+)    ) //_Z_ //
+</kiil>
+või    või+0 //_J_ //
+isiku    isik+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+te    sina+0 //_P_ pl n, //
+)    ) //_Z_ //
+</kiil>
+esindaja    esindaja+0 //_S_ sg n, //
+esitab    esita+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+volitusi    volitus+i //_S_ pl p, //
+tõendava    tõendav+0 //_A_ sg g, //
+dokumendi    dokument+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Ühisel    ühine+l //_A_ sg ad, //
+teatamisel    teatamine+l //_S_ sg ad, //
+esitatakse    esita+takse //_V_ takse, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+teade    teade+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+koondumise    koondumine+0 //_S_ sg g, //
+osalised    osaline+d //_A_ pl n, //
+volitavad    volita=v+d //_A_ pl n, //
+end    ise+0 //_P_ sg p, //
+esindama    esinda+ma //_V_ ma, //
+ühel    üks+l //_N_ sg ad, //    üks+l //_P_ sg ad, //
+esindajal    esindaja+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+13.    13.+0 //_O_ ?, //
+</s>
+<s>
+Teate    tead+te //_V_ te, //
+esitamise    esitamine+0 //_S_ sg g, //
+kuupäev    kuu_päev+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teade    teade+0 //_S_ sg n, //
+loetakse    luge+takse //_V_ takse, //
+esitatuks    esitatud+ks //_A_ sg tr, //
+selle    see+0 //_P_ sg g, //
+Konkurentsiametisse    konkurentsi_amet+sse //_S_ sg ill, //
+saabumise    saabumine+0 //_S_ sg g, //
+kuupäeval    kuu_päev+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+fikseeritud    fikseeri+tud //_V_ tud, //    fikseeri=tud+0 //_A_ //    fikseeri=tud+0 //_A_ sg n, //    fikseeri=tud+d //_A_ pl n, //
+Konkurentsiameti    konkurentsi_amet+0 //_S_ sg g, //
+dokumendiregistris    dokumendi_register+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+teade    teade+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+vasta    vasta+0 //_V_ o, //
+“    “ //_Z_ //
+Konkurentsiseaduse    konkurentsi_seadus+0 //_S_ sg g, //
+”    ” //_Z_ //
+§    §+0 //_Y_ ?, //
+26    26+0 //_N_ ?, //
+lõigetes    lõige+tes //_S_ pl in, //
+1    1+0 //_N_ ?, //
+kuni    kuni+0 //_K_ //
+4    4+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+nõuetele    nõue+tele //_S_ pl all, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+käesolevale    käes_olev+le //_A_ sg all, //
+juhendile    juhend+le //_S_ sg all, //
+loetakse    luge+takse //_V_ takse, //
+teade    teade+0 //_S_ sg n, //
+mitteesitatuks    mitte_esitatud+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+teates    teade+s //_S_ sg in, //
+sisalduv    sisalduv+0 //_A_ sg n, //
+teave    teave+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mittetäielikud    mitte_täielik+d //_A_ pl n, //
+teatab    teata+b //_V_ b, //
+Konkurentsiameti    konkurentsi_amet+0 //_S_ sg g, //
+peadirektor    pea_direktor+0 //_S_ sg n, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+asetäitja    ase_täitja+0 //_S_ sg n, //
+sellest    see+st //_P_ sg el, //
+teatajale    teataja+le //_S_ sg all, //
+kirjalikult    kirjalikult+0 //_D_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+määrata    määra+ta //_V_ da, //
+tähtaja    täht_aeg+0 //_S_ sg g, //
+teate    teade+0 //_S_ sg g, //
+puuduste    puudus+te //_S_ pl g, //
+kõrvaldamiseks    kõrvaldamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Sellisel    selline+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+loetakse    luge+takse //_V_ takse, //
+teade    teade+0 //_S_ sg n, //
+esitatuks    esitatud+ks //_A_ sg tr, //
+kuupäevast    kuu_päev+st //_S_ sg el, //
+,    , //_Z_ //
+mil    mil+0 //_D_ //
+kogu    kogu+0 //_A_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+3.    3.+0 //_O_ ?, //
+peatükis    pea_tükk+s //_S_ sg in, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+teave    teave+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+,    , //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+12    12+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+5    5+0 //_N_ ?, //
+kirjeldatud    kirjelda+tud //_V_ tud, //    kirjelda=tud+0 //_A_ //    kirjelda=tud+0 //_A_ sg n, //    kirjelda=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+teates    teade+s //_S_ sg in, //
+sisalduvates    sisalduv+tes //_A_ pl in, //
+faktides    fakt+des //_S_ pl in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pärast    pärast+0 //_K_ //
+teate    teade+0 //_S_ sg g, //
+esitamist    esitamine+t //_S_ sg p, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+muutused    muutus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+tuleb    tule+b //_V_ b, //
+sellest    see+st //_P_ sg el, //
+viivitamata    viivitamata+0 //_D_ //
+Konkurentsiametile    konkurentsi_amet+le //_S_ sg all, //
+teatada    teata+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+need    see+d //_P_ pl n, //
+muutused    muutus+d //_S_ pl n, //
+omavad    oma+vad //_V_ vad, //
+olulist    oluline+t //_A_ sg p, //
+mõju    mõju+0 //_S_ sg p, //
+koondumise    koondumine+0 //_S_ sg g, //
+hindamisel    hindamine+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+Konkurentsiamet    konkurentsi_amet+0 //_S_ sg n, //
+lugeda    luge+da //_V_ da, //
+teate    teade+0 //_S_ sg g, //
+esitatuks    esitatud+ks //_A_ sg tr, //
+kuupäevast    kuu_päev+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+millal    millal+0 //_D_ //
+teade    teade+0 //_S_ sg n, //
+muutustest    muutus+test //_S_ pl el, //
+jõudis    jõud+is //_V_ s, //
+Konkurentsiametisse    konkurentsi_amet+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+14.    14.+0 //_O_ ?, //
+</s>
+<s>
+Teates    teade+s //_S_ sg in, //
+sisalduvad    sisaldu+vad //_V_ vad, //
+ärisaladused    äri_saladus+d //_S_ pl n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Konkurentsiametil    konkurentsi_amet+l //_S_ sg ad, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+õigust    õigus+t //_S_ sg p, //
+ilma    ilma+0 //_K_ //
+teate    teade+0 //_S_ sg g, //
+esitaja    esitaja+0 //_S_ sg g, //
+nõusolekuta    nõus_olek+ta //_S_ sg ab, //
+avaldada    avalda+da //_V_ da, //
+teisele    teine+le //_O_ sg all, //    teine+le //_P_ sg all, //
+isikule    isik+le //_S_ sg all, //
+teates    teade+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumentides    dokument+des //_S_ pl in, //
+sisalduvaid    sisalduv+id //_A_ pl p, //
+ärisaladusi    äri_saladus+i //_S_ pl p, //
+ega    ega+0 //_J_ //
+neid    see+d //_P_ pl p, //
+avalikustada    avalikusta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Teate    tead+te //_V_ te, //
+esitaja    esitaja+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+selgelt    selgelt+0 //_D_ //
+piiritlema    piiritle+ma //_V_ ma, //
+teabe    teave+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+dokumendid    dokument+d //_S_ pl n, //
+<kiil>
+,    , //_Z_ //
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+ta    tema+0 //_P_ sg n, //
+käsitleb    käsitle+b //_V_ b, //
+ärisaladusena    äri_saladus+na //_S_ sg es, //
+,    , //_Z_ //
+</kiil>
+tehes    tege+es //_V_ des, //
+neile    tema+le //_P_ pl all, //
+vastava    vastav+0 //_A_ sg g, //
+märke    märge+0 //_S_ sg g, //
+või    või+0 //_J_ //
+esitades    esita+des //_V_ des, //
+selle    see+0 //_P_ sg g, //
+teabe    teave+0 //_S_ sg g, //
+eraldi    eraldi+0 //_D_ //
+lisana    lisa+na //_S_ sg es, //
+.    . //_Z_ //
+</s>
+<s>
+Ärisaladuseks    äri_saladus+ks //_S_ sg tr, //
+ei    ei+0 //_V_ neg, //
+loeta    luge+ta //_V_ ta, //
+andmeid    andmed+id //_S_ pl p, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaliste    osaline+te //_A_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+koondumise    koondumine+0 //_S_ sg g, //
+kirjeldust    kirjeldus+t //_S_ sg p, //
+,    , //_Z_ //
+andmeid    andmed+id //_S_ pl p, //
+koondumise    koondumine+0 //_S_ sg g, //
+osaliste    osaline+te //_A_ pl g, //
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="XXXX" >
+eelmise    eelmine+0 //_A_ sg g, //
+majandusaasta    majandus_aasta+0 //_S_ sg g, //
+</TIMEX>
+käibe    käive+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+andmeid    andmed+id //_S_ pl p, //
+koondumise    koondumine+0 //_S_ sg g, //
+osalistega    osaline+tega //_A_ pl kom, //
+samasse    sama+sse //_P_ sg ill, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluvate    kuuluv+te //_A_ pl g, //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+ettevõtjate    ette_võtja+te //_S_ pl g, //
+valitseva    valitsev+0 //_A_ sg g, //
+mõju    mõju+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+osaluse    osalus+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+teistes    teine+tes //_O_ pl in, //    teine+tes //_P_ pl in, //
+ettevõtjates    ette_võtja+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+5.    5.+0 //_O_ ?, //
+peatükk    pea_tükk+0 //_S_ sg n, //
+</s>
+<s>
+Rakendussätted    rakendus_säte+d //_S_ pl n, //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+15.    15.+0 //_O_ ?, //
+</s>
+<s>
+Määruse    määrus+0 //_S_ sg g, //
+kehtetuks    kehtetu+ks //_A_ sg tr, //
+tunnistamine    tunnistamine+0 //_S_ sg n, //
+</s>
+<s>
+Rahandusministri    rahandus_minister+0 //_S_ sg g, //
+<TIMEX  tid="t37" type="DATE" temporalFunction="false" value="1998-09-24" >
+24.    24.+0 //_O_ ?, //
+septembri    september+0 //_S_ sg g, //
+1998.    1998.+0 //_O_ ?, //
+a    a+0 //_Y_ ?, //
+</TIMEX>
+määrus    määrus+0 //_S_ sg n, //
+nr    nr+0 //_Y_ ?, //
+80    80+0 //_N_ ?, //
+“    “ //_Z_ //
+Ettevõtjate    ette_võtja+te //_S_ pl g, //
+ühinemisest    ühinemine+st //_S_ sg el, //
+teatamise    teatamine+0 //_S_ sg g, //
+juhendi    juhend+0 //_S_ sg g, //
+kinnitamine    kinnitamine+0 //_S_ sg n, //
+”    ” //_Z_ //
+<kiil>
+(    ( //_Z_ //
+RTL    RTL+0 //_Y_ ?, //
+<TIMEX  tid="t38" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+292/293    292/293+0 //_N_ ?, //
+,    , //_Z_ //
+1192    1192+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+tunnistatakse    tunnista+takse //_V_ takse, //
+kehtetuks    kehtetu+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+16.    16.+0 //_O_ ?, //
+</s>
+<s>
+Määruse    määrus+0 //_S_ sg g, //
+jõustumine    jõustumine+0 //_S_ sg n, //
+</s>
+<s>
+Käesolev    käes_olev+0 //_A_ sg n, //
+määrus    määrus+0 //_S_ sg n, //
+jõustub    jõustu+b //_V_ b, //
+<TIMEX  tid="t39" type="DATE" temporalFunction="false" value="2001-10-01" >
+2001.    2001.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+1.    1.+0 //_O_ ?, //
+oktoobril    oktoober+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>

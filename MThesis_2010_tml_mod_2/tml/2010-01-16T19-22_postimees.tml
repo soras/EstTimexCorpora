@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2010-01-16T19:22" functionInDocument="CREATION_TIME"/>
+
+Ekspert: jäätunud Soome laht on laevadele väga ohtlik
+(25)
+
+<TIMEX3 tid="t1" type="TIME" value="2010-01-16T19:22" >16.01.2010 19:22</TIMEX3>
+
+Kommenteeri | Prindi
+Tallinna Tehnikaülikooli meresüsteemide instituudi vanemteadur Tarmo Kõuts hoiatab, et jäätunud Soome lahel on laevaõnnetuste, sealhulgas tankerikatastroofide tõenäosus kümme korda suurem.
+REKLAAM
+
+ 
+
+Just jää- ja meresõidu ohutuse tagamisega Soome lahe dünaamilistes jäätingimustes tegeleb <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> töös olev Euroopa Liidu <TIMEX3 tid="t3" type="DURATION" value="P4Y">nelja-aastane</TIMEX3> teadusprojekt Safewin, vahendas ERR Uudised «Aktuaalset kaamerat».
+
+<TIMEX3 tid="t4" type="DATE" value="PRESENT_REF" anchorTimeID="t0">«Praegused</TIMEX3> prognoosid näitavad, et kui laevaintsidentide ja avariide tõenäosus <TIMEX3 tid="t5" type="DATE" value="2010-SU" anchorTimeID="t0">suvel</TIMEX3> on palju väiksem kui jäätingimustes, siis tõenäoliselt see (laevaõnnetus tankeriga) juhtub <TIMEX3 tid="t6" type="DATE" value="2010-WI" anchorTimeID="t0">talvel,»</TIMEX3> ütles Safewin projektiga tihedalt seotud Kõuts, kelle sõnul oli õnnetusi kõige arvukamalt <TIMEX3 tid="t7" type="DATE" value="2003-WI">2002-2003 aasta talvel,</TIMEX3> kus registeeritud intsidentide arv jõudis isegi 250-300-ni
+
+Jäämägesid Läänemerel küll ei liigu, kuid kõige kõrgem siin mõõdetud rüsijää kuhi on ulatunud 27 meetrini, millest veel ohtlikum on Soome lahel aga see, et tuule poolt pingesse aetud jää võtab laevad justkui oma embusse ja tekib jääsurutis.
+
+Kõutsi sõnul on tüüpiline olukord, mis jääsurutise tingimustes juhtub, see, et laevad sõidavad jäämurdja järel karavanis, kuid jääsurutise tõttu lahtine kanal sulgub nii kiiresti, et karavanis kõige nõrgem laev ei ole võimeline enam teistele järgnema ning järgmine laev sõidab talle tagant sisse.
+
+
+</TimeML>
+

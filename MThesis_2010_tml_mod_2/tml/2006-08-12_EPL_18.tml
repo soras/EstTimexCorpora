@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Saarlased ootavad Tartu-Kuressaare lennuliini 
+Foto : avies.ee 
+ Paljud Tartus elavad saarlased leiavad , et eelistaksid <TIMEX3 tid="t70" type="DURATION" value="PT6H" >kuuetunnisele</TIMEX3> bussisõidule Saaremaale minekuks kallimat , kuid märksa kiiremat lennureisi . 
+ Sellise õhuliini avamist <TIMEX3 tid="t71" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> aga keegi ei plaani . 
+ Majandus- ja kommunikatsiooniministeeriumi lennundus- ja merendusosakonna peaspetsialisti Andres Aruoja sõnul on probleem selles , et Saare maavalitsus pole üles näidanud initsiatiivi lennuliin avada , kirjutab Postimees . 
+ Tallinna-Kuressaare ja Tallinna-Kärdla vahet sõitva lennufirma Avies tegevdirektori Vladimir Pisarkovi sõnul on Kuressaare-Tartu liinist küll räägitud , aga pikemat arutelu sel teemal pole olnud . 
+ " Kui keegi näitaks initsiatiivi üles , oleksime nõus isegi selle liini plaanidesse võtma , " kommenteeris Pisarkov . 
+ Saare maavalitsuse peaspetsialist Marek Raud ei osanud vastata , miks see teema pole arutlusele tulnud . 
+ " Loomulikult võiks välja uurida liikluse vajaduse , siis oleks omalt poolt võimalik taotleda ka majandus- ja kommunikatsiooniministeeriumist toetust , " märkis ta . 
+</TimeML>

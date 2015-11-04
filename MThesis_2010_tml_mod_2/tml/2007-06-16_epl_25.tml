@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Tuuli Aeg 
+ <TIMEX3 tid="t85" type="DATE" value="2007-06-17" anchorTimeID="t0">Pühapäev , 17. juuni</TIMEX3>
+ Regatt piirist piirini algab <TIMEX3 tid="t86" type="TIME" value="2007-06-17T16" anchorTimeID="t85">kell neli pärastlõunal</TIMEX3> Narvas piduliku rongkäiguga , mis traditsiooniliselt saab alguse Peetri platsilt ja suundub Narva Jahtklubi sadamasse . 
+ Rongkäigule järgneb sadamas pidulik ning siis juba vallatu üritus , kus peale ametliku osa lõppu võistlevad Suvemiss ja Suvemees 2007. 
+ <TIMEX3 tid="t87" type="TIME" value="2007-06-17TEV" anchorTimeID="t86">Õhtu</TIMEX3> jätkub hotellis Inger piduliku avadringi , autasustamise ning Suvemissi ja 
+ Suvemisteri finaalesinemistega . 
+ <TIMEX3 tid="t88" type="DATE" value="2007-06-18" anchorTimeID="t0">Esmaspäev , 18. juuni</TIMEX3> 
+ <TIMEX3 tid="t89" type="TIME" value="2007-06-18T11" anchorTimeID="t88">Hommikul kella üheteistkümne ajal</TIMEX3> stardivad jahid Narva-Jõesuust Kundasse 
+ <TIMEX3 tid="t90" type="TIME" value="2007-06-18TEV" anchorTimeID="t89">Õhtul</TIMEX3> Kundasse saabuvad regatilised saavad seal <TIMEX3 tid="t91" type="TIME" value="2007-06-18TEV" anchorTimeID="t90">õhtul</TIMEX3> mere ääres lõkkeplatsil osa lõkketegemisest , rahvuslikust muusikast ja tantsudest ning koduõlust ja suitsukalast . 
+ Loomulikult toimub ka pidulik rivistus ja autasustamine . 
+</TimeML>

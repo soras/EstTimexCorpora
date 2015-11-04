@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kas seda tööd keegi veel mäletab ?  
+Suurema osa oma lapsepõlvest veetsin vanavanemate kodus ning loomulikult oli <TIMEX3 tid="t14" type="DATE" value="XXXX-SU" comment="üldises tähenduses">suve</TIMEX3> lahutamatuks osaks talutöö . 
+ Eelkõige heinategu . 
+ <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> on heinateost kui iidsest ja tõsisest Eesti talutööst tehtud naerualune . 
+ Kahju on sellest , et endale piima või koort klaasi valades või juustuviilu lõigates ei mõelda sellele , et ilma heinateota seda ei teha ei saaks . 
+ Aga eks minu jutt on nostalgiline ja ammu läbi räägitud ; <TIMEX3 tid="t16" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegusel ajal</TIMEX3> kõlab see kui kibestunud tänitamine . 
+ Aga miks ma siis kirjutan ? 
+ Kirjutan sellepärast , et küsida : mis on need tööd , mida vanemad oma lastel suvilates ja maakodudes <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF" anchorTimeID="t0">tänapäeval</TIMEX3> teha lubavad ? 
+ Või mis töid seal üldse teha olekski ? 
+ Grillida liha , telki üles panna , arvutimänge mängida . 
+ Muidugi , vanemaid on igasuguseid , kuid väidan , et tõsised ja lapsepõlve tõeliselt meenutama jäävad tööd on vist jäädavalt kadunud . 
+ Mille poolest erineb sinu järeltulija lapsepõlv sinu <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegusest</TIMEX3> puhkusest ? 
+</TimeML>

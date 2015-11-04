@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Kadri Ibrus 
+ Foto : Kristo Nurmis 
+ Puudega inimesed võivad saada <TIMEX3 tid="t74" type="SET" value="P1Y" quant="EVERY">iga aasta</TIMEX3> 5000-25 000 krooni eest raviteenuseid . 
+ <TIMEX3 tid="t75" type="DURATION" value="P28Y" >28-aastane</TIMEX3> Lauri sattus <TIMEX3 tid="t76" type="DURATION" value="P9Y" >üheksa-aastaselt</TIMEX3> autoõnnetusse ning sai sellest ajutrauma . 
+ Pärast <TIMEX3 tid="t77" type="DURATION" value="P3M" >kolme teadvuseta kuud</TIMEX3> ja <TIMEX3 tid="t78" type="DURATION" value="P8M" >kaheksat haiglas veedetud kuud</TIMEX3> jäid tema vasaku kehapoole jäsemed halvatuks . 
+ Koolis jõudis ta käia vaid <TIMEX3 tid="t79" type="DURATION" value="P2Y" >kaks aastat</TIMEX3> , nii jäi pärast õnnetust üle vaid koduõppe võimalus . 
+ Kuid keskkoolidiplom ja kolm eri kutseõppeasutuse diplomit IT valdkonnas on noormehel <TIMEX3 tid="t80" type="DATE" value="2007-08-27" anchorTimeID="t0">täna</TIMEX3> taskus . 
+ Erinevalt enamikust lapsena ajutrauma läbi elanud noortest käib Lauri tööl . 
+ " Olen raamatukogus poole kohaga registripidaja , " rääkis ta . 
+ Tööl käib ta <TIMEX3 tid="t81" type="SET" value="P1W" freq="3D">kolm päeva nädalas</TIMEX3> , sest rohkemaks pole lihtsalt jaksu . 
+ Kuigi Lauri on lapsepõlvest saati olnud raske puudega , ei teadnud ei tema ega tema vanemad , et juba <TIMEX3 tid="t82" type="DURATION" value="PXY" >aastaid</TIMEX3> on tal olnud õigus rehabilitatsiooniplaanile , millega määratakse talle 5000 krooni eest taastusraviteenuseid <TIMEX3 tid="t83" type="SET" value="P1Y" >aastas</TIMEX3> . 
+ Lauri isa Uku sõnul ei ole see <TIMEX3 tid="t84" type="DURATION" value="PXY" endPoint="t0" >aastate jooksul</TIMEX3> ei perearsti ega teiste tervishoiuasutustega suhtlemisel kunagi jutuks tulnud . 
+</TimeML>

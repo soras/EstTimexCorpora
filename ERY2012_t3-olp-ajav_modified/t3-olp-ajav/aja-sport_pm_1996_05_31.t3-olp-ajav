@@ -1,0 +1,228 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1996-05-31TXX:XX" />
+<ignoreeri>
+|
+autor:
+REIN
+LEPIK
+|
+ajalehenumber:
+Postimees
+1996.05.31
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Sport
+|
+artikkel:
+1.
+juuni
+-
+üleeuroopaline
+jalgrattapäev
+|
+</ignoreeri>
+<s>
+Juba    juba+0 //_D_ //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="PXY" >
+mitu    mitu+0 //_P_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+paljudes    palju+des //_P_ pl in, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+riikides    riik+des //_S_ pl in, //
+korraldatud    korralda+tud //_V_ tud, //    korralda=tud+0 //_A_ //    korralda=tud+0 //_A_ sg n, //    korralda=tud+d //_A_ pl n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="XXXX-06-01" anchorTimeID="t2" >
+ühel    üks+l //_N_ sg ad, //    üks+l //_P_ sg ad, //
+ja    ja+0 //_J_ //
+samal    sama+l //_P_ sg ad, //
+päeval    päev+l //_S_ sg ad, //
+</TIMEX>
+arvukalt    arvukalt+0 //_D_ //
+jalgrattaüritusi    jalg_ratta_üritus+i //_S_ pl p, //
+eesmärgiga    ees_märk+ga //_S_ sg kom, //
+tuua    too+a //_V_ da, //
+rohkem    rohkem+0 //_D_ //
+inimesi    inimene+i //_S_ pl p, //
+jalgrattasadulasse    jalg_ratta_sadul+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+Üleskutse    üles_kutse+0 //_S_ sg g, //
+selliseid    selline+id //_P_ pl p, //
+üritusi    üritus+i //_S_ pl p, //
+korraldada    korralda+da //_V_ da, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Jalgratturite    jalg_rattur+te //_S_ pl g, //
+Föderatsioon    Föderatsioon+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+Balti    balti+0 //_G_ //
+riike    riik+e //_S_ pl p, //
+esindab    esinda+b //_V_ b, //
+jalgrattaklubi    jalg_ratta_klubi+0 //_S_ sg g, //
+Vänta    vänt+0 //_S_ adt, //
+Aga    Aga+0 //_H_ sg g, //    Aga+0 //_H_ sg n, //    aga+0 //_J_ //
+.    . //_Z_ //
+</s>
+<s>
+XV    XV+0 //_O_ ?, //
+Tartu    Tartu+0 //_H_ sg g, //
+Rattaralli    ratta_ralli+0 //_S_ sg g, //
+järelüritusena    järel_üritus+na //_S_ sg es, //
+korraldame    korralda+me //_V_ me, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1996-06-01" >
+laupäeval    lau_päev+l //_S_ sg ad, //
+,    , //_Z_ //
+1.    1.+0 //_O_ ?, //
+juunil    juuni+l //_S_ sg ad, //
+</TIMEX>
+jalgrattapäeva    jalg_ratta_päev+0 //_S_ sg g, //
+Vooremäe    voore_mägi+0 //_S_ sg g, //
+rahvaspordikeskuses    rahva_spordi_keskus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Ootame    oota+me //_V_ me, //
+rattureid    rattur+id //_S_ pl p, //
+matka    matk+0 //_S_ sg g, //
+korras    kord+s //_S_ sg in, //
+Vooremäele    voore_mägi+le //_S_ sg all, //
+<TIMEX  tid="t3" type="TIME" temporalFunction="true" value="1996-06-01T11" anchorTimeID="t2" >
+kella    kell+0 //_S_ sg g, //
+11ks    11+ks //_N_ sg tr, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+mil    mil+0 //_D_ //
+algavad    alga+vad //_V_ vad, //
+võistlused    võistlus+d //_S_ pl n, //
+mäkketõusus    mäkke_tõus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Rada    rada+0 //_S_ sg n, //
+sobib    sobi+b //_V_ b, //
+eriti    eriti+0 //_D_ //
+mägirataste    mägi_ratas+te //_S_ pl g, //
+jaoks    jaoks+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+osaleda    osale+da //_V_ da, //
+võib    või+b //_V_ b, //
+ka    ka+0 //_D_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+ratastega    ratas+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Peaasi    pea_asi+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sõiduriist    sõidu_riist+0 //_S_ sg n, //
+rajal    rada+l //_S_ sg ad, //    raja+l //_S_ sg ad, //
+hätta    häda+0 //_S_ adt, //
+ei    ei+0 //_V_ neg, //
+jäta    jät+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Lühemal    lühem+l //_C_ sg ad, //
+rajal    rada+l //_S_ sg ad, //    raja+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+eraldi    eraldi+0 //_D_ //
+võistlus    võistlus+0 //_S_ sg n, //
+veel    veel+0 //_D_ //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="true" value="P15Y" mod="LESS_THAN" >
+alla    alla+0 //_D_ //
+15-aastastele    15_aastane+tele //_A_ pl all, //
+</TIMEX>
+ratturitele    rattur+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Registreerida    registreeri+da //_V_ da, //
+saab    saa+b //_V_ b, //
+kohapeal    koha_peal+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+parimatele    parim+tele //_U_ pl all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+rida    rida+0 //_S_ sg n, //
+auhindu    au_hind+u //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Hea    hea+0 //_A_ sg g, //
+ilma    ilm+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aga    aga+0 //_J_ //
+tore    tore+0 //_A_ sg n, //
+ka    ka+0 //_D_ //
+niisama    nii_sama+0 //_D_ //
+,    , //_Z_ //
+oma    oma+0 //_P_ sg g, //
+lõbuks    lõbu+ks //_S_ sg tr, //
+Vooremäe    voore_mägi+0 //_S_ sg g, //
+radadel    rada+del //_S_ pl ad, //
+rattaga    ratas+ga //_S_ sg kom, //
+sõita    sõit+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Korraldajate    korraldaja+te //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muusika    muusika+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+müügipunktis    müügi_punkt+s //_S_ sg in, //
+veidi    veidi+0 //_D_ //
+söögi-    söök+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+joogipoolist    joogi_poolis+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Üritusel    üritus+l //_S_ sg ad, //
+osalevad    osale+vad //_V_ vad, //
+jalgratturid    jalg_rattur+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+sõpruslinnast    sõprus_linn+st //_S_ sg el, //
+Zutphenist    Zutphen+st //_H_ sg el, //    Zutpheni+st //_H_ sg el, //
+<kiil>
+(    ( //_Z_ //
+Holland    Holland+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+siia    siia+0 //_D_ //
+jõudmiseks    jõud=mine+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+läbinud    läbi+nud //_V_ nud, //    läbi=nud+0 //_A_ //    läbi=nud+0 //_A_ sg n, //    läbi=nud+d //_A_ pl n, //
+1200    1200+0 //_N_ ?, //
+km    km+0 //_Y_ ?, //
+pikkuse    pikkune+0 //_A_ sg g, //
+matkateekonna    matka_teekond+0 //_S_ sg g, //
+ratastel    ratas+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Vooremäelt    voore_mägi+lt //_S_ sg abl, //
+tagasi    tagasi+0 //_D_ //
+tullakse    tule+akse //_V_ takse, //
+jälle    jälle+0 //_D_ //
+matka    matk+0 //_S_ sg g, //
+korras    kord+s //_S_ sg in, //
+.    . //_Z_ //
+</s>

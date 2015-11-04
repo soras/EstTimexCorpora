@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Ramadi linna lähistelt Lõuna-Iraagis leiti <TIMEX3 tid="t153" type="DATE" value="2006" anchorTimeID="t0">aasta tagasi</TIMEX3> Bagdadi lähistel röövitud Iraagi taekwondo meeskonna 13 liikme lagunenud surnukehad . 
+ Jordaaniasse spordilaagrisse teel olnud 15 idamaiste võitluskunstide meistrit rööviti <TIMEX3 tid="t154" type="DATE" value="2006-05" anchorTimeID="t0">eelmise aasta mais</TIMEX3> Bagdadi lähistel Anbari provintsis , vahendab BBC . 
+ 13 inimese lagunenud surnukehad leidis Ramadi linna lähistelt sunni Anbari nõukogu liige . 
+ Meeskonna kaks liiget on endiselt leidmata . 
+ Meistrite säilmed viidi Sadri linna haiglasse , kus selgitati DNA analüüsi põhjal välja hukkunute isikud . 
+ Hukkunute säilmed maeti <TIMEX3 tid="t155" type="DATE" value="2007-06-16" anchorTimeID="t0">täna</TIMEX3> Najafi linna . 
+ Sportlasi kogunes matustele mälestama hulgaliselt inimesi . 
+</TimeML>

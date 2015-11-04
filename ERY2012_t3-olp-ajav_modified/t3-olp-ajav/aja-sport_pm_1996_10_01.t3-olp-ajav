@@ -1,0 +1,74 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1996-10-01TXX:XX" />
+<ignoreeri>
+|
+autor:
+JÜRI
+METS
+|
+ajalehenumber:
+Postimees
+1996.10.01
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Sport
+|
+artikkel:
+Sügiskrossid
+jätkuvad
+|
+</ignoreeri>
+<s>
+Jalgratturite    jalg_rattur+te //_S_ pl g, //
+sügiskrossi    sügis_kross+0 //_S_ sg g, //
+karikavõistluste    karika_võistlus+te //_S_ pl g, //
+viies    viies+0 //_O_ sg n, //
+ja    ja+0 //_J_ //
+kuues    kuues+0 //_O_ sg n, //
+etapp    etapp+0 //_S_ sg n, //
+peeti    pida+ti //_V_ ti, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1996-W39-WE" >
+nädalavahetusel    nädala_vahetus+l //_S_ sg ad, //
+</TIMEX>
+Elva    Elva+0 //_H_ sg g, //
+lähedal    lähedal+0 //_K_ //
+Pirnakul    pirn_aku+l //_S_ sg ad, //
+<kiil>
+(    ( //_Z_ //
+ühtlasi    ühtlasi+0 //_D_ //
+Tartumaa    Tartu_maa+0 //_H_ sg n, //
+lahtised    lahtine+d //_A_ pl n, //
+meistrivõistlused    meistri_võistlus+d //_S_ pl n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+Otepääl    Otepää+l //_H_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Seitsmes    seitsmes+0 //_O_ sg n, //
+etapp    etapp+0 //_S_ sg n, //
+peetakse    pida+takse //_V_ takse, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1996-10-05" >
+eeloleval    eel_olev+l //_A_ sg ad, //
+laupäeval    lau_päev+l //_S_ sg ad, //
+</TIMEX>
+Siimustis    Siimusti+s //_H_ sg in, //
+,    , //_Z_ //
+kaheksas    kaheksa+s //_N_ sg in, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1996-10-06" >
+pühapäeval    püha_päev+l //_S_ sg ad, //
+</TIMEX>
+Tartus    Tartu+s //_H_ sg in, //
+Toomemäel    Toome_mägi+l //_H_ sg ad, //    Toomemäe+l //_H_ sg ad, //
+<kiil>
+(    ( //_Z_ //
+korraldab    korralda+b //_V_ b, //
+rattaklubi    ratta_klubi+0 //_S_ sg n, //
+Velo    Velo+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>

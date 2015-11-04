@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Kristo Nurmis 
+ <TIMEX3 tid="t39" type="DATE" value="2007-06-16" anchorTimeID="t0">Tänasel</TIMEX3> Keskerakonna volikogu istungil Pärnus kommenteeris Edgar Savisaar Reformierakonna esimehe Andrus Ansipi poolt <TIMEX3 tid="t40" type="DATE" value="PAST_REF" anchorTimeID="t0" >hiljuti</TIMEX3> reformierakonna kongressil välja öeldud soovi tulla ka Tallinnas võimule . 
+ Savisaar tunnistas , et ta mõistab Reformierakonna püüdlusi , vahendas erakonna pressiesindaja Toomas Raag . 
+ " Muidugi nad tahavad tulla Tallinnas võimule . 
+ Iseküsimus on aga see , kas ka tallinlased tahavad enam reformiste . 
+ Tallinlased ei soovi kolletuda . 
+ Nad on rahul <TIMEX3 tid="t41" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >tänase</TIMEX3> linnavõimuga ning reetjaid ja kraaklejaid nad linnavõimu juures ei soovi näha . 
+ Kui võimule tulevad reformistid , siis on nendega alati kaasnenud intriigid ja äraostmised . 
+ Tallinn vajab kodurahu , selle pärast tallinlased ei soovigi reformiste ja küllap nad demonstreerivad seda ka järgmistel kohalikel valimistel . " 
+ Keskerakonna esimees tuletas meelde , et reformistid olid Tallinnas võimul koos Keskerakonnaga kuni <TIMEX3 tid="t42" type="DATE" value="2004-FA">2004 aasta sügisese</TIMEX3> kurikuulsa " kirves selga " aktsioonini , kui nad müüsid maha oma <TIMEX3 tid="t43" type="DATE" value="PAST_REF" anchorTimeID="t0" >toonased</TIMEX3> koalitsioonipartnerid . 
+</TimeML>

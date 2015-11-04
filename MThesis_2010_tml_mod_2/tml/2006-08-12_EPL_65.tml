@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Suurbritannia avas akna <TIMEX3 tid="t305" type="DATE" value="1086" anchorTimeID="t0">920 aasta tagusesse</TIMEX3> maailma 
+Suurbritannia rahvusarhiiv avas internetis lehekülje , kus saab tutvuda riigi vanima arveraamatuga . 
+ <TIMEX3 tid="t306" type="DATE" value="1086" >1086. aastal</TIMEX3> kirja pandud Domesday Book ehk viimsepäevaraamat võtab üksikasjalikult kokku eluolu William Vallutaja ajal. 
+  Üheks riigi suuremaks aardeks peetav ladinakeelne Domesday Book koosneb suurest ja väiksest osast ning annab ülevaate peaaegu kogu <TIMEX3 tid="t308" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegusest</TIMEX3> Inglismaast . 
+ Internetiaadressil http : //www.nationalarchives.gov.uk/domesday/ ? source=domesday_fd_1 saab otsida infot Domesday Bookis mainitud paikade ja inimeste kohta ning mõne naela eest osta ka lehekülgede koopiaid . 
+ Samuti on seal muu <TIMEX3 tid="t309" type="DATE" value="PAST_REF" comment="ankurdamine" >tolleaegset</TIMEX3> elu tutvustav materjal ja mängud . 
+ Domesday Book kirjutati sellepärast , et <TIMEX3 tid="t310" type="DATE" value="1066" >1066. aastal</TIMEX3>  Inglismaa vallutanud Normandia hertsog William tahtis teada , kui palju ta kuningriik väärt on . 
+ Ta käskis kirja panna kõik maaomanikud , nende omandi ja selle , kuidas maad kasutati , kõik inimesed orjadest ülikuteni ning kõik tähelepanuväärsed rajatised , sealhulgas linnad , kirikud ja veskid . 
+</TimeML>

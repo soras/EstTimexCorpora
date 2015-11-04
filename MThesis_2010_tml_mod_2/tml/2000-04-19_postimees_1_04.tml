@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Tänavakuritegusid poole enam 
+ Linn ei pea turvafirmade tänavaile appikutsumist võimalikuks 
+ PRIIT RAJALO , priit.rajalo@postimees.ee 
+ Kuigi<TIMEX3 tid="t13" type="DATE" value="2000-01"/> <TIMEX3 tid="t14" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> <TIMEX3 tid="t15" type="DURATION" value="P3M" beginPoint="t13" endPoint="t16" anchorTimeID="t14">esimese kolme kuuga</TIMEX3> <TIMEX3 tid="t16" type="DATE" value="2000-03"/>on kuritegevus avalikes kohtades võrreldes<TIMEX3 tid="t17" type="DATE" value="1999-01"/> <TIMEX3 tid="t18" type="DURATION" value="P3M" beginPoint="t17" endPoint="t19" anchorTimeID="t15">möödunud aasta sama ajaga</TIMEX3> <TIMEX3 tid="t19" type="DATE" value="1999-03"/>kasvanud ligi kaks korda , ei pea linnavalitsus võimalikuks kutsuda turvafirmasid appi tänavail korda pidama . 
+ Tartu politseiprefekt Raivo Palu kinnitas , et politsei <TIMEX3 tid="t20" type="DATE" value="2000" anchorTimeID="t0">tänavune</TIMEX3> prioriteet on tagada linlaste turvalisus avalikes kohtades . 
+ See tähendab , et koondamisest räsitud prefektuuril tuleb olemasolevate jõududega rohkemates kohtades ja tihedamalt patrullida . 
+ Vähe avastatud kuritegusid 
+ " Otsest seost ma kuritegevuse kasvu ja politseinike hulga vähenemise vahele tõmmata ei julge , " tõdes Palu . 
+ " Kuritegude hulk poleks koondamise tõttu nii kiiresti , vaid <TIMEX3 tid="t21" type="DURATION" value="PXM" >mõne kuuga</TIMEX3> , nii palju kasvanud . " 
+ Palu väitel on kasvu põhjus pigem selles , et kriminaalpolitseinike koondamise järel on vähenenud kuritegude avastamine . 
+ Mida vähem kuritegusid avastatakse , seda julgemaks kurjategijad muutuvad , märkis prefekt . 
+ " Midagi katastroofilist siiski veel pole , sest <TIMEX3 tid="t22" type="DURATION" value="PXY" beginPoint="t295" endPoint="t0" >viimastel aastatel</TIMEX3><TIMEX3 tid="t295" type="DATE" value="XXXX" temporalFunction="true"/> on kuritegevus pidevalt kasvanud , " leidis prefekt . 
+ " Pealegi ei saa<TIMEX3 tid="t23" type="DATE" value="2000-01"/> <TIMEX3 tid="t24" type="DURATION" value="P3M" beginPoint="t23" endPoint="t25" anchorTimeID="t0">esimese kolme kuu</TIMEX3> <TIMEX3 tid="t25" type="DATE" value="2000-03"/>põhjal teha lõplikke järeldusi . " 
+ Linnapea Andrus Ansipi hinnangul võib siiski olla seos kuritegude sagenemise ja politseinike hulga vähenemise vahel , sest igal pool , kus mundrimehi koondati , on kuritegevus kasvanud , kuid näiteks Tallinnas , kus politseinikke lisandus , hoopis vähenenud . 
+ " Tänavakuritegevuse kasv on küll otseselt politseinike arvuga seotud , " väitis Ansip . 
+ " See statistika peab olema ohu märk ja põhjus lõpetada uue koondamislaine üle arutlemine . " 
+ Turvafirmad nõus aitama 
+ Küsimusele , kas tänavakuritegevuse ohjeldamisele saaks kaasata turvafirmad , vastas Raivo Palu , et teoreetiliselt on see võimalik , kuid tegelikkuses raske , sest politseil ja turvafirmadel on erinevad prioriteedid . 
+ Turvafirma Skorpion direktori Gunnar Ööbiku hinnangul oleks võimalus kaasata turvafirmasid tänavakuritegevuse ohjeldamiseks , kuid selleks peaks linn hakkama neilt teenust tellima . 
+ " Meie autod on nagunii <TIMEX3 tid="t26" type="SET" value="PT24H">ööpäev läbi</TIMEX3> väljas , kuid eks me taha linna peal patrullimise eest raha teenida , kasvõi sümboolset , " sõnas ta . 
+ " Vaevalt et turvafirmad selle eest raha küsiksid , sest tegelikult patrullime ju tänavatel niikuinii , " sõnas ASi ESS Lõuna direktor Andres Tootsman . 
+ " Näiteks <TIMEX3 tid="t27" type="DATE" value="2000-03" anchorTimeID="t0">märtsis</TIMEX3> andis ESS ainuüksi Tartus politseile üle 57 kurikaela , kellest osa oli kinni võetud ka väljastpoolt meie valvatavaid objekte . " 
+ Tootsman nentis , et <TIMEX3 tid="t28" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> politsei ja turvafirmad oma tegevust ei kooskõlasta : nad ei teavita üksteist patrullimiskohtadest . 
+ " Meie oleme teinud politseile koostööettepanekuid , kuid politsei on olnud natuke passiivne , " märkis ta . 
+ Ansipi arvates ei patrulliks turvafirmad tänavail siiski puhtalt entusiasmist . 
+ Linnaeelarvest ei näe ta aga võimalust firmadele selle eest maksta . 
+ " Nii kesk- kui ka omavalitsusel on oma kohustused ja neid tuleb täita , " oli Ansip resoluutne . 
+ " Kodanike kaitsmine on ikkagi riigi ülesanne , näiteks omavalitsused ei hakka ju piiri valvama . " 
+</TimeML>

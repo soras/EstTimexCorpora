@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Veneetsia filmifestival lubab üllatusi 
+<TIMEX3 tid="t319" type="DATE" value="2006-08-30" anchorTimeID="t0">30. augustist</TIMEX3> <TIMEX3 tid="t320" type="DATE" value="2006-09-09" anchorTimeID="t0">9. septembrini</TIMEX3> <TIMEX3 tid="t321" type="DURATION" value="PXW" beginPoint="t319" endPoint="t320"/>kestva Veneetsia filmifestivali peaauhinnale Kuldlõvile kandideerib <TIMEX3 tid="t322" type="DATE" value="2006" anchorTimeID="t0">sel aastal</TIMEX3> 21 filmi , mis kõik esilinastuvad festivalil . 
+ <TIMEX3 tid="t323" type="DATE" value="193" >1930-ndatel</TIMEX3> alanud festivali ajaloos on see esimene kord , kui ühtki Kuldlõvi taotlevat filmi pole nähtud enne festivali . 
+ Festivali kunstiline juht Marco Müller peab seda mõnevõrra riskantseks , et filmid on tundmatud , ent samas tõdeb , et filmitegijate poolt on esilinastuse festivalile ajastamine tunnustuseks . 
+ Veneetsia filmifestivali avab Brian De Palma " Must Daalia " , mille peaosades on Scarlett Johansson , Hilary Swank ja Josh Hartnett . 
+ Sel korral sooviti festivali kavva panna 1429 filmi , 300 rohkem kui <TIMEX3 tid="t324" type="DATE" value="2005" anchorTimeID="t0">läinud aastal</TIMEX3> . 
+ <TIMEX3 tid="t325" type="DATE" value="2005" anchorTimeID="t324">Toona</TIMEX3> sai Kuldlõvi Ang Lee film " Brokebacki mägi " . 
+</TimeML>

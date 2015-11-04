@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Iraaklaste smugeldajad pääsevad vabadusse 
+ TIIU PÕLD , tiiu.pold@postimees.ee 
+ Kuigi Tallinna linnakohus mõistis <TIMEX3 tid="t163" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> kolm Rootsis elanud araabia päritolu inimsmugeldajat <TIMEX3 tid="t164" type="DURATION" value="P1Y6M" >poolteiseks</TIMEX3> kuni <TIMEX3 tid="t165" type="DURATION" value="P2Y" >paariks aastaks</TIMEX3> vangi , pääsevad kaks neist vabadusse <TIMEX3 tid="t166" type="DATE" value="2000-05" anchorTimeID="t0">mais</TIMEX3> ja kolmas <TIMEX3 tid="t167" type="DATE" value="2000-07" mod="MID" anchorTimeID="t0">juuli keskel</TIMEX3> . 
+ Kaheksateist Iraagi kodanikku 6000-10 000 USA dollari eest läbi Venemaa ja Eesti Inglismaale või Rootsi smugeldanud Ali Kadhum , Ali Al-Shammari ja Abdelaziz Ben Ajmi Glaied vabanevad <TIMEX3 tid="t1169" type="DATE" value="FUTURE_REF" >varsti</TIMEX3> , sest on pikaksveninud kohtuprotsessi ajal neile <TIMEX3 tid="t168" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> mõistetud karistused peaaegu ära kandnud . 
+ Paadiga üle Narva jõe 
+ Kohtuotsuse kohaselt tõmbasid Kadhum , Al-Shammar ja Glaied raha eest <TIMEX3 tid="t169" type="DATE" value="1997-09" >1997. aasta septembrist</TIMEX3> <TIMEX3 tid="t170" type="DATE" value="1998-03" >1998. märtsini</TIMEX3><TIMEX3 tid="t171" type="DURATION" value="P6M" beginPoint="t169" endPoint="t170" /> oma musta ärisse ka kaheksa eestimaalast , kes korraldasid iraaklaste paadisõidu üle Narva jõe ja toimetasid nad Tallinna . 
+ Kohtualuste seas olid kinnisvaramaakler Jaanus Rannu , narvakad Vladimir Markov , Sergei Shtsherbakov ja Vassili Tsherenkov , Tallinna lennujaama viisapunkti nooreminspektorid Aune Rink ja Heli Mägi , piiripunkti ohvitser Igor Kisseljov ja politseiameti julgestusteenistuse VIP-toa vaneminspektor Rene Raudik . 
+ Tingimisi vanglasse 
+ Neid kaheksat karistas kohus vastavalt kuriteo raskusele <TIMEX3 tid="t172" type="DURATION" value="P1Y6M" >poolteise</TIMEX3> kuni <TIMEX3 tid="t173" type="DURATION" value="P2Y" >kahe aasta</TIMEX3> <TIMEX3 tid="t174" type="DURATION" value="P3M" >kolme kuu</TIMEX3> pikkuse vabadusekaotusega tingimisi <TIMEX3 tid="t175" type="DURATION" value="P1Y" >1</TIMEX3>-<TIMEX3 tid="t176" type="DURATION" value="P3Y" >3-aastase</TIMEX3> katseajaga . 
+ Rinkilt võttis kohus kolmeks , Mägilt <TIMEX3 tid="t177" type="DURATION" value="P2Y" >kaheks aastaks</TIMEX3> õiguse töötada ametikohal , mis on seotud viisade väljastamisega , Kisseljovilt aga õiguse töötada <TIMEX3 tid="t178" type="DURATION" value="P3Y" >kolm aastat</TIMEX3> piirivalves . 
+</TimeML>

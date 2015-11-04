@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tallinnas rünnati homoparaadi 
+Toimetaja : Kerttu Rannamäe 
+ Foto : Rauno Volmar 
+ <TIMEX3 tid="t41" type="TIME" value="2006-08-12T15:00" anchorTimeID="t0">Täna kell 15.00</TIMEX3> algama pidanud homoparaad lükkus pommiähvarduse tõttu <TIMEX3 tid="t42" type="DURATION" value="PT10M" >10 minutit</TIMEX3> edasi , paraadi ründasid ka end nö noorteks Eesti patriootideks nimetavad noormehed . 
+ Põhja politseiprefektuuri esindaja Julia Garan?asõnul tehti politseisse <TIMEX3 tid="t43" type="TIME" value="2006-08-12T14:05" anchorTimeID="t41">kell 14.05</TIMEX3> pommiähvardus , mille kohaselt pidid <TIMEX3 tid="t44" type="TIME" value="2006-08-12T14:30" anchorTimeID="t43">kell 14.30</TIMEX3> pommid lõhkema Sauna tänav 1 ning Pärnu mnt 23 ja 27 asuvates hoonetes . 
+ Evakuatsioonitööde tõttu lükkus veidi edasi ka paraadi algus . 
+ Tallinn Pride <TIMEX3 tid="t45" type="DATE" value="2006" >2006</TIMEX3> esindaja Lisette Kampuse sõnul ründasid noormehed paraadi keskosa kivide ja kaigastega , püüdes kõigepealt tabada eelkõige naisi . 
+ Tõsisemaid vigastusi sai umbes 5-6 inimest , üks prantslane viidi peahaavadega ka traumapunkti . 
+</TimeML>

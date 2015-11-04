@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Kerttu Rannamäe 
+ Tallinna ringkonnakohus mõistis <TIMEX3 tid="t36" type="DATE" value="2007-02-01" anchorTimeID="t0">täna</TIMEX3> endise advokaadi Ilmo Maaroosi reaalselt <TIMEX3 tid="t37" type="DURATION" value="P4M" >neljaks kuuks</TIMEX3> vangi , lisaks <TIMEX3 tid="t38" type="DURATION" value="P1.8Y" >1,8 aastat</TIMEX3> tingimisi vangistust koos <TIMEX3 tid="t39" type="DURATION" value="P2Y" >kaheaastase</TIMEX3> katseajaga . 
+ Selle otsusega tühistas ringkonnakohus varasema Harju maakohtu otsuse , mille järgi karistati <TIMEX3 tid="t40" type="DURATION" value="P39Y" >39-aastast</TIMEX3> Maaroosi vaid tingimisi vangistusega . 
+ Lisaks võeti eksadvokaadilt <TIMEX3 tid="t41" type="DURATION" value="P2Y" >kaheks aastaks</TIMEX3> õigus töötada avalik-õiguslikes ja era-õiguslikes ettevõtetes ametiiisikuna . 
+ Harju maakohtu otsusega tuleb Maaroosil hüvitada ka kuriteoga tekitatud kahju summas 10 miljonit 828 498 krooni . 
+ Tsiviilhagi katteks konfiskeeritakse Maaroosi kinnisasi Pärnus ja vallasasi Pärnu maakonnas Tammiste külas . 
+ Süüdistuse kohaselt sõlmis Maaroos HETA Pärnu Advokaadibüroo juhatuse liikmena <TIMEX3 tid="t42" type="DATE" value="2002" >aastatel 2002</TIMEX3>-<TIMEX3 tid="t43" type="DATE" value="2003" >2003</TIMEX3> <TIMEX3 tid="t44" type="DURATION" value="P1Y" beginPoint="t42" endPoint="t43"/>lepingud inimestega , kes usaldasid investeerimiseks oma raha , uskudes , et see läheb advokaadibüroo leitud projektidesse . 
+ Tegelikult Maaroos omastas raha ega investeerinud seda edasi , saades varalist kasu üle 10 miljoni krooni . 
+</TimeML>

@@ -1,0 +1,225 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-04-22TXX:XX" />
+<ignoreeri>
+|
+autor:
+RIINA
+KALLAS
+|
+ajalehenumber:
+Postimees
+1998.04.22
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Majandus
+|
+artikkel:
+Banaanireform
+ELis
+|
+</ignoreeri>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liit    Liit+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+EL    EL+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+otsustas    otsusta+s //_V_ s, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1998-04-20" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+alanud    ala=nud+0 //_A_ //    ala=nud+0 //_A_ sg n, //    ala=nud+d //_A_ pl n, //    alga+nud //_V_ nud, //
+põllumajandusministrite    põllu_majandus_minister+te //_S_ pl g, //
+kohtumisel    kohtumine+l //_S_ sg ad, //
+muuta    muut+a //_V_ da, //
+banaaniimpordi    banaani_import+0 //_S_ sg g, //
+eeskirju    ees_kiri+u //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Ehkki    ehkki+0 //_J_ //
+konkreetseid    konkreetne+id //_A_ pl p, //
+kvoote    kvoot+e //_S_ pl p, //
+ning    ning+0 //_J_ //
+hindu    hind+u //_S_ pl p, //
+banaanide    banaan+de //_S_ pl g, //
+sisseveole    sisse_vedu+le //_S_ sg all, //
+seekord    see_kord+0 //_D_ //
+veel    veel+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+määratud    määra+tud //_V_ tud, //    määratu+d //_A_ pl n, //    määratud+0 //_A_ //    määratud+0 //_A_ sg n, //    määratud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+järgib    järgi+b //_V_ b, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liit    liit+0 //_S_ sg n, //
+kiivalt    kiivalt+0 //_D_ //
+Maailma    maa_ilm+0 //_S_ sg g, //
+Kaubandusorganisatsiooni    kaubandus_organisatsioon+0 //_S_ adt, //
+<kiil>
+(    ( //_Z_ //
+WTO    WTO+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+korraldusi    korraldus+i //_S_ pl p, //
+korrastada    korrasta+da //_V_ da, //
+banaanikaubandus    banaani_kaubandus+0 //_S_ sg n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1998" mod="END" >
+selle    see+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+lõpuks    lõpp+ks //_S_ sg tr, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lõpeks    lõp+ks //_V_ ks, //    lõppe+ks //_V_ ks, //
+Aafrikast    Aafrika+st //_H_ sg el, //
+,    , //_Z_ //
+Vaikse    Vaikne+0 //_H_ sg g, //    Vaikse+0 //_H_ sg g, //
+ookeani    ookean+0 //_S_ sg g, //
+piirkonnast    piirkond+st //_S_ sg el, //
+ning    ning+0 //_J_ //
+Kariibi    Kariibi+0 //_H_ sg g, //
+mere    meri+0 //_S_ sg g, //
+saartelt    saar+telt //_S_ pl abl, //
+imporditavate    impordi=tav+te //_A_ pl g, //
+banaanide    banaan+de //_S_ pl g, //
+eelistus    eelistus+0 //_S_ sg n, //
+Ladina-Ameerika    Ladina-Am_eerika+0 //_H_ sg g, //    Ladina-Ameerika+0 //_H_ sg g, //
+banaanide    banaan+de //_S_ pl g, //
+ees    ees+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+ELi    EL+i //_Y_ sg g, //
+põllumajandusvolinik    põllu_majandus_volinik+0 //_S_ sg n, //
+Franz    Franz+0 //_H_ sg n, //
+Fishler    Fishler+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="1998-04-20" anchorTimeID="t1" comment="nõuab järelduste tegemist ..." >
+kohtumise    kohtumine+0 //_S_ sg g, //
+avapäeval    ava_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tahetakse    taht+takse //_V_ takse, //
+WTO    WTO+0 //_Y_ ?, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+tähtajast    täht_aeg+st //_S_ sg el, //
+kinni    kinni+0 //_D_ //
+pidada    pida+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+tuleb    tule+b //_V_ b, //
+kokkuleppele    kokku_lepe+le //_S_ sg all, //
+jõuda    jõud+a //_V_ da, //
+hiljemalt    hiljemalt+0 //_D_ //
+ministrite    minister+te //_S_ pl g, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1998-06" >
+juunikuisel    juuni_kuine+l //_A_ sg ad, //
+</TIMEX>
+kohtumisel    kohtumine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+Komisjoni    Ko_misjon+0 //_H_ sg g, //    Komisjon+0 //_H_ sg g, //
+ettepanek    ette_panek+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esialgu    esi_algu+0 //_D_ //
+säilitada    säilita+da //_V_ da, //
+Ladina-Ameerika    Ladina-Am_eerika+0 //_H_ sg g, //    Ladina-Ameerika+0 //_H_ sg g, //
+riikidele    riik+dele //_S_ pl all, //
+kehtiv    kehtiv+0 //_A_ sg n, //
+2,2    2,2+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+tonni    tonn+0 //_S_ sg g, //
+suurune    suurune+0 //_A_ sg n, //
+banaanide    banaan+de //_S_ pl g, //
+sisseveokvoot    sisse_veo_kvoot+0 //_S_ sg n, //
+tariifiga    tariif+ga //_S_ sg kom, //
+75    75+0 //_N_ ?, //
+eküüd    eküü+d //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+1190    1190+0 //_N_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+tonnist    tonn+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0">
+Edaspidi    edas_pidi+0 //_D_ //
+</TIMEX>
+peaks    pida+ks //_V_ ks, //
+aga    aga+0 //_J_ //
+kvoot    kvoot+0 //_S_ sg n, //
+suurenema    suurene+ma //_V_ ma, //
+353    353+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+tonni    tonn+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+sisaldaks    sisalda+ks //_V_ ks, //
+arvestusi    arvestus+i //_S_ pl p, //
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    liit+0 //_S_ sg g, //
+laienemist    laienemine+t //_S_ sg p, //
+silmas    silm+s //_S_ sg in, //
+pidades    pida+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Komisjonil    Ko_misjon+l //_H_ sg ad, //    Komisjon+l //_H_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+plaanis    plaan+s //_S_ sg in, //
+kaotada    kaota+da //_V_ da, //
+ka    ka+0 //_D_ //
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE">
+senine    senine+0 //_A_ sg n, //
+</TIMEX>
+litsentsisüsteem    litsentsi_süsteem+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+,    , //_Z_ //
+Rootsi    Rootsi+0 //_H_ sg g, //
+,    , //_Z_ //
+Taani    Taani+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Beneluksimaad    Beneluksimaa+d //_H_ pl n, //    Beneluksimaad+0 //_H_ sg n, //
+olid    ole+id //_V_ sid, //
+kohtumisel    kohtumine+l //_S_ sg ad, //
+lisakvoodi    lisa_kvoot+0 //_S_ sg g, //
+kehtestamise    kehtestamine+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Komisjon    Ko_misjon+0 //_H_ sg n, //    Komisjon+0 //_H_ sg n, //
+loodab    loot+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+erimeelsused    eri_meelsus+d //_S_ pl n, //
+lahenevad    lahene+vad //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1998-06" >
+juunis    juuni+s //_S_ sg in, //
+</TIMEX>
+peetaval    peetav+l //_A_ sg ad, //
+kohtumisel    kohtumine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Raigo Pajula 
+ Riigikogu aseesimees ja saadikute hüvede uue seaduse vaimne ema Kristiina Ojuland rõhutab , et rahvasaadik on oma töös ja tegemistes vaba . 
+ Vabadus on aga kasvanud nii suureks , et saadikud on kontrollimatud ja tavaseadustest kõrgemal . 
+ " Loomulikult on iga riigikogulane oma mandaadi piires vaba ja on iga liikme südametunnistuse asi , kui palju ta reaalselt <TIMEX3 tid="t61" type="DURATION" value="P4Y">nelja aasta jooksul</TIMEX3> tööd teeb , " kommenteerib Ojuland SL Õhtulehele antud intervjuus riigikogulaste <TIMEX3 tid="t62" type="DURATION" value="P3M" mod="APPROX">ligi kolmekuulist</TIMEX3> suvepuhkust . 
+ " Ei saa öelda , et sellest kuupäevast teeb ta tööd ja sellest kuupäevast puhkab . 
+ Riigikogulane on valitud <TIMEX3 tid="t63" type="DURATION" value="P4Y">neljaks aastaks</TIMEX3> , <TIMEX3 tid="t64" type="DURATION" value="PT24H">24 tundi ööpäevas</TIMEX3> ja <TIMEX3 tid="t65" type="DURATION" value="P365D">365 päeva aastas.</TIMEX3>
+ Eraldi puhkust riigikogulasel polegi . 
+ Meie pole seda süsteemi leiutanud , nii toimivad ka teised demokraatlikud parlamendid . " 
+</TimeML>

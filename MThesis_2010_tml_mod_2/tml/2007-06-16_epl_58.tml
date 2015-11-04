@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Aet Süvari 
+ Väidetavalt võivad Mallorca mängijad Realilt punktide võtmise eest hästi teenida . 
+ <TIMEX3 tid="t256" type="DATE" value="2007-06-17" anchorTimeID="t0">Homme</TIMEX3> tõmmatakse joon alla Euroopa jalgpalli suurliigadest ainsana veel käigus olevale Hispaania liigale . 
+ Enne suvepuhkusele siirdumist on vaja aga korda ajada kõige tähtsam - selgitada meister . 
+ Tiitlile pretendeerib kolm klubi - Madridi Real , tiitlikaitsja Barcelona ja <TIMEX3 tid="t257" type="DATE" value="2007" anchorTimeID="t0">tänavune</TIMEX3> UEFA Cupi võitja Sevilla . 
+ Realil ja Barcelonal on mõlemal kogutud 73 punkti , paremad tulemused omavahelistes mängudes seavad esikohale aga Madridi klubi . 
+ Seega tuleb <TIMEX3 tid="t258" type="DATE" value="2007-06-17" anchorTimeID="t0">pühapäevases</TIMEX3> viimases voorus Madridil alistada Mallorca - ning võit on nende jagu . 
+ Barcelonal aitab aga võit tabeli " punase laterna " Gimnasticu üle ainult siis tiitlit võita , kui Real Mallorcale kaotab või saareklubiga viiki mängib . 
+</TimeML>

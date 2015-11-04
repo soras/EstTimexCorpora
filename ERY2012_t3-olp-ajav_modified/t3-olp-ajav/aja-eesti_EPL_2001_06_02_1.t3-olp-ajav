@@ -1,0 +1,108 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2001-06-02TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+02.06.2001
+|
+rubriik:
+Eesti
+|
+artikkel:
+Leedu
+parlamendi
+juht
+tuleb
+esmaspäeval
+Eestisse
+|
+</ignoreeri>
+<s>
+Leedu    Leedu+0 //_H_ sg g, //
+parlamendi    parlament+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Arturas    Arturas+0 //_H_ sg n, //
+Paulauskas    Paulauskas+0 //_H_ sg n, //
+teeb    tege+b //_V_ b, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2001-06-04" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="P2D" >
+kahepäevase    kahe_päevane+0 //_A_ sg g, //
+</TIMEX>
+visiidi    visiit+0 //_S_ sg g, //
+Eestisse    Eesti+sse //_H_ sg ill, //
+,    , //_Z_ //
+<kindel_piir/>
+kohtudes    kohtu+des //_V_ des, //
+siinsete    siinne+te //_A_ pl g, //
+riigijuhtidega    riigi_juht+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Paulauskas    Paulauskas+0 //_H_ sg n, //
+kohtub    kohtu+b //_V_ b, //
+Tallinnas    Tallinn+s //_H_ sg in, //
+riigikogu    riigi_kogu+0 //_S_ sg g, //
+esimehe    esi_mees+0 //_S_ sg g, //
+Toomas    Toomas+0 //_H_ sg n, //
+Savi    Sav+0 //_H_ sg g, //    Savi+0 //_H_ sg g, //
+,    , //_Z_ //
+riigikogu    riigi_kogu+0 //_S_ sg g, //
+aseesimehe    ase_esi_mees+0 //_S_ sg g, //
+Tunne    Tunne+0 //_H_ sg n, //
+Kelami    Kelam+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+peaministri    pea_minister+0 //_S_ sg g, //
+nõuniku    nõunik+0 //_S_ sg g, //
+Linnar    Linnar+0 //_H_ sg n, //
+Viigiga    Viig+ga //_H_ sg kom, //    Viigi+ga //_H_ sg kom, //    Viik+ga //_H_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+teatas    teata+s //_V_ s, //
+Leedu    Leedu+0 //_H_ sg g, //
+parlamendi    parlament+0 //_S_ sg g, //
+pressiesindaja    pressi_esindaja+0 //_S_ sg n, //
+BNS-ile    BNS+ile //_Y_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2001-06-05" >
+Teisipäeval    teisi_päev+l //_S_ sg ad, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Leedu    Leedu+0 //_H_ sg g, //
+parlamendi    parlament+0 //_S_ sg g, //
+esimehel    esi_mees+l //_S_ sg ad, //
+kohtumised    kohtumine+d //_S_ pl n, //
+peaminister    pea_minister+0 //_S_ sg n, //
+Mart    Mart+0 //_H_ sg n, //
+Laari    Laar+0 //_H_ sg g, //    Laari+0 //_H_ sg g, //
+,    , //_Z_ //
+riigikogu    riigi_kogu+0 //_S_ sg g, //
+väliskomisjoni    välis_komisjon+0 //_S_ sg g, //
+esimehe    esi_mees+0 //_S_ sg g, //
+Andres    Andres+0 //_H_ sg n, //
+Tarandi    Tarand+0 //_H_ sg g, //    Tarandi+0 //_H_ sg g, //    Tarant+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+riigikogu    riigi_kogu+0 //_S_ sg g, //
+aseesimehe    ase_esi_mees+0 //_S_ sg g, //
+Peeter    Peeter+0 //_H_ sg n, //
+Kreitzbergiga    Kreitzberg+ga //_H_ sg kom, //    Kreitzbergi+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Paulauskas    Paulauskas+0 //_H_ sg n, //
+lõpetab    lõpeta+b //_V_ b, //
+visiidi    visiit+0 //_S_ sg g, //
+Eestis    Eesti+s //_H_ sg in, //
+elavate    elav+te //_A_ pl g, //
+leedulaste    leedulane+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+Leedu    Leedu+0 //_H_ sg g, //
+saatkonna    saatkond+0 //_S_ sg g, //
+töötajatega    töötaja+tega //_S_ pl kom, //
+kohtudes    kohtu+des //_V_ des, //
+.    . //_Z_ //
+</s>

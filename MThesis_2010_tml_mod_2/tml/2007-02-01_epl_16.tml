@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Silvia Sosaar 
+ Pealinna notarite järjekorrad on <TIMEX3 tid="t108" type="DATE" value="2006" anchorTimeID="t0">mulluselt</TIMEX3> <TIMEX3 tid="t109" type="DURATION" value="PXM" >mitmelt kuult</TIMEX3> lühenenud <TIMEX3 tid="t110" type="DURATION" value="P2W" mod="APPROX" >paari nädalani.</TIMEX3>
+ <TIMEX3 tid="t111" type="DATE" value="2006-11" anchorTimeID="t0">Novembris</TIMEX3> tööd alustanud Tallinna notari Priidu Pärna sõnul on <TIMEX3 tid="t112" type="DATE" value="XXXX" mod="START" comment="raskestimääratletav, võib olla üldine" >aasta alguse</TIMEX3> kohta koormus paras . 
+ <TIMEX3 tid="t113" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >Praegu</TIMEX3> on Pärna büroos võimalik tehingu aega panna kirja <TIMEX3 tid="t114" type="DATE" value="2007-W6" anchorTimeID="t0">järgmiseks nädalaks</TIMEX3> . 
+ " Seda eeldusel , et dokumendid on korras , " täpsustab ta . 
+ Samas tõdeb ta , et <TIMEX3 tid="t115" type="SET" value="XXXX-01" comment="üldises tähenduses">jaanuar</TIMEX3> ongi rahulikum , töömaht kasvab kindlasti <TIMEX3 tid="t116" type="DATE" value="2007-SP" anchorTimeID="t0" comment="Nii üldine kui ka konkreetne!" >kevadel.</TIMEX3> 
+  Majanduskasv on ergutanud kinnisvara ostu-müüki ja laenudega seotud tehinguid ka teistes linnades . 
+ Erinevalt Tallinnast , kus tegutseb 16 bürood , töötab Tartus kaheksa ning mujal Eesti linnades kuni kolm notaribürood . 
+ <TIMEX3 tid="t117" type="DURATION" value="P14Y" >14-aastase</TIMEX3> staažiga notar Albina Birjukova tõdeb , et Narva büroodes on järjekorrad pikad ja tööd palju . 
+ " Vahetatakse panka , võetakse lisalaenu , lõpetatakse leping ja siis alustatakse jälle uut , " loetleb Birjukova . 
+ Piirilinna kolm notarit tegelevad kogu Ida-Virumaa klientidega . 
+ Birjukova on veendunud , et Ida-Virumaal peab inimene <TIMEX3 tid="t118" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >mõne aja pärast</TIMEX3> tehingute sooritamisel juba <TIMEX3 tid="t119" type="DURATION" value="P2W" mod="MORE_THAN" >rohkem kui kahe nädalaga</TIMEX3> arvestama . 
+</TimeML>

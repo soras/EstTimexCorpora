@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Kristi Vahemaa 
+ <TIMEX3 tid="t249" type="DATE" value="2007-06-10" anchorTimeID="t0">Möödunud pühapäeval</TIMEX3> Montreali ringrajal Kanada GP-l hirmuäratava õnnetuse läbi elanud , kuid peaaegu vigastusteta pääsenud poolakas Robert Kubica <TIMEX3 tid="t250" type="DATE" value="2007-06-17" anchorTimeID="t0">homme</TIMEX3> peetaval USA etapil kaasa ei sõida . 
+ Kubica soovis ise kogu hingest Indianapolises võistelda , kuid ei saanud Rahvusvaheliselt Autoliidult ( FIA ) selleks luba . 
+ Kubica asemel teeb oma debüüdi MM-sarjas BMW-Sauberi sakslasest testisõitja , <TIMEX3 tid="t251" type="DURATION" value="P20Y">20-aastane</TIMEX3> Sebastian Vettel . 
+ " Muidugi olen FIA otsuses pettunud , sest tunnen end suurepäraselt , " rääkis Kubica . 
+ " Ent ma austan otsust ja saan aru , et kui minuga uuesti midagi juhtuma peaks , võib kõik väga õnnetult lõppeda . " 
+ Kubica sõidab koju
+</TimeML>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Maria-Elisa Rannajõe 
+ Foto : internet 
+ Tartus <TIMEX3 tid="t89" type="DURATION" value="PXD">mitmendat päeva</TIMEX3> levinud haisu allikas on põllumajandusettevõte , kes veab linna ümbruses asuvatele põldudele sõnnikut laiali . 
+ Keskkonnainspektsiooni Tartumaa osakonna juhataja Peeter Karja ütles Päevaleht Online'ile , et nad on <TIMEX3 tid="t90" type="DURATION" value="PXD" beginPoint="t140" endPoint="t0">viimastel päevadel</TIMEX3><TIMEX3 tid="t140" type="DATE" value="XXXX-XX-XX" temporalFunction="true"/> saanud mitmeid kaebusi Tartus leviva sõnnikuhaisu kohta . 
+ Karja sõnul on põhjustajaks üks põllumajandusfirma , kes veab oma sõnnikuvarusid põldudele . 
+ Selles pole Karja hinnangul ka midagi erilist , et sellisel juhul teatud tuulesuuna korral linnas ebameeldiv hais levima võib hakata . 
+ " Ettevõte lubas sõnnikuvedamise lõpetada <TIMEX3 tid="t91" type="DATE" value="2007-08-26" anchorTimeID="t0">eile</TIMEX3> , seega <TIMEX3 tid="t92" type="DATE" value="2007-08-27" anchorTimeID="t0">täna</TIMEX3> ei peaks linnas enam haisu levima , " märkis Karja . 
+ Firma nime siiski Karja avalikustada ei soovinud . 
+</TimeML>

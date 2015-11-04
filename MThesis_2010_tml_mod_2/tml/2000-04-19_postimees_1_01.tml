@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Kas tasuta lõunaid on vaja ? 
+ KRISTEL RÕSS 
+ Eesti vanim naisselts Tartus kutsus puudust kannatavaid linlasi <TIMEX3 tid="t1" type="DATE" value="XXXX-XX-XX" comment="vaja valdkonnateadmisi, et selgitada, mis pühadega tegu" anchorTimeID="t0" >pühade eel</TIMEX3> tasuta lõunale . 
+ Aktiivsed naised ootasid einestama pooltsada abivajajat , aga tulijaid oli sadakond . 
+ Lõunastajate hulgas oli lapsi ja eakaid naisi , kõige rohkem aga keskeas ja vanemaid mehi . 
+ Rahvast aina tuli ja tuli , vahepeal tekkis Kastani tänava puumaja taha väike järjekordki . 
+ Elu tagahoovis ei passi klantspildile edukast ühiskonnast . 
+ Muist lõunastajaid tunnistas , et pole ammu sooja toitu saanud , ning soostus rõõmsalt lisaportsuga . 
+ Agressiivseid selles seltskonnas polnud , pigem oli seal elust räsitud ja allaandja moega tegelasi . 
+ Kõhutäiest olulisem on neile tähelepanu ja meelespidamine . 
+ Jumala loomaaed on kirju ning raasuke kaastunnet kulub igaühele ära . 
+ Heategevus ei peaks olema ainult kirikukoguduste pärusmaa , abivajajate toetamine võiks kuuluda edukate elustiili hulka . 
+ <TIMEX3 tid="t2" type="SET" value="P1Y" freq="1X">Kord aastas</TIMEX3> ( <TIMEX3 tid="t3" type="DATE" value="XXXX-12-XX" comment="üldine tähendus" >jõulude paiku</TIMEX3> muidugi ) tabab lastekodusid kommisadu ning pühadeabi pudeneb isegi vanadekodudele ja hooldusasutustele . 
+ Kellelegi ei saa panna kohustust võtta kaaskondlaste mured enda kanda . 
+ Kuid pühad ja tähtpäevad on hea võimalus mõelda neile , kes iseenda ja oma eluga hätta jäänud . 
+ Ei maksa arvata , et need inimesed on ilmtingimata kibestunud ja tigedad . 
+ Kodutuid kirja pannud rahvaloendaja Kai Kapp kinnitas , et küsitletud olid sõbralikud ja suhtlemisaltid . 
+ Veel enam - nad olid meeldivalt üllatunud , et neidki Eesti elanike hulka arvatakse . 
+ Prügikastis tuhlajad on Tartu linnapilti sobitunud ega justkui riivagi enam silma . 
+ Meist enamik aga annaks ülearused rõivad või tarbetu kraami meelsamini mõnele abi vahendavale ühingule kui viskaks prügi hulka . 
+ Mujal Eestis tegutseb organisatsioone , kus pensionärid kohendavad annetatud rõivaid ja jagavad tasuta hädalistele . 
+ Tartlasedki võiksid selle peale mõelda . 
+ Sissetulekuta inimesel pole ju isegi kaltsuärisse asja . 
+ Eestlased pole sugugi nii osavõtmatud , kui arvata võiks . 
+ Tänavalaste projekti " Öökull " , tüdrukute klubi Pöial-Liisi ja teiste heategevate organisatsioonide üritustel on lastel ikka midagi nosida . 
+ Õnneks ei püüa kõik firmad heategevust reklaamivankri ette rakendada ega iga väikseimatki annetust leheveergudele sokutada . 
+ Tasuta lõunaid on põhjust korraldada seni , kuni jätkub lahkeid annetajaid . 
+ Sest abivajajaid jätkub nagunii . 
+</TimeML>

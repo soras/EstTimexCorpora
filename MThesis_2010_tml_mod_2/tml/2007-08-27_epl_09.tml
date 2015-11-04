@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Tanel Mazur 
+ Eesti Põlevkivi juhatuse esimeheks sai Lembit Kaljuvee asemel Ilmar Jõgi . 
+ Kui <TIMEX3 tid="t47" type="DATE" value="2006" anchorTimeID="t0">eelmisel aastal</TIMEX3> selgus Eesti Põlevkivi uus juhatuse esimees <TIMEX3 tid="t48" type="DURATION" value="P2D" comment="valdkonnaspetsiifiline" >kaks päeva</TIMEX3> enne <TIMEX3 tid="t150" type="DATE" value="2007-08-26" comment="valdkonnaspetsiifiline" >kaevurite päeva</TIMEX3> , siis <TIMEX3 tid="t49" type="DATE" value="2007" anchorTimeID="t0">sellel aastal</TIMEX3> jäi kahe sündmuse vahele <TIMEX3 tid="t50" type="DURATION" value="P4D" >neli päeva</TIMEX3> . 
+ <TIMEX3 tid="t51" type="DATE" value="2006" anchorTimeID="t0">Eelmisel aastal</TIMEX3> traagiliselt hukkunud Eesti Põlevkivi juhatuse esimehele Mati Jostovile leiti asendaja üsna kiiresti , <TIMEX3 tid="t52" type="DURATION" value="P1M" >kuu</TIMEX3> möödudes sai selleks Lembit Kaljuvee . 
+ Pärast <TIMEX3 tid="t53" type="DATE" value="2007-SP" anchorTimeID="t0">kevadisi</TIMEX3> parlamendivalimisi otsustas riigikogusse valitud Kaljuvee loobuda tööst põlevkivitööstuses ja koht jäi <TIMEX3 tid="t54" type="DURATION" value="PXM" >mitmeks kuuks</TIMEX3> vabaks . 
+ <TIMEX3 tid="t55" type="DATE" value="2007-08-22" anchorTimeID="t0">Kolmapäeval</TIMEX3> teatas ettevõte , et juhatuse esimeheks on valitud Ilmar Jõgi . 
+ Taas kohtusid kaevurid uue juhiga esimest korda just nimelt ametipäeval . 
+ Presidendi visiit 
+ <TIMEX3 tid="t56" type="DURATION" value="P2Y" comment="ebatäpne - ei ole kestvus!!!">Kahe aasta</TIMEX3> kaevurite päevi seob ka see , et mõlemat on väisanud president - <TIMEX3 tid="t57" type="DATE" value="2006" anchorTimeID="t0">möödunud aastal</TIMEX3> Arnold Rüütel ja seekord Toomas Hendrik Ilves . 
+ Presidentide sõnavõtudki olid mõnevõrra sarnased . 
+ Kui Rüütel nentis <TIMEX3 tid="t58" type="DATE" value="2006" anchorTimeID="t0">eelmisel aastal</TIMEX3> , et Ida-Virumaa ja põlevkivi on lahutamatult seotud , siis Ilves kinnitas <TIMEX3 tid="t59" type="DATE" value="2007-08-26" anchorTimeID="t0">eile</TIMEX3> kaevuritele põlevkivi jätkuvat tähtsust Eestis . 
+</TimeML>

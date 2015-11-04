@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Narva lähedal Kreenholmi saarel pandi <TIMEX3 tid="t306" type="DATE" value="1857-05" anchorTimeID="t0">mais 150 aastat tagasi</TIMEX3> nurgakivi puuvillaketrus- ja kudumisvabrikule , mis on muutnud igaveseks Narva jõe ümbruse väljanägemist ja linna ajalugu . 
+ Riho Laurisaar kirjutab Narva muuseumi teadurite abiga omaaegsest Venemaa suurimast vabrikust . 
+ Narvast paari kilomeetri kaugusel asunud Kreenholmi saar pakkus enne sinna asutatud vabrikut võimsat vaatepilti . 
+ Näiteks asus seal <TIMEX3 tid="t307" type="DATE" value="1857-05" anchorTimeID="t306" comment="granulaarsusaste vaieldav">toona</TIMEX3> Euroopa üks uhkemaid jugasid . 
+ <TIMEX3 tid="t308" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >Nüüdseks</TIMEX3> on saar tööstushoonete alla kadunud ning jõgigi on suunatud kanaleid pidi hüdroelektrijaama . 
+ <TIMEX3 tid="t309" type="DATE" value="18">19. sajandil</TIMEX3> sööstsid tehnika ja majandus täiskiirusel edasi , pärisorjus oli kaotatud ja see tõi kaasa linnastumise . 
+ Nii juhtus ka Narvas , kuhu olid juba enne puuvillatööstuse rajamist tekkinud vesiveski , kalevivabrik , ketrusvabrik ja veel väiksemaid ettevõtteid . 
+ <TIMEX3 tid="t310" type="DATE" value="1856">1856. aastal</TIMEX3> ostis parun Ludwig Knoop Kreenholmi saare ning asutas koos Moskva rahastajatega Kreenholmi Manufaktuuri aktsiaseltsi , põhikapitaliga kaks miljonit kuldrubla . 
+</TimeML>

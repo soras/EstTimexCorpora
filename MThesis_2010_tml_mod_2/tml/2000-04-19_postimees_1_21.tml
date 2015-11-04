@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Heategevuse kuu Tallinnas 
+ LIIS KLAAR , Riigikogu liige ( Mõõdukad ) 
+ Tallinna linnavalitsus on kuulutanud <TIMEX3 tid="t226" type="DATE" value="2000-04" anchorTimeID="t0">aprillikuu</TIMEX3> heategevuse kuuks . 
+ Peamine tegevus on suunatud sellele , et linnakodanikud , kellel seisab kapis riideid või esemeid , mida ta enam ei tarvita , kuid mis on tarvitamiskõlblikud , annetavad need mittetulundusühingule , mis siis omakorda jagab need abivajajatele . 
+ Küsimisest ei piisa 
+ <TIMEX3 tid="t227" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Tänapäeva</TIMEX3> kiiret elutempot arvestades peavad aga heategevusorganisatsioonid endale aru andma , et pelgalt küsimisest ei piisa . 
+ Andjaid oleks palju rohkem , kui andmine oleks lihtne . 
+ Kui saaks esemeid nii ära anda , et keegi viiks need ukse tagant minema . 
+ Kui aga loodetakse , et see , kes annetab , peab palju vaeva nägema , siis võib annetaja tahe olla ükskõik kui hea , kuid aja , transpordi puudumisel või mõnel muul põhjusel võib heategu tegemata jääda . 
+ Heategevuseks vahendite korjamine on võrdne müügitegevusega . 
+ Väga tähtis on tutvustada oma eesmärki ( pro-dukti ) , kuid sama tähtis on teavitada , kust seda saab , st kuidas saab annetada . 
+ Eespool öeldu kehtib kõikide heategevusorganisatsioonide kohta . 
+ Tahaks siinjuures reklaami teha fondile , mille õilis eesmärk on laste sündimuse hõlbustamine , selle naise ürgse tegevuse mugavamaks ja turvalisemaks tegemine . 
+ Nimelt sai <TIMEX3 tid="t228" type="DATE" value="PAST_REF" anchorTimeID="t0">hiljuti</TIMEX3> asutatud sihtasutus Pelgulinna Sünnitusmaja Toetusfond . 
+ Toetusfondi esmane ülesanne on muretseda vahendeid <TIMEX3 tid="t229" type="DATE" value="PRESENT_REF" anchorTimeID="t0">tänapäeva</TIMEX3> nõuetele vastavate sünnitusvoodite ostmiseks - iga voodi maksab umbes 100 000 krooni . 
+ Aidakem nõrgemaid 
+ Kuna äsjaasutatud fondil puudub veel nii tegevdirektor kui ka pangaarve , siis vaevalt et eeltoodud põhjustel suuri annetusi oodata on . 
+ <TIMEX3 tid="t230" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> saab raha annetada Pelgulinna sünnitusmaja peaarsti või allakirjutanu kaudu . 
+ Kuulen tihti , et heategevus pole Eesti ühiskonnas veel omane . 
+ See ei saagi omaseks , kui ei saada aru , et alati leidub neid , kes on elu hammasrataste vahele jäänud , on vajadusi , mida linna- või riigieelarve ei kata . 
+ Kui tahame olla peremehed omal maal , võtame endale ka kohustuse ja vastutuse aidata ühiskonna kõige nõrgemaid . 
+</TimeML>

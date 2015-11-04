@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Erik Rand 
+ Foto : Kristo Nurmis 
+ Harjumaal Saku vallas Tallinn-Rapla-Türi maantee 13. kilomeetril sõitis <TIMEX3 tid="t23" type="TIME" value="2007-10-18T20" anchorTimeID="t0">eile õhtul enne kella 21</TIMEX3> auto otsa jalakäijale , kes toimetati haiglasse . 
+ Sõiduauto Pontiac , mille roolis oli <TIMEX3 tid="t24" type="DATE" value="1977">1977. aastal</TIMEX3> sündinud Hillimar , sõitis otsa sõiduteel viibinud jalakäijale <TIMEX3 tid="t25" type="DATE" value="1966">1966. aastal</TIMEX3> sündinud Meelisele , kes toimetati õnnetuspaigalt Mustamäe haiglasse . 
+ Jalakäija oli tumedates riietes ning seega autojuhile raskesti märgatav . 
+</TimeML>

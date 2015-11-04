@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tundras põlevad küünlad 
+<TIMEX3 tid="t19" type="DATE" value="2006-08-11" anchorTimeID="t0">Eile</TIMEX3> möödus <TIMEX3 tid="t20" type="DURATION" value="P15Y" >15 aastat</TIMEX3> Siberis hukkunud eestlaste , lätlaste ja leedulaste mälestusele pühendatud monumendi rajamisest . 
+ 24-liikmeline Eesti delegatsioon Meinhard Pahapilli juhtimisel ehitas koos lätlaste ja leedulastega Norilski äärelinna Schmidti mäe jalamile mälestussamba . 
+ Ekspeditsiooni liikmete hulgas olid endised Norilski vangid Ilmar Palo , Peeter Õunpuu , Vaino Kallas , Ülo Raidma ja Evald Kohler . 
+ Ülejäänud olid vangide lapsed ja lastelapsed . 
+ Mälestussamba ehitamisel oli suureks abiks Norilski endine vang Erik Sternbeck , surmamõistetud kindrali Otto Sternbecki poeg . 
+ Tema abil toodi kohale ehitusmaterjalid . 
+ Mälestussammas koosneb kolmest ristist ja keskel olevast püramiidist . 
+ Püramiidi Eesti tahule on kirjutatud : " Kõigile süütult kannatanud Eesti Vabariigi kodanikele ! " 
+ Ristile on eesti , vene ja inglise keeles kirjutatud : " Hukkunud eestlastele . " 
+ <TIMEX3 tid="t21" type="DURATION" value="PXY" beginPoint="t410" endPoint="t411" comment="kompleksne ankurdamine!">Järgnevatel aastatel</TIMEX3><TIMEX3 tid="t410" type="DATE" value="1991" temporalFunction="true"/><TIMEX3 tid="t411" type="DATE" value="XXXX" temporalFunction="true"/> ehitati mälestuskompleksi edasi . 
+ Norilskist 140 kilomeetri kaugusel asub Lama järv , mille ääres oli Eesti , Läti ja Leedu ohvitseride vangilaager . 
+ Sinna rajati mälestusmärk ohvitseride nimedega ning teine mälestusmärk lähedal asuvale kalmistule . 
+ Tähistati ka esimese baraki asukoht . 
+</TimeML>

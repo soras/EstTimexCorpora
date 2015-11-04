@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tobias Angerer : ainuvalitsejate aeg on tippspordis läbi 
+Maailma karika üldvõiduga suusatippude hulka tõusnud Tobias Angerer eelistab vabal ajal klubides DJ-na esineda ja publikut raskema muusikaga pommitada . 
+ Otepääl Saku Suverulliks valmistuv sakslane tunnistab Riho Laurisaarele , et oli Salt Lake City olümpia eel valmis tippspordist loobuma . 
+ - <TIMEX3 tid="t388" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Tänapäeval</TIMEX3> on staari mõiste üsna häguseks muutunud . 
+ Kunagi olid suusatajad , nagu Gunde Svan , kes suutsid suurvõistlustel endale võtta kõik säravamad medalid . 
+ <TIMEX3 tid="t389" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Tänapäeval</TIMEX3> on vist selliste tulemuste kordamine üsna võimatu , maailma tipud võivad muutuda paari hooaja vältel ? 
+ - Näiteks <TIMEX3 tid="t390" type="DATE" value="2005" anchorTimeID="t0">eelmise aasta</TIMEX3> maailma tipud on tegelikult kõik nii võrdsed , et <TIMEX3 tid="t391" type="DATE" value="FUTURE_REF" comment="problemaatiline, võiks olla ka korduvus" >iga järgnev aasta</TIMEX3> võib tulla sootuks teistsugune . 
+ Kõige paremini avaldub see ehk ühisstardiga sõitudes . 
+ Lõpuks on nii , et viimasel viiesajal meetril on tihedalt üksteise kannul paarkümmend suusatajat . 
+ Spordialale tuleb see vaid kasuks . 
+ Probleemiks on ehk <TIMEX3 tid="t392" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> see , et sprinterite ja distantsisõitjate vahel on suur vahe ja neid pole võimalik sageli ühte sõitu kokku panna . 
+ Küllap tahaksid inimesedki näha võistlust , kus on koos parimad sprinterid ja parimad pikemate maade sõitjad , kuid see pole veel võimalik . 
+ Alles <TIMEX3 tid="t393" type="DATE" value="PAST_REF" anchorTimeID="t0" >mõne aasta eest</TIMEX3> oli see võimalik , sest siis sõitsid sprinti ka tavadistantside sõitjad . 
+ <TIMEX3 tid="t394" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> on tekkinud palju sportlasi , kes on spetsialiseerunud vaid sprindile ning arendanud oma tehnika nii täiuslikuks , et nendega ei anna enam võistelda . 
+ Olen ka ise sprinti sõitnud , kuid <TIMEX3 tid="t395" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> jään sprinti sõites parimal juhul teise kümnesse . 
+</TimeML>

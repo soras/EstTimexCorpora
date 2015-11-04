@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Kuulujutud viivad Poomi Manchester Unitedisse 
+ VEIKO VISNAPUU , veiko.visnapuu@postimees.ee 
+ <TIMEX3 tid="t74" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> Inglise jalgpalli internetilehekülgedel avaldatud kirjutised superklubi Manchester Unitedi huvist Mart Poomi ostmise vastu osutusid Derby County väravavahi hinnangul pelgalt kuulujuttude võimendamiseks . 
+ Internetilehekülje Teamtalk andmeil jälgis Poomi etteastet <TIMEX3 tid="t75" type="DATE" value="2000-04-15" anchorTimeID="t0">laupäeval</TIMEX3> 1 : 2 kaotatud liigamängus West Ham Unitediga ManU vaatleja . 
+ " Ma ei tea võimalikust klubivahetusest midagi , " lausus Poom . 
+ " See on vaid kuulujuttude põhjal tehtud oletus , midagi konkreetset pole kuulda olnud . " 
+ Valitseva Inglismaa meistri , Euroopa Meistrite liigas tiitlit kaitsva ManU ning veel mitme meeskonna huvi eestlase värbamise vastu suureneb , kui Derbyl ei õnnestu kõrgliigasse püsima jääda , kirjutatakse internetileheküljel . 
+ " Olen Derbys rahul ja pole võimalikust klubivahetusest mõelnudki , " märkis Poom . 
+ Saladuseloor laiub ka ManU võimaliku vaatleja isiku ümber - igatahes Unitedi väravavahte juhendav Steve McLaren viibis <TIMEX3 tid="t76" type="DATE" value="2000-04-15" anchorTimeID="t0">laupäeval</TIMEX3> oma meeskonna liigamängul . 
+ " Derby väravavahtide treener Eric Steele on McLareniga hea semu - temagi pole midagi kuulnud sellest , et ManU mind ostma hakkaks , " ütles Poom . 
+ Poom seob leping Derby Countyga <TIMEX3 tid="t77" type="DATE" value="2002-SU" >2002. aasta suveni</TIMEX3> , 75 protsenti tema mängijaõigustest kuulub Derbyle , ülejäänud 25 protsenti FC Florale . 
+</TimeML>

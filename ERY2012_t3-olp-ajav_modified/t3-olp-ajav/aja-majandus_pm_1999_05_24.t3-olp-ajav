@@ -1,0 +1,140 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-05-24TXX:XX" />
+<ignoreeri>
+|
+autor:
+HARLI
+ULJAS
+|
+ajalehenumber:
+Postimees
+1999.05.24
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Majandus
+|
+artikkel:
+Toyota
+ja
+Volkswagen
+tihendavad
+koostööd
+|
+</ignoreeri>
+<s>
+Toyota    Toyota+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Volkswagen    Volks_wagen+0 //_H_ sg n, //
+alustavad    alusta+vad //_V_ vad, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+Jaapani    Jaapan+0 //_H_ sg g, //
+ajalehe    aja_leht+0 //_S_ sg g, //
+andmetel    andmed+tel //_S_ pl ad, //
+lähemat    lähem+t //_C_ sg p, //
+koostööd    koos_töö+d //_S_ sg p, //
+autoosade    auto_osa+de //_S_ pl g, //
+valmistamisel    valmistamine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Plaani    plaan+0 //_S_ sg g, //
+eesmärk    ees_märk+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kasutada    kasuta+da //_V_ da, //
+ühiseid    ühine+id //_A_ pl p, //
+detaile    detail+e //_S_ pl p, //
+kuni    kuni+0 //_K_ //
+ühtsete    ühtne+te //_A_ pl g, //
+autoplatvormideni    auto_platvorm+deni //_S_ pl ter, //
+välja    välja+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Volkswagen    Volks_wagen+0 //_H_ sg n, //
+AG    AG+0 //_Y_ ?, //
+neid    see+d //_P_ pl p, //
+plaane    plaan+e //_S_ pl p, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1999-W20" >
+eelmisel    eelmine+l //_A_ sg ad, //
+nädalal    nädal+l //_S_ sg ad, //
+</TIMEX>
+kommenteerida    kommenteeri+da //_V_ da, //
+ei    ei+0 //_V_ neg, //
+soovinud    soovi+nud //_V_ nud, //    soovi=nud+0 //_A_ //    soovi=nud+0 //_A_ sg n, //    soovi=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Toyotast    Toyota+st //_H_ sg el, //
+aga    aga+0 //_J_ //
+öeldi    ütle+di //_V_ ti, //
+Jaapani    Jaapan+0 //_H_ sg g, //
+majandusväljaandele    majandus_välja_anne+le //_S_ sg all, //
+Nihon    Nihon+0 //_H_ sg n, //
+Kuizai    Kuizai+0 //_H_ sg n, //
+Shimbun    Shimbun+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+koostöö    koos_töö+0 //_S_ sg n, //
+käib    käi+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1998-07" >
+Juulis    juuli+s //_S_ sg in, //
+</TIMEX>
+sõlmisid    sõlmi+sid //_V_ sid, //
+Volkswagen    Volks_wagen+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Toyota    Toyota+0 //_H_ sg n, //
+<TIMEX  tid="t3" type="DURATION" temporalFunction="false" value="P2Y" >
+kaheaastase    kahe_aastane+0 //_A_ sg g, //
+</TIMEX>
+lepingu    leping+0 //_S_ sg g, //
+autoosade    auto_osa+de //_S_ pl g, //
+ning    ning+0 //_J_ //
+juhtimissüsteemide    juhtimis_süsteem+de //_S_ pl g, //
+arendamiseks    arendamine+ks //_S_ sg tr, //
+,    , //_Z_ //
+samuti    samuti+0 //_D_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+tehnoloogiate    tehnoloogia+te //_S_ pl g, //
+parandamiseks    parandamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1999-04" mod="END" >
+Aprilli    aprill+0 //_S_ sg g, //
+lõpus    lõpp+s //_S_ sg in, //
+</TIMEX>
+allkirjastasid    all_kirjasta+sid //_V_ sid, //
+Toyota    Toyota+0 //_H_ sg n, //
+ning    ning+0 //_J_ //
+General Motors    General Motors+0 //_H_ sg n, //
+ka    ka+0 //_D_ //
+lepingu    leping+0 //_S_ sg g, //
+uue    uus+0 //_A_ sg g, //
+keskkonnasõbraliku    keskkonna_sõbralik+0 //_A_ sg g, //
+auto    auto+0 //_S_ sg g, //
+tootmiseks    toot=mine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Firmad    firma+d //_S_ pl n, //
+kavatsevad    kavatse+vad //_V_ vad, //
+koos    koos+0 //_D_ //
+toota    toot+a //_V_ da, //
+keskkonnasõbralikumaid    keskkonna_sõbra=likum+id //_C_ pl p, //
+väljalaskesüsteeme    välja_laske_süsteem+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+pidurisüsteemi    piduri_süsteem+0 //_S_ sg g, //
+osi    osa+i //_S_ pl p, //
+,    , //_Z_ //
+samuti    samuti+0 //_D_ //
+parandada    paranda+da //_V_ da, //
+sõidukite    sõiduk+te //_S_ pl g, //
+turvalisust    turvalisus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>

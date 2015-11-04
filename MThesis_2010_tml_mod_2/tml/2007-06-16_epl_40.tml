@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ <TIMEX3 tid="t166" type="DATE" value="2007-06-16" anchorTimeID="t0">Täna</TIMEX3> toimusid Lõuna-Venemaal Rostovi oblastis Gukovos Tõnismäelt välja kaevatud Punaarmees teeninud kapten Aleksei Brjantsevi säilmete matused . 
+ Eesti võimud andsid <TIMEX3 tid="t167" type="DATE" value="1944">1944. aastal</TIMEX3> hukkunud kapten Brjantsevi säilmed üle tema pojale Viktorile , pärast seda kui DNA-analüüs kinnitas nende sugulust , vahendab Ria Novosti . 
+ Uudisteagentuuri andmeil maetu Brijantsev ja 12 ülejäänud punaarmee sõdurit II maailmasõja lõpus Tõnismäele , kuhu hiljem püstitati pronkssõduri skulptuur . 
+ Eesti kaitseministeeriumi andmeil leiti Tõnismäelt 12 maetu säilmed . 
+</TimeML>

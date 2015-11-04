@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : internet 
+ <TIMEX3 tid="t53" type="TIME" value="2007-06-17TEV" anchorTimeID="t0">Pühapäeva , 17. juuni õhtul</TIMEX3> saabub Eestisse tagasi <TIMEX3 tid="t54" type="DURATION" value="P6M">pool aastat</TIMEX3> operatsioonil Iraagi Vabadus teeninud jalaväerühm Estpla-14 . 
+ <TIMEX3 tid="t55" type="DURATION" value="P6M">Kuue teenistuskuu jooksul</TIMEX3> viisid Estpla-14 kaitseväelased läbi 148 motoriseeritud ja jalgsipatrulli , neist pikemad kestsid <TIMEX3 tid="t56" type="DURATION" value="PT48H">48 tundi</TIMEX3> ja lühimad <TIMEX3 tid="t57" type="DURATION" value="PT6H">kuus tundi</TIMEX3> , teatas kaitsejõudude peastaap . 
+ Samuti viis rühm läbi kinnipidamis- ja läbiotsimis- , konvoi- ja julgestusoperatsioone , mehitas vaatlusposte ning masinate ja isikute läbiotsimispunkte . 
+ Operatsioonide käigus pidasid Eesti kaitseväelased kinni kokku 37 isikut , keda kahtlustati peamiselt koalitsioonijõudude vastastes rünnakutes , inimröövides ja mõrvades . 
+ Kokku leidis üksus 84 erinevat käsitulirelva , tankitõrjerelvi , ühe miinipilduja ning hulgaliselt laskemoona erinevatele relvadele . 
+ " Meie üksuse suureks plussiks on oskus ja võimekus täita võimalikult erinevaid ülesandeid , " sõnas Estpla-14 ülem leitnant Ranno Raudisk . 
+ " <TIMEX3 tid="t58" type="DURATION" value="P6M">Kuus kuud</TIMEX3> näitasid , et oleme täielikult võimelised mistahes operatsioonideks koos liitlastega . 
+ Me oleme väljaõppelt väga heal tasemel ning meie oskused on avaldanud muljet kõigile meiega koos tööd teinud liitlastele . " 
+</TimeML>

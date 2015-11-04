@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Kaabliliit ootab ministeeriumilt tegusid 
+ Kaabellevi Liit : Tallinna linnavõimud toetavad algatust kaabellevi seaduse muutmiseks 
+ JAANUS PUTTING , jaanus.putting@postimees.ee 
+ Eesti Kaabellevi Liidu Tallinnas tegutsevad liikmesoperaatorid ootavad teede- ja sideministeeriumilt algatust kaabellevi seaduse muutmiseks , sest kehtiv seadus ei suuda liidu hinnangul Tallinnas käimasolevat kaabeltelekonflikti lahendada . 
+ Eesti Kaabellevi Liidu ( EKLL ) juhatuse esimehe Peeter Kerni väitel on <TIMEX3 tid="t219" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegu</TIMEX3> kõik kaardid teede- ja sideministeeriumi käes , et kehtiva kaabellevi seaduse muutmise algatamisega lahendada keeruline olukord , mis sisuliselt tähendab paljude kaabellevioperaatorite tegevuse lõpetamist . 
+ " <TIMEX3 tid="t220" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >Praegu</TIMEX3> tundub , et ka linn ( Tallinna linnavõimud - toim ) on selle küsimuse enesele teadvustanud ning lubanud toetada kaabelfirmade initsiatiivi kaabellevi seaduse muutmiseks , " ütles Kern Postimehele . 
+ <TIMEX3 tid="t221" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >Praegu</TIMEX3> kehtiv kaabellevi seadus , mis <TIMEX3 tid="t222" type="DATE" value="2000-03" anchorTimeID="t0">eelmisel kuul</TIMEX3> sundis EKLLi kuuluvaid kaabelteleoperaatoreid mõttele tuhanded teleriomanikud üle Eesti <TIMEX3 tid="t223" type="DURATION" value="P1D" >üheks päevaks</TIMEX3> pildita jätta , pärsib liidu liikmete hinnangul kaabelleviturul konkurentsi ning soodustab vaid monopoli teket . 
+ Kerni hinnangul tulekski seadust muuta selles osas , mis <TIMEX3 tid="t224" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegu</TIMEX3> annab mõnele operaatorile mingis konkreetses piirkonnas sisuliselt monopoolse õiguse tegutsemiseks . 
+ Lõhkusid kaableid 
+ <TIMEX3 tid="t225" type="DATE" value="2000-03" anchorTimeID="t0">Eelmisel kuul</TIMEX3> otsustas kaabel-TV operaatorite vahel kaabellevi seaduse pinnal tekkinud konflikti , mille käigus lõhuti vähemalt kahe operaatori kaablid , sekkuda ka Tallinna linnavalitsus , kes moodustas linna kaabelleviturul toimivate operaatorite õiguslikkuse väljaselgitamiseks asjakohase töökomisjoni . 
+ Ehkki töökomisjon pole seni veel lõplike järeldusteni jõudnud , on linnavõimud eri hinnangutel kaalunud kaabellevikonflikti lahendamiseks ühe võimalusena Tallinna jaotamist piirkondadeks erinevate kaabellevioperaatorite vahel . 
+ EKLLi juhatuse esimees Kern nentis , et linna nn tsoneerimine konfliktile küll mingit lahendust ei tooks . 
+ " See on pigem selline ummiktee , kuhu küsimus üritati justkui suunata ehk kus linn oleks saanud midagi ette võtta , " lausus Kern . 
+ Kaabelevi Liidu juhatuse esimees lisas , et kehtiva kaabellevi seaduse kohaselt peaksid kohalikud omavalitsused tõesti need piirkonnad määrama . 
+ Üks piirkond , üks operaator 
+ " Me oleme aga <TIMEX3 tid="t226" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >nüüd</TIMEX3> linnale soovitanud , et mingil juhul ei tohiks minna seda piirkondade määramise teed , sest see tähendab jälle konkursse ning konfiskeerimisi - pigem peaks linn toetama initsiatiivi selle seaduse muutmiseks , " ütles Kern . 
+ " Kõik operaatorid on linnale <TIMEX3 tid="t227" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >nüüd</TIMEX3> selgitanud , et selline tee ei vii kuhugi ja me jõuame tagasi täpselt samasse seisu nagu <TIMEX3 tid="t228" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >täna</TIMEX3> , kus ühes piirkonnas on üks operaator . 
+ Sealt ei kasva mingit konkurentsi Eesti Telefonile ning probleemid ainult süvenevad , " märkis ta . 
+</TimeML>

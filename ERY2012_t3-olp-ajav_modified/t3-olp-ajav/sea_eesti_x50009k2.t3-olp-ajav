@@ -1,0 +1,4746 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2001-12-XXTXX:XX" />
+<ignoreeri>
+|
+seadus:
+Sotsiaalmaksuseadus
+(
+terviktekst
+dets
+2001
+)
+|
+</ignoreeri>
+<s>
+Sotsiaalmaksuseadus    sotsiaal_maksu_seadus+0 //_S_ sg n, //
+</s>
+<s>
+Vastu    vastu+0 //_D_ //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="2000-12-13" >
+13.    13.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+2000.    2000.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+102    102+0 //_N_ ?, //
+,    , //_Z_ //
+675    675+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+</s>
+<s>
+jõustunud    jõustu+nud //_V_ nud, //    jõustu=nud+0 //_A_ //    jõustu=nud+0 //_A_ sg n, //    jõustu=nud+d //_A_ pl n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="2001-01-01" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+2001.    2001.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+,    , //_Z_ //
+</s>
+<s>
+muudetud    muude=tud+0 //_A_ //    muude=tud+0 //_A_ sg n, //    muude=tud+d //_A_ pl n, //    muut+tud //_V_ tud, //
+järgmiste    järgmine+te //_A_ pl g, //
+seadustega    seadus+tega //_S_ pl kom, //
+:    : //_Z_ //
+</s>
+<s>
+<TIMEX text="14. 11. 2001"  tid="t4" type="DATE" temporalFunction="false" value="2001-11-14" >
+14.11.2001    14.11.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t5" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+95    95+0 //_N_ ?, //
+,    , //_Z_ //
+587    587+0 //_N_ ?, //
+;    ; //_Z_ //
+</s>
+<s>
+<TIMEX text="24. 10. 2001"  tid="t7" type="DATE" temporalFunction="false" value="2001-10-24" >
+24.10.2001    24.10.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t8" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+;    ; //_Z_ //
+</s>
+<s>
+<TIMEX text="12. 09. 2001"  tid="t10" type="DATE" temporalFunction="false" value="2001-09-12" >
+12.09.2001    12.09.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2002"  tid="t11" type="DATE" temporalFunction="false" value="2002-07-01" >
+jõust.01.07.2002    jõust.01.07.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+;    ; //_Z_ //
+</s>
+<s>
+<TIMEX text="13. 06. 2001"  tid="t13" type="DATE" temporalFunction="false" value="2001-06-13" >
+13.06.2001    13.06.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t14" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+;    ; //_Z_ //
+</s>
+<s>
+<TIMEX text="15. 05. 2001"  tid="t16" type="DATE" temporalFunction="false" value="2001-05-15" >
+15.05.2001    15.05.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2001"  tid="t17" type="DATE" temporalFunction="false" value="2001-07-01" >
+jõust.01.07.2001    jõust.01.07.2001+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t18" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+285.    285.+0 //_O_ ?, //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+1.    1.+0 //_O_ ?, //
+</s>
+<s>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+mõiste    mõiste+0 //_S_ sg n, //
+</s>
+<s>
+Sotsiaalmaks    sotsiaal_maks+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+riiklikuks    riiklik+ks //_A_ sg tr, //
+pensioni-    pension+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+ravikindlustuseks    ravi_kindlustus+ks //_S_ sg tr, //
+vajaliku    vajalik+0 //_A_ sg g, //
+tulu    tulu+0 //_S_ sg g, //
+saamiseks    saamine+ks //_S_ sg tr, //
+maksumaksjale    maksu_maksja+le //_S_ sg all, //
+pandud    pan=dud+0 //_A_ //    pan=dud+0 //_A_ sg n, //    pan=dud+d //_A_ pl n, //    pane+dud //_V_ tud, //
+rahaline    rahaline+0 //_A_ sg n, //
+kohustis    kohustis+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kuulub    kuulu+b //_V_ b, //
+täitmisele    täitmine+le //_S_ sg all, //
+käesolevas    käes_olev+s //_A_ sg in, //
+seaduses    seadus+s //_S_ sg in, //
+ettenähtud    ette_nähtud+0 //_A_ //    ette_nähtud+0 //_A_ sg n, //    ette_nähtud+d //_A_ pl n, //
+korras    kord+s //_S_ sg in, //
+,    , //_Z_ //
+suuruses    suurus+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+tähtaegadel    täht_aeg+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+2.    2.+0 //_O_ ?, //
+</s>
+<s>
+Maksuobjekt    maksu_objekt+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ adt, //
+makstakse    maks+takse //_V_ takse, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+töötajale    töötaja+le //_S_ sg all, //
+rahas    raha+s //_S_ sg in, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+palgalt    palk+lt //_S_ sg abl, //
+ja    ja+0 //_J_ //
+muudelt    muu+delt //_P_ pl abl, //
+tasudelt    tasu+delt //_S_ pl abl, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+<kiil>
+(    ( //_Z_ //
+Kehtetu    kehtetu+0 //_A_ sg n, //
+-    - //_Z_ //
+<TIMEX text="13. 06. 2001"  tid="t19" type="DATE" temporalFunction="false" value="2001-06-13" >
+13.06.2001    13.06.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2003"  tid="t20" type="DATE" temporalFunction="false" value="2003-01-01" >
+jõust.01.01.2003    jõust.01.01.2003+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t21" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmele    liige+le //_S_ sg all, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Presidendile    president+le //_S_ sg all, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+liikmele    liige+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+avalikule    avalik+le //_A_ sg all, //
+teenistujale    teenistuja+le //_S_ sg all, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+palgalt    palk+lt //_S_ sg abl, //
+ja    ja+0 //_J_ //
+muudelt    muu+delt //_P_ pl abl, //
+tasudelt    tasu+delt //_S_ pl abl, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+juriidilise    juriidiline+0 //_A_ sg g, //
+isiku    isik+0 //_S_ sg g, //
+juhtimis-    juhtimis //_S_ ?, //
+või    või+0 //_J_ //
+kontrollorgani    kontroll_organ+0 //_S_ sg g, //
+tulumaksuseaduse    tulu_maksu_seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t22" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+101    101+0 //_N_ ?, //
+,    , //_Z_ //
+903    903+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t23" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+11    11+0 //_N_ ?, //
+,    , //_Z_ //
+49    49+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+69    69+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+283    283+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+tähenduses    tähendus+s //_S_ sg in, //
+liikmele    liige+le //_S_ sg all, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+tasudelt    tasu+delt //_S_ pl abl, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+2    2+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+ettevõtlusest    ette_võtlus+st //_S_ sg el, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+tulult    tulu+lt //_S_ sg abl, //
+<kiil>
+,    , //_Z_ //
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+tulumaksuseaduses    tulu_maksu_seadus+s //_S_ sg in, //
+lubatud    luba+tud //_V_ tud, //    lubatu+d //_A_ pl n, //    lubatud+0 //_A_ //    lubatud+0 //_A_ sg n, //    lubatud+d //_A_ pl n, //
+ettevõtlusega    ette_võtlus+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+mahaarvamised    maha_arvamine+d //_S_ pl n, //
+,    , //_Z_ //
+</kiil>
+arvestades    arvesta+des //_V_ des, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõigetes    lõige+tes //_S_ pl in, //
+5    5+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+7    7+0 //_N_ ?, //
+sätestatut    sätesta=tu+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+mitte    mitte+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+<TIMEX  tid="t24" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+palga    palk+0 //_S_ sg g, //
+alammäärade    alam_määr+de //_S_ pl g, //
+15-kordselt    15_kordne+lt //_A_ sg abl, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+<TIMEX  tid="t1_1" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+füüsilisele    füüsiline+le //_A_ sg all, //
+isikule    isik+le //_S_ sg all, //
+tööettevõtu-    töö_ette_võtt+0 //_S_ sg g, //
+,    , //_Z_ //
+käsundus-    käsundus+0 //_S_ sg n, //
+või    või+0 //_J_ //
+muu    muu+0 //_P_ sg g, //
+teenuse    teenus+0 //_S_ sg g, //
+osutamiseks    osutamine+ks //_S_ sg tr, //
+sõlmitud    sõlmi+tud //_V_ tud, //    sõlmi=tud+0 //_A_ //    sõlmi=tud+0 //_A_ sg n, //    sõlmi=tud+d //_A_ pl n, //
+võlaõigusliku    võla_õiguslik+0 //_A_ sg g, //
+lepingu    leping+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+tasudelt    tasu+delt //_S_ pl abl, //
+,    , //_Z_ //
+sealhulgas    seal_hulgas+0 //_D_ //
+spordiseaduse    spordi_seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t25" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+61    61+0 //_N_ ?, //
+,    , //_Z_ //
+982    982+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+13    13+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+2    2+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+lepingu    leping+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+tasudelt    tasu+delt //_S_ pl abl, //
+,    , //_Z_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+2    2+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+;    ; //_Z_ //
+</s>
+<s>
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+erisoodustustelt    eri_soodustus+telt //_S_ pl abl, //
+tulumaksuseaduse    tulu_maksu_seadus+0 //_S_ sg g, //
+tähenduses    tähendus+s //_S_ sg in, //
+,    , //_Z_ //
+ümberarvestatuna    ümber_arvestatud+na //_A_ sg es, //
+rahasse    raha+sse //_S_ sg ill, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+erisoodustustelt    eri_soodustus+telt //_S_ pl abl, //
+maksmisele    maks=mine+le //_S_ sg all, //
+kuuluvalt    kuuluv+lt //_A_ sg abl, //
+tulumaksult    tulu_maks+lt //_S_ sg abl, //
+;    ; //_Z_ //
+</s>
+<s>
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+töötuskindlustuse    töötus_kindlustus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+hüvitistelt    hüvitis+telt //_S_ pl abl, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="13. 06. 2001"  tid="t26" type="DATE" temporalFunction="false" value="2001-06-13" >
+13.06.2001    13.06.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t27" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t28" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ adt, //
+makstakse    maks+takse //_V_ takse, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+1    1+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+tasu    tasu+0 //_S_ sg p, //
+saava    saav+0 //_A_ sg g, //
+põhikohaga    põhi_koht+ga //_S_ sg kom, //
+töötaja    töötaja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+teenistuja    teenistuja+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+<TIMEX  tid="t29" type="DURATION" temporalFunction="true" value="P1M" >
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+eest    eest+0 //_K_ //
+mitte    mitte+0 //_D_ //
+vähem    vähem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+,    , //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+isiku    isik+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+saab    saa+b //_V_ b, //
+riiklikku    riiklik+0 //_A_ sg p, //
+pensioni    pension+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõigetes    lõige+tes //_S_ pl in, //
+3    3+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+4    4+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhtudel    juht+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Riikliku    riiklik+0 //_A_ sg g, //
+pensioni    pension+0 //_S_ sg g, //
+saaja    saaja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+saab    saa+b //_V_ b, //
+pensioni    pension+0 //_S_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t30" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+64/65    64/65+0 //_N_ ?, //
+,    , //_Z_ //
+1009    1009+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t31" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+9    9+0 //_N_ ?, //
+,    , //_Z_ //
+42    42+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+või    või+0 //_J_ //
+muu    muu+0 //_P_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+või    või+0 //_J_ //
+tulenevalt    tulenevalt+0 //_D_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+ratifitseeritud    ratifitseeri+tud //_V_ tud, //    ratifitseeri=tud+0 //_A_ //    ratifitseeri=tud+0 //_A_ sg n, //    ratifitseeri=tud+d //_A_ pl n, //
+sotsiaalkindlustuslepingust    sotsiaal_kindlustus_leping+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Põhikohaga    põhi_koht+ga //_S_ sg kom, //
+töötaja    töötaja+0 //_S_ sg n, //
+või    või+0 //_J_ //
+teenistuja    teenistuja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+kohta    kohta+0 //_K_ //
+tööandja    töö_andja+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+tööraamatut    töö_raamat+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ adt, //
+makstakse    maks+takse //_V_ takse, //
+töötajale    töötaja+le //_S_ sg all, //
+või    või+0 //_J_ //
+teenistujale    teenistuja+le //_S_ sg all, //
+<TIMEX  tid="t32" type="DURATION" temporalFunction="true" value="P1M" >
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+eest    eest+0 //_K_ //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+tasult    tasu+lt //_S_ sg abl, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+mitte    mitte+0 //_D_ //
+vähem    vähem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t1_2" type="DATE" temporalFunction="true" value="XXXX">
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+proportsionaalselt    proportsionaalselt+0 //_D_ //
+<TIMEX  tid="t33" type="DATE" temporalFunction="true" value="XXXX-XX" anchorTimeID="??">
+sellel    see+l //_P_ sg ad, //
+kuul    kuu+l //_S_ sg ad, //
+</TIMEX>
+töötatud    tööta+tud //_V_ tud, //    tööta=tud+0 //_A_ //    tööta=tud+0 //_A_ sg n, //    tööta=tud+d //_A_ pl n, //
+ajaga    aeg+ga //_S_ sg kom, //
+,    , //_Z_ //
+järgmistel    järgmine+tel //_A_ pl ad, //
+juhtudel    juht+del //_S_ pl ad, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+töötaja    töötaja+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+tööleping    töö_leping+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+peatunud    peatu+nud //_V_ nud, //    peatu=nud+0 //_A_ //    peatu=nud+0 //_A_ sg n, //    peatu=nud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+töölepingu    töö_leping+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+<TIMEX  tid="t34" type="DATE" temporalFunction="false" value="1992" >
+1992    1992+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+15/16    15/16+0 //_N_ ?, //
+,    , //_Z_ //
+241    241+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t35" type="DATE" temporalFunction="false" value="1993" >
+1993    1993+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+150    150+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t36" type="DATE" temporalFunction="false" value="1993" >
+1993    1993+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+26    26+0 //_N_ ?, //
+,    , //_Z_ //
+441    441+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t37" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+14    14+0 //_N_ ?, //
+,    , //_Z_ //
+170    170+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+228    228+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t38" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+3    3+0 //_N_ ?, //
+,    , //_Z_ //
+57    57+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+40    40+0 //_N_ ?, //
+,    , //_Z_ //
+773    773+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+45    45+0 //_N_ ?, //
+,    , //_Z_ //
+850    850+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+49    49+0 //_N_ ?, //
+,    , //_Z_ //
+953    953+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t39" type="DATE" temporalFunction="false" value="1997" >
+1997    1997+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+5/6    5/6+0 //_N_ ?, //
+,    , //_Z_ //
+32    32+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t40" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+111    111+0 //_N_ ?, //
+,    , //_Z_ //
+1829    1829+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t41" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+276    276+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+60    60+0 //_N_ ?, //
+,    , //_Z_ //
+616    616+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t42" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+25    25+0 //_N_ ?, //
+,    , //_Z_ //
+144    144+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+51    51+0 //_N_ ?, //
+,    , //_Z_ //
+327    327+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+370    370+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+102    102+0 //_N_ ?, //
+,    , //_Z_ //
+669    669+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t43" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+17    17+0 //_N_ ?, //
+,    , //_Z_ //
+78    78+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+42    42+0 //_N_ ?, //
+,    , //_Z_ //
+233    233+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+53    53+0 //_N_ ?, //
+,    , //_Z_ //
+311    311+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+55    55+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+3-11    3-11+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+,    , //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+teenistuja    teenistuja+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+teenistussuhe    teenistus_suhe+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+peatunud    peatu+nud //_V_ nud, //    peatu=nud+0 //_A_ //    peatu=nud+0 //_A_ sg n, //    peatu=nud+d //_A_ pl n, //
+avaliku    avalik+0 //_A_ sg g, //
+teenistuse    teenistus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t44" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+228    228+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t45" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+7    7+0 //_N_ ?, //
+,    , //_Z_ //
+112    112+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+155    155+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+271    271+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+276    276+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t46" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+25    25+0 //_N_ ?, //
+,    , //_Z_ //
+144    144+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+145    145+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+28    28+0 //_N_ ?, //
+,    , //_Z_ //
+167    167+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+102    102+0 //_N_ ?, //
+,    , //_Z_ //
+672    672+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t47" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+7    7+0 //_N_ ?, //
+,    , //_Z_ //
+17    17+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+18    18+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+17    17+0 //_N_ ?, //
+,    , //_Z_ //
+78    78+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+42    42+0 //_N_ ?, //
+,    , //_Z_ //
+233    233+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+47    47+0 //_N_ ?, //
+,    , //_Z_ //
+260    260+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+108    108+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+2-9    2-9+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+või    või+0 //_J_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+töötaja    töötaja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+teenistuja    teenistuja+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+asunud    asu+nud //_V_ nud, //    asu=nud+0 //_A_ //    asu=nud+0 //_A_ sg n, //    asu=nud+d //_A_ pl n, //
+tööle    töö+le //_S_ sg all, //
+või    või+0 //_J_ //
+<kindel_piir/>
+lahkunud    lahku+nud //_V_ nud, //    lahkunud+0 //_A_ //    lahkunud+0 //_A_ sg n, //    lahkunud+d //_A_ pl n, //
+töölt    töö+lt //_S_ sg abl, //
+<TIMEX  tid="t48" type="DATE" temporalFunction="true" value="XXXX-XX" anchorTimeID="??" >
+sellel    see+l //_P_ sg ad, //
+kuul    kuu+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ adt, //
+makstakse    maks+takse //_V_ takse, //
+töötajale    töötaja+le //_S_ sg all, //
+või    või+0 //_J_ //
+teenistujale    teenistuja+le //_S_ sg all, //
+<TIMEX tid="t49" type="DURATION" temporalFunction="false" value="P1M" >
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+eest    eest+0 //_K_ //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+tasult    tasu+lt //_S_ sg abl, //
+järgmistel    järgmine+tel //_A_ pl ad, //
+juhtudel    juht+del //_S_ pl ad, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+töötaja    töötaja+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+töölepingu    töö_leping+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+68    68+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+osaline    osaline+0 //_A_ sg n, //
+tööaeg    töö_aeg+0 //_S_ sg n, //
+või    või+0 //_J_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+saadetud    saadetud+0 //_A_ //    saadetud+0 //_A_ sg n, //    saadetud+d //_A_ pl n, //    saat+tud //_V_ tud, //
+osaliselt    osaliselt+0 //_D_ //
+tasustatavale    tasusta=tav+le //_A_ sg all, //
+puhkusele    puhkus+le //_S_ sg all, //
+või    või+0 //_J_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+töötaja    töötaja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+teenistuja    teenistuja+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+töö-    töö+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+puhkeaja    puhke_aeg+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t50" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+17    17+0 //_N_ ?, //
+,    , //_Z_ //
+78    78+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+5    5+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+lühendatud    lühenda+tud //_V_ tud, //    lühenda=tud+0 //_A_ //    lühenda=tud+0 //_A_ sg n, //    lühenda=tud+d //_A_ pl n, //
+tööaeg    töö_aeg+0 //_S_ sg n, //
+<TIMEX  tid="t51" type="DATE" temporalFunction="true" value="XXXX-XX" anchorTimeID="??" >
+sellel    see+l //_P_ sg ad, //
+kuul    kuu+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="24. 10. 2001"  tid="t52" type="DATE" temporalFunction="false" value="2001-10-24" >
+24.10.2001    24.10.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t53" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t54" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+maksab    maks+b //_V_ b, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+<TIMEX tid="t1_3" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+mitte    mitte+0 //_D_ //
+vähem    vähem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+<TIMEX  tid="t55" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumäärade    kuu_määr+de //_S_ pl g, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+,    , //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+7    7+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+ning    ning+0 //_J_ //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kogu    kogu+0 //_A_ //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensioni    pension+0 //_S_ sg g, //
+saaja    saaja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+kestel    kestel+0 //_K_ //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+kantud    kand+tud //_V_ tud, //    kantud+0 //_A_ //    kantud+0 //_A_ sg n, //    kantud+d //_A_ pl n, //
+äriregistrisse    äri_register+sse //_S_ sg ill, //
+või    või+0 //_J_ //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+elukohajärgses    elu_koha_järgne+s //_A_ sg in, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikus    kohalik+s //_A_ sg in, //
+asutuses    asutus+s //_S_ sg in, //
+või    või+0 //_J_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+kustutatud    kustuta+tud //_V_ tud, //    kustuta=tud+0 //_A_ //    kustuta=tud+0 //_A_ sg n, //    kustuta=tud+d //_A_ pl n, //
+äriregistrist    äri_register+st //_S_ sg el, //
+või    või+0 //_J_ //
+teatanud    teata+nud //_V_ nud, //    teata=nud+0 //_A_ //    teata=nud+0 //_A_ sg n, //    teata=nud+d //_A_ pl n, //
+elukohajärgsele    elu_koha_järgne+le //_A_ sg all, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikule    kohalik+le //_A_ sg all, //
+asutusele    asutus+le //_S_ sg all, //
+oma    oma+0 //_P_ sg g, //
+tegevuse    tegevus+0 //_S_ sg g, //
+lõpetamisest    lõpetamine+st //_S_ sg el, //
+või    või+0 //_J_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensioni    pension+0 //_S_ sg g, //
+saajaks    saaja+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+5    5+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+1-3    1-3+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhtudel    juht+del //_S_ pl ad, //
+makstakse    maks+takse //_V_ takse, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+proportsionaalselt    proportsionaalselt+0 //_D_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtjana    ette_võtja+na //_S_ sg es, //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+<TIMEX  tid="t56" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+arvuga    arv+ga //_S_ sg kom, //
+või    või+0 //_J_ //
+lõike    lõige+0 //_S_ sg g, //
+5    5+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+staatuse    staatus+0 //_S_ sg g, //
+saamisele    saamine+le //_S_ sg all, //
+<TIMEX  tid="t57" type="DURATION" temporalFunction="true" value="PXM" beginPoint="??" endPoint="??" >
+eelnenud    eelne+nud //_V_ nud, //    eelne=nud+0 //_A_ //    eelne=nud+0 //_A_ sg n, //    eelne=nud+d //_A_ pl n, //
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+arvuga    arv+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+maksab    maks+b //_V_ b, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+ka    ka+0 //_D_ //
+tööandja    töö_andja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+1    1+0 //_N_ ?, //
+või    või+0 //_J_ //
+5    5+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+riik    riik+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tema    tema+0 //_P_ sg g, //
+ettevõtlusest    ette_võtlus+st //_S_ sg el, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+tulu    tulu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+<TIMEX  tid="t58" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+<TIMEX tid="t1_5" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumäärade    kuu_määr+de //_S_ pl g, //
+summast    summ+st //_S_ sg el, //    summa+st //_S_ sg el, //
+väiksem    väiksem+0 //_C_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+tema    tema+0 //_P_ sg g, //
+ettevõtlusest    ette_võtlus+st //_S_ sg el, //
+saadava    saadav+0 //_A_ sg g, //
+tulu    tulu+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+makstav    makstav+0 //_A_ sg n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+summa    summa+0 //_S_ sg n, //
+olla    ole+a //_V_ da, //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+<TIMEX  tid="t59" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumäärade    kuu_määr+de //_S_ pl g, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+arvutatud    arvuta+tud //_V_ tud, //    arvuta=tud+0 //_A_ //    arvuta=tud+0 //_A_ sg n, //    arvuta=tud+d //_A_ pl n, //
+maksusummast    maksu_summ+st //_S_ sg el, //    maksu_summa+st //_S_ sg el, //
+väiksem    väiksem+0 //_C_ sg n, //
+tingimusel    tingimus+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tööandja    töö_andja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+1    1+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+5    5+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+riigi    riik+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+tema    tema+0 //_P_ sg g, //
+eest    eest+0 //_K_ //
+ja    ja+0 //_J_ //
+ettevõtlusest    ette_võtlus+st //_S_ sg el, //
+saadava    saadav+0 //_A_ sg g, //
+tulu    tulu+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+makstav    makstav+0 //_A_ sg n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+summa    summa+0 //_S_ sg n, //
+kokku    kokku+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vähemalt    vähemalt+0 //_D_ //
+võrdne    võrdne+0 //_A_ sg n, //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+<TIMEX  tid="t60" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+<TIMEX tid="t1_6" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumäärade    kuu_määr+de //_S_ pl g, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+arvutatud    arvuta+tud //_V_ tud, //    arvuta=tud+0 //_A_ //    arvuta=tud+0 //_A_ sg n, //    arvuta=tud+d //_A_ pl n, //
+maksusummaga    maksu_summ+ga //_S_ sg kom, //    maksu_summa+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+3.    3.+0 //_O_ ?, //
+</s>
+<s>
+Sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+mittemaksustatavad    mitte_maksustatav+d //_A_ pl n, //
+summad    summ+d //_S_ pl n, //    summa+d //_S_ pl n, //
+</s>
+<s>
+Sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+ei    ei+0 //_V_ neg, //
+maksustata    maksusta+ta //_V_ ta, //
+järgmisi    järgmine+i //_A_ pl p, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+1    1+0 //_N_ ?, //
+,    , //_Z_ //
+3    3+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+4    4+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+isikutele    isik+tele //_S_ pl all, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+summasid    summ+sid //_S_ pl p, //    summa+sid //_S_ pl p, //
+või    või+0 //_J_ //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+soodustusi    soodustus+i //_S_ pl p, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+tulumaksuseaduse    tulu_maksu_seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+13    13+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+1    1+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+2    2+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+§    §+0 //_Y_ ?, //
+31    31+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+7    7+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+8    8+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+väljamakseid    välja_makse+id //_S_ pl p, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+väljamakseid    välja_makse+id //_S_ pl p, //
+Eesti    Eesti+0 //_H_ sg g, //
+välisesindustes    välis_esindus+tes //_S_ pl in, //
+töötavatele    töötav+tele //_A_ pl all, //
+asukohariigi    asu_koha_riik+0 //_S_ sg g, //
+elanikele    elanik+ele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+välislepinguga    välis_leping+ga //_S_ sg kom, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+teisiti    teisiti+0 //_D_ //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+töötervishoiu    töö_tervis_hoid+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+tööohutuse    töö_ohutus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t61" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+60    60+0 //_N_ ?, //
+,    , //_Z_ //
+616    616+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t62" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+55    55+0 //_N_ ?, //
+,    , //_Z_ //
+362    362+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t63" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+17    17+0 //_N_ ?, //
+,    , //_Z_ //
+78    78+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+13    13+0 //_N_ ?, //
+lõikest    lõige+st //_S_ sg el, //
+1    1+0 //_N_ ?, //
+tulenevaid    tulenev+id //_A_ pl p, //
+tööandja    töö_andja+0 //_S_ sg g, //
+kulutusi    kulutus+i //_S_ pl p, //
+töötaja    töötaja+0 //_S_ sg g, //
+töötervishoiu    töö_tervis_hoid+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+tööohutuse    töö_ohutus+0 //_S_ sg g, //
+tagamiseks    tagamine+ks //_S_ sg tr, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+RT    RT+0 //_Y_ ?, //
+<TIMEX  tid="t64" type="DATE" temporalFunction="false" value="1992" >
+1992    1992+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+28    28+0 //_N_ ?, //
+,    , //_Z_ //
+381    381+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t65" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+51    51+0 //_N_ ?, //
+,    , //_Z_ //
+966    966+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t66" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+107    107+0 //_N_ ?, //
+,    , //_Z_ //
+1765    1765+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t67" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+153    153+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t68" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+21    21+0 //_N_ ?, //
+,    , //_Z_ //
+117    117+0 //_N_ ?, //
+</s>
+<s>
+seaduse    seadus+0 //_S_ sg g, //
+“    “ //_Z_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmete    liige+te //_S_ pl g, //
+ametipalga    ameti_palk+0 //_S_ sg g, //
+,    , //_Z_ //
+pensioni    pension+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+muude    muu+de //_P_ pl g, //
+sotsiaalsete    sotsiaalne+te //_A_ pl g, //
+garantiide    garantii+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+”    ” //_Z_ //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+<TIMEX  tid="t69" type="DATE" temporalFunction="false" value="1992" >
+1992    1992+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+28    28+0 //_N_ ?, //
+,    , //_Z_ //
+381    381+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t70" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+51    51+0 //_N_ ?, //
+,    , //_Z_ //
+966    966+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t71" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+107    107+0 //_N_ ?, //
+,    , //_Z_ //
+1765    1765+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t72" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+153    153+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t73" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+21    21+0 //_N_ ?, //
+,    , //_Z_ //
+117    117+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Presidendi    president+0 //_S_ sg g, //
+ametihüve    ameti_hüve+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t74" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+51    51+0 //_N_ ?, //
+,    , //_Z_ //
+966    966+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t75" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+55    55+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t76" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+43    43+0 //_N_ ?, //
+,    , //_Z_ //
+240    240+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+3    3+0 //_N_ ?, //
+,    , //_Z_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Presidendi    president+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+nimetatavate    nimetatav+te //_A_ pl g, //
+riigiametnike    riigi_ametnik+e //_S_ pl g, //
+ametipalkade    ameti_palk+de //_S_ pl g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t77" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+81    81+0 //_N_ ?, //
+,    , //_Z_ //
+1448    1448+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t78" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+29    29+0 //_N_ ?, //
+,    , //_Z_ //
+406    406+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t79" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+55    55+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+12    12+0 //_N_ ?, //
+1    1+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+välisteenistuse    välis_teenistus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t80" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+15    15+0 //_N_ ?, //
+,    , //_Z_ //
+172    172+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+764    764+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t81" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+49    49+0 //_N_ ?, //
+,    , //_Z_ //
+953    953+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t82" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+43    43+0 //_N_ ?, //
+,    , //_Z_ //
+240    240+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+25    25+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+tehtavaid    tehtav+id //_A_ pl p, //
+väljamakseid    välja_makse+id //_S_ pl p, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+puhkuseseaduse    puhkuse_seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t83" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+42    42+0 //_N_ ?, //
+,    , //_Z_ //
+233    233+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§-s    §+s //_Y_ sg in, //
+26    26+0 //_N_ ?, //
+,    , //_Z_ //
+töö-    töö+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+puhkeaja    puhke_aeg+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§-des    §+des //_Y_ pl in, //
+18    18+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+23    23+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+palgaseaduse    palga_seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t84" type="DATE" temporalFunction="false" value="1994" >
+1994    1994+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+11    11+0 //_N_ ?, //
+,    , //_Z_ //
+154    154+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t85" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+12    12+0 //_N_ ?, //
+,    , //_Z_ //
+120    120+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t86" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+29    29+0 //_N_ ?, //
+,    , //_Z_ //
+397    397+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t87" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+40    40+0 //_N_ ?, //
+,    , //_Z_ //
+248    248+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t88" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+42    42+0 //_N_ ?, //
+,    , //_Z_ //
+233    233+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+287    287+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§-s    §+s //_Y_ sg in, //
+24    24+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+täiendavate    täiendav+te //_A_ pl g, //
+puhkusepäevade    puhkuse_päev+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+lapse    laps+0 //_S_ sg g, //
+toitmise    toit=mine+0 //_S_ sg g, //
+vaheaegade    vahe_aeg+de //_S_ pl g, //
+eest    eest+0 //_K_ //
+makstavat    makstav+t //_A_ sg p, //
+palgahüvitist    palga_hüvitis+t //_S_ sg p, //
+;    ; //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="24. 10. 2001"  tid="t89" type="DATE" temporalFunction="false" value="2001-10-24" >
+24.10.2001    24.10.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t90" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t91" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+laevade    laev+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+tsiviillennunduse    tsiviil_lennundus+0 //_S_ sg g, //
+lennukite    lennuk+te //_S_ pl g, //
+meeskondadele    meeskond+dele //_S_ pl all, //
+,    , //_Z_ //
+laevapere    laeva_pere+0 //_S_ sg g, //
+liikmetele    liige+tele //_S_ pl all, //
+ja    ja+0 //_J_ //
+tsiviilõhusõiduki    tsiviil_õhu_sõiduk+0 //_S_ sg g, //
+meeskonnaliikmetele    meeskonna_liige+tele //_S_ pl all, //
+antava    antav+0 //_A_ sg g, //
+tasuta    tasu+ta //_S_ sg ab, //
+kollektiivtoitlustamise    kollektiiv_toitlustamine+0 //_S_ sg g, //
+ratsiooni    ratsioon+0 //_S_ sg g, //
+maksumust    maksumus+t //_S_ sg p, //
+reisidel    reis+del //_S_ pl ad, //
+viibimise    viibimine+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ületa    ületa+0 //_V_ o, //
+90    90+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+isiku    isik+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+<TIMEX tid="t1_7" type="SET" temporalFunction="true" value="P1D" >
+päevas    päev+s //_S_ sg in, //
+</TIMEX>
+;    ; //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="24. 10. 2001"  tid="t92" type="DATE" temporalFunction="false" value="2001-10-24" >
+24.10.2001    24.10.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t93" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t94" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+Eesti    Eesti+0 //_H_ sg g, //
+residendi    resident+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+välisriigis    välis_riik+s //_S_ sg in, //
+asuva    asuv+0 //_A_ sg g, //
+püsiva    püsiv+0 //_A_ sg g, //
+tegevuskoha    tegevus_koht+0 //_S_ sg g, //
+kaudu    kaudu+0 //_K_ //
+välisriigi    välis_riik+0 //_S_ sg g, //
+residentidele    resident+dele //_S_ pl all, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+summasid    summ+sid //_S_ pl p, //    summa+sid //_S_ pl p, //
+;    ; //_Z_ //
+</s>
+<s>
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+summasid    summ+sid //_S_ pl p, //    summa+sid //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+makstakse    maks+takse //_V_ takse, //
+isikule    isik+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+viibib    viibi+b //_V_ b, //
+kohtuotsuse    kohtu_otsus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+kinnipidamiskohas    kinni_pidamis_koht+s //_S_ sg in, //
+;    ; //_Z_ //
+</s>
+<s>
+9    9+0 //_N_ ?, //
+)    ) //_Z_ //
+seaduse    seadus+0 //_S_ sg g, //
+“    “ //_Z_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmete    liige+te //_S_ pl g, //
+ametipalga    ameti_palk+0 //_S_ sg g, //
+,    , //_Z_ //
+pensioni    pension+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+muude    muu+de //_P_ pl g, //
+sotsiaalsete    sotsiaalne+te //_A_ pl g, //
+garantiide    garantii+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+”    ” //_Z_ //
+§    §+0 //_Y_ ?, //
+11    11+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmele    liige+le //_S_ sg all, //
+tehtavaid    tehtav+id //_A_ pl p, //
+väljamakseid    välja_makse+id //_S_ pl p, //
+;    ; //_Z_ //
+</s>
+<s>
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+politseiteenistuse    politsei_teenistus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t95" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+753    753+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+104    104+0 //_N_ ?, //
+,    , //_Z_ //
+1742    1742+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t96" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+57    57+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+28    28+0 //_N_ ?, //
+,    , //_Z_ //
+167    167+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t97" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+7    7+0 //_N_ ?, //
+,    , //_Z_ //
+17    17+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+85    85+0 //_N_ ?, //
+,    , //_Z_ //
+511    511+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+26    26+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+kaitseväeteenistuse    kaitse_väe_teenistus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t98" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+28    28+0 //_N_ ?, //
+,    , //_Z_ //
+167    167+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t99" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+34    34+0 //_N_ ?, //
+,    , //_Z_ //
+190    190+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+47    47+0 //_N_ ?, //
+,    , //_Z_ //
+260    260+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+58    58+0 //_N_ ?, //
+,    , //_Z_ //
+353    353+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+160    160+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+tehtavaid    tehtav+id //_A_ pl p, //
+väljamakseid    välja_makse+id //_S_ pl p, //
+;    ; //_Z_ //
+</s>
+<s>
+11    11+0 //_N_ ?, //
+)    ) //_Z_ //
+kaitseväeteenistuse    kaitse_väe_teenistus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+158    158+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+tehtavaid    tehtav+id //_A_ pl p, //
+väljamakseid    välja_makse+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+4.    4.+0 //_O_ ?, //
+</s>
+<s>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksja    maksja+0 //_S_ sg g, //
+</s>
+<s>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksjaks    maksja+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+juriidiline    juriidiline+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+füüsiline    füüsiline+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+Eestis    Eesti+s //_H_ sg in, //
+püsivat    püsiv+t //_A_ sg p, //
+tegevuskohta    tegevus_koht+0 //_S_ sg p, //
+omav    omav+0 //_A_ sg n, //
+mitteresident    mitte_resident+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+riik    riik+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+kohalik    kohalik+0 //_A_ sg n, //
+omavalitsus    oma_valitsus+0 //_S_ sg n, //
+oma    oma+0 //_P_ sg g, //
+asutuste    asutus+te //_S_ pl g, //
+kaudu    kaudu+0 //_K_ //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+muu    muu+0 //_P_ sg n, //
+Eestis    Eesti+s //_H_ sg in, //
+tegutsev    tegutsev+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+teeb    tege+b //_V_ b, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+väljamakseid    välja_makse+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+5.    5.+0 //_O_ ?, //
+</s>
+<s>
+Kindlustatav    Kindlusta=tav+0 //_H_ sg n, //
+</s>
+<s>
+Kindlustatavaks    kindlusta=tav+ks //_A_ sg tr, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+mõistes    mõiste+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+töötaja    töötaja+0 //_S_ sg g, //
+,    , //_Z_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+või    või+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valituse    valitus+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+President    president+0 //_S_ sg n, //
+või    või+0 //_J_ //
+avalik    avalik+0 //_A_ sg n, //
+teenistuja    teenistuja+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+saab    saa+b //_V_ b, //
+tasu    tasu+0 //_S_ sg p, //
+juriidilise    juriidiline+0 //_A_ sg g, //
+isiku    isik+0 //_S_ sg g, //
+juhtimis-    juhtimis //_S_ ?, //
+või    või+0 //_J_ //
+kontrollorgani    kontroll_organ+0 //_S_ sg g, //
+liikmena    liige+na //_S_ sg es, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+6    6+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+lepingu    leping+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+töötav    töötav+0 //_A_ sg n, //
+füüsiline    füüsiline+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§-s    §+s //_Y_ sg in, //
+6    6+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+isikud    isik+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+6.    6.+0 //_O_ ?, //
+</s>
+<s>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksmise    maks=mine+0 //_S_ sg g, //
+erijuhud    eri_juht+d //_S_ pl n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Riik    riik+0 //_S_ sg n, //
+maksab    maks+b //_V_ b, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+järgmiste    järgmine+te //_A_ pl g, //
+isikute    isik+te //_S_ pl g, //
+eest    eest+0 //_K_ //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+makstakse    maks+takse //_V_ takse, //
+lapsehooldustasu    lapse_hooldus_tasu+0 //_S_ sg g, //
+riiklike    riiklik+e //_A_ pl g, //
+peretoetuste    pere_toetus+te //_S_ pl g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t100" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+95    95+0 //_N_ ?, //
+,    , //_Z_ //
+587    587+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+,    , //_Z_ //
+5    5+0 //_N_ ?, //
+või    või+0 //_J_ //
+6    6+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+mittetöötav    mitte_töötav+0 //_A_ sg n, //
+vanem    vanem+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+makstakse    maks+takse //_V_ takse, //
+lapsehooldustasu    lapse_hooldus_tasu+0 //_S_ sg g, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+;    ; //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="14. 11. 2001"  tid="t101" type="DATE" temporalFunction="false" value="2001-11-14" >
+14.11.2001    14.11.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t102" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t103" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+95    95+0 //_N_ ?, //
+,    , //_Z_ //
+587    587+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+Eesti    Eesti+0 //_H_ sg g, //
+välisesinduses    välis_esindus+s //_S_ sg in, //
+töötava    töötav+0 //_A_ sg g, //
+diplomaadi    diplomaat+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+teenistuja    teenistuja+0 //_S_ sg g, //
+mittetöötav    mitte_töötav+0 //_A_ sg n, //
+abikaasa    abi_kaasa+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+kaitsejõududes    kaitse_jõud+des //_S_ pl in, //
+ajateenistuses    aja_teenistus+s //_S_ sg in, //
+olev    olev+0 //_A_ sg n, //
+ajateenija    aja_teenija+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+kuni    kuni+0 //_K_ //
+vanaduspensionieani    vanadus_pensioni_iga+ni //_S_ sg ter, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+makstakse    maks+takse //_V_ takse, //
+hooldajatoetust    hooldaja_toetus+t //_S_ sg p, //
+puuetega    puue+tega //_S_ pl kom, //
+inimeste    inimene+te //_S_ pl g, //
+sotsiaaltoetuste    sotsiaal_toetus+te //_S_ pl g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t104" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+273    273+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+82    82+0 //_N_ ?, //
+,    , //_Z_ //
+749    749+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+88    88+0 //_N_ ?, //
+,    , //_Z_ //
+803    803+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t105" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+3    3+0 //_N_ ?, //
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+8    8+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+sotsiaalministri    sotsiaal_minister+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+koostatud    koosta+tud //_V_ tud, //    koosta=tud+0 //_A_ //    koosta=tud+0 //_A_ sg n, //    koosta=tud+d //_A_ pl n, //
+nimekirja    nime_kiri+0 //_S_ adt, //
+kantud    kand+tud //_V_ tud, //    kantud+0 //_A_ //    kantud+0 //_A_ sg n, //    kantud+d //_A_ pl n, //
+äriühingu    äri_ühing+0 //_S_ sg g, //
+,    , //_Z_ //
+mittetulundusühingu    mitte_tulundus_ühing+0 //_S_ sg g, //
+või    või+0 //_J_ //
+sihtasutuse    siht_asutus+0 //_S_ sg g, //
+põhikohaga    põhi_koht+ga //_S_ sg kom, //
+töötaja    töötaja+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+töövõime    töö_võime+0 //_S_ sg g, //
+kaotus    kaotus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+40%    40%+0 //_N_ ?, //
+või    või+0 //_J_ //
+enam    enam+0 //_D_ //
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+töötu    töötu+0 //_S_ sg g, //
+abiraha    abi_raha+0 //_S_ sg g, //
+saav    saav+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+tuumakatastroofi    tuuma_katastroof+0 //_S_ sg g, //
+,    , //_Z_ //
+tuumakatsetuse    tuuma_katsetus+0 //_S_ sg g, //
+või    või+0 //_J_ //
+aatomielektrijaama    aatomi_elektri_jaam+0 //_S_ sg g, //
+avarii    avarii+0 //_S_ sg g, //
+tagajärgede    taga_järg+de //_S_ pl g, //
+likvideerimisest    likvideerimine+st //_S_ sg el, //
+osavõtnud    osa_võt=nud+0 //_A_ //    osa_võt=nud+0 //_A_ sg n, //    osa_võt=nud+d //_A_ pl n, //
+mittetöötav    mitte_töötav+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="15. 05. 2001"  tid="t106" type="DATE" temporalFunction="false" value="2001-05-15" >
+15.05.2001    15.05.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2001"  tid="t107" type="DATE" temporalFunction="false" value="2001-07-01" >
+jõust.01.07.2001    jõust.01.07.2001+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t108" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+285    285+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksmise    maks=mine+0 //_S_ sg g, //
+erijuhtudel    eri_juht+del //_S_ pl ad, //
+makstakse    maks+takse //_V_ takse, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+<TIMEX tid="t1_8" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+5    5+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+isikule    isik+le //_S_ sg all, //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+tasu    tasu+0 //_S_ sg g, //
+osalt    osa+lt //_S_ sg abl, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ületab    ületa+b //_V_ b, //
+<TIMEX tid="t1_9" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumäära    kuu_määr+0 //_S_ sg g, //
+,    , //_Z_ //
+</kiil>
+maksab    maks+b //_V_ b, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+5    5+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+äriühing    äri_ühing+0 //_S_ sg n, //
+,    , //_Z_ //
+mittetulundusühing    mitte_tulundus_ühing+0 //_S_ sg n, //
+või    või+0 //_J_ //
+sihtasutus    siht_asutus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+maksab    maks+b //_V_ b, //
+asutus    asutus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millele    mis+le //_P_ pl all, //    mis+le //_P_ sg all, //
+nähakse    näge+akse //_V_ takse, //
+riigieelarves    riigi_eel_arve+s //_S_ sg in, //
+ette    ette+0 //_D_ //
+vastavad    vastav+d //_A_ pl n, //
+kulud    kulg+d //_S_ pl n, //    kulu+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Maksmise    maks=mine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+kehtestab    kehtesta+b //_V_ b, //
+rahandusminister    rahandus_minister+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+7.    7.+0 //_O_ ?, //
+</s>
+<s>
+Maksumäär    maksu_määr+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+33    33+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+maksustatavalt    maksustatav+lt //_A_ sg abl, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+20    20+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+maksustatavalt    maksustatav+lt //_A_ sg abl, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+6    6+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+töötuskindlustuse    töötus_kindlustus+0 //_S_ sg g, //
+seaduses    seadus+s //_S_ sg in, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+töötuskindlustushüvitiselt    töötus_kindlustus_hüvitis+lt //_S_ sg abl, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+13    13+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+maksustatavalt    maksustatav+lt //_A_ sg abl, //
+summalt    summ+lt //_S_ sg abl, //    summa+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="13. 06. 2001"  tid="t109" type="DATE" temporalFunction="false" value="2001-06-13" >
+13.06.2001    13.06.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t110" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t111" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+8.    8.+0 //_O_ ?, //
+</s>
+<s>
+Maksustamisperiood    maksustamis_periood+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+maksustamise    maksustamine+0 //_S_ sg g, //
+periood    periood+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX tid="t1_10" type="DURATION" temporalFunction="true" value="P1M" >
+kalendrikuu    kalendri_kuu+0 //_S_ sg n, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Füüsilise    füüsiline+0 //_A_ sg g, //
+isiku    isik+0 //_S_ sg g, //
+ettevõtlusest    ette_võtlus+st //_S_ sg el, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+tulu    tulu+0 //_S_ sg g, //
+sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+maksustamise    maksustamine+0 //_S_ sg g, //
+periood    periood+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX tid="t1_11" type="DURATION" temporalFunction="true" value="P1Y" >
+kalendriaasta    kalendri_aasta+0 //_S_ sg n, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+9.    9.+0 //_O_ ?, //
+</s>
+<s>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksmise    maks=mine+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§-des    §+des //_Y_ pl in, //
+4    4+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+6    6+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksja    maksja+0 //_S_ sg g, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohustatud    kohusta+tud //_V_ tud, //    kohusta=tud+0 //_A_ //    kohusta=tud+0 //_A_ sg n, //    kohusta=tud+d //_A_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+arvestama    arvesta+ma //_V_ ma, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+1-4    1-4+0 //_N_ ?, //
+,    , //_Z_ //
+6    6+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+8    8+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+maksustatavatelt    maksustatav+telt //_A_ pl abl, //
+summadelt    summ+delt //_S_ pl abl, //    summa+delt //_S_ pl abl, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+iga    iga+0 //_P_ sg g, //
+kindlustatava    kindlusta=tav+0 //_A_ sg g, //
+kohta    kohta+0 //_K_ //
+ja    ja+0 //_J_ //
+maksma    maks+ma //_V_ ma, //
+§-s    §+s //_Y_ sg in, //
+7    7+0 //_N_ ?, //
+toodud    too+dud //_V_ tud, //    toodud+0 //_A_ //    toodud+0 //_A_ sg n, //    toodud+d //_A_ pl n, //
+määras    määra+s //_V_ s, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+arvestades    arvesta+des //_V_ des, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+punktis    punkt+s //_S_ sg in, //
+2    2+0 //_N_ ?, //
+sätestatut    sätesta=tu+t //_S_ sg p, //
+;    ; //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="13. 06. 2001"  tid="t112" type="DATE" temporalFunction="false" value="2001-06-13" >
+13.06.2001    13.06.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t113" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t114" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+maksma    maks+ma //_V_ ma, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+4    4+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+6    6+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+maksustatavatelt    maksustatav+telt //_A_ pl abl, //
+summadelt    summ+delt //_S_ pl abl, //    summa+delt //_S_ pl abl, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+,    , //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tasu    tasu+0 //_S_ sg g, //
+saav    saav+0 //_A_ sg n, //
+isik    isik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kantud    kand+tud //_V_ tud, //    kantud+0 //_A_ //    kantud+0 //_A_ sg n, //    kantud+d //_A_ pl n, //
+äriregistrisse    äri_register+sse //_S_ sg ill, //
+või    või+0 //_J_ //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+elukohajärgses    elu_koha_järgne+s //_A_ sg in, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikus    kohalik+s //_A_ sg in, //
+asutuses    asutus+s //_S_ sg in, //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtjana    ette_võtja+na //_S_ sg es, //
+ning    ning+0 //_J_ //
+tasu    tasu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+saaja    saaja+0 //_S_ sg g, //
+ettevõtlustuluks    ette_võtlus_tulu+ks //_S_ sg tr, //
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+maksma    maks+ma //_V_ ma, //
+erisoodustustelt    eri_soodustus+telt //_S_ pl abl, //
+ja    ja+0 //_J_ //
+erisoodustustelt    eri_soodustus+telt //_S_ pl abl, //
+arvestatud    arvesta+tud //_V_ tud, //    arvestatud+0 //_A_ //    arvestatud+0 //_A_ sg n, //    arvestatud+d //_A_ pl n, //
+tulumaksult    tulu_maks+lt //_S_ sg abl, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+,    , //_Z_ //
+isikustamata    isikusta+mata //_V_ mata, //
+neid    see+d //_P_ pl p, //
+summasid    summ+sid //_S_ pl p, //    summa+sid //_S_ pl p, //
+;    ; //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+üle    üle+0 //_K_ //
+kandma    kand+ma //_V_ ma, //
+tasumisele    tasumine+le //_S_ sg all, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+pangakontole    panga_konto+le //_S_ sg all, //
+maksustamisperioodile    maksustamis_periood+le //_S_ sg all, //
+<TIMEX  tid="t115" type="DATE" temporalFunction="true" value="XXXX-XX-10" anchorTimeID="??" >
+järgneva    järgnev+0 //_A_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+kümnendaks    kümnes+ks //_O_ sg tr, //
+kuupäevaks    kuu_päev+ks //_S_ sg tr, //
+</TIMEX>
+ja    ja+0 //_J_ //
+esitama    esita+ma //_V_ ma, //
+<TIMEX  tid="t1_14" type="DATE" temporalFunction="true" value="XXXX-XX-10" anchorTimeID="t115" >
+samaks    sama+ks //_P_ sg tr, //
+kuupäevaks    kuu_päev+ks //_S_ sg tr, //
+</TIMEX>
+elu-    elu+0 //_S_ sg g, //
+või    või+0 //_J_ //
+asukohajärgsele    asu_koha_järgne+le //_A_ sg all, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikule    kohalik+le //_A_ sg all, //
+asutusele    asutus+le //_S_ sg all, //
+vastava    vastav+0 //_A_ sg g, //
+maksudeklaratsiooni    maksu_deklaratsioon+0 //_S_ sg g, //
+;    ; //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+arvutama    arvuta+ma //_V_ ma, //
+<TIMEX  tid="t116" type="SET" temporalFunction="true" value="P1M" quant="EVERY" >
+igakuiselt    iga_kuise=lt+0 //_D_ //
+</TIMEX>
+iga    iga+0 //_P_ sg g, //
+kindlustatava    kindlusta=tav+0 //_A_ sg g, //
+kohta    kohta+0 //_K_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+makstava    makstav+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+üle    üle+0 //_K_ //
+kandma    kand+ma //_V_ ma, //
+<TIMEX  tid="t117" type="DATE" temporalFunction="true" value="XXXX-XX-10" anchorTimeID="??" >
+järgneva    järgnev+0 //_A_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+kümnendaks    kümnes+ks //_O_ sg tr, //
+kuupäevaks    kuu_päev+ks //_S_ sg tr, //
+</TIMEX>
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+pangakontole    panga_konto+le //_S_ sg all, //
+ning    ning+0 //_J_ //
+esitama    esita+ma //_V_ ma, //
+<TIMEX  tid="t1_15" type="DATE" temporalFunction="true" value="XXXX-XX-10" anchorTimeID="t117" >
+samaks    sama+ks //_P_ sg tr, //
+kuupäevaks    kuu_päev+ks //_S_ sg tr, //
+</TIMEX>
+asukohajärgsele    asu_koha_järgne+le //_A_ sg all, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikule    kohalik+le //_A_ sg all, //
+asutusele    asutus+le //_S_ sg all, //
+vastava    vastav+0 //_A_ sg g, //
+maksudeklaratsiooni    maksu_deklaratsioon+0 //_S_ sg g, //
+;    ; //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+andma    and+ma //_V_ ma, //
+isikule    isik+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+maksti    maks+ti //_V_ ti, //
+sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+maksustatavaid    maksustatav+id //_A_ pl p, //
+summasid    summ+sid //_S_ pl p, //    summa+sid //_S_ pl p, //
+või    või+0 //_J_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+eest    eest+0 //_K_ //
+maksti    maks+ti //_V_ ti, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+,    , //_Z_ //
+tõendi    tõend+0 //_S_ sg g, //
+nendelt    tema+delt //_P_ pl abl, //
+arvestatud    arvesta+tud //_V_ tud, //    arvestatud+0 //_A_ //    arvestatud+0 //_A_ sg n, //    arvestatud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+makstud    maks+tud //_V_ tud, //    maks=tud+0 //_A_ //    maks=tud+0 //_A_ sg n, //    maks=tud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+isiku    isik+0 //_S_ sg g, //
+nõudmisel    nõudmine+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+<TIMEX  tid="t1_16" type="DATE" temporalFunction="true" value="XXXX" >
+kalendriaastale    kalendri_aasta+le //_S_ sg all, //
+</TIMEX>
+<TIMEX  tid="t118" type="DATE" temporalFunction="true" value="XXXX-02-01" anchorTimeID="t1_16" >
+järgneva    järgnev+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+1.    1.+0 //_O_ ?, //
+veebruariks    veebruar+ks //_S_ sg tr, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Isiku    isik+0 //_S_ sg g, //
+töölt    töö+lt //_S_ sg abl, //
+lahkumisel    lahkumine+l //_S_ sg ad, //
+antakse    and+takse //_V_ takse, //
+eelnimetatud    eel_nimetatu+d //_S_ pl n, //
+tõend    tõend+0 //_S_ sg n, //
+koos    koos+0 //_K_ //
+lõpparvega    lõpp_arve+ga //_S_ sg kom, //
+,    , //_Z_ //
+pensioni    pension+0 //_S_ sg g, //
+taotlemiseks    taotlemine+ks //_S_ sg tr, //
+aga    aga+0 //_J_ //
+isiku    isik+0 //_S_ sg g, //
+nõudmisel    nõudmine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+<kiil>
+(    ( //_Z_ //
+Kehtetu    kehtetu+0 //_A_ sg n, //
+-    - //_Z_ //
+<TIMEX text="13. 06. 2001"  tid="t119" type="DATE" temporalFunction="false" value="2001-06-13" >
+13.06.2001    13.06.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2003"  tid="t120" type="DATE" temporalFunction="false" value="2003-01-01" >
+jõust.01.01.2003    jõust.01.01.2003+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t121" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohustatud    kohusta+tud //_V_ tud, //    kohusta=tud+0 //_A_ //    kohusta=tud+0 //_A_ sg n, //    kohusta=tud+d //_A_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+tasuma    tasu+ma //_V_ ma, //
+maksustamisperioodi    maksustamis_periood+0 //_S_ sg g, //
+kestel    kestel+0 //_K_ //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+avansiliste    avansi=line+te //_A_ pl g, //
+maksetena    makse+tena //_S_ pl es, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+pangakontole    panga_konto+le //_S_ sg all, //
+<TIMEX  tid="t122" type="SET" temporalFunction="true" value="XXXX-QX" quant="EVERY" >
+iga    iga+0 //_P_ sg g, //
+kvartali    kvartal+0 //_S_ sg g, //
+</TIMEX>
+<TIMEX  tid="t123" type="DATE" temporalFunction="true" value="XXXX-XX" >
+kolmanda    kolmas+0 //_O_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+<TIMEX  tid="t124" type="DATE" temporalFunction="true" value="XXXX-XX-15" >
+15.    15.+0 //_O_ ?, //
+kuupäevaks    kuu_päev+ks //_S_ sg tr, //
+</TIMEX>
+<TIMEX  tid="t1_17" type="DATE" temporalFunction="true" value="XXXX-QX" >
+jooksva    jooksev+0 //_A_ sg g, //
+kvartali    kvartal+0 //_S_ sg g, //
+</TIMEX>
+eest    eest+0 //_K_ //
+vähemalt    vähemalt+0 //_D_ //
+kolmekordselt    kolme_kordselt+0 //_D_ //
+<TIMEX  tid="t1_18" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+arvutatud    arvuta+tud //_V_ tud, //    arvuta=tud+0 //_A_ //    arvuta=tud+0 //_A_ sg n, //    arvuta=tud+d //_A_ pl n, //
+summas    summ+s //_S_ sg in, //    summa+s //_S_ sg in, //
+,    , //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t1_19" type="DURATION" temporalFunction="true" value="P1Q" >
+kogu    kogu+0 //_A_ //
+kvartali    kvartal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensioni    pension+0 //_S_ sg g, //
+saaja    saaja+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõigetes    lõige+tes //_S_ pl in, //
+4    4+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+5sätestatud    5_sätesta+tud //_V_ tud, //    5_sätesta=tud+0 //_A_ //    5_sätesta=tud+0 //_A_ sg n, //    5_sätesta=tud+d //_A_ pl n, //
+juhtudel    juht+del //_S_ pl ad, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+tasuma    tasu+ma //_V_ ma, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+6    6+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+juurdemaksmisele    juurde_maks=mine+le //_S_ sg all, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+maksusumma    maksu_summ+0 //_S_ sg g, //    maksu_summa+0 //_S_ sg g, //
+<TIMEX  tid="t125" type="DATE" temporalFunction="true" value="XXXX-10-01" >
+1.    1.+0 //_O_ ?, //
+oktoobriks    oktoober+ks //_S_ sg tr, //
+</TIMEX>
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+pangakontole    panga_konto+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="24. 10. 2001"  tid="t126" type="DATE" temporalFunction="false" value="2001-10-24" >
+24.10.2001    24.10.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2001"  tid="t127" type="DATE" temporalFunction="false" value="2001-01-01" >
+jõust.01.01.2001    jõust.01.01.2001+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t128" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+maksab    maks+b //_V_ b, //
+<TIMEX  tid="t1_20" type="DURATION" temporalFunction="true" value="P1Q" >
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kvartali    kvartal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+ka    ka+0 //_D_ //
+tööandja    töö_andja+0 //_S_ sg g, //
+või    või+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+1    1+0 //_N_ ?, //
+või    või+0 //_J_ //
+5    5+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+riik    riik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+tema    tema+0 //_P_ sg g, //
+poolt    poolt+0 //_K_ //
+makstavate    makstav+te //_A_ pl g, //
+avansiliste    avansi=line+te //_A_ pl g, //
+maksete    makse+te //_S_ pl g, //
+summa    summa+0 //_S_ sg n, //
+olla    ole+a //_V_ da, //
+kolmekordselt    kolme_kordselt+0 //_D_ //
+<TIMEX tid="t1_21" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+arvutatud    arvuta+tud //_V_ tud, //    arvuta=tud+0 //_A_ //    arvuta=tud+0 //_A_ sg n, //    arvuta=tud+d //_A_ pl n, //
+maksusummast    maksu_summ+st //_S_ sg el, //    maksu_summa+st //_S_ sg el, //
+väiksem    väiksem+0 //_C_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tööandja    töö_andja+0 //_S_ sg n, //
+või    või+0 //_J_ //
+§    §+0 //_Y_ ?, //
+6    6+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+1    1+0 //_N_ ?, //
+või    või+0 //_J_ //
+5    5+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+riigi    riik+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+<TIMEX  tid="t1_22" type="DURATION" temporalFunction="true" value="P1Q" anchorTimeID="t1_20">
+eelnimetatud    eel_nimetatu+d //_S_ pl n, //
+kvartali    kvartal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+tema    tema+0 //_P_ sg g, //
+eest    eest+0 //_K_ //
+ja    ja+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+poolt    poolt+0 //_K_ //
+avansiliste    avansi=line+te //_A_ pl g, //
+maksetena    makse+tena //_S_ pl es, //
+makstav    makstav+0 //_A_ sg n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+summa    summa+0 //_S_ sg n, //
+kokku    kokku+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vähemalt    vähemalt+0 //_D_ //
+võrdne    võrdne+0 //_A_ sg n, //
+kolmekordselt    kolme_kordselt+0 //_D_ //
+<TIMEX tid="t1_23" type="DATE" temporalFunction="true" value="XXXX" >
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+arvutatud    arvuta+tud //_V_ tud, //    arvuta=tud+0 //_A_ //    arvuta=tud+0 //_A_ sg n, //    arvuta=tud+d //_A_ pl n, //
+maksusummaga    maksu_summ+ga //_S_ sg kom, //    maksu_summa+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Avansilisi    avansi=line+i //_A_ pl p, //
+makseid    makse+id //_S_ pl p, //
+makstakse    maks+takse //_V_ takse, //
+proportsionaalselt    proportsionaalselt+0 //_D_ //
+<TIMEX  tid="t129" type="DURATION" temporalFunction="true" value="PXM" >
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+arvuga    arv+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+kestel    kestel+0 //_K_ //
+isik    isik+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtjana    ette_võtja+na //_S_ sg es, //
+või    või+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+punktis    punkt+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+staatuse    staatus+0 //_S_ sg g, //
+saamisele    saamine+le //_S_ sg all, //
+<TIMEX  tid="t130" type="DURATION" temporalFunction="true" value="PXM" beginPoint="??" endPoint="??" >
+eelnenud    eelne+nud //_V_ nud, //    eelne=nud+0 //_A_ //    eelne=nud+0 //_A_ sg n, //    eelne=nud+d //_A_ pl n, //
+kuude    kuu+de //_S_ pl g, //
+</TIMEX>
+arvuga    arv+ga //_S_ sg kom, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t1_24" type="DURATION" temporalFunction="true" value="P1Q">
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kvartali    kvartal+0 //_S_ sg g, //
+kestel    kestel+0 //_K_ //
+</TIMEX>
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+kantud    kand+tud //_V_ tud, //    kantud+0 //_A_ //    kantud+0 //_A_ sg n, //    kantud+d //_A_ pl n, //
+äriregistrisse    äri_register+sse //_S_ sg ill, //
+või    või+0 //_J_ //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+elukohajärgses    elu_koha_järgne+s //_A_ sg in, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikus    kohalik+s //_A_ sg in, //
+asutuses    asutus+s //_S_ sg in, //
+või    või+0 //_J_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+kustutatud    kustuta+tud //_V_ tud, //    kustuta=tud+0 //_A_ //    kustuta=tud+0 //_A_ sg n, //    kustuta=tud+d //_A_ pl n, //
+äriregistrist    äri_register+st //_S_ sg el, //
+või    või+0 //_J_ //
+teatanud    teata+nud //_V_ nud, //    teata=nud+0 //_A_ //    teata=nud+0 //_A_ sg n, //    teata=nud+d //_A_ pl n, //
+elukohajärgsele    elu_koha_järgne+le //_A_ sg all, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikule    kohalik+le //_A_ sg all, //
+asutusele    asutus+le //_S_ sg all, //
+oma    oma+0 //_P_ sg g, //
+tegevuse    tegevus+0 //_S_ sg g, //
+lõpetamisest    lõpetamine+st //_S_ sg el, //
+või    või+0 //_J_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensioni    pension+0 //_S_ sg g, //
+saajaks    saaja+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Maksuamet    maksu_amet+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohustatud    kohusta+tud //_V_ tud, //    kohusta=tud+0 //_A_ //    kohusta=tud+0 //_A_ sg n, //    kohusta=tud+d //_A_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+arvutama    arvuta+ma //_V_ ma, //
+füüsilise    füüsiline+0 //_A_ sg g, //
+isiku    isik+0 //_S_ sg g, //
+tuludeklaratsiooni    tulu_deklaratsioon+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+maksumaksjate    maksu_maksja+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+maksu    maks+0 //_S_ sg g, //
+kinnipidajate    kinni_pida=ja+te //_S_ pl g, //
+registri    register+0 //_S_ sg g, //
+andmete    andmed+te //_S_ pl g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+juurdemaksmisele    juurde_maks=mine+le //_S_ sg all, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+maksusumma    maksu_summ+0 //_S_ sg g, //    maksu_summa+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+väljastama    väljasta+ma //_V_ ma, //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtjale    ette_võtja+le //_S_ sg all, //
+maksuteate    maksu_teade+0 //_S_ sg g, //
+juurdemaksmisele    juurde_maks=mine+le //_S_ sg all, //
+kuuluva    kuuluv+0 //_A_ sg g, //
+maksusumma    maksu_summ+0 //_S_ sg g, //    maksu_summa+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+<TIMEX  tid="t131" type="DURATION" temporalFunction="true" value="P30D" mod="EQUAL_OR_MORE" >
+vähemalt    vähemalt+0 //_D_ //
+30    30+0 //_N_ ?, //
+päeva    päev+0 //_S_ sg p, //
+</TIMEX>
+enne    enne+0 //_K_ //
+maksu    maks+0 //_S_ sg g, //
+tasumise    tasumine+0 //_S_ sg g, //
+tähtpäeva    täht_päev+0 //_S_ sg g, //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+tagastama    tagasta+ma //_V_ ma, //
+enammakstud    enam_makstud+0 //_A_ //    enam_makstud+0 //_A_ sg n, //    enam_makstud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+summa    summ+0 //_S_ sg g, //    summa+0 //_S_ sg g, //
+maksustamisperioodile    maksustamis_periood+le //_S_ sg all, //
+<TIMEX  tid="t132" type="DATE" temporalFunction="true" value="XXXX-10-01" anchorTimeID="??">
+järgneva    järgnev+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+1.    1.+0 //_O_ ?, //
+oktoobriks    oktoober+ks //_S_ sg tr, //
+</TIMEX>
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+maksudeklaratsioonil    maksu_deklaratsioon+l //_S_ sg ad, //
+näidatud    näida=tud+0 //_A_ //    näida=tud+0 //_A_ sg n, //    näida=tud+d //_A_ pl n, //    näita+tud //_V_ tud, //
+pangakontole    panga_konto+le //_S_ sg all, //
+,    , //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+maksukorralduse    maksu_korraldus+0 //_S_ sg g, //
+seaduses    seadus+s //_S_ sg in, //
+ettenähtud    ette_nähtud+0 //_A_ //    ette_nähtud+0 //_A_ sg n, //    ette_nähtud+d //_A_ pl n, //
+juhtudel    juht+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="24. 10. 2001"  tid="t133" type="DATE" temporalFunction="false" value="2001-10-24" >
+24.10.2001    24.10.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 01. 2002"  tid="t134" type="DATE" temporalFunction="false" value="2002-01-01" >
+jõust.01.01.2002    jõust.01.01.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t135" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Maksudeklaratsioonide    maksu_deklaratsioon+de //_S_ pl g, //
+vormid    vorm+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+täitmise    täitmine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+maksu    maks+0 //_S_ sg g, //
+arvestamise    arvestamine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+kehtestab    kehtesta+b //_V_ b, //
+rahandusminister    rahandus_minister+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Asutuse    asutus+0 //_S_ sg g, //
+töötajate    töötaja+te //_S_ pl g, //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+koosseis    koos_seis+0 //_S_ sg n, //
+,    , //_Z_ //
+koondandmed    koond_andmed+d //_S_ pl n, //
+või    või+0 //_J_ //
+konkreetsed    konkreetne+d //_A_ pl n, //
+tööülesanded    töö_üles_anne+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+riigisaladus    riigi_saladus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+arvestust    arvestus+t //_S_ sg p, //
+peetakse    pida+takse //_V_ takse, //
+rahandusministri    rahandus_minister+0 //_S_ sg g, //
+määrusega    määrus+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+korras    kord+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+9    9+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Iga    iga+0 //_P_ sg g, //
+kindlustatava    kindlusta=tav+0 //_A_ sg g, //
+kohta    kohta+0 //_K_ //
+arvutatud    arvuta+tud //_V_ tud, //    arvuta=tud+0 //_A_ //    arvuta=tud+0 //_A_ sg n, //    arvuta=tud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+summa    summa+0 //_S_ sg n, //
+ümardatakse    ümarda+takse //_V_ takse, //
+täiskroonideks    täis_kroon+deks //_S_ pl tr, //
+.    . //_Z_ //
+</s>
+<s>
+Summat    summa+t //_S_ sg p, //
+alla    alla+0 //_D_ //
+50    50+0 //_N_ ?, //
+sendi    sent+0 //_S_ sg g, //
+ei    ei+0 //_V_ neg, //
+arvestata    arvesta+ta //_V_ ta, //
+ning    ning+0 //_J_ //
+50    50+0 //_N_ ?, //
+senti    sent+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+üle    üle+0 //_K_ //
+selle    see+0 //_P_ sg g, //
+ümardatakse    ümarda+takse //_V_ takse, //
+kroonini    kroon+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+Riigikogu    riigi_kogu+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+riigieelarvet    riigi_eel_arve+t //_S_ sg p, //
+<TIMEX tid="t1_25" type="DATE" temporalFunction="true" value="XXXX" mod="START">
+eelarveaasta    eel_arve_aasta+0 //_S_ sg g, //
+alguseks    algus+ks //_S_ sg tr, //
+</TIMEX>
+vastu    vastu+0 //_D_ //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+makstakse    maks+takse //_V_ takse, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+vähemalt    vähemalt+0 //_D_ //
+<TIMEX tid="t1_26" type="DATE" temporalFunction="true" value="XXXX" anchorTimeID="t1_25">
+eelmiseks    eelmine+ks //_A_ sg tr, //
+eelarveaastaks    eel_arve_aasta+ks //_S_ sg tr, //
+</TIMEX>
+riigieelarvega    riigi_eel_arve+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+kuumääralt    kuu_määr+lt //_S_ sg abl, //
+<TIMEX tid="t1_27" type="DATE" temporalFunction="true" value="XXXX-XX" anchorTimeID="t1_25">
+riigieelarve    riigi_eel_arve+0 //_S_ sg g, //
+vastuvõtmise    vastu_võtmine+0 //_S_ sg g, //
+kuuni    kuu+ni //_S_ sg ter, //
+</TIMEX>
+,    , //_Z_ //
+viimane    viimane+0 //_A_ sg n, //
+kaasa    kaasa+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+10.    10.+0 //_O_ ?, //
+</s>
+<s>
+Maksu    maks+0 //_S_ sg g, //
+laekumine    laekumine+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Maksuamet    maksu_amet+0 //_S_ sg n, //
+kannab    kand+b //_V_ b, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+4    4+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+5    5+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktide    punkt+de //_S_ pl g, //
+1    1+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+2    2+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+erikontole    eri_konto+le //_S_ sg all, //
+laekunud    laeku+nud //_V_ nud, //    laeku=nud+0 //_A_ //    laeku=nud+0 //_A_ sg n, //    laeku=nud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg p, //
+üle    üle+0 //_K_ //
+<TIMEX tid="t1_28" type="DURATION" temporalFunction="true" value="P15D" comment="pole täpselt teada, kas pangapäev == kalendripäev">
+15    15+0 //_N_ ?, //
+pangapäeva    panga_päev+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+riigieelarve    riigi_eel_arve+0 //_S_ sg g, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+ravikindlustuse    ravi_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="12. 09. 2001"  tid="t136" type="DATE" temporalFunction="false" value="2001-09-12" >
+12.09.2001    12.09.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2002"  tid="t137" type="DATE" temporalFunction="false" value="2002-07-01" >
+jõust.01.07.2002    jõust.01.07.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t138" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+ülekantava    üle_kantav+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+osa    osa+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+20    20+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+riikliku    riiklik+0 //_A_ sg g, //
+ravikindlustuse    ravi_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+ülekantava    üle_kantav+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+osa    osa+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+13    13+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+5    5+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+2-4    2-4+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+kindlustatav    kindlusta=tav+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kogumispensionide    kogumis_pension+de //_S_ pl g, //
+seaduse    seadus+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+kohustatud    kohusta+tud //_V_ tud, //    kohusta=tud+0 //_A_ //    kohusta=tud+0 //_A_ sg n, //    kohusta=tud+d //_A_ pl n, //
+tasuma    tasu+ma //_V_ ma, //
+kohustusliku    kohustuslik+0 //_A_ sg g, //
+kogumispensioni    kogumis_pension+0 //_S_ sg g, //
+makset    makse+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+toimub    toimu+b //_V_ b, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+1    1+0 //_N_ ?, //
+,    , //_Z_ //
+3    3+0 //_N_ ?, //
+,    , //_Z_ //
+4    4+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+6    6+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+tasudelt    tasu+delt //_S_ pl abl, //
+arvestatud    arvesta+tud //_V_ tud, //    arvestatud+0 //_A_ //    arvestatud+0 //_A_ sg n, //    arvestatud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+ülekandmine    üle_kandmine+0 //_S_ sg n, //
+vastavalt    vastavalt+0 //_K_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõikele    lõige+le //_S_ sg all, //
+4.    4.+0 //_O_ ?, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="12. 09. 2001"  tid="t139" type="DATE" temporalFunction="false" value="2001-09-12" >
+12.09.2001    12.09.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2002"  tid="t140" type="DATE" temporalFunction="false" value="2002-07-01" >
+jõust.01.07.2002    jõust.01.07.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t141" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+3    3+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+juhul    juht+l //_S_ sg ad, //
+kannab    kand+b //_V_ b, //
+Maksuamet    maksu_amet+0 //_S_ sg n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+erikontole    eri_konto+le //_S_ sg all, //
+laekunud    laeku+nud //_V_ nud, //    laeku=nud+0 //_A_ //    laeku=nud+0 //_A_ sg n, //    laeku=nud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+<TIMEX tid="t1_29" type="DURATION" temporalFunction="true" value="P15D" comment="15 tööpäeva, mittejärjepidev tsükkel">
+15    15+0 //_N_ ?, //
+tööpäeva    töö_päev+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+üle    üle+0 //_K_ //
+riigieelarve    riigi_eel_arve+0 //_S_ sg g, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+ravikindlustuse    ravi_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+ning    ning+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+väärtpaberite    väärt_paber+te //_S_ pl g, //
+keskregistri    kesk_register+0 //_S_ sg g, //
+pidaja    pidaja+0 //_S_ sg n, //
+pangakontole    panga_konto+le //_S_ sg all, //
+Eesti    Eesti+0 //_H_ sg g, //
+Pangas    pank+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+kantava    kantav+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+osa    osa+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+16    16+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+,    , //_Z_ //
+riikliku    riiklik+0 //_A_ sg g, //
+ravikindlustuse    ravi_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+kantava    kantav+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+osa    osa+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+13    13+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+väärtpaberite    väärt_paber+te //_S_ pl g, //
+keskregistri    kesk_register+0 //_S_ sg g, //
+pidaja    pidaja+0 //_S_ sg n, //
+pangakontole    panga_konto+le //_S_ sg all, //
+kantava    kantav+0 //_A_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+osa    osa+0 //_S_ sg g, //
+määr    määr+0 //_S_ sg n, //
+4    4+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="12. 09. 2001"  tid="t142" type="DATE" temporalFunction="false" value="2001-09-12" >
+12.09.2001    12.09.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2002"  tid="t143" type="DATE" temporalFunction="false" value="2002-07-01" >
+jõust.01.07.2002    jõust.01.07.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t144" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Samaaegselt    sama_aegselt+0 //_D_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+4    4+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+ülekandmisega    üle_kandmine+ga //_S_ sg kom, //
+edastab    edasta+b //_V_ b, //
+Maksuamet    maksu_amet+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+väärtpaberite    väärt_paber+te //_S_ pl g, //
+keskregistri    kesk_register+0 //_S_ sg g, //
+pidajale    pidaja+le //_S_ sg all, //
+rahandusministri    rahandus_minister+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+korras    kord+s //_S_ sg in, //
+isikute    isik+te //_S_ pl g, //
+nimed    nimi+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+isikukoodid    isiku_kood+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+andmed    andmed+d //_S_ pl n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+lõikes    lõige+s //_S_ sg in, //
+4    4+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+pangakontole    panga_konto+le //_S_ sg all, //
+ülekantud    üle_kantud+0 //_A_ //    üle_kantud+0 //_A_ sg n, //    üle_kantud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+suuruse    suurus+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="12. 09. 2001"  tid="t145" type="DATE" temporalFunction="false" value="2001-09-12" >
+12.09.2001    12.09.2001+0 //_N_ ?, //
+</TIMEX>
+<TIMEX text="01. 07. 2002"  tid="t146" type="DATE" temporalFunction="false" value="2002-07-01" >
+jõust.01.07.2002    jõust.01.07.2002+0 //_Y_ ?, //
+</TIMEX>
+-    - //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t147" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+11.    11.+0 //_O_ ?, //
+</s>
+<s>
+Andmete    andmed+te //_S_ pl g, //
+väljastamine    väljastamine+0 //_S_ sg n, //
+</s>
+<s>
+Maksumaksjate    maksu_maksja+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+maksu    maks+0 //_S_ sg g, //
+kinnipidajate    kinni_pida=ja+te //_S_ pl g, //
+registris    register+s //_S_ sg in, //
+olevate    olev+te //_A_ pl g, //
+andmete    andmed+te //_S_ pl g, //
+Sotsiaalkindlustusametile    sotsiaal_kindlustus_amet+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Haigekassale    haige_kassa+le //_S_ sg all, //
+väljastamise    väljastamine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+kehtestab    kehtesta+b //_V_ b, //
+rahandusminister    rahandus_minister+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+12.    12.+0 //_O_ ?, //
+</s>
+<s>
+Andmete    andmed+te //_S_ pl g, //
+täpsustamine    täpsustamine+0 //_S_ sg n, //
+</s>
+<s>
+Sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+maksjalt    maksja+lt //_S_ sg abl, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg g, //
+6    6+0 //_N_ ?, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+ning    ning+0 //_J_ //
+maksumaksjate    maksu_maksja+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+maksu    maks+0 //_S_ sg g, //
+kinnipidajate    kinni_pida=ja+te //_S_ pl g, //
+registrist    register+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+registrist    register+st //_S_ sg el, //
+sama    sama+0 //_P_ sg g, //
+perioodi    periood+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+andmete    andmed+te //_S_ pl g, //
+erinevuse    erinevus+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kindlustataval    kindlusta=tav+l //_A_ sg ad, //
+õigus    õigus+0 //_S_ sg n, //
+taotleda    taotle+da //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+elukohajärgselt    elu_koha_järgselt+0 //_D_ //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalikult    kohalik+lt //_A_ sg abl, //
+asutuselt    asutus+lt //_S_ sg abl, //
+andmete    andmed+te //_S_ pl g, //
+täpsustamist    täpsustamine+t //_S_ sg p, //
+või    või+0 //_J_ //
+erinevuse    erinevus+0 //_S_ sg g, //
+põhjuste    põhjus+te //_S_ pl g, //
+selgitamist    selgitamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohalik    kohalik+0 //_A_ sg n, //
+asutus    asutus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohustatud    kohusta+tud //_V_ tud, //    kohusta=tud+0 //_A_ //    kohusta=tud+0 //_A_ sg n, //    kohusta=tud+d //_A_ pl n, //
+<TIMEX  tid="t149" type="DURATION" temporalFunction="true" value="P3M" mod="EQUAL_OR_LESS" >
+hiljemalt    hiljemalt+0 //_D_ //
+kolme    kolm+0 //_N_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+<TIMEX  tid="t1_30" type="DATE" temporalFunction="true" value="XXXX-XX-XX">
+taotluse    taotlus+0 //_S_ sg g, //
+saamise    saamine+0 //_S_ sg g, //
+päevast    päev+st //_S_ sg el, //
+</TIMEX>
+arvates    arva+tes //_V_ des, //
+teatama    tead+tama //_V_ tama, //    teata+ma //_V_ ma, //
+kindlustatavale    kindlusta=tav+le //_A_ sg all, //
+täpsustatud    täpsusta+tud //_V_ tud, //    täpsusta=tud+0 //_A_ //    täpsusta=tud+0 //_A_ sg n, //    täpsusta=tud+d //_A_ pl n, //
+andmed    andmed+d //_S_ pl n, //
+või    või+0 //_J_ //
+andmete    andmed+te //_S_ pl g, //
+erinevuse    erinevus+0 //_S_ sg g, //
+põhjuse    põhjus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+kõrvaldamise    kõrvaldamine+0 //_S_ sg g, //
+tähtpäeva    täht_päev+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+13.    13.+0 //_O_ ?, //
+</s>
+<s>
+Seaduse    seadus+0 //_S_ sg g, //
+rakendamine    rakendamine+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+<TIMEX  tid="t150" type="DATE" temporalFunction="false" value="1990" >
+1990    1990+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+9    9+0 //_N_ ?, //
+,    , //_Z_ //
+102    102+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t151" type="DATE" temporalFunction="false" value="1991" >
+1991    1991+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+32    32+0 //_N_ ?, //
+,    , //_Z_ //
+391    391+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t152" type="DATE" temporalFunction="false" value="1992" >
+1992    1992+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+21    21+0 //_N_ ?, //
+,    , //_Z_ //
+302    302+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+34    34+0 //_N_ ?, //
+,    , //_Z_ //
+444    444+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t153" type="DATE" temporalFunction="false" value="1993" >
+1993    1993+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+65    65+0 //_N_ ?, //
+,    , //_Z_ //
+924    924+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+1181    1181+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t154" type="DATE" temporalFunction="false" value="1994" >
+1994    1994+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+40    40+0 //_N_ ?, //
+,    , //_Z_ //
+656    656+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t155" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+17    17+0 //_N_ ?, //
+,    , //_Z_ //
+235    235+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t156" type="DATE" temporalFunction="false" value="1996" >
+1996    1996+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+74    74+0 //_N_ ?, //
+,    , //_Z_ //
+1307    1307+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t157" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+40    40+0 //_N_ ?, //
+,    , //_Z_ //
+611    611+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+pärast    pärast+0 //_K_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+jõustumist    jõustumine+t //_S_ sg p, //
+tasumisele    tasumine+le //_S_ sg all, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+sotsiaalmaks    sotsiaal_maks+0 //_S_ sg n, //
+kantakse    kand+takse //_V_ takse, //
+maksumaksja    maksu_maksja+0 //_S_ sg g, //
+elu-    elu+0 //_S_ sg g, //
+või    või+0 //_J_ //
+asukohajärgse    asu_koha_järgne+0 //_A_ sg g, //
+Maksuameti    maksu_amet+0 //_S_ sg g, //
+kohaliku    kohalik+0 //_A_ sg g, //
+asutuse    asutus+0 //_S_ sg g, //
+pangakontole    panga_konto+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+seaduse    seadus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+tekkinud    tekki+nud //_V_ nud, //    tekki=nud+0 //_A_ //    tekki=nud+0 //_A_ sg n, //    tekki=nud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+osade    osa+de //_S_ pl g, //
+võlad    võlg+d //_S_ pl n, //
+nõuab    nõud+b //_V_ b, //
+sisse    sisse+0 //_D_ //
+Maksuamet    maksu_amet+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnimetatud    eel_nimetatu+d //_S_ pl n, //
+summad    summ+d //_S_ pl n, //    summa+d //_S_ pl n, //
+suunatakse    suuna+takse //_V_ takse, //
+laekumisel    laekumine+l //_S_ sg ad, //
+isikustamata    isikusta=mata+0 //_A_ //
+summadena    summ+dena //_S_ pl es, //    summa+dena //_S_ pl es, //
+riikliku    riiklik+0 //_A_ sg g, //
+pensionikindlustuse    pensioni_kindlustus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+ravikindlustuse    ravi_kindlustus+0 //_S_ sg g, //
+vahenditesse    vahend+tesse //_S_ pl ill, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Sotsiaalmaksuseaduse    sotsiaal_maksu_seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t158" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+40    40+0 //_N_ ?, //
+,    , //_Z_ //
+611    611+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+61    61+0 //_N_ ?, //
+,    , //_Z_ //
+982    982+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+113/114    113/114+0 //_N_ ?, //
+,    , //_Z_ //
+1875    1875+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+1876    1876+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t159" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+29    29+0 //_N_ ?, //
+,    , //_Z_ //
+397    397+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+71    71+0 //_N_ ?, //
+,    , //_Z_ //
+685    685+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+82    82+0 //_N_ ?, //
+,    , //_Z_ //
+749    749+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+87    87+0 //_N_ ?, //
+,    , //_Z_ //
+789    789+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+88    88+0 //_N_ ?, //
+,    , //_Z_ //
+806    806+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+97    97+0 //_N_ ?, //
+,    , //_Z_ //
+857    857+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+101    101+0 //_N_ ?, //
+,    , //_Z_ //
+903    903+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t160" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+370    370+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+84    84+0 //_N_ ?, //
+,    , //_Z_ //
+536    536+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+86    86+0 //_N_ ?, //
+,    , //_Z_ //
+543    543+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+pärast    pärast+0 //_K_ //
+käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+jõustumist    jõustumine+t //_S_ sg p, //
+tasumisele    tasumine+le //_S_ sg all, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+sotsiaalmaks    sotsiaal_maks+0 //_S_ sg n, //
+deklareeritakse    deklareeri+takse //_V_ takse, //
+,    , //_Z_ //
+<kindel_piir/>
+tasutakse    tasu+takse //_V_ takse, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tagastatakse    tagasta+takse //_V_ takse, //
+vastavalt    vastavalt+0 //_K_ //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+seaduses    seadus+s //_S_ sg in, //
+sätestatule    sätesta=tu+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+3    3+0 //_N_ ?, //
+punkt    punkt+0 //_S_ sg n, //
+11    11+0 //_N_ ?, //
+kehtib    kehti+b //_V_ b, //
+<TIMEX  tid="t161" type="DATE" temporalFunction="false" value="2001-12-31" >
+2001.    2001.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+31.    31.+0 //_O_ ?, //
+detsembrini    detsember+ni //_S_ sg ter, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+14.    14.+0 //_O_ ?, //
+</s>
+<s>
+Õigusakti    õigus_akt+0 //_S_ sg g, //
+kehtetuks    kehtetu+ks //_A_ sg tr, //
+tunnistamine    tunnistamine+0 //_S_ sg n, //
+</s>
+<s>
+Tunnistatakse    tunnista+takse //_V_ takse, //
+kehtetuks    kehtetu+ks //_A_ sg tr, //
+sotsiaalmaksuseadus    sotsiaal_maksu_seadus+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t162" type="DATE" temporalFunction="false" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+40    40+0 //_N_ ?, //
+,    , //_Z_ //
+611    611+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+61    61+0 //_N_ ?, //
+,    , //_Z_ //
+982    982+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+113/114    113/114+0 //_N_ ?, //
+,    , //_Z_ //
+1875    1875+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+1876    1876+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t163" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+29    29+0 //_N_ ?, //
+,    , //_Z_ //
+397    397+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+71    71+0 //_N_ ?, //
+,    , //_Z_ //
+685    685+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+82    82+0 //_N_ ?, //
+,    , //_Z_ //
+749    749+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+87    87+0 //_N_ ?, //
+,    , //_Z_ //
+789    789+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+88    88+0 //_N_ ?, //
+,    , //_Z_ //
+806    806+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+97    97+0 //_N_ ?, //
+,    , //_Z_ //
+857    857+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+101    101+0 //_N_ ?, //
+,    , //_Z_ //
+903    903+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t164" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+370    370+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+84    84+0 //_N_ ?, //
+,    , //_Z_ //
+536    536+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+86    86+0 //_N_ ?, //
+,    , //_Z_ //
+543    543+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+15.    15.+0 //_O_ ?, //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+ravikindlustusseaduse    ravi_kindlustus_seadus+0 //_S_ sg g, //
+muutmine    muutmine+0 //_S_ sg n, //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+ravikindlustusseaduses    ravi_kindlustus_seadus+s //_S_ sg in, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+<TIMEX  tid="t165" type="DATE" temporalFunction="false" value="1991" >
+1991    1991+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+23    23+0 //_N_ ?, //
+,    , //_Z_ //
+272    272+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t166" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+7    7+0 //_N_ ?, //
+,    , //_Z_ //
+113    113+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+29    29+0 //_N_ ?, //
+,    , //_Z_ //
+397    397+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t167" type="DATE" temporalFunction="false" value="2000" >
+2000    2000+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+374    374+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+84    84+0 //_N_ ?, //
+,    , //_Z_ //
+536    536+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+102    102+0 //_N_ ?, //
+,    , //_Z_ //
+675    675+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t168" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+42    42+0 //_N_ ?, //
+,    , //_Z_ //
+233    233+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+47    47+0 //_N_ ?, //
+,    , //_Z_ //
+260    260+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+tehakse    tege+akse //_V_ takse, //
+järgmised    järgmine+d //_A_ pl n, //
+muudatused    muudatus+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+täiendused    täiendus+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+10    10+0 //_N_ ?, //
+3    3+0 //_N_ ?, //
+lõikes    lõige+s //_S_ sg in, //
+4    4+0 //_N_ ?, //
+1    1+0 //_N_ ?, //
+asendatakse    asenda+takse //_V_ takse, //
+number    number+0 //_S_ sg n, //
+“    “ //_Z_ //
+1    1+0 //_N_ ?, //
+1    1+0 //_N_ ?, //
+“    “ //_Z_ //
+numbriga    number+ga //_S_ sg kom, //
+“    “ //_Z_ //
+2    2+0 //_N_ ?, //
+”    ” //_Z_ //
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+10    10+0 //_N_ ?, //
+3    3+0 //_N_ ?, //
+lõige    lõige+0 //_S_ sg n, //
+5    5+0 //_N_ ?, //
+muudetakse    muut+takse //_V_ takse, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+sõnastatakse    sõnasta+takse //_V_ takse, //
+järgmiselt    järgmiselt+0 //_D_ //
+:    : //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtjale    ette_võtja+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kooskõlas    koos_kõla+s //_S_ sg in, //
+sotsiaalmaksuseaduse    sotsiaal_maksu_seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+9    9+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktiga    punkt+ga //_S_ sg kom, //
+1    1+0 //_N_ ?, //
+või    või+0 //_J_ //
+lõikega    lõige+ga //_S_ sg kom, //
+4    4+0 //_N_ ?, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+maksnud    maks+nud //_V_ nud, //    maks=nud+0 //_A_ //    maks=nud+0 //_A_ sg n, //    maks=nud+d //_A_ pl n, //
+sotsiaalmaksu    sotsiaal_maks+0 //_S_ sg g, //
+avansilisi    avansi=line+i //_A_ pl p, //
+makseid    makse+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+hüvitist    hüvitis+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+maksta    maks+ta //_V_ ta, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+16.    16.+0 //_O_ ?, //
+</s>
+<s>
+Tulumaksuseaduse    tulu_maksu_seadus+0 //_S_ sg g, //
+muutmine    muutmine+0 //_S_ sg n, //
+</s>
+<s>
+Tulumaksuseaduse    tulu_maksu_seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t169" type="DATE" temporalFunction="false" value="1999" >
+1999    1999+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+101    101+0 //_N_ ?, //
+,    , //_Z_ //
+903    903+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t170" type="DATE" temporalFunction="false" value="2001" >
+2001    2001+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+11    11+0 //_N_ ?, //
+,    , //_Z_ //
+49    49+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+16    16+0 //_N_ ?, //
+,    , //_Z_ //
+69    69+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+50    50+0 //_N_ ?, //
+,    , //_Z_ //
+283    283+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+59    59+0 //_N_ ?, //
+,    , //_Z_ //
+359    359+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+79    79+0 //_N_ ?, //
+,    , //_Z_ //
+480    480+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+91    91+0 //_N_ ?, //
+,    , //_Z_ //
+544    544+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+§    §+0 //_Y_ ?, //
+49    49+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+4    4+0 //_N_ ?, //
+esimene    esimene+0 //_O_ sg n, //
+lause    lause+0 //_S_ sg n, //
+muudetakse    muut+takse //_V_ takse, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+sõnastatakse    sõnasta+takse //_V_ takse, //
+järgmiselt    järgmiselt+0 //_D_ //
+:    : //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Tulumaksuga    tulu_maks+ga //_S_ sg kom, //
+maksustatakse    maksusta+takse //_V_ takse, //
+<TIMEX  tid="t1_31" type="DURATION" temporalFunction="true" value="P1M" >
+kalendrikuu    kalendri_kuu+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktis    punkt+s //_S_ sg in, //
+1    1+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+väljamaksete    välja_makse+te //_S_ pl g, //
+kogusumma    kogu_summa+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ületab    ületa+b //_V_ b, //
+3%    3%+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+lõike    lõige+0 //_S_ sg g, //
+3    3+0 //_N_ ?, //
+punktides    punkt+des //_S_ pl in, //
+2    2+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+3    3+0 //_N_ ?, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+väljamaksete    välja_makse+te //_S_ pl g, //
+kogusumma    kogu_summa+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ületab    ületa+b //_V_ b, //
+2%    2%+0 //_N_ ?, //
+maksumaksja    maksu_maksja+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+<TIMEX tid="t1_32" type="DATE" temporalFunction="true" value="XXXX-XX" anchorTimeID="t1_31">
+samal    sama+l //_P_ sg ad, //
+kalendrikuul    kalendri_kuu+l //_S_ sg ad, //
+</TIMEX>
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+vastavalt    vastavalt+0 //_K_ //
+sotsiaalmaksuseaduse    sotsiaal_maksu_seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+2    2+0 //_N_ ?, //
+lõike    lõige+0 //_S_ sg g, //
+1    1+0 //_N_ ?, //
+punktidele    punkt+dele //_S_ pl all, //
+1-6    1-6+0 //_N_ ?, //
+sotsiaalmaksuga    sotsiaal_maks+ga //_S_ sg kom, //
+<kiil>
+(    ( //_Z_ //
+edaspidi    edas_pidi+0 //_D_ //
+isikustatud    isikusta+tud //_V_ tud, //    isikusta=tud+0 //_A_ //    isikusta=tud+0 //_A_ sg n, //    isikusta=tud+d //_A_ pl n, //
+sotsiaalmaks    sotsiaal_maks+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+maksustatud    maksusta+tud //_V_ tud, //    maksusta=tud+0 //_A_ //    maksusta=tud+0 //_A_ sg n, //    maksusta=tud+d //_A_ pl n, //
+väljamaksete    välja_makse+te //_S_ pl g, //
+summast    summ+st //_S_ sg el, //    summa+st //_S_ sg el, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+§    §+0 //_Y_ ?, //
+17.    17.+0 //_O_ ?, //
+</s>
+<s>
+Seaduse    seadus+0 //_S_ sg g, //
+jõustumine    jõustumine+0 //_S_ sg n, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesolev    käes_olev+0 //_A_ sg n, //
+seadus    seadus+0 //_S_ sg n, //
+jõustub    jõustu+b //_V_ b, //
+<TIMEX  tid="t171" type="DATE" temporalFunction="false" value="2001-01-01" >
+2001.    2001.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Käesoleva    käes_olev+0 //_A_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+7    7+0 //_N_ ?, //
+lõiked    lõige+d //_S_ pl n, //
+2    2+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+3    3+0 //_N_ ?, //
+jõustuvad    jõustu+vad //_V_ vad, //
+<TIMEX  tid="t172" type="DATE" temporalFunction="false" value="2002-01-01" >
+2002.    2002.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>

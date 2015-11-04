@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Juhtus 
+ Lähtel kadus uus BMW 
+ <TIMEX3 tid="t170" type="TIME" value="2000-04-18TNI" anchorTimeID="t0">Ööl vastu eilset</TIMEX3> läks Tartu vallas Lähtel kaotsi tumeroheline <TIMEX3 tid="t171" type="DATE" value="1997" >1997. aasta</TIMEX3> BMW 525 TDS . 
+ Uue liisinguauto number on 592 TDB . 
+ Politsei hinnangul sooritavad selle klassi autode vargusi professionaalsete kurjategijate grupid . 
+ Politsei palub helistada telefonil 308 848 kõigil , kes märkasid <TIMEX3 tid="t172" type="TIME" value="2000-04-18TMO" anchorTimeID="t0">eile hommikul</TIMEX3> või <TIMEX3 tid="t173" type="TIME" value="2000-04-17TNI" comment="pole päris kindel" anchorTimeID="t0">üleeile öösel</TIMEX3> sõitmas tumerohelist BMWd . 
+ Tegutsesid autokratid 
+ <TIMEX3 tid="t174" type="TIME" value="2000-04-17TNI" comment="pole päris kindel" anchorTimeID="t0">Üleeile öösel</TIMEX3> lõhkusid pahategijad Kaunase puiesteel seisnud Mazda küljeakna ja varastasid maki . 
+ <TIMEX3 tid="t175" type="TIME" value="2000-04-18TNI" anchorTimeID="t0">Eile öösel</TIMEX3> läksid Tähe tänavas seisnud Opelist kaduma CD-plaadid ja Eha tänavas seisnud VW Golfist makk-raadio . 
+ Teler kanti välja 
+ <TIMEX3 tid="t176" type="TIME" value="2000-04-17TDT" anchorTimeID="t0">Üleeile päeval</TIMEX3> teatati politseisse , et kaks meest tassivad Kalmistu tänava maja aknast välja telerit . 
+ <TIMEX3 tid="t177" type="DATE" value="2000-04-17TXX:XX" anchorTimeID="t176">Paari minuti pärast</TIMEX3> saabus politseipatrull , kuid varastel oli õnnestunud plehku pista . 
+ Varastatud telerit ja telefoniaparaati otsib taga kriminaalpolitsei korterivarguste rühm . 
+ Õhtused korterivargused 
+ <TIMEX3 tid="t178" type="TIME" value="2000-04-17T15:15" anchorTimeID="t0">Üleeile pärastlõunal kell veerand neli</TIMEX3> sai politsei teate , et Uue tänava suurmaja korterist on kadunud teler ja muusikakeskus . 
+ <TIMEX3 tid="t179" type="TIME" value="2000-04-17T17" anchorTimeID="t178">Enne kella kuut</TIMEX3> teatati , et Puiestee tänava eramust on varastatud ehted ja olmeelektroonika . 
+ Kannatanu hindab oma kahju enam kui neljale tuhandele kroonile . 
+ Politsei paneb tartlastele südamele , et nad helistaksid igasuguste kahtluste puhul häirenumbril 110. 
+ Näpatud kohviaparaat kotis 
+ <TIMEX3 tid="t180" type="TIME" value="2000-04-17TEV" anchorTimeID="t0">Üleeile õhtul</TIMEX3> tuigerdas bussijaamas purjus noormees , näpus kilekott uhiuue kohviautomaadiga . 
+ Selgus , et ligi kolm tuhat krooni maksev aparaat on varastatud kaubamajast . 
+ <TIMEX3 tid="t181" type="DURATION" value="P19Y" >19-aastast</TIMEX3> noormeest ootab kriminaalasi . 
+ Varastati rahakott ja telefon 
+ <TIMEX3 tid="t182" type="TIME" value="2000-04-17TEV" anchorTimeID="t0">Üleeile õhtul</TIMEX3> avastas raamatukogus õppinud tudengineiu , et tema käekotist on kadunud rahakott koos dokumentidega . 
+ Tarmeko meister avastas <TIMEX3 tid="t183" type="TIME" value="2000-04-18T07" anchorTimeID="t0">eile hommikul kell seitse</TIMEX3> , et <TIMEX3 tid="t184" type="TIME" value="2000-04-18TNI" anchorTimeID="t183">öövahetuse ajal</TIMEX3> on varastatud tema mobiiltelefon . 
+ Jalgrattavargused sagenevad 
+ Kevadilmad on sisse juhatanud jalgrattavarguste hooaja . 
+ <TIMEX3 tid="t185" type="DATE" value="2000-04-17" anchorTimeID="t0">Üleeile</TIMEX3> varastati Rahu tänava ühiselamu koridorist lillakassinine sõiduriist Giant 500. 
+ Politsei teatel läks <TIMEX3 tid="t186" type="DATE" value="1999-SU" anchorTimeID="t0">mullu suvel</TIMEX3> Tartus kaotsi sadu kaherattalisi sõidukeid . 
+ Vargad muugivad trosslukud lahti ka <TIMEX3 tid="t187" type="TIME" value="TDT" >päise päeva ajal</TIMEX3> , näppajate saagiks langevad isegi parklasse viidud rattad . 
+ Varastele pakuvad vähem huvi kallid rattad , mis on käidavas kohas kinnitatud U-kujulise lukuga . 
+ Kulupõletajad teevad pahandust 
+ <TIMEX3 tid="t188" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> sai häirekeskus kümmekond teadet kulupõletamise kohta . 
+ Viiel korral tegid pahandust poisikesed . 
+ Mõnel juhul kutsuti päästjad kohale asjata , mõnel juhul ei suutnud tulele piiri panna täiskasvanud kulupõletaja . 
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Ingushshia seisab Tshetsheenia kõrval 
+ DMITRI LANKO , Peterburi , valis@postimees.ee 
+ Kuigi <TIMEX3 tid="t319" type="DATE" value="PRESENT_REF" anchorTimeID="t0">tänapäevaks</TIMEX3> eraldi riikides , on kaks rahvast - tshetsheenid ja ingushid - omavahel ometi tihedamalt seotud , kui seda inimesed väljastpoolt arvatagi oskavad . 
+ Etniliselt kuuluvad tshetsheenid ja ingushid ühte vainahhi rahvusse . 
+ Jagunemine tshetsheenideks ja ingushshideks toimus alles <TIMEX3 tid="t320" type="DATE" value="18" mod="START">19. sajandi alguses</TIMEX3> , mil Venemaa oli vallutamas Põhja-Kaukaasiat . 
+ Umbes neljandikku vainahhi rahvast esindavad vanemad kohtusid Ingushi mäe juures ja otsustasid vabatahtlikult astuda Vene impeeriumi , nii <TIMEX3 tid="t321" type="DATE" value="1810" >1810. aastal</TIMEX3> toimuski . 
+ <TIMEX3 tid="t322" type="DATE" value="1810" anchorTimeID="t321">Sellest ajast</TIMEX3> kannab too vainahhi rahva osa nimetust ingushid . 
+ <TIMEX3 tid="t323" type="DATE" value="1810" anchorTimeID="t322">Samal ajal</TIMEX3> kohtus enamik vainahhi vanemaid Tshetsheeni külas ja otsustas tõsta relvad Venemaa vastu . 
+ See teine vainahhi rahva osa sai nimeks tshetsheenid . 
+ Maa , kus tshetsheenid elasid , liitus Vene impeeriumiga alles <TIMEX3 tid="t324" type="DATE" value="1859" >1859. aastal</TIMEX3> pärast veriseid lahinguid ja pikaajalisi läbirääkimisi . 
+ Samuti tõid venelased tarvitusele nimetused tshetsheenid ja ingushid . 
+ Vainahhid ise nimetavad neid oma rahva osi nohtshho ja galgai , aga need nimetused pole tuntud ei Venemaal ega Läänes . 
+ Tshetsheeni ja ingushi keel ei erine teineteisest rohkem kui eesti keele põhja- ja lõunamurded . 
+ Vaatamata sellel , et Vene väed eraldasid Tshetsheenia ülejäänud Venemaast sanitaarkordoniga , on kontaktid isiklikul tasandil tshetsheenide ja ingushshide vahel jätkunud . 
+ Olukorras , kus peaaegu neljandik Tshetsheenia elanikkonnast põgenes Vene pommide alt Ingushshiasse , need kontaktid isegi süvenesid . 
+ Traditsioonide mõju 
+ Traditsiooniliste kultuuride mõju poliitilistele institutsioonidele ja protsessidele iseloomustab kogu Põhja-Kaukaasiat . 
+ Nõukogude ajal istusid kohalikes võimuorganites ainult teatud taipide ( tshetsheeni rahva kogukonnad ) esindajad . 
+ Traditsiooniliste vainahhi seaduste - adaadi - roll nii tshetsheenide kui ingushshide ühiskondlikus elus on süvenemas . 
+ Rahvaste ajaloolisel mälul on tähtis osa Põhja-Kaukaasia poliitilises kultuuris . 
+ Nii tshetsheeni kui ingushi rahva ajaloolises mälus on tähtis osa nende küüditamisel Kesk-Aasiasse <TIMEX3 tid="t325" type="DATE" value="1944-03" >1944. aasta märtsis</TIMEX3> . 
+ Tshetsheeni ja ingushi rahvas said oma üksused pärast Nõukogude Liidu lagunemist : Tshetsheeni Vabariik ja Ingushi Vabariik . 
+ Nende vahel ei teki konflikte staatuse erinevuse tõttu , vastupidi , nende vabariikide poliitiline eliit püüab mõningaid probleeme üheskoos arutada . 
+ Neist probleemidest on nii Tshetsheenia presidendile Aslan Mashadovile kui ka Ingushshia presidendile Ruslan Aushevile kõige tähtsamad välissuhted . 
+ Siinkohal teevad Mashadov ja Aushev , kes on ühtlasi ka sõbrad , suuresti koostööd . 
+ Kahe rahva konflikt 
+ Muude Põhja-Kaukaasia etnopoliitiliste faktorite hulgas võib nimetada rasket majanduslikku olukorda kogu regioonis , eriti Tshetsheenias ( sõjatege-vuse tõttu ) ja Ingushshias ( põgenike arvu tõttu ) . 
+ Tshetsheenia majanduse baasiks on <TIMEX3 tid="t326" type="DURATION" value="PXXY">kaua aega</TIMEX3> olnud nafta-transiit . 
+ Ingushshia põllumajandus , millele Moskva <TIMEX3 tid="t327" type="SET" value="P1Y">aastast aastasse</TIMEX3> unustas anda raha bensiini ostmiseks enne külvi ja saagikorjamist , pidi ümber orienteeruma odavamale Tshetsheenia bensiinile . 
+ Ingushshial oli ka tähtis osa Tshetsheenia bensiini transiidis ülejäänud Põhja-Kaukaasia vabariikidesse , sest piirivalve Tshetsheenia ja Ingushshia vahel on alati olnud kehvem kui näiteks Tshetsheenia ja Dagestani vahel . 
+ Ainuüksi <TIMEX3 tid="t328" type="DATE" value="1999-10" >1999. aasta oktoobrikuus</TIMEX3> , seega juba pärast Vene sõjaväe operatsiooni algust , läbis Ingushshiat üle kahesaja tonni Tshetsheenia bensiini . 
+ Sidemed tshetsheenide ja ingushshide vahel eksisteerivad ka Venemaa tasandil . 
+ Näiteks Peterburis käivitub koostöö tshetsheeni ja ingushi diasporaa vahel juhul , kui ükspuha kumma uuel liikmel on vaja sissekirjutust . 
+ Lisaks sellele asutati <TIMEX3 tid="t329" type="DATE" value="1995" >1995. aastal</TIMEX3> Peterburis Vainahhi Diasporaa Kongress , mis <TIMEX3 tid="t330" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >tänapäevalgi</TIMEX3> töötab . 
+ Kongress toetab iseseisva Vainahhi riigi ideed ja tunnustab Aslan Mashadovi vabalt valitud Tshetsheenia presidendiks . 
+ Kongress hindab Vene vägede operatsiooni Tshetsheenias agressioonina iseseisva tshetsheeni riigi vastu . 
+ Samal ajal kongress ei toeta islamiriigi ideed ja nõuab , et Tshetsheenia areneks demokraatlikul teel . 
+ Lõpuks , globaalse tasandi faktorite hulka kuuluvad sugulasrahvaste püüdlus ühendamisele , mis iseloomustab sugulasrahvaste käitumist kaugel väljaspool Põhja-Kaukaasiat , ja islami rolli kasv . 
+ Dmitri Lanko on Peterburi ülikooli aspirant ja töötab Akadeemilises Balti ja Vene Uuringute Keskuses 
+</TimeML>

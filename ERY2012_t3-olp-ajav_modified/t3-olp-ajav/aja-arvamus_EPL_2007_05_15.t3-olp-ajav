@@ -1,0 +1,152 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2007-05-15TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+15.05.2007
+|
+rubriik:
+Repliik
+|
+artikkel:
+REPLIIK
+:
+Silmakirjalik
+Keskerakond
+|
+</ignoreeri>
+<s>
+See    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+käituvad    käitu+vad //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+poliitikud    poliitik+d //_S_ pl n, //
+opositsioonis    opositsioon+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+kuidas    kuidas+0 //_D_ //
+koalitsioonis    koalitsioon+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+erineb    erine+b //_V_ b, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+öö    öö+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+päev    päev+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2007-05-14" >
+Eile    eile+0 //_D_ //
+</TIMEX>
+esitas    esita+s //_V_ s, //
+opositsiooniline    opositsiooniline+0 //_A_ sg n, //
+Keskerakond    kesk_erakond+0 //_S_ sg n, //
+riigikogu    riigi_kogu+0 //_S_ sg g, //
+menetlusse    menetlus+se //_S_ adt, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+luba    luba+0 //_V_ o, //
+<TIMEX tid="t1" type="DURATION" temporalFunction="true" value="P65Y" mod="MORE_THAN" >
+üle    üle+0 //_D_ //
+65-aastaseid    65_aastane+id //_A_ pl p, //
+</TIMEX>
+ametnikke    ametnik+e //_S_ pl p, //
+vanuse    vanus+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+vallandada    vallanda+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Keskerakond    Kesk_erakond+0 //_H_ sg n, //
+põhjendas    põhjenda+s //_V_ s, //
+muudatust    muudatus+t //_S_ sg p, //
+vajadusega    vajadus+ga //_S_ sg kom, //
+lõpetada    lõpeta+da //_V_ da, //
+põhjendamatu    põhjendamatu+0 //_A_ sg n, //
+vanuseline    vanuseline+0 //_A_ sg n, //
+diskrimineerimine    dis_krimineerimine+0 //_S_ sg n, //
+ametnike    ametnik+e //_S_ pl g, //
+seas    seas+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2007-01-09" >
+Tänavu    tänavu+0 //_D_ //
+9.    9.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+</TIMEX>
+tulid    tule+id //_V_ sid, //
+täpselt    täpselt+0 //_D_ //
+samasuguse    sama_sugune+0 //_P_ sg g, //
+ettepanekuga    ette_panek+ga //_S_ sg kom, //
+välja    välja+0 //_D_ //
+sotsid    sots+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2007-01-09" anchorTimeID="t3" >
+Toona    toona+0 //_D_ //
+</TIMEX>
+kukkus    kukku+s //_V_ s, //
+plaan    plaan+0 //_S_ sg n, //
+läbi    läbi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+koalitsioon    koalitsioon+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+kuulus    kuulu+s //_V_ s, //
+Keskerakond    Kesk_erakond+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+lükkas    lükka+s //_V_ s, //
+selle    see+0 //_P_ sg g, //
+tagasi    tagasi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Näiteks    näide+ks //_S_ sg tr, //
+põhjendas    põhjenda+s //_V_ s, //
+just    just+0 //_D_ //    just+0 //_I_ //
+keskerakondlane    kesk_erakondlane+0 //_S_ sg n, //
+Ain    Ain+0 //_H_ sg n, //
+Seppik    Seppik+0 //_H_ sg n, //
+sotside    sots+de //_S_ pl g, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+tagasilükkamist    tagasi_lükka=mine+t //_S_ sg p, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="2007-01" >
+jaanuaris    jaanuar+s //_S_ sg in, //
+</TIMEX>
+väitega    väide+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+puudutab    puuduta+b //_V_ b, //
+vaid    vaid+0 //_D_ //
+1,3%    1,3%+0 //_N_ ?, //
+ametnikke    ametnik+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Koos    koos+0 //_K_ //
+temaga    tema+ga //_P_ sg kom, //
+toetas    toeta+s //_V_ s, //
+ametnike    ametnik+e //_S_ pl g, //
+vanuselist    vanuseline+t //_A_ sg p, //
+diskrimineerimist    dis_krimineerimine+t //_S_ sg p, //
+lõpetava    lõpetav+0 //_A_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+põhjalaskmist    põhja_laskmine+t //_S_ sg p, //
+16    16+0 //_N_ ?, //
+keskerakondlast    kesk_erakondlane+t //_S_ sg p, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Ravil Khair Al-Din 
+ Foto : www.bbc.co.uk 
+ James Watson , kes sattus terava maailma kriitika alla seoses oma ütlustega mustanahaliste võimekuste kohta , vabandas avalikkuse ees , lisades , et temast saadi valesti aru . 
+ Watson kahtles oma ütluste tsiteerimise täpsuses , kirjutab The Times . 
+ Samas ütles The Sunday Timesi pressisekretär , et intervjuu teadlasega oli salvestatud ja pole mõtet tsitaatide täpsuses kahelda . 
+ Watson märkis : " Nende eest , kes tegid minu sõnadest järelduse , et Aafrika asub geneetilisel tasandil teiste riikidega võrreldes kuidagi madalamal tasemel , palun ma tingimusteta vabandust . 
+ Ma ei pidanud seda silmas . 
+ Lisaks pole sellisteks järeldusteks ka teaduslikku alust . " 
+ USA geenitehnoloog James Watson <TIMEX3 tid="t71" type="DURATION" value="P79Y">( 79 )</TIMEX3> rääkis Sunday Timesile antud intervjuus , et näeb Aafrika tulevikku neegrite rumaluse tõttu väga mustades värvides . 
+ " Meie sotsiaalpoliitika tugineb arusaamale , et nende intelligentsus on sama , mis meil - ometi näitavad katsed , et see pole nii . " 
+ Watsonil oleks enda sõnul hea meel , kui kõik oleksid võrdsed , ent " inimesed , kes neid tööle võtavad , näevad <TIMEX3 tid="t172" type="DATE" value="FUTURE_REF">peagi</TIMEX3> , et see pole tõsi " . 
+</TimeML>

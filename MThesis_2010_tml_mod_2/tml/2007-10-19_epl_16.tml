@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Reuters 
+ Saksamaa kantsleri , Angela Merkeli sõnul on Berliin ja Moskva Saksa-Vene gaasijuhtme vastu olevate riikidega läbirääkimisteks valmis . 
+ " Mis puutub Nord Streami gaasijuhtmesse , me oleme seda teemat Saksa-Vene valitsustevahelistel konsultatsioonidel intensiivselt arutanud , " rääkis Merkel <TIMEX3 tid="t59" type="DATE" value="2007-W42" mod="START" anchorTimeID="t0">nädala algul</TIMEX3> Vene presidendi Vladimir Putiniga antud pressikonverentsil . 
+ " Projekt on poliitiliselt oodatud . 
+ Seal , kus on selle majandusliku rakendamisega probleeme , saame me aidata , kui poliitilised kõnelused aitavad , " ütles ta Reutersi vahendusel . 
+ " Investeerimistingimused tuleb selgeks rääkida , seda tuleb teha ettevõtte tasandil , " lisas ta . 
+ Merkeli sõnul on Moskva ja Berliin valmis transiitriikidega erimeelsuste leevendamiseks . 
+ " <TIMEX3 tid="t60" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> ei näe me tegutsemiseks vajadust , nii et ma võin ainult öelda , et minu nägemuses läheb see projekt edasi . 
+ Kindlasti leitakse viis , kuidas transiitriikidega ilmnenud raskustest üksteisega rääkida saab , " rääkis ta . 
+</TimeML>

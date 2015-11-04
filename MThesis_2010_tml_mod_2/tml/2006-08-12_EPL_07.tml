@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: <TIMEX3 tid="t32" type="DATE" value="2006-W32" anchorTimeID="t0">Nädala</TIMEX3> Tsitaat : Indrek Tarand Kuku raadio saates " Nädala tegija "  
+Indrek Tarand 
+ Hakkan alates <TIMEX3 tid="t33" type="DATE" value="2006-08-11" comment="oletatav saate toimumisaeg!">tänasest</TIMEX3> vastu võtma kihlvedusid , et Edgar Savisaar on end ise auti mänginud ja <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> jääb tal leppida tõsiasjaga , et <TIMEX3 tid="t35" type="DATE" value="2006-09"  anchorTimeID="t0">septembris</TIMEX3> saab Toomas Hendrik Ilves Eesti presidendiks ning Savisaar ise saab Nõmme linnaosa vanemaks , kui Jüri Ratas seda lubab . 
+</TimeML>

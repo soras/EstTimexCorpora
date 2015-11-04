@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Marko Mumm 
+ Päästjad on tule levikule Elliste rabas piiri pannud , aktiivset põlenguala vähendatakse järk-järgult . 
+ <TIMEX3 tid="t83" type="TIME" value="2007-06-16TMO" anchorTimeID="t0">Täna hommikuse</TIMEX3> seisuga suuri lahtisel leegiga tulekoldeid põlengualal ei ole . 
+ Vahepeal 205 hektariliseks paisunud põlengualal on enamik tulekoldied kustutatud , teatas Põhja-Eesti päästekeskuse pressiesindaja . 
+ Aktiivsed kustutustööd toimuvad umbes 10 hektari suurusel alal , kus otsitakse ja likvideeritakse pinnases olevaid tulepesasid . 
+ <TIMEX3 tid="t84" type="TIME" value="2007-06-16TDT" anchorTimeID="t0">Täna päeval</TIMEX3> on planeeritud kustutustöödel osalema 130 inimest . 
+ Päästjatel on abiks kaitseväe üksik-sidepataljoni 30 ajateenijat ning vabatahtlikud kaitseliidu Harju , Tartu ja Lääne malevast , Eestimaa looduse fondist ning Tallinna ja Harjumaa reservpäästerühmast , samuti inimesed , kes on ennast registreerinud päästeala infotelefoni kaudu . 
+</TimeML>

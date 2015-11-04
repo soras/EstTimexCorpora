@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Riina Kallas 
+ Uue Sakala keskuse peab kava kohaselt valmis saama 
+ Lammutatud Sakala keskuse asemele uue rajamine läheb maksma enam kui miljard krooni , ehitajateks on Merko Ehitus ja Skanska EMV . 
+ Merko börsiteate kohaselt on ettevõttega sõlmitud lepinguliste tööde esialgne maksumus ligikaudu 828 miljonit krooni , millele lisandub käibemaks . 
+ AS-i Uus Sakala teatel algavad hoone ehitustööd <TIMEX3 tid="t184" type="DATE" value="2007-SU" anchorTimeID="t0">suve jooksul</TIMEX3> ja uus keskus valmib <TIMEX3 tid="t185" type="DATE" value="2009">2009. aastaks.</TIMEX3> 
+ AS-i Uus Sakala juhi Ilmar Kompuse sõnul on <TIMEX3 tid="t186" type="DURATION" value="PXM" beginPoint="t320" endPoint="t0" >viimastel kuudel</TIMEX3><TIMEX3 tid="t320" type="DATE" value="XXXX-XX" temporalFunction="true"/> jõudsalt arenenud läbirääkimised mitme keskuses tegevust alustava organisatsiooniga ning <TIMEX3 tid="t187" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähiajal</TIMEX3> loodetakse neist olulisematega lepingud allkirjastada . 
+ " Partnerite valikul on põhi-rõhk olnud kultuurikesksusel ning uude hoonesse on oodata nii muusika- , tantsu- , filmi- kui teatrivaldkonnaga tegelevaid organisatsioone , " sõnas Kompus . 
+</TimeML>

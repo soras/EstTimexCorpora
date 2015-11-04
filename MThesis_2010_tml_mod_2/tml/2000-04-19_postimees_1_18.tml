@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Kogan ei saa keelata 
+ HELDUR KARMITS , <TIMEX3 tid="t195" type="DURATION" value="P82Y" >82-aastane</TIMEX3> tallinlane 
+ Enne valimisi ütles Mart Laar , et pronkssõdur peab Tallinnast Tõnismäelt kaduma . 
+ Miks siis <TIMEX3 tid="t196" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> pole Laar ja teised Isamaa poisid , kes mulle kui endisele metsavennale on sümpaatsed , seda lubadust täitnud ? 
+ Miks ilutseb võõrvõimu ja Stalini vägivallatsemise sümbol ikka veel meie pealinna südames ? 
+ Laar , Kelam ja noor reformipoliitik Rein Voog ei tohi anda põhjust juttudeks , nagu ei lubaks Jevgeni Kogan neil sõdurit minema toimetada . 
+ Olen veendunud , et nii eestimeelsed mehed ei lase ennast internatsidel nöörist tõmmata ja öelda , mida tohib , mida mitte . 
+ Vana mehena on minu suurim lootus näha päeva , kui vene sõdur enam ei risusta minu kodulinna üht kaunimat soppi . 
+ Alles siis saab Eesti minu jaoks vabaks . 
+</TimeML>

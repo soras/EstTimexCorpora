@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ <TIMEX3 tid="t276" type="DATE" value="2007-06-21" anchorTimeID="t0">Neljapäeval</TIMEX3> algaval Moskva filmifestivalil näeb ka eesti režissööri filmi . 
+ Festivali raames esilinastub Andres Puustusmaa mängufilm " Armastuse punane pärl " . 
+ Puustusmaaga rääkis Andres Laasik , kes tutvustab ka festivali kava ja reegleid . 
+ Moskvas tegutsev eesti kinomees kinnitas esilinastuse toimumist : " " Armastuse punase pärli " esimene avalik seanss toimub tõepoolest Moskva filmifestivali raames , <TIMEX3 tid="t277" type="DATE" value="2007-06-29" anchorTimeID="t0">29. juunil.</TIMEX3> 
+ Produtsendid kutsuvad seda gala-esilinastuseks , et sündmusele rohkem tähelepanu osutada . " 
+ " Armastuse punane pärl " ei linastu siiski ei festivali konkursiprogrammis ega ka eriprogrammis Prespektiivid . 
+ Andres Puustusmaa debüütteos on asetatud uuslinastuste kavva , kus näeb uuemat filmi ja kus auhindu taga ei aeta . 
+ Veel <TIMEX3 tid="t278" type="DATE" value="199" anchorTimeID="t0">üheksakümnendatel aastatel</TIMEX3> käisid vene filmide ja Moskva filmifestivali teed peaaegu et lahus . 
+ <TIMEX3 tid="t279" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >Nüüd</TIMEX3> on festivalist kujunenud arvestatav foorum , kus näeb , mis on vene filmikunstis aastaga juhtunud . 
+ Festivali võistluskavas on umbes 20 filmi ( neist kolm Venemaal üles võetud teost ) , mis taotlevad Püha Jüri auhinda . 
+ Alternatiivse Perspektiivide programmis on kümnest võistlusfilmist kaks vene oma . 
+ Lisaks muud linastumised . 
+</TimeML>

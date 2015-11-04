@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Ulvar Käärt 
+ Ilmatarga sõnul oli viimati nii äikeserohke <TIMEX3 tid="t96" type="DATE" value="XXXX-SP">kevad</TIMEX3> Eestis <TIMEX3 tid="t97" type="DATE" value="1998-SP" anchorTimeID="t0">üheksa aastat tagasi.</TIMEX3> 
+ Klimatoloog Ain Kallise sõnul on <TIMEX3 tid="t98" type="DATE" value="2007" anchorTimeID="t0">tänavune aasta</TIMEX3> alanud tavatult rohkete äikeseliste päevadega ning ilmade edasise soojenemise korral peaks pikset veelgi rohkem tulema . 
+ " Juba ainuüksi <TIMEX3 tid="t99" type="DATE" value="2007-05" mod="END" anchorTimeID="t0">mai lõpus</TIMEX3> oli Tõraveres ja ka mujal Eestis koguni <TIMEX3 tid="t100" type="DURATION" value="P5D">viis äikeselist päeva</TIMEX3> , " märkis Kallis . 
+ <TIMEX3 tid="t101" type="DATE" value="2007-06" anchorTimeID="t0">Juuni</TIMEX3> äikesepäevade kohta ilmajaamal kokkuvõtet veel pole . 
+ " Viimati oli äikeseliste päevade poolest samasugune või isegi hullem <TIMEX3 tid="t102" type="DATE" value="1998">aasta 1998</TIMEX3> , kui pikselöökide tagajärjel põles palju maju ja hukkus arvukalt kariloomi ning ka üks puu alla varju läinud poiss . 
+ Üksi <TIMEX3 tid="t103" type="DATE" value="1998-06" anchorTimeID="t102">juunikuus</TIMEX3> oli siis koos äikesega 21 trombi , " meenutas ta . 
+ Kui Soomes sai <TIMEX3 tid="t104" type="TIME" value="2007-06-14TEV" anchorTimeID="t0">neljapäeva õhtul</TIMEX3> sõjaväeharjutuse käigus välgutabamuse tõttu viga ühtekokku 33 ajateenijat , siis Eestis pole seni keegi kannatada saanud . 
+ " Samas on kõige äikeselisem aeg - <TIMEX3 tid="t105" type="DATE" value="2007-07" anchorTimeID="t0" comment="võib olla ka üldises tähenduses">juuli</TIMEX3> ja <TIMEX3 tid="t106" type="DATE" value="2007-08" anchorTimeID="t0" comment="võib olla ka üldises tähenduses">august</TIMEX3> - alles ees , " osutas ilmatark . 
+</TimeML>

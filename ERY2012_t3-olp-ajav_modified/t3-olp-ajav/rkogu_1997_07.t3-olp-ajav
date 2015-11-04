@@ -1,0 +1,6021 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-07-01T10:00" />
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Austatud    Austa=tu+d //_H_ pl n, //    Austatud+0 //_H_ sg n, //    Austatud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg n, //    Riigikogu+0 //_H_ sg n, //
+,    , //_Z_ //
+asume    asu+me //_V_ me, //
+meie    mina+0 //_P_ pl g, //
+tööajagraafiku    töö_aja_graafik+0 //_S_ sg g, //
+läbivaatamisele    läbi_vaatamine+le //_S_ sg all, //
+ning    ning+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+kinnitamisele    kinnitamine+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+usun    usku+n //_V_ n, //
+,    , //_Z_ //
+Daimar    Daimar+0 //_H_ sg n, //
+Liiv    Liiv+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+oleks    ole+ks //_V_ ks, //
+sul    sina+l //_P_ sg ad, //
+kohane    kohane+0 //_A_ sg n, //
+tulla    tule+a //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+selgitusega    selgitus+ga //_S_ sg kom, //
+kolleegide    kolleeg+de //_S_ pl g, //
+ette    ette+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Daimar    Daimar+0 //_H_ sg n, //
+Liiv    Liiv+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+D.
+Liiv
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+juhataja    juhataja+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+tundub    tundu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+<TIMEX tid="t1_3" type="DURATION" temporalFunction="true" value="PTXH" beginPoint="t1_1" endPoint="t1_2" >
+<TIMEX tid="t1_1" type="TIME" temporalFunction="true" value="1997-07-01T12:00" anchorTimeID="t0" >
+12-st    12+st //_N_ sg el, //
+</TIMEX>
+<TIMEX tid="t1_2" type="TIME" temporalFunction="true" value="1997-07-01T14:00" anchorTimeID="t0" >
+14-ni    14+ni //_N_ sg ter, //
+</TIMEX>
+</TIMEX>
+planeeritud    planeeri+tud //_V_ tud, //    planeeritud+0 //_A_ //    planeeritud+0 //_A_ sg n, //    planeeritud+d //_A_ pl n, //
+vaheaeg    vahe_aeg+0 //_S_ sg n, //
+tööks    töö+ks //_S_ sg tr, //
+komisjonides    komisjon+des //_S_ pl in, //
+ja    ja+0 //_J_ //
+lõunaks    lõuna+ks //_S_ sg tr, //
+saabub    saabu+b //_V_ b, //
+reaalselt    reaalselt+0 //_D_ //
+natukene    natukene+0 //_D_ //
+varem    varem+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+võib-olla    võib-olla+0 //_D_ //
+võiks    või+ks //_V_ ks, //
+ilma    ilma+0 //_D_ //
+selleta    see+ta //_P_ sg ab, //
+hakkama    hakka+ma //_V_ ma, //
+saada    saa+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Menetleme    menetle+me //_V_ me, //
+enne    enne+0 //_D_ //
+eelnõud    eel_nõu+d //_S_ pl n, //
+ära    ära+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+vaatame    vaata+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+seda    see+da //_P_ sg p, //
+üldse    üldse+0 //_D_ //
+vaja    vaja+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Kas    kas+0 //_D_ //
+ma    mina+0 //_P_ sg n, //
+saan    saa+n //_V_ n, //
+Daimar    Daimar+0 //_H_ sg n, //
+Liivi    Liivi+0 //_H_ sg g, //
+ettepanekust    ette_panek+st //_S_ sg el, //
+õigesti    õigesti+0 //_D_ //
+aru    aru+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+juhatus    juhatus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+töötada    tööta+da //_V_ da, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997-07-01" >
+täna    täna+0 //_D_ //
+</TIMEX>
+kuni    kuni+0 //_K_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+ammendumiseni    ammendu=mine+ni //_S_ sg ter, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+Daimar    Daimar+0 //_H_ sg n, //
+Liiv    Liiv+0 //_H_ sg n, //
+pakub    pakku+b //_V_ b, //
+välja    välja+0 //_D_ //
+üldse    üldse+0 //_D_ //
+mitte    mitte+0 //_D_ //
+vaheaega    vahe_aeg+0 //_S_ sg p, //
+teha    tege+a //_V_ da, //
+?    ? //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ettepanek    ette_panek+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Juhatus    juhatus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+esitanud    esita+nud //_V_ nud, //    esita=nud+0 //_A_ //    esita=nud+0 //_A_ sg n, //    esita=nud+d //_A_ pl n, //
+teile    sina+le //_P_ pl all, //
+variandi    variant+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+meil    mina+l //_P_ pl ad, //
+oleks    ole+ks //_V_ ks, //
+vaheaeg    vahe_aeg+0 //_S_ sg n, //
+<TIMEX  tid="t7" type="DURATION" temporalFunction="true" value="PTXXH" beginPoint="t5" endPoint="t6" >
+<TIMEX  tid="t5" type="TIME" temporalFunction="true" value="1997-07-01T12" anchorTimeID="t3" >
+kella    kell+0 //_S_ sg g, //
+12-st    12+st //_N_ sg el, //
+</TIMEX>
+<TIMEX  tid="t6" type="TIME" temporalFunction="true" value="1997-07-01T14" anchorTimeID="t3" >
+14-ni    14+ni //_N_ sg ter, //
+</TIMEX>
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juhatuse    juhatus+0 //_S_ sg g, //
+ettepanek    ette_panek+0 //_S_ sg n, //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+sellega    see+ga //_P_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+komisjonid    komisjon+d //_S_ pl n, //
+saaksid    saa+ksid //_V_ ksid, //
+tööd    töö+d //_S_ sg p, //
+teha    tege+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+seda    see+da //_P_ sg p, //
+vaheaega    vahe_aeg+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+tule    tule+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+jääb    jää+b //_V_ b, //
+komisjonide    komisjon+de //_S_ pl g, //
+töö    töö+0 //_S_ sg n, //
+ka    ka+0 //_D_ //
+tegemata    tege+mata //_V_ mata, //
+.    . //_Z_ //
+</s>
+<s>
+Mati    Mati+0 //_H_ sg n, //
+Meos    Meos+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+M.
+Meos
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+,    , //_Z_ //
+härra    härra+0 //_S_ sg n, //
+esimees    esi_mees+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+võiks    või+ks //_V_ ks, //
+teha    tege+a //_V_ da, //
+nii    nii+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+graafikusse    graafik+sse //_S_ sg ill, //
+jääb    jää+b //_V_ b, //
+vaheaeg    vahe_aeg+0 //_S_ sg n, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+tingimusega    tingimus+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+komisjonid    komisjon+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+vaja    vaja+0 //_V_ o, //
+vaheaega    vahe_aeg+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+vaheaeg    vahe_aeg+0 //_S_ sg n, //
+jäetakse    jät+takse //_V_ takse, //
+ära    ära+0 //_D_ //
+?    ? //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Seda    see+da //_P_ sg p, //
+tingimust    tingimus+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+raske    raske+0 //_A_ sg n, //
+kirja    kiri+0 //_S_ adt, //
+panna    pane+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+juhatus    juhatus+0 //_S_ sg n, //
+reageerib    reageeri+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+milline    milline+0 //_P_ sg n, //
+komisjon    komisjon+0 //_S_ sg n, //
+palub    palu+b //_V_ b, //
+vaheaega    vahe_aeg+0 //_S_ sg p, //
+,    , //_Z_ //
+milline    milline+0 //_P_ sg n, //
+mitte    mitte+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+me    mina+0 //_P_ pl n, //
+selle    see+0 //_P_ sg g, //
+töö    töö+0 //_S_ sg g, //
+korraldame    korralda+me //_V_ me, //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+peame    pida+me //_V_ me, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+oma    oma+0 //_P_ sg g, //
+töö    töö+0 //_S_ sg g, //
+planeerima    planeeri+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+täiskogus    täis_kogu+s //_S_ sg in, //
+läbi    läbi+0 //_D_ //
+hääletama    hääleta+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+me    mina+0 //_P_ pl n, //
+kinnitame    kinnita+me //_V_ me, //
+oma    oma+0 //_P_ sg g, //
+tööajagraafiku    töö_aja_graafik+0 //_S_ sg g, //
+siiski    siiski+0 //_D_ //
+hääletamise    hääletamine+0 //_S_ sg g, //
+teel    teel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kolleeg    kolleeg+0 //_S_ sg n, //
+Jaanus    Jaanus+0 //_H_ sg n, //
+Betlem    Betlem+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+J.
+Betlem
+|
+</ignoreeri>
+<s>
+Ma    mina+0 //_P_ sg n, //
+lisaksin    lisa+ksin //_V_ ksin, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+komisjonid    komisjon+d //_S_ pl n, //
+töötaksid    tööta+ksid //_V_ ksid, //
+pärast    pärast+0 //_K_ //
+eelnõude    eel_nõu+de //_S_ pl g, //
+menetlemist    menetlemine+t //_S_ sg p, //
+siin    siin+0 //_D_ //
+suures    suur+s //_A_ sg in, //
+saalis    saal+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Kas    kas+0 //_D_ //
+ma    mina+0 //_P_ sg n, //
+saan    saa+n //_V_ n, //
+õigesti    õigesti+0 //_D_ //
+aru    aru+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+komisjoni    komisjon+0 //_S_ sg g, //
+tööks    töö+ks //_S_ sg tr, //
+oleks    ole+ks //_V_ ks, //
+vaja    vaja+0 //_D_ //
+aega    aeg+0 //_S_ sg p, //
+ainult    ainult+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="1997-07-01" >
+tänase    tänane+0 //_A_ sg g, //
+</TIMEX>
+päevakorra    päeva_kord+0 //_S_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+punkti    punkt+0 //_S_ sg g, //
+aruteluks    arutelu+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+siis    siis+0 //_D_ //
+6.    6.+0 //_O_ ?, //
+punkt    punkt+0 //_S_ sg n, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+algatatud    algata+tud //_V_ tud, //    algata=tud+0 //_A_ //    algata=tud+0 //_A_ sg n, //    algata=tud+d //_A_ pl n, //
+tulumaksuseaduse    tulu_maksu_seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+rahanduskomisjon    rahandus_komisjon+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+avaldaks    avalda+ks //_V_ ks, //
+siin    siin+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+arvamust    arvamus+t //_S_ sg p, //
+?    ? //_Z_ //
+</s>
+<s>
+Palun    palu+n //_V_ n, //
+,    , //_Z_ //
+Olev    Olev+0 //_H_ sg n, //
+Raju    Raju+0 //_H_ sg n, //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+O.
+Raju
+|
+</ignoreeri>
+<s>
+Rahanduskomisjon    rahandus_komisjon+0 //_S_ sg n, //
+istus    istu+s //_V_ s, //
+koos    koos+0 //_K_ //
+<TIMEX  tid="t11" type="TIME" temporalFunction="true" value="1997-07-01T09:30" anchorTimeID="t0">
+pool    pool+0 //_N_ sg n, //
+kümme    kümme+0 //_N_ sg n, //
+hommikul    hommik+l //_S_ sg ad, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oma    oma+0 //_P_ sg g, //
+otsuse    otsus+0 //_S_ sg g, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+vaja    vaja+0 //_V_ o, //
+rohkem    rohkem+0 //_D_ //
+aega    aeg+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Siis    siis+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juhatajal    juhataja+l //_S_ sg ad, //
+veel    veel+0 //_D_ //
+kõigile    kõik+le //_P_ pl all, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+küsimus    küsimus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+vajavad    vaja+vad //_V_ vad, //
+vaheaega    vahe_aeg+0 //_S_ sg p, //
+selleks    see+ks //_P_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lõunatada    lõunata+da //_V_ da, //
+?    ? //_Z_ //
+</s>
+<s>
+Üldine    üldine+0 //_A_ sg n, //
+arvamus    arvamus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lõunavaheaega    lõuna_vahe_aeg+0 //_S_ sg p, //
+te    sina+0 //_P_ pl n, //
+ei    ei+0 //_V_ neg, //
+soovi    soovi+0 //_V_ o, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+te    sina+0 //_P_ pl n, //
+ei    ei+0 //_V_ neg, //
+soovi    soovi+0 //_V_ o, //
+ka    ka+0 //_D_ //
+vaheaega    vahe_aeg+0 //_S_ sg p, //
+komisjonide    komisjon+de //_S_ pl g, //
+tööks    töö+ks //_S_ sg tr, //
+ehk    ehk+0 //_J_ //
+juhatuse    juhatus+0 //_S_ sg g, //
+ettepanek    ette_panek+0 //_S_ sg n, //
+teha    tege+a //_V_ da, //
+vaheaeg    vahe_aeg+0 //_S_ sg n, //
+jääks    jää+ks //_V_ ks, //
+sellisel    selline+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+ära    ära+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+ma    mina+0 //_P_ sg n, //
+saan    saa+n //_V_ n, //
+õigesti    õigesti+0 //_D_ //
+aru    aru+0 //_S_ sg p, //
+?    ? //_Z_ //
+</s>
+<s>
+Endel    Endel+0 //_H_ sg n, //
+Lippmaa    Lipp_maa+0 //_H_ sg n, //    Lippmaa+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+E.
+Lippmaa
+|
+</ignoreeri>
+<s>
+Küsimus    küsimus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vist    vist+0 //_D_ //
+vahepeal    vahe_peal+0 //_D_ //
+lahenenud    lahene+nud //_V_ nud, //    lahene=nud+0 //_A_ //    lahene=nud+0 //_A_ sg n, //    lahene=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Päevakorra
+ja
+tööajagraafiku
+kinnitamine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Vist    vist+0 //_D_ //
+küll    küll+0 //_D_ //
+,    , //_Z_ //
+aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Sellisel    selline+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+kolleegid    kolleeg+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+te    sina+0 //_P_ pl n, //
+aktsepteerite    aktsepteeri+te //_V_ te, //
+seda    see+da //_P_ sg p, //
+juhatuse    juhatus+0 //_S_ sg g, //
+ettepanekut    ette_panek+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+me    mina+0 //_P_ pl n, //
+töötame    tööta+me //_V_ me, //
+oma    oma+0 //_P_ sg g, //
+erakorralisel    era_korraline+l //_A_ sg ad, //
+istungjärgul    istung_järk+l //_S_ sg ad, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="1997-07-01" anchorTimeID="t0">
+1.    1.+0 //_O_ ?, //
+juulil    juuli+l //_S_ sg ad, //
+</TIMEX>
+kuni    kuni+0 //_K_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+pakutud    pakku+tud //_V_ tud, //    pakutud+0 //_A_ //    pakutud+0 //_A_ sg n, //    pakutud+d //_A_ pl n, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+ammendumiseni    ammendu=mine+ni //_S_ sg ter, //
+ilma    ilma+0 //_K_ //
+vaheajata    vahe_aeg+ta //_S_ sg ab, //
+?    ? //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+võin    või+n //_V_ n, //
+sellise    selline+0 //_P_ sg g, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+hääletusele    hääletus+le //_S_ sg all, //
+panna    pane+a //_V_ da, //
+?    ? //_Z_ //
+</s>
+<s>
+Austatud    austa+tud //_V_ tud, //    austatud+0 //_A_ //    austatud+0 //_A_ sg n, //    austatud+d //_A_ pl n, //
+täiskogu    täis_kogu+0 //_S_ sg n, //
+,    , //_Z_ //
+panen    pane+n //_V_ n, //
+hääletusele    hääletus+le //_S_ sg all, //
+meie    mina+0 //_P_ pl g, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+tööajagraafiku    töö_aja_graafik+0 //_S_ sg g, //
+kinnitamise    kinnitamine+0 //_S_ sg g, //
+ilma    ilm+0 //_S_ sg g, //
+vaheajata    vahe_aeg+ta //_S_ sg ab, //
+kuni    kuni+0 //_K_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+ammendumiseni    ammendu=mine+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Palun    palu+n //_V_ n, //
+hääletada    hääleta+da //_V_ da, //
+!    ! //_Z_ //
+</s>
+<s>
+Sellise    selline+0 //_P_ sg g, //
+tööajagraafiku    töö_aja_graafik+0 //_S_ sg g, //
+kinnitamise    kinnitamine+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+64    64+0 //_N_ ?, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liiget    liige+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+vastu    vastu+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+3    3+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+erapooletuid    era_pooletu+id //_A_ pl p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+6.    6.+0 //_O_ ?, //
+</s>
+<s>
+Meie    mina+0 //_P_ pl g, //
+tööajagraafik    töö_aja_graafik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+töötame    tööta+me //_V_ me, //
+ilma    ilma+0 //_K_ //
+vaheajata    vahe_aeg+ta //_S_ sg ab, //
+kuni    kuni+0 //_K_ //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+ammendumiseni    ammendu=mine+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+järgnevalt    järgnevalt+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+päevakord    päeva_kord+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Päevakorra    päeva_kord+0 //_S_ sg g, //
+projekt    projekt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+kolleegid    kolleeg+d //_S_ pl n, //
+,    , //_Z_ //
+teile    sina+le //_P_ pl all, //
+välja    välja+0 //_D_ //
+jagatud    jaga+tud //_V_ tud, //    jaga=tud+0 //_A_ //    jaga=tud+0 //_A_ sg n, //    jaga=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selle    see+0 //_P_ sg g, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+projekti    projekt+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+lehekülg    lehe_külg+0 //_S_ sg n, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+teksti    tekst+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+te    sina+0 //_P_ pl n, //
+näete    näge+te //_V_ te, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+avaldab    avalda+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+arvamuse    arvamus+0 //_S_ sg g, //
+kahe    kaks+0 //_N_ sg g, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+juhtivkomisjonid    juhtiv_komisjon+d //_S_ pl n, //
+esitasid    esita+sid //_V_ sid, //
+<TIMEX  tid="t14" type="DATE" temporalFunction="true" value="1997-06-30" >
+eile    eile+0 //_D_ //
+</TIMEX>
+muudatusettepanekute    muudatus_ette_panek+te //_S_ pl g, //
+tähtajaks    täht_aeg+ks //_S_ sg tr, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="1997-08-25" >
+25.    25.+0 //_O_ ?, //
+augusti    august+0 //_S_ sg g, //
+</TIMEX>
+-    - //_Z_ //
+meresõiduohutuse    mere_sõidu_ohutus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+-    - //_Z_ //
+ja    ja+0 //_J_ //
+<TIMEX  tid="t16" type="DATE" temporalFunction="true" value="1997-07-01" >
+1.    1.+0 //_O_ ?, //
+juuli    juuli+0 //_S_ sg n, //
+</TIMEX>
+-    - //_Z_ //
+sadamaseaduse    sadama_seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Niisiis    nii_siis+0 //_D_ //
+need    see+d //_P_ pl n, //
+päevakorrapunktid    päeva_korra_punkt+d //_S_ pl n, //
+meil    mina+l //_P_ pl ad, //
+enam    enam+0 //_D_ //
+päevakorda    päeva_kord+0 //_S_ adt, //
+ei    ei+0 //_V_ neg, //
+kerki    kerki+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mingisuguseid    mingi_sugune+id //_P_ pl p, //
+teiepoolseid    teie_poolne+id //_A_ pl p, //
+parandusi    parandus+i //_S_ pl p, //
+projektis    projekt+s //_S_ sg in, //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+?    ? //_Z_ //
+</s>
+<s>
+Proteste    protest+e //_S_ pl p, //
+,    , //_Z_ //
+ettepanekuid    ette_panek+id //_S_ pl p, //
+?    ? //_Z_ //
+</s>
+<s>
+Tundub    tundu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+võin    või+n //_V_ n, //
+panna    pane+a //_V_ da, //
+sellise    selline+0 //_P_ sg g, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+täiskogule    täis_kogu+le //_S_ sg all, //
+kinnitamiseks    kinnitamine+ks //_S_ sg tr, //
+?    ? //_Z_ //
+</s>
+<s>
+Austatud    Austa=tu+d //_H_ pl n, //    Austatud+0 //_H_ sg n, //    Austatud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg n, //    Riigikogu+0 //_H_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Panen    pane+n //_V_ n, //
+hääletusele    hääletus+le //_S_ sg all, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+<TIMEX  tid="t17" type="DATE" temporalFunction="true" value="1997-07-01" >
+1.    1.+0 //_O_ ?, //
+juuli    juuli+0 //_S_ sg g, //
+</TIMEX>
+erakorralisele    era_korraline+le //_A_ sg all, //
+istungjärgule    istung_järk+le //_S_ sg all, //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+kinnitamise    kinnitamine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Palun    palu+n //_V_ n, //
+hääletada    hääleta+da //_V_ da, //
+!    ! //_Z_ //
+</s>
+<s>
+Meie    mina+0 //_P_ pl g, //
+erakorralise    era_korraline+0 //_A_ sg g, //
+istungjärgu    istung_järk+0 //_S_ sg g, //
+päevakorra    päeva_kord+0 //_S_ sg g, //
+kinnitamise    kinnitamine+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+56    56+0 //_N_ ?, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liiget    liige+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+vastu    vastu+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+keegi    keegi+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+erapooletuid    era_pooletu+id //_A_ pl p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+6.    6.+0 //_O_ ?, //
+</s>
+<s>
+Meie    mina+0 //_P_ pl g, //
+päevakord    päeva_kord+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Täpsustame    täpsusta+me //_V_ me, //
+<TIMEX  tid="t18" type="DATE" temporalFunction="true" value="1997-07-01" >
+tänast    tänane+t //_A_ sg p, //
+</TIMEX>
+päevakorda    päeva_kord+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Päevakorra    päeva_kord+0 //_S_ sg g, //
+esimene    esimene+0 //_O_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+583    583+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+siin    siin+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+palunud    palu+nud //_V_ nud, //    palu=nud+0 //_A_ //    palu=nud+0 //_A_ sg n, //    palu=nud+d //_A_ pl n, //
+anda    and+a //_V_ da, //
+kaasettekandeks    kaas_ette_kanne+ks //_S_ sg tr, //
+sõna    sõna+0 //_S_ sg p, //
+keskkonnajärelevalve    keskkonna_järele_valve+0 //_S_ sg g, //
+peainspektorile    pea_inspektor+le //_S_ sg all, //
+härra    härra+0 //_S_ sg n, //
+Heiki    Heiki+0 //_H_ sg n, //
+Nurmsalule    Nurmsalule+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Päevakorra    päeva_kord+0 //_S_ sg g, //
+järgmine    järgmine+0 //_A_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+608    608+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+siin    siin+0 //_D_ //
+teeb    tege+b //_V_ b, //
+kaasettekande    kaas_ette_kanne+0 //_S_ sg g, //
+põhiseaduskomisjoni    põhi_seadus_komisjon+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+kolleeg    kolleeg+0 //_S_ sg n, //
+Mart    Mart+0 //_H_ sg n, //
+Nutt    nutt+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+palunud    palu+nud //_V_ nud, //    palu=nud+0 //_A_ //    palu=nud+0 //_A_ sg n, //    palu=nud+d //_A_ pl n, //
+kaasettekandeks    kaas_ette_kanne+ks //_S_ sg tr, //
+sõna    sõna+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+Välisministeeriumi    välis_ministeerium+0 //_S_ sg g, //
+konsulaarosakonna    konsulaar_osakond+0 //_S_ sg g, //
+õigusbüroo    õigus_büroo+0 //_S_ sg g, //
+direktorile    direktor+le //_S_ sg all, //
+härra    härra+0 //_S_ sg n, //
+Leemet    Leemet+0 //_H_ sg n, //
+Paulsonile    Paulsonile+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Päevakorra    päeva_kord+0 //_S_ sg g, //
+kolmas    kolmas+0 //_O_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+algatatud    algata+tud //_V_ tud, //    algata=tud+0 //_A_ //    algata=tud+0 //_A_ sg n, //    algata=tud+d //_A_ pl n, //
+võlaõigusseaduse    võla_õigus_seadus+0 //_S_ sg g, //
+üldosa    üld_osa+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+siin    siin+0 //_D_ //
+esineb    esine+b //_V_ b, //
+kaasettekandega    kaas_ette_kanne+ga //_S_ sg kom, //
+õiguskomisjoni    õigus_komisjon+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Daimar    Daimar+0 //_H_ sg n, //
+Liiv    Liiv+0 //_H_ sg n, //
+ning    ning+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+kaasettekandega    kaas_ette_kanne+ga //_S_ sg kom, //
+Justiitsministeeriumi    justiits_ministeerium+0 //_S_ sg g, //
+spetsialist    spetsialist+0 //_S_ sg n, //
+härra    härra+0 //_S_ sg n, //
+Villu    Villu+0 //_H_ sg n, //
+Kõve    Kõve+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Päevakorra    päeva_kord+0 //_S_ sg g, //
+neljas    neljas+0 //_O_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+629    629+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+palutud    palu+tud //_V_ tud, //    palutud+0 //_A_ //    palutud+0 //_A_ sg n, //    palutud+d //_A_ pl n, //
+kaasettekandeks    kaas_ette_kanne+ks //_S_ sg tr, //
+sõna    sõna+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+Kaitsepolitseiameti    kaitse_politsei_amet+0 //_S_ sg g, //
+vanemreferent    vanem_referent+0 //_S_ sg n, //
+härra    härra+0 //_S_ sg n, //
+Jaanek    Jaanek+0 //_H_ sg n, //
+Voitkale    Voitkale+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Päevakorra    päeva_kord+0 //_S_ sg g, //
+viies    viies+0 //_O_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+627    627+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+kaasettekande    kaas_ette_kanne+0 //_S_ sg g, //
+teeb    tege+b //_V_ b, //
+õiguskomisjoni    õigus_komisjon+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+Vootele    Vootele+0 //_H_ sg n, //
+Hansen    Hansen+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kaasettekanneteks    kaas_ette_kanne+teks //_S_ pl tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+palutud    palu+tud //_V_ tud, //    palutud+0 //_A_ //    palutud+0 //_A_ sg n, //    palutud+d //_A_ pl n, //
+sõna    sõna+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+Siseministeeriumi    sise_ministeerium+0 //_S_ sg g, //
+õigusnõunikule    õigus_nõunik+le //_S_ sg all, //
+härra    härra+0 //_S_ sg n, //
+Kaljo    Kaljo+0 //_H_ sg n, //
+Vainolale    Vainolale+0 //_H_ sg g, //
+ning    ning+0 //_J_ //
+peaspetsialistile    pea_spetsialist+le //_S_ sg all, //
+Lembit    Lembit+0 //_H_ sg n, //
+Eigole    Eigole+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Meie    mina+0 //_P_ pl g, //
+<TIMEX  tid="t19" type="DATE" temporalFunction="true" value="1997-07-01" >
+tänase    tänane+0 //_A_ sg g, //
+</TIMEX>
+päevakorra    päeva_kord+0 //_S_ sg g, //
+viimane    viimane+0 //_A_ sg n, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nr    nr+0 //_Y_ ?, //
+639    639+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+siin    siin+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+palunud    palu+nud //_V_ nud, //    palu=nud+0 //_A_ //    palu=nud+0 //_A_ sg n, //    palu=nud+d //_A_ pl n, //
+kaasettekandeks    kaas_ette_kanne+ks //_S_ sg tr, //
+sõna    sõna+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+Rahandusministeeriumi    rahandus_ministeerium+0 //_S_ sg g, //
+osakonnajuhatajale    osakonna_juhataja+le //_S_ sg all, //
+härra    härra+0 //_S_ sg n, //
+Andres    Andres+0 //_H_ sg n, //
+Hundile    Hundile+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sellised    selline+d //_P_ pl n, //
+oleksid    ole+ksid //_V_ ksid, //
+juhatusepoolsed    juhatuse_poolne+d //_A_ pl n, //
+täpsustused    täpsustus+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+täiendused    täiendus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+kolleegid    kolleeg+d //_S_ pl n, //
+!    ! //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+võtame    võt+me //_V_ me, //
+arutusele    arutus+le //_S_ sg all, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+algatatud    algata+tud //_V_ tud, //    algata=tud+0 //_A_ //    algata=tud+0 //_A_ sg n, //    algata=tud+d //_A_ pl n, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Alustame    alusta+me //_V_ me, //
+selle    see+0 //_P_ sg g, //
+esimest    esimene+t //_O_ sg p, //
+lugemist    lugemine+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ettekandeks    ette_kanne+ks //_S_ sg tr, //
+palun    palu+n //_V_ n, //
+kõnepulti    kõne_pult+0 //_S_ adt, //
+siseminister    sise_minister+0 //_S_ sg n, //
+Robert    Robert+0 //_H_ sg n, //
+Lepiksoni    Lepikson+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+R.
+Lepikson
+|
+</ignoreeri>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+!    ! //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t20" type="DATE" temporalFunction="false" value="1994-06-08" >
+8.    8.+0 //_O_ ?, //
+juunil    juuni+l //_S_ sg ad, //
+1994    1994+0 //_N_ ?, //
+</TIMEX>
+Riigikogus    Riigi_kogu+s //_H_ sg in, //
+vastuvõetud    vastu_võetud+0 //_A_ //    vastu_võetud+0 //_A_ sg n, //    vastu_võetud+d //_A_ pl n, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+seadus    seadus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+nendest    see+dest //_P_ pl el, //
+seadustest    seadus+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+millel    mis+l //_P_ pl ad, //    mis+l //_P_ sg ad, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+pikka    pikk+0 //_A_ sg p, //
+iga    iga+0 //_P_ sg n, //
+,    , //_Z_ //
+vaatamata    vaatamata+0 //_K_ //
+sellele    see+le //_P_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+seadust    seadus+t //_S_ sg p, //
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="1996" >
+aasta    aasta+0 //_S_ sg g, //
+tagasi    tagasi+0 //_D_ //
+</TIMEX>
+nii-öelda    nii-öelda+0 //_D_ //
+remonditi    remonti+ti //_V_ ti, //
+.    . //_Z_ //
+</s>
+<s>
+Kiire    kiire+0 //_A_ sg g, //
+edasiliikumine    edasi_liikumine+0 //_S_ sg n, //
+teel    tee+l //_S_ sg ad, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liitu    Liit+0 //_H_ adt, //
+ning    ning+0 //_J_ //
+pisut    pisut+0 //_D_ //
+vaevalisem    vaeva=lisem+0 //_C_ sg n, //
+tee    tee+0 //_S_ sg n, //
+NATO-sse    NATO+sse //_Y_ sg ill, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lahutamatult    lahutamatu=lt+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+meie    mina+0 //_P_ pl g, //
+seaduste    seadus+te //_S_ pl g, //
+harmoniseerimisega    harmoniseeri=mine+ga //_S_ sg kom, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+NATO    NATO+0 //_Y_ ?, //
+õigusaktidega    õigus_akt+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Uus    uus+0 //_A_ sg n, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+seadus    seadus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+nendest    see+dest //_P_ pl el, //
+seadustest    seadus+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+mitte    mitte+0 //_D_ //
+ainult    ainult+0 //_D_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+mõlema    mõlema+0 //_P_ sg g, //
+liiduga    liit+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Meie    mina+0 //_P_ pl g, //
+senise    senine+0 //_A_ sg g, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+mittevastavus    mitte_vastavus+0 //_S_ sg n, //
+NATO    NATO+0 //_Y_ ?, //
+nõuetele    nõue+tele //_S_ pl all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tekitanud    tekita+nud //_V_ nud, //    tekita=nud+0 //_A_ //    tekita=nud+0 //_A_ sg n, //    tekita=nud+d //_A_ pl n, //
+tarbetuid    tarbetu+id //_A_ pl p, //
+takistusi    takistus+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+lisasekeldusi    lisa_sekeldus+i //_S_ pl p, //
+julgeolekualase    julge_oleku_alane+0 //_A_ sg g, //
+koostöö    koos_töö+0 //_S_ sg g, //
+korraldamisel    korraldamine+l //_S_ sg ad, //
+NATO    NATO+0 //_Y_ ?, //
+struktuuridega    struktuur+dega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+või    või+0 //_J_ //
+näiteks    näide+ks //_S_ sg tr, //
+ühisõppuste    ühis_õppus+te //_S_ pl g, //
+läbiviimisel    läbi_vii=mine+l //_S_ sg ad, //
+ning    ning+0 //_J_ //
+infovahetusel    info_vahetus+l //_S_ sg ad, //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+riikide    riik+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+organisatsioonidega    organisatsioon+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+koostatud    koosta+tud //_V_ tud, //    koosta=tud+0 //_A_ //    koosta=tud+0 //_A_ sg n, //    koosta=tud+d //_A_ pl n, //
+Justiitsministeeriumi    justiits_ministeerium+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Siseministeeriumi    sise_ministeerium+0 //_S_ sg g, //
+ühise    ühine+0 //_A_ sg g, //
+töögrupi    töö_grupp+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+koostamisel    koostamine+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lähtutud    lähtu+tud //_V_ tud, //    lähtu=tud+0 //_A_ //    lähtu=tud+0 //_A_ sg n, //    lähtu=tud+d //_A_ pl n, //
+NATO    NATO+0 //_Y_ ?, //
+sellesisulistest    selle_sisuline+test //_A_ pl el, //
+nõuetest    nõue+test //_S_ pl el, //
+,    , //_Z_ //
+samuti    samuti+0 //_D_ //
+NATO    NATO+0 //_Y_ ?, //
+ekspertide    ekspert+de //_S_ pl g, //
+nõuannetest    nõu_anne+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Alusena    Alusena+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kasutatud    kasuta+tud //_V_ tud, //    kasutatud+0 //_A_ //    kasutatud+0 //_A_ sg n, //    kasutatud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+USA    USA+0 //_Y_ ?, //
+,    , //_Z_ //
+Taani    Taani+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Rootsi    Rootsi+0 //_H_ sg g, //
+vastavaid    vastav+id //_A_ pl p, //
+õigusakte    õigus_akt+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõuga    eel_nõu+ga //_S_ sg kom, //
+tutvusid    tutvu+sid //_V_ sid, //
+<TIMEX  tid="t22" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+hiljuti    hiljuti+0 //_D_ //
+</TIMEX>
+NATO    NATO+0 //_Y_ ?, //
+eksperdid    ekspert+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selle    see+0 //_P_ sg g, //
+sisuliselt    sisuliselt+0 //_D_ //
+heaks    heaks+0 //_D_ //
+kiitnud    kiit+nud //_V_ nud, //    kiit=nud+0 //_A_ //    kiit=nud+0 //_A_ sg n, //    kiit=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kehtiva    Kehtiv+0 //_H_ sg g, //    Kehtiva+0 //_H_ sg g, //
+seadusega    seadus+ga //_S_ sg kom, //
+võrreldes    võrdle+des //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+uus    uus+0 //_A_ sg n, //
+mahukam    mahuka=m+0 //_C_ sg n, //
+ja    ja+0 //_J_ //
+regulatiivsem    regulatiivse=m+0 //_C_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sisaldades    sisalda+des //_V_ des, //
+38    38+0 //_N_ ?, //
+paragrahvi    paragrahv+0 //_S_ sg g, //
+eelmise    eelmine+0 //_A_ sg g, //
+14    14+0 //_N_ ?, //
+asemel    asemel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Põhilised    põhiline+d //_A_ pl n, //
+muudatused    muudatus+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+järgmised    järgmine+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Riigisaladus    riigi_saladus+0 //_S_ sg n, //
+,    , //_Z_ //
+sõltuvalt    sõltuvalt+0 //_D_ //
+riigi    riik+0 //_S_ sg g, //
+julgeoleku    julge_olek+0 //_S_ sg g, //
+vajadustest    vajadus+test //_S_ pl el, //
+,    , //_Z_ //
+klassifitseeritakse    klassifitseeri+takse //_V_ takse, //
+kolmetasemeliseks    kolme_taseme=line+ks //_A_ sg tr, //
+:    : //_Z_ //
+<kindel_piir/>
+täiesti    täiesti+0 //_D_ //
+salajane    salajane+0 //_A_ sg n, //
+,    , //_Z_ //
+salajane    salajane+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+konfidentsiaalne    konfidentsiaalne+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõus    eel_nõu+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muudetud    muude=tud+0 //_A_ //    muude=tud+0 //_A_ sg n, //    muude=tud+d //_A_ pl n, //    muut+tud //_V_ tud, //
+teabe    teave+0 //_S_ sg g, //
+riigisaladuseks    riigi_saladus+ks //_S_ sg tr, //
+tunnistamise    tunnistamine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+salastamise    salastamine+0 //_S_ sg g, //
+korda    kord+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+kehtiv    kehtiv+0 //_A_ sg n, //
+seadus    seadus+0 //_S_ sg n, //
+näeb    näge+b //_V_ b, //
+ette    ette+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+teabe    teave+0 //_S_ sg g, //
+tunnistab    tunnista+b //_V_ b, //
+riigisaladuseks    riigi_saladus+ks //_S_ sg tr, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+salastatuse    salastatu=s+0 //_S_ sg g, //
+kestuse    kestus+0 //_S_ sg g, //
+määrab    määra+b //_V_ b, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+annab    and+b //_V_ b, //
+need    see+d //_P_ pl n, //
+õigused    õigus+d //_S_ pl n, //
+vastavalt    vastavalt+0 //_K_ //
+salastatuse    salastatu=s+0 //_S_ sg g, //
+tasemele    tase+le //_S_ sg all, //
+ametiisikutele    ameti_isik+tele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+teevad    tege+vad //_V_ vad, //
+otsuseid    otsus+id //_S_ pl p, //
+lähtuvalt    lähtuvalt+0 //_D_ //
+teabe    teave+0 //_S_ sg g, //
+kaitse    kaitse+0 //_S_ sg g, //
+vajadusest    vajadus+st //_S_ sg el, //
+riigi    riik+0 //_S_ sg g, //
+julgeoleku    julge_olek+0 //_S_ sg g, //
+huvides    huvi+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Isikute    isik+te //_S_ pl g, //
+ring    ring+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+piiratud    piira+tud //_V_ tud, //    piiratud+0 //_A_ //    piiratud+0 //_A_ sg n, //    piiratud+d //_A_ pl n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+neile    tema+le //_P_ pl all, //
+nähakse    näge+akse //_V_ takse, //
+ette    ette+0 //_D_ //
+ka    ka+0 //_D_ //
+personaalne    personaalne+0 //_A_ sg n, //
+vastutus    vastutus+0 //_S_ sg n, //
+teabe    teave+0 //_S_ sg g, //
+alusetu    alusetu+0 //_A_ sg g, //
+riigisaladuseks    riigi_saladus+ks //_S_ sg tr, //
+tunnistamise    tunnistamine+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Põhjalikult    põhjalik+lt //_A_ sg abl, //
+ja    ja+0 //_J_ //
+senisest    senine+st //_A_ sg el, //
+erinevalt    erinevalt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+reguleeritud    reguleeri+tud //_V_ tud, //    reguleeri=tud+0 //_A_ //    reguleeri=tud+0 //_A_ sg n, //    reguleeri=tud+d //_A_ pl n, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kasutamise    kasutamine+0 //_S_ sg g, //
+küsimused    küsimus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t23" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+eksisteerivate    eksisteeriv+te //_A_ pl g, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kasutamise    kasutamine+0 //_S_ sg g, //
+loa    luba+0 //_S_ sg g, //    luga+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kasutamise    kasutamine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kaitsega    kaitse+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+ametikohal    ameti_koht+l //_S_ sg ad, //
+töötamise    töötamine+0 //_S_ sg g, //
+loa    luba+0 //_S_ sg g, //    luga+0 //_S_ sg g, //
+asemel    asemel+0 //_K_ //
+saab    saa+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+vaid    vaid+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+luba    luba+0 //_S_ sg n, //
+,    , //_Z_ //
+juurdepääsuluba    juurde_pääsu_luba+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+loomulikult    loomulikult+0 //_D_ //
+jaguneb    jagune+b //_V_ b, //
+kolmeks    kolm+ks //_N_ sg tr, //
+vastavalt    vastavalt+0 //_K_ //
+saladuse    saladus+0 //_S_ sg g, //
+tasemele    tase+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Oluliselt    oluliselt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+piiratud    piira+tud //_V_ tud, //    piiratud+0 //_A_ //    piiratud+0 //_A_ sg n, //    piiratud+d //_A_ pl n, //
+isikute    isik+te //_S_ pl g, //
+ringi    ringi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seadusega    seadus+ga //_S_ sg kom, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+ametikohajärgselt    ameti_koha_järgselt+0 //_D_ //
+õigus    õigus+0 //_S_ sg n, //
+juurdepääsuks    juurde_pääs+ks //_S_ sg tr, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Juurdepääsu    juurde_pääs+0 //_S_ sg g, //
+korda    kord+0 //_S_ sg p, //
+karmistatakse    karmista+takse //_V_ takse, //
+seeläbi    see_läbi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+isikul    isik+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olemas    ole+mas //_V_ mas, //
+juurdepääsuluba    juurde_pääsu_luba+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kontrollitakse    kontrolli+takse //_V_ takse, //
+iga    iga+0 //_P_ sg n, //
+kord    kord+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+tal    tema+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+teadmisvajadus    teadmis_vajadus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+koostöö    koos_töö+0 //_S_ sg g, //
+huvides    huvi+des //_S_ pl in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+juhtudel    juht+del //_S_ pl ad, //
+vajalik    vajalik+0 //_A_ sg n, //
+lubada    luba+da //_V_ da, //
+juurdepääsu    juurde_pääs+0 //_S_ sg g, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+ka    ka+0 //_D_ //
+välismaalastele    välis_maalane+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõus    eel_nõu+s //_S_ sg in, //
+reguleeritakse    reguleeri+takse //_V_ takse, //
+ka    ka+0 //_D_ //
+need    see+d //_P_ pl n, //
+küsimused    küsimus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+sätestades    sätesta+des //_V_ des, //
+välismaalaste    välis_maalane+te //_S_ pl g, //
+juurdepääsuks    juurde_pääs+ks //_S_ sg tr, //
+salastatud    salasta+tud //_V_ tud, //    salastatud+0 //_A_ //    salastatud+0 //_A_ sg n, //    salastatud+d //_A_ pl n, //
+teabele    teave+le //_S_ sg all, //
+täiendavad    täienda+vad //_V_ vad, //
+tingimused    tingimus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+võrreldes    võrdle+des //_V_ des, //
+Eesti    Eesti+0 //_H_ sg g, //
+kodanikega    kodanik+ega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+seadusena    seadus+na //_S_ sg es, //
+jõustumisel    jõustumine+l //_S_ sg ad, //
+kaob    kadu+b //_V_ b, //
+ära    ära+0 //_D_ //
+vajadus    vajadus+0 //_S_ sg n, //
+reguleerida    reguleeri+da //_V_ da, //
+mitmeid    mitu+id //_P_ pl p, //
+küsimusi    küsimus+i //_S_ pl p, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+tasandil    tasand+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+need    see+d //_P_ pl n, //
+küsimused    küsimus+d //_S_ pl n, //
+reguleeritakse    reguleeri+takse //_V_ takse, //
+juba    juba+0 //_D_ //
+seaduses    seadus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+kehtestama    kehtesta+ma //_V_ ma, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kaitse    kaitse+0 //_S_ sg g, //
+,    , //_Z_ //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+säilitamise    säilitamine+0 //_S_ sg g, //
+,    , //_Z_ //
+kasutamise    kasutamine+0 //_S_ sg g, //
+,    , //_Z_ //
+edastamise    edastamine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+vastavate    vastav+te //_A_ pl g, //
+teabekandjate    teabe_kandja+te //_S_ pl g, //
+hävitamise    hävitamine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+,    , //_Z_ //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+märgistamise    märgista=mine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+nõuded    nõue+d //_S_ pl n, //
+eri    eri+0 //_A_ //
+teabekandjate    teabe_kandja+te //_S_ pl g, //
+märgistamiseks    märgista=mine+ks //_S_ sg tr, //
+ning    ning+0 //_J_ //
+moodustama    moodusta+ma //_V_ ma, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kaitse    kaitse+0 //_S_ sg g, //
+komisjoni    komisjon+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+annab    and+b //_V_ b, //
+seadus    seadus+0 //_S_ sg n, //
+neis    see+s //_P_ pl in, //
+küsimustes    küsimus+tes //_S_ pl in, //
+valitsusele    valitsus+le //_S_ sg all, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+piirid    piir+d //_S_ pl n, //
+ette    ette+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Seaduse    seadus+0 //_S_ sg g, //
+jõustumine    jõustumine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+01.    01.+0 //_O_ ?, //
+</s>
+<s>
+<TIMEX  tid="t24" type="DATE" temporalFunction="false" value="1998-01" >
+01.    01.+0 //_O_ ?, //
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+pärast    pärast+0 //_K_ //
+seaduse    seadus+0 //_S_ sg g, //
+vastuvõtmist    vastu_võtmine+t //_S_ sg p, //
+jääks    jää+ks //_V_ ks, //
+piisavalt    piisavalt+0 //_D_ //
+aega    aeg+0 //_S_ sg p, //
+seaduse    seadus+0 //_S_ sg g, //
+täielikuks    täielik+ks //_A_ sg tr, //
+rakendamiseks    rakendamine+ks //_S_ sg tr, //
+vajalike    vajalik+e //_A_ pl g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+õigusaktide    õigus_akt+de //_S_ pl g, //
+väljatöötamiseks    välja_töötamine+ks //_S_ sg tr, //
+ja    ja+0 //_J_ //
+vastuvõtmiseks    vastu_võtmine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+jääb    jää+b //_V_ b, //
+riigisaladust    riigi_saladus+t //_S_ sg p, //
+valdavatel    valdav+tel //_A_ pl ad, //
+asutustel    asutus+tel //_S_ pl ad, //
+aega    aeg+0 //_S_ sg p, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kaitset    kaitse+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+juurdepääsu    juurde_pääs+0 //_S_ sg p, //
+käsitlevate    käsitlev+te //_A_ pl g, //
+asutusesiseste    asutuse_sisene+te //_A_ pl g, //
+juhendite    juhend+te //_S_ pl g, //
+väljatöötamiseks    välja_töötamine+ks //_S_ sg tr, //
+ning    ning+0 //_J_ //
+vajaminevate    vaja_minev+te //_A_ pl g, //
+struktuurimuudatuste    struktuuri_muudatus+te //_S_ pl g, //
+tegemiseks    tegemine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg g, //
+§    §+0 //_Y_ ?, //
+24    24+0 //_N_ ?, //
+kohaselt    kohaselt+0 //_K_ //
+peavad    pida+vad //_V_ vad, //
+riigisaladust    riigi_saladus+t //_S_ sg p, //
+valdavad    valdav+d //_A_ pl n, //
+asutused    asutus+d //_S_ pl n, //
+looma    loo+ma //_V_ ma, //
+täiendava    täiendav+0 //_A_ sg g, //
+ametikoha    ameti_koht+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+vähemalt    vähemalt+0 //_D_ //
+vanemametnik    vanem_ametnik+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+kaitse    kaitse+0 //_S_ sg g, //
+korraldamiseks    korraldamine+ks //_S_ sg tr, //
+ja    ja+0 //_J_ //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+suure    suur+0 //_A_ sg g, //
+mahu    maht+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+ka    ka+0 //_D_ //
+eraldiseisva    eraldi_seisev+0 //_A_ sg g, //
+struktuuriüksuse    struktuuri_üksus+0 //_S_ sg g, //
+või    või+0 //_J_ //
+panema    pane+ma //_V_ ma, //
+vastavad    vastav+d //_A_ pl n, //
+ülesanded    üles_anne+d //_S_ pl n, //
+olemasolevatele    olemas_olev+tele //_A_ pl all, //
+struktuuridele    struktuur+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+oleks    ole+ks //_V_ ks, //
+lühike    lühike+0 //_A_ sg n, //
+ülevaade    üle_vaade+0 //_S_ sg n, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+eelnõust    eel_nõu+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+põhimomentidest    põhi_moment+dest //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+millele    mis+le //_P_ pl all, //    mis+le //_P_ sg all, //
+ma    mina+0 //_P_ sg n, //
+teie    sina+0 //_P_ pl g, //
+tähelepanu    tähele_panu+0 //_S_ sg p, //
+juhiksin    juhti+ksin //_V_ ksin, //
+.    . //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+,    , //_Z_ //
+härra    härra+0 //_S_ sg n, //
+minister    minister+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmetel    liige+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ettekandjale    ette_kandja+le //_S_ sg all, //
+küsimusi    küsimus+i //_S_ pl p, //
+?    ? //_Z_ //
+</s>
+<s>
+Kolleeg    kolleeg+0 //_S_ sg n, //
+Valve    Valve+0 //_H_ sg n, //
+Raudnask    Raudnask+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+V.
+Raudnask
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+,    , //_Z_ //
+härra    härra+0 //_S_ sg n, //
+juhataja    juhataja+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+minister    minister+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Te    sina+0 //_P_ pl n, //
+rõhutasite    rõhuta+site //_V_ site, //
+juurdepääsuloa    juurde_pääsu_luba+0 //_S_ sg g, //    juurde_pääsu_luga+0 //_S_ sg g, //
+olulisust    olulisus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+§    §+0 //_Y_ ?, //
+17.    17.+0 //_O_ ?, //
+</s>
+<s>
+Kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+siin    siin+0 //_D_ //
+kirjas    kiri+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+-    - //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+välisriigi    välis_riik+0 //_S_ sg g, //
+luure-    luure+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+julgeolekuteenistuse    julge_oleku_teenistus+0 //_S_ sg g, //
+mehed    mees+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+ligi    ligi+0 //_D_ //
+-    - //_Z_ //
+<kindel_piir/>
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väga    väga+0 //_D_ //
+arusaadav    aru_saadav+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+11.    11.+0 //_O_ ?, //
+alapunkt    ala_punkt+0 //_S_ sg n, //
+ütleb    ütle+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ka    ka+0 //_D_ //
+maksujõuetu    maksu_jõuetu+0 //_A_ sg n, //
+kodanik    kodanik+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+ligi    ligi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kuidas    kuidas+0 //_D_ //
+see    see+0 //_P_ sg n, //
+praktiliselt    praktiliselt+0 //_D_ //
+välja    välja+0 //_D_ //
+hakkab    hakka+b //_V_ b, //
+nägema    näge+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+sellel    see+l //_P_ sg ad, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tuleb    tule+b //_V_ b, //
+seda    see+da //_P_ sg p, //
+riigisaladust    riigi_saladus+t //_S_ sg p, //
+näha    näge+a //_V_ da, //
+tahtma    taht+ma //_V_ ma, //
+,    , //_Z_ //
+</kiil>
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+tõend    tõend+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+maksujõuline    maksu_jõuline+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+või    või+0 //_J_ //
+kuidas    kuidas+0 //_D_ //
+?    ? //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+R.
+Lepikson
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Siin    siin+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kirjas    kiri+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+juurdepääsuluba    juurde_pääsu_luba+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+anta    and+ta //_V_ ta, //
+isikule    isik+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohtuotsusega    kohtu_otsus+ga //_S_ sg kom, //
+tunnistatud    tunnista+tud //_V_ tud, //    tunnista=tud+0 //_A_ //    tunnista=tud+0 //_A_ sg n, //    tunnista=tud+d //_A_ pl n, //
+maksujõuetuks    maksu_jõuetu+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Siin    siin+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+püütud    püü=tud+0 //_A_ //    püü=tud+0 //_A_ sg n, //    püü=tud+d //_A_ pl n, //    püüd+tud //_V_ tud, //
+võimalikult    võimalikult+0 //_D_ //
+täielikku    täielik+0 //_A_ sg p, //
+nimekirja    nime_kiri+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+eeldustest    eeldus+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimalik    võimalik+0 //_A_ sg n, //
+inimest    inimene+t //_S_ sg p, //
+mõjutada    mõjuta+da //_V_ da, //
+või    või+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+ütleme    ütle+me //_V_ me, //
+,    , //_Z_ //
+värvata    värba+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+annab    and+b //_V_ b, //
+võib-olla    võib-olla+0 //_D_ //
+eelduse    eeldus+0 //_S_ sg g, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+juurdepääsuloa    juurde_pääsu_luba+0 //_S_ sg g, //    juurde_pääsu_luga+0 //_S_ sg g, //
+andmisest    andmine+st //_S_ sg el, //
+keeldumiseks    keeldumine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Majanduslik    majanduslik+0 //_A_ sg n, //
+seis    seis+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ilmselt    ilmselt+0 //_D_ //
+sellepärast    selle_pärast+0 //_D_ //
+siia    siia+0 //_D_ //
+sisse    sisse+0 //_D_ //
+toodud    too+dud //_V_ tud, //    toodud+0 //_A_ //    toodud+0 //_A_ sg n, //    toodud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Austatud    austa=tu+d //_S_ pl n, //
+härra    härra+0 //_S_ sg n, //
+minister    minister+0 //_S_ sg n, //
+,    , //_Z_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmetel    liige+tel //_S_ pl ad, //
+teile    sina+le //_P_ pl all, //
+rohkem    rohkem+0 //_D_ //
+küsimusi    küsimus+i //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+valitsus    valitsus+0 //_S_ sg n, //
+loobub    loobu+b //_V_ b, //
+kaasettekandest    kaas_ette_kanne+st //_S_ sg el, //
+?    ? //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Riigikogu-poolseks    riigi_kogu-poolne+ks //_A_ sg tr, //
+kaasettekandeks    kaas_ette_kanne+ks //_S_ sg tr, //
+palun    palu+n //_V_ n, //
+kõnepulti    kõne_pult+0 //_S_ adt, //
+põhiseaduskomisjoni    põhi_seadus_komisjon+0 //_S_ sg g, //
+liikme    liige+0 //_S_ sg g, //
+Mart    Mart+0 //_H_ sg n, //
+Nuti    Nuti+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+M.
+Nutt
+|
+</ignoreeri>
+<s>
+Lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+härra    härra+0 //_S_ sg n, //
+esimees    esi_mees+0 //_S_ sg n, //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+!    ! //_Z_ //
+</s>
+<s>
+Midagi    miski+dagi //_P_ sg p, //
+olulist    oluline+t //_A_ sg p, //
+härra    härra+0 //_S_ sg n, //
+ministrile    minister+le //_S_ sg all, //
+lisada    lisa+da //_V_ da, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Komisjon    komisjon+0 //_S_ sg n, //
+arutas    aruta+s //_V_ s, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+<TIMEX  tid="t25" type="DATE" temporalFunction="true" value="1997-06-30" >
+30.    30.+0 //_O_ ?, //
+juuni    juuni+0 //_S_ sg g, //
+</TIMEX>
+istungil    istung+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+leidis    leid+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sellises    selline+s //_P_ sg in, //
+vormis    vorm+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võimaldab    võimalda+b //_V_ b, //
+esimese    esimene+0 //_O_ sg g, //
+lugemise    lugemine+0 //_S_ sg g, //
+läbi    läbi+0 //_D_ //
+viia    vii+a //_V_ da, //
+ja    ja+0 //_J_ //
+ka    ka+0 //_D_ //
+lõpetada    lõpeta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Märgiksin    märki+ksin //_V_ ksin, //
+ainult    ainult+0 //_D_ //
+ühte    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+aspekti    aspekt+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+tõstatas    tõstata+s //_V_ s, //
+komisjoni    komisjon+0 //_S_ sg g, //
+koosolekul    koos_olek+l //_S_ sg ad, //
+härra    härra+0 //_S_ sg n, //
+Adams    Adams+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+tuleb    tule+b //_V_ b, //
+nõustuda    nõustu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg n, //
+vajab    vaja+b //_V_ b, //
+päris    päris+0 //_D_ //
+tõsist    tõsine+t //_A_ sg p, //
+keelelist    keeleline+t //_A_ sg p, //
+ülevaatamist    üle_vaatamine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+võib-olla    võib-olla+0 //_D_ //
+ka    ka+0 //_D_ //
+paragrahvide    paragrahv+de //_S_ pl g, //
+ulatuses    ulatus+s //_S_ sg in, //
+korrigeerimist    korrigeerimine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kuid    kuid+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+ma    mina+0 //_P_ sg n, //
+juba    juba+0 //_D_ //
+mainisin    maini+sin //_V_ sin, //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+takista    takista+0 //_V_ o, //
+esimese    esimene+0 //_O_ sg g, //
+lugemise    lugemine+0 //_S_ sg g, //
+lõpetamist    lõpetamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Need    see+d //_P_ pl n, //
+parandused    parandus+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimalik    võimalik+0 //_A_ sg n, //
+teha    tege+a //_V_ da, //
+esimese    esimene+0 //_O_ sg g, //
+ja    ja+0 //_J_ //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+lugemise    lugemine+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Kolleeg    kolleeg+0 //_S_ sg n, //
+Lembit    Lembit+0 //_H_ sg n, //
+Arro    Arro+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+L.
+Arro
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+juhataja    juhataja+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Paragrahvis    paragrahv+s //_S_ sg in, //
+12    12+0 //_N_ ?, //
+“    “ //_Z_ //
+Riigisaladusele    riigi_saladus+le //_S_ sg all, //
+juurdepääsu    juurde_pääs+0 //_S_ sg g, //
+alused    alune+d //_S_ pl n, //    alus+d //_S_ pl n, //
+”    ” //_Z_ //
+ütleb    ütle+b //_V_ b, //
+punkt    punkt+0 //_S_ sg n, //
+3    3+0 //_N_ ?, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+õigus    õigus+0 //_S_ sg n, //
+juurdepääsuks    juurde_pääs+ks //_S_ sg tr, //
+kõigi    kõik+0 //_P_ pl g, //
+tasemetega    tase+tega //_S_ pl kom, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Presidendil    president+l //_S_ sg ad, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+liikmel    liige+l //_S_ sg ad, //
+jne.    jne+0 //_Y_ ?, //
+</s>
+<s>
+Tihtipeale    tihti_peale+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meil    mina+l //_P_ pl ad, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+ametis    amet+s //_S_ sg in, //
+võib-olla    võib-olla+0 //_D_ //
+kõigest    kõigest+0 //_D_ //
+<TIMEX  tid="t26" type="DURATION" temporalFunction="true" value="P2M" mod="APPROX">
+paar    paar+0 //_N_ sg n, //
+kuud    kuu+d //_S_ sg p, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<kindel_piir/>
+pääsevad    pääse+vad //_V_ vad, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+ligi    ligi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+komisjon    komisjon+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+arutanud    aruta+nud //_V_ nud, //    aruta=nud+0 //_A_ //    aruta=nud+0 //_A_ sg n, //    aruta=nud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+sellist    selline+t //_P_ sg p, //
+võimalust    võimalus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+liikmetel    liige+tel //_S_ pl ad, //
+oleks    ole+ks //_V_ ks, //
+võimalus    võimalus+0 //_S_ sg n, //
+riigisaladustega    riigi_saladus+tega //_S_ pl kom, //
+tutvuda    tutvu+da //_V_ da, //
+?    ? //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+M.
+Nutt
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Veel    veel+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Niisugused    nii_sugune+d //_P_ pl n, //
+küsimused    küsimus+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esimese    esimene+0 //_O_ sg g, //
+ja    ja+0 //_J_ //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+lugemise    lugemine+0 //_S_ sg g, //
+vahepealse    vahe_pealne+0 //_A_ sg g, //
+arutelu    arutelu+0 //_S_ sg g, //
+teema    teema+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Juhiksin    juhti+ksin //_V_ ksin, //
+ainult    ainult+0 //_D_ //
+tähelepanu    tähele_panu+0 //_S_ sg p, //
+sellele    see+le //_P_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Riigikogu    riigi_kogu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teatavasti    teatavasti+0 //_D_ //
+valitud    vali+tud //_V_ tud, //    valitud+0 //_A_ //    valitud+0 //_A_ sg n, //    valitud+d //_A_ pl n, //
+rahvaesindus    rahva_esindus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+pääs    pääs+0 //_S_ sg n, //
+Riigikokku    Riigi_kogu+0 //_H_ adt, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+suletud    suletud+0 //_A_ //    suletud+0 //_A_ sg n, //    suletud+d //_A_ pl n, //    sulge+tud //_V_ tud, //
+ka    ka+0 //_D_ //
+mitte    mitte+0 //_D_ //
+ekstremistlike    ekstremistlik+e //_A_ pl g, //
+gruppide    grupp+de //_S_ pl g, //
+liikmetele    liige+tele //_S_ pl all, //
+juhtumisi    juhtumisi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+näiteks    näide+ks //_S_ sg tr, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+tegutsenud    tegutse+nud //_V_ nud, //    tegutse=nud+0 //_A_ //    tegutse=nud+0 //_A_ sg n, //    tegutse=nud+d //_A_ pl n, //
+otseselt    otseselt+0 //_D_ //
+ega    ega+0 //_J_ //
+avalikult    avalikult+0 //_D_ //
+seadust    seadus+t //_S_ sg p, //
+rikkudes    rikku+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põhjust    põhjus+t //_S_ sg p, //
+oletada    oleta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+tegelikult    tegelikult+0 //_D_ //
+taotlevad    taotle+vad //_V_ vad, //
+põhiseadusliku    põhi_seaduslik+0 //_A_ sg g, //
+korra    kord+0 //_S_ sg g, //
+likvideerimist    likvideerimine+t //_S_ sg p, //
+vägivalla    vägi_vald+0 //_S_ sg g, //
+abil    abil+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+selliste    selline+te //_P_ pl g, //
+isikute    isik+te //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+millegagi    miski+gagi //_P_ sg kom, //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+ligipääs    ligi_pääs+0 //_S_ sg n, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+julgeksin    julge+ksin //_V_ ksin, //
+siinkohal    siin_kohal+0 //_D_ //
+märkida    märki+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+minu    mina+0 //_P_ sg g, //
+arvates    arva+tes //_V_ des, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+presidendi    president+0 //_S_ sg g, //
+,    , //_Z_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+liikme    liige+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kaitseväe    kaitse_vägi+0 //_S_ sg g, //
+juhataja    juhataja+0 //_S_ sg n, //
+või    või+0 //_J_ //
+ülemjuhataja    ülem_juhataja+0 //_S_ sg n, //
+-    - //_Z_ //
+<kindel_piir/>
+ülemjuhataja    ülem_juhataja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ainult    ainult+0 //_D_ //
+sõjaolukorras    sõja_olu_kord+s //_S_ sg in, //
+teatavasti    teatavasti+0 //_D_ //
+-    - //_Z_ //
+automaatne    automaatne+0 //_A_ sg n, //
+juurdepääs    juurde_pääs+0 //_S_ sg n, //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+riigisaladus    riigi_saladus+0 //_S_ sg n, //
+peaks    pida+ks //_V_ ks, //
+igale    iga+le //_P_ sg all, //
+kodanikule    kodanik+le //_S_ sg all, //
+kehtima    kehti+ma //_V_ ma, //
+ühtviisi    üht_viisi+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kord    kord+0 //_S_ sg n, //
+peaks    pida+ks //_V_ ks, //
+olema    ole+ma //_V_ ma, //
+ühesugune    ühe_sugune+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+tekib    tekki+b //_V_ b, //
+küsimus    küsimus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+näiteks    näiteks+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+valitsuse    valitsus+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+või    või+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+President    president+0 //_S_ sg n, //
+vajab    vaja+b //_V_ b, //
+riigisaladust    riigi_saladus+t //_S_ sg p, //
+oma    oma+0 //_P_ sg g, //
+tööks    töö+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+väga    väga+0 //_D_ //
+mõistetav    mõistetav+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ta    tema+0 //_P_ sg n, //
+selle    see+0 //_P_ sg g, //
+loa    luba+0 //_S_ sg g, //    luga+0 //_S_ sg g, //
+ka    ka+0 //_D_ //
+saab    saa+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+ma    mina+0 //_P_ sg n, //
+lähtun    lähtu+n //_V_ n, //
+eeldusest    eeldus+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nii    nii+0 //_D_ //
+president    president+0 //_S_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selles    see+s //_P_ sg in, //
+mõttes    mõte+s //_S_ sg in, //
+samasugune    sama_sugune+0 //_P_ sg n, //
+riigi    riik+0 //_S_ sg g, //
+kodanik    kodanik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+iga    iga+0 //_P_ sg n, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+et    et+0 //_J_ //
+ma    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+pooldaks    poolda+ks //_V_ ks, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+automaatse    automaatne+0 //_A_ sg g, //
+ligipääsu    ligi_pääs+0 //_S_ sg g, //
+laiendamist    laiendamine+t //_S_ sg p, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmele    liige+le //_S_ sg all, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+pigem    pigem+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+piiramist    piiramine+t //_S_ sg p, //
+ka    ka+0 //_D_ //
+näiteks    näide+ks //_S_ sg tr, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+liikmete    liige+te //_S_ pl g, //
+suhtes    suhtes+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Kolleeg    Kolleeg+0 //_H_ sg n, //
+Toomas    Toomas+0 //_H_ sg n, //
+Alatalu    Ala_talu+0 //_H_ sg g, //    Alatalu+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+T.
+Alatalu
+|
+</ignoreeri>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Mart    Mart+0 //_H_ sg n, //
+Nutt    nutt+0 //_S_ sg n, //
+,    , //_Z_ //
+sinu    sina+0 //_P_ sg g, //
+väites    väit+es //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nüüd    nüüd+0 //_D_ //
+väikene    väikene+0 //_A_ sg n, //
+vastuolu    vastu_olu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+kuna    kuna+0 //_J_ //
+valitsus    valitsus+0 //_S_ sg n, //
+moodustatakse    moodusta+takse //_V_ takse, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+baasil    baas+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+siia    siia+0 //_D_ //
+pääsevad    pääse+vad //_V_ vad, //
+ekstremistid    ekstremist+d //_S_ pl n, //
+sisse    sisse+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+saavad    saa+vad //_V_ vad, //
+nad    tema+d //_P_ pl n, //
+sama    sama+0 //_P_ sg p, //
+edukalt    edukalt+0 //_D_ //
+pääseda    pääse+da //_V_ da, //
+ka    ka+0 //_D_ //
+valitsusse    valitsus+se //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+hakka    hakka+0 //_V_ o, //
+siin    siin+0 //_D_ //
+tooma    too+ma //_V_ ma, //
+näiteid    näide+id //_S_ pl p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+riikide    riik+de //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+võib    või+b //_V_ b, //
+seda    see+da //_P_ sg p, //
+ka    ka+0 //_D_ //
+näidetega    näide+tega //_S_ pl kom, //
+kinnitada    kinnita+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+minu    mina+0 //_P_ sg g, //
+küsimus    küsimus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+järgmine    järgmine+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Minu    mina+0 //_P_ sg g, //
+arvates    arva+tes //_V_ des, //
+peaks    pida+ks //_V_ ks, //
+see    see+0 //_P_ sg n, //
+seadus    seadus+0 //_S_ sg n, //
+siiski    siiski+0 //_D_ //
+ette    ette+0 //_D_ //
+nägema    näge+ma //_V_ ma, //
+võimaluse    võimalus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vähemalt    vähemalt+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+osa    osa+0 //_S_ sg n, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmetest    liige+test //_S_ pl el, //
+,    , //_Z_ //
+olgu    ole+gu //_V_ gu, //
+need    see+d //_P_ pl n, //
+siis    siis+0 //_D_ //
+näiteks    näiteks+0 //_D_ //
+fraktsioonide    fraktsioon+de //_S_ pl g, //
+esimehed    esi_mees+d //_S_ pl n, //
+,    , //_Z_ //
+komisjonide    komisjon+de //_S_ pl g, //
+esimehed    esi_mees+d //_S_ pl n, //
+või    või+0 //_J_ //
+näiteks    näide+ks //_S_ sg tr, //
+väliskomisjon    välis_komisjon+0 //_S_ sg n, //
+tervikuna    tervik+na //_S_ sg es, //
+,    , //_Z_ //
+<kindel_piir/>
+peaksid    pida+ksid //_V_ ksid, //
+siiski    siiski+0 //_D_ //
+pääsema    pääse+ma //_V_ ma, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Milline    milline+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sinu    sina+0 //_P_ sg g, //
+arvamus    arvamus+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+M.
+Nutt
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+võib    või+b //_V_ b, //
+pääseda    pääse+da //_V_ da, //
+iga    iga+0 //_P_ sg n, //
+isik    isik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaja    vaja+0 //_D_ //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+pääseda    pääse+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+see    see+0 //_P_ sg n, //
+toimub    toimu+b //_V_ b, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+protseduuri    protseduur+0 //_S_ sg g, //
+teel    teel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Küsimus    küsimus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+mõned    mõni+d //_P_ pl n, //
+isikud    isik+d //_S_ pl n, //
+peaksid    pida+ksid //_V_ ksid, //
+ilma    ilma+0 //_K_ //
+protseduurita    protseduur+ta //_S_ sg ab, //
+riigisaladuse    riigi_saladus+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+pääsema    pääse+ma //_V_ ma, //
+või    või+0 //_J_ //
+mitte    mitte+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Muide    muide+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+sa    sina+0 //_P_ sg n, //
+viitasid    viita+sid //_V_ sid, //
+vastuolule    vastu_olu+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+sa    sina+0 //_P_ sg n, //
+vist    vist+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+pannud    pan=nud+0 //_A_ //    pan=nud+0 //_A_ sg n, //    pan=nud+d //_A_ pl n, //    pane+nud //_V_ nud, //
+minu    mina+0 //_P_ sg g, //
+märkust    märkus+t //_S_ sg p, //
+tähele    tähele+0 //_X_ //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+rõhutasin    rõhuta+sin //_V_ sin, //
+just    just+0 //_D_ //    just+0 //_I_ //
+nimelt    nimelt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+liikmel    liige+l //_S_ sg ad, //
+ei    ei+0 //_V_ neg, //
+peaks    pida+ks //_V_ ks, //
+sellist    selline+t //_P_ sg p, //
+automaatset    automaatne+t //_A_ sg p, //
+pääsu    pääs+0 //_S_ sg p, //
+olema    ole+ma //_V_ ma, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmel    liige+l //_S_ sg ad, //
+seda    see+da //_P_ sg p, //
+ka    ka+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+see    see+0 //_P_ sg n, //
+tõepoolest    tõe_poolest+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+liikmeks    liige+ks //_S_ sg tr, //
+võib    või+b //_V_ b, //
+saada    saa+da //_V_ da, //
+jumal    jumal+0 //_S_ sg n, //
+teab    tead+b //_V_ b, //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+koalitsioone    koalitsioon+e //_S_ pl p, //
+sõlmitakse    sõlmi+takse //_V_ takse, //
+vastavalt    vastavalt+0 //_K_ //
+jõudude    jõud+de //_S_ pl g, //
+vahekorrale    vahe_kord+le //_S_ sg all, //
+parlamendis    parlament+s //_S_ sg in, //
+,    , //_Z_ //
+mitte    mitte+0 //_D_ //
+vastavalt    vastavalt+0 //_K_ //
+lojaalsusele    lojaalsus+le //_S_ sg all, //
+riigi    riik+0 //_S_ sg g, //
+suhtes    suhtes+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+täiesti    täiesti+0 //_D_ //
+selge    selge+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+kujutame    kujuta+me //_V_ me, //
+ette    ette+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+parlamenti    parlament+0 //_S_ adt, //
+valitakse    vali+takse //_V_ takse, //
+Ovinbunduga    Ovinbundu+ga //_H_ sg kom, //    Ovinbundud+ga //_H_ sg kom, //
+ühinemise    ühinemine+0 //_S_ sg g, //
+partei    partei+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+saab    saa+b //_V_ b, //
+näiteks    näiteks+0 //_D_ //
+6    6+0 //_N_ ?, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+fraktsiooni    fraktsioon+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+taotleb    taotle+b //_V_ b, //
+Eesti    Eesti+0 //_H_ sg g, //
+iseseisvuse    ise_seisvus+0 //_S_ sg g, //
+likvideerimist    likvideerimine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+ühinemist    ühinemine+t //_S_ sg p, //
+Ovinbundu    Ovinbundu+0 //_H_ sg g, //    Ovinbundud+0 //_H_ sg g, //
+vabariigiga    vaba_riik+ga //_S_ sg kom, //
+-    - //_Z_ //
+<kindel_piir/>
+sa    sina+0 //_P_ sg n, //
+ilmselt    ilmselt+0 //_D_ //
+ajaloolasena    aja_loolane+na //_S_ sg es, //
+tead    tead+d //_V_ d, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+Ovinbundu    Ovinbundu+0 //_H_ sg g, //    Ovinbundud+0 //_H_ sg g, //
+vabariik    vaba_riik+0 //_S_ sg n, //
+ajaloos    aja_lugu+s //_S_ sg in, //
+tähendas    tähenda+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+näe    näge+0 //_V_ o, //
+mingit    mingi+t //_P_ sg p, //
+põhjust    põhjus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+miks    miks+0 //_D_ //
+selline    selline+0 //_P_ sg n, //
+inimene    inimene+0 //_S_ sg n, //
+peaks    pida+ks //_V_ ks, //
+automaatselt    automaatselt+0 //_D_ //
+riigisaladusele    riigi_saladus+le //_S_ sg all, //
+ligi    ligi+0 //_D_ //
+pääsema    pääse+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+et    et+0 //_J_ //
+ma    mina+0 //_P_ sg n, //
+arvan    arva+n //_V_ n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+rõhuasetus    rõhu_asetus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ikkagi    ikkagi+0 //_D_ //
+sellel    see+l //_P_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+isik    isik+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaja    vaja+0 //_D_ //
+riigisaladusega    riigi_saladus+ga //_S_ sg kom, //
+tegelda    tegele+da //_V_ da, //
+,    , //_Z_ //
+</kiil>
+peab    pida+b //_V_ b, //
+läbima    läbi+ma //_V_ ma, //
+protseduuri    protseduur+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+kontrolli    kontroll+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tal    tema+l //_P_ sg ad, //
+peab    pida+b //_V_ b, //
+see    see+0 //_P_ sg n, //
+võimalus    võimalus+0 //_S_ sg n, //
+olema    ole+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+samas    sama+s //_P_ sg in, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+garanteeritud    garanteeri+tud //_V_ tud, //    garanteeri=tud+0 //_A_ //    garanteeri=tud+0 //_A_ sg n, //    garanteeri=tud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+vastutab    vastuta+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+juhul    juht+l //_S_ sg ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+kuritarvitab    kuri_tarvita+b //_V_ b, //
+riigisaladust    riigi_saladus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Mart    Mart+0 //_H_ sg n, //
+Nutt    nutt+0 //_S_ sg n, //
+,    , //_Z_ //
+kolleegidel    kolleeg+del //_S_ pl ad, //
+rohkem    rohkem+0 //_D_ //
+küsimusi    küsimus+i //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+küll    küll+0 //_D_ //
+aga    aga+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juhatajal    juhataja+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Milline    milline+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muudatusettepanekute    muudatus_ette_panek+te //_S_ pl g, //
+esitamine    esitamine+0 //_S_ sg n, //
+tähtaeg    täht_aeg+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+juhul    juht+l //_S_ sg ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+esimene    esimene+0 //_O_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+lõpetatakse    lõpeta+takse //_V_ takse, //
+?    ? //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+M.
+Nutt
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Arvestades    arvesta+des //_V_ des, //
+tormilist    tormiline+t //_A_ sg p, //
+<TIMEX  tid="t28" type="DATE" temporalFunction="true" value="1997-SU" >
+suve    suvi+0 //_S_ sg p, //
+</TIMEX>
+,    , //_Z_ //
+pakub    pakku+b //_V_ b, //
+komisjon    komisjon+0 //_S_ sg n, //
+välja    välja+0 //_D_ //
+<TIMEX  tid="t29" type="TIME" temporalFunction="true" value="1997-08-25T13" >
+25.    25.+0 //_O_ ?, //
+augusti    august+0 //_S_ sg g, //
+kell    kell+0 //_S_ sg n, //
+13.    13.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Riigisaladuse
+seaduse
+eelnõu
+(
+629
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Austatud    Austa=tu+d //_H_ pl n, //    Austatud+0 //_H_ sg n, //    Austatud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg n, //    Riigikogu+0 //_H_ sg n, //
+,    , //_Z_ //
+juhtivkomisjon    juhtiv_komisjon+0 //_S_ sg n, //
+põhiseaduskomisjon    põhi_seadus_komisjon+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+629    629+0 //_N_ ?, //
+esimene    esimene+0 //_O_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+lõpetada    lõpeta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Teisi    teine+0 //_O_ pl p, //    teine+0 //_P_ pl p, //
+ettepanekuid    ette_panek+id //_S_ pl p, //
+laekunud    laeku+nud //_V_ nud, //    laeku=nud+0 //_A_ //    laeku=nud+0 //_A_ sg n, //    laeku=nud+d //_A_ pl n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+seega    seega+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esimene    esimene+0 //_O_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+lõpetatud    lõpeta+tud //_V_ tud, //    lõpetatud+0 //_A_ //    lõpetatud+0 //_A_ sg n, //    lõpetatud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Muudatusettepanekud    muudatus_ette_panek+d //_S_ pl n, //
+palun    palu+n //_V_ n, //
+esitada    esita+da //_V_ da, //
+põhiseaduskomisjonile    põhi_seadus_komisjon+le //_S_ sg all, //
+<TIMEX  tid="t30" type="TIME" temporalFunction="true" value="1997-08-25T13" >
+25.    25.+0 //_O_ ?, //
+augustiks    august+ks //_S_ sg tr, //
+kella    kell+0 //_S_ sg g, //
+13-ks    13+ks //_N_ sg tr, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Austatud    Austa=tu+d //_H_ pl n, //    Austatud+0 //_H_ sg n, //    Austatud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg n, //    Riigikogu+0 //_H_ sg n, //
+,    , //_Z_ //
+võtame    võt+me //_V_ me, //
+arutusele    arutus+le //_S_ sg all, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+algatatud    algata+tud //_V_ tud, //    algata=tud+0 //_A_ //    algata=tud+0 //_A_ sg n, //    algata=tud+d //_A_ pl n, //
+lõhkematerjaliseaduse    lõhke_materjali_seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Alustame    alusta+me //_V_ me, //
+selle    see+0 //_P_ sg g, //
+esimest    esimene+t //_O_ sg p, //
+lugemist    lugemine+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ettekandeks    ette_kanne+ks //_S_ sg tr, //
+palun    palu+n //_V_ n, //
+kõnepulti    kõne_pult+0 //_S_ adt, //
+siseminister    sise_minister+0 //_S_ sg n, //
+Robert    Robert+0 //_H_ sg n, //
+Lepiksoni    Lepikson+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+R.
+Lepikson
+|
+</ignoreeri>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+!    ! //_Z_ //
+</s>
+<s>
+Lõhkematerjaliseadus    lõhke_materjali_seadus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+nendest    see+dest //_P_ pl el, //
+puuduvatest    puuduv+test //_A_ pl el, //
+seadustest    seadus+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+meil    mina+l //_P_ pl ad, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+enne    enne+0 //_K_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+täisliikmeks    täis_liige+ks //_S_ sg tr, //
+saamist    saamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Käesolev    käes_olev+0 //_A_ sg n, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+käsitleb    käsitle+b //_V_ b, //
+lõhkematerjalina    lõhke_materjal+na //_S_ sg es, //
+lõhkeainet    lõhke_aine+t //_S_ sg p, //
+,    , //_Z_ //
+pürotehnilist    püro_tehniline+t //_A_ sg p, //
+ainet    aine+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+neid    see+d //_P_ pl p, //
+aineid    aine+id //_S_ pl p, //
+sisaldavaid    sisaldav+id //_A_ pl p, //
+tooteid    toode+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+loeteluga    loetelu+ga //_S_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+täpselt    täpselt+0 //_D_ //
+piiritletud    piiritle+tud //_V_ tud, //    piiritle=tud+0 //_A_ //    piiritle=tud+0 //_A_ sg n, //    piiritle=tud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+lõhkematerjaliseaduse    lõhke_materjali_seadus+0 //_S_ sg g, //
+reguleerimisala    reguleerimis_ala+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+käsitleb    käsitle+b //_V_ b, //
+lõhkematerjalide    lõhke_materjal+de //_S_ pl g, //
+valmistamist    valmistamine+t //_S_ sg p, //
+,    , //_Z_ //
+müüki    müük+0 //_S_ sg p, //
+,    , //_Z_ //
+töötlemist    töötlemine+t //_S_ sg p, //
+,    , //_Z_ //
+komplekteerimist    komplekteerimine+t //_S_ sg p, //
+,    , //_Z_ //
+taastamist    taastamine+t //_S_ sg p, //
+,    , //_Z_ //
+pakendamist    pakendamine+t //_S_ sg p, //
+,    , //_Z_ //
+hoidmist    hoidmine+t //_S_ sg p, //
+,    , //_Z_ //
+kasutamist    kasutamine+t //_S_ sg p, //
+,    , //_Z_ //
+märgistamist    märgista=mine+t //_S_ sg p, //
+,    , //_Z_ //
+hävitamist    hävitamine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+vedu    vedu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+sisult    sisu+lt //_S_ sg abl, //
+kõiki    kõik+0 //_P_ pl p, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+käitlemise    käitle=mine+0 //_S_ sg g, //
+tahke    tahk+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Vastava    Vastav+0 //_H_ sg g, //    Vastava+0 //_H_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+puudumise    puudumine+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sellealases    selle_alane+s //_A_ sg in, //
+tegevuses    tegevus+s //_S_ sg in, //
+<TIMEX  tid="t1_4" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0">
+siiani    siiani+0 //_D_ //
+</TIMEX>
+lähtutud    lähtu+tud //_V_ tud, //    lähtu=tud+0 //_A_ //    lähtu=tud+0 //_A_ sg n, //    lähtu=tud+d //_A_ pl n, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+<TIMEX  tid="t31" type="DATE" temporalFunction="false" value="1992" >
+1992.    1992.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+määrusega    määrus+ga //_S_ sg kom, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+lõhkematerjalide    lõhke_materjal+de //_S_ pl g, //
+käitlemise    käitle=mine+0 //_S_ sg g, //
+eeskirjadest    ees_kiri+dest //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teatavas    teatav+s //_A_ sg in, //
+vastuolus    vastu_olu+s //_S_ sg in, //
+<TIMEX  tid="t1_5" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t31">
+hiljem    hiljem+0 //_D_ //
+</TIMEX>
+vastuvõetud    vastu_võetud+0 //_A_ //    vastu_võetud+0 //_A_ sg n, //    vastu_võetud+d //_A_ pl n, //
+seadustega    seadus+tega //_S_ pl kom, //
+<kiil>
+(    ( //_Z_ //
+planeerimis-    planeerimis //_S_ ?, //
+ja    ja+0 //_J_ //
+ehitusseadus    ehitus_seadus+0 //_S_ sg n, //
+,    , //_Z_ //
+liiklusseadus    liiklus_seadus+0 //_S_ sg n, //
+,    , //_Z_ //
+äriseadustik    äri_seadustik+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+esineb    esine+b //_V_ b, //
+lahknevusi    lahknevus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+võrreldes    võrdle+des //_V_ des, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+klassifikatsiooniga    klassifikatsioon+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Loomulikult    loomulikult+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+tugine    tugine+0 //_V_ o, //
+see    see+0 //_P_ sg n, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+määrus    määrus+0 //_S_ sg n, //
+lõhkematerjaliseadusele    lõhke_materjali_seadus+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+siis    siis+0 //_D_ //
+polnud    ole+nud //_V_ neg nud, //
+seda    see+da //_P_ sg p, //
+lihtsalt    lihtsalt+0 //_D_ //
+olemas    ole+mas //_V_ mas, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhkematerjali    lõhke_materjal+0 //_S_ adt, //
+lubatakse    luba+takse //_V_ takse, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+tsiviilkäibesse    tsiviil_käive+sse //_S_ sg ill, //
+siis    siis+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kantud    kand+tud //_V_ tud, //    kantud+0 //_A_ //    kantud+0 //_A_ sg n, //    kantud+d //_A_ pl n, //
+Riiklikku    riiklik+0 //_A_ adt, //
+Lõhkematerjaliregistrisse    lõhke_materjali_register+sse //_S_ sg ill, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+Tehnilise    tehniline+0 //_A_ sg g, //
+Järelevalve    järele_valve+0 //_S_ sg g, //
+Inspektsioon    inspektsioon+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+andnud    and+nud //_V_ nud, //    and=nud+0 //_A_ //    and=nud+0 //_A_ sg n, //    and=nud+d //_A_ pl n, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+alalise    alaline+0 //_A_ sg g, //
+kasutusloa    kasutus_luba+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Tsiviilkäibesse    tsiviil_käive+sse //_S_ sg ill, //
+ei    ei+0 //_V_ neg, //
+lubata    luba+ta //_V_ ta, //
+plastilisi    plastiline+i //_A_ pl p, //
+lõhkematerjale    lõhke_materjal+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+erandina    erand+na //_S_ sg es, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+siiski    siiski+0 //_D_ //
+lubatud    luba+tud //_V_ tud, //    lubatu+d //_A_ pl n, //    lubatud+0 //_A_ //    lubatud+0 //_A_ sg n, //    lubatud+d //_A_ pl n, //
+kaitseministri    kaitse_minister+0 //_S_ sg g, //
+loal    luba+l //_S_ sg ad, //    luga+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhkematerjali    lõhke_materjal+0 //_S_ adt, //
+võib    või+b //_V_ b, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+kasutusele    kasutus+le //_S_ sg all, //
+võtta    võt+a //_V_ da, //
+üksnes    üksnes+0 //_D_ //
+siis    siis+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+läbinud    läbi+nud //_V_ nud, //    läbi=nud+0 //_A_ //    läbi=nud+0 //_A_ sg n, //    läbi=nud+d //_A_ pl n, //
+laboratoorse    laboratoorne+0 //_A_ sg g, //
+kontrolli    kontroll+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+katselõhkamise    katse_lõhka=mine+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+vastab    vasta+b //_V_ b, //
+tsiviilkäibesse    tsiviil_käive+sse //_S_ sg ill, //
+lubatava    lubatav+0 //_A_ sg g, //
+lõhkeaine    lõhke_aine+0 //_S_ sg g, //
+ohuklassi    ohu_klass+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+sobivusrühma    sobivus_rühm+0 //_S_ sg g, //
+parameetritele    parameeter+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Nõuetele    nõue+tele //_S_ pl all, //
+vastavaks    vastav+ks //_A_ sg tr, //
+tunnistatud    tunnista+tud //_V_ tud, //    tunnista=tud+0 //_A_ //    tunnista=tud+0 //_A_ sg n, //    tunnista=tud+d //_A_ pl n, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+alalise    alaline+0 //_A_ sg g, //
+kasutusloa    kasutus_luba+0 //_S_ sg g, //
+väljastab    väljasta+b //_V_ b, //
+Tehnilise    tehniline+0 //_A_ sg g, //
+Järelevalve    järele_valve+0 //_S_ sg g, //
+Inspektsioon    inspektsioon+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhkematerjal    lõhke_materjal+0 //_S_ sg n, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+kantakse    kand+takse //_V_ takse, //
+Riiklikku    riiklik+0 //_A_ adt, //
+Lõhkematerjaliregistrisse    lõhke_materjali_register+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+valmistamiseks    valmistamine+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõutav    nõud+tav //_V_ tav, //    nõuta+v //_V_ v, //
+tegevusluba    tegevus_luba+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+väljaandmise    välja_andmine+0 //_S_ sg g, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+Majandusministeeriumi    majandus_ministeerium+0 //_S_ sg g, //
+kohustuseks    kohustus+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Erandina    erand+na //_S_ sg es, //
+annab    and+b //_V_ b, //
+lihtlõhkeaine    liht_lõhke_aine+0 //_S_ sg g, //
+valmistamise    valmistamine+0 //_S_ sg g, //
+loa    luba+0 //_S_ sg g, //    luga+0 //_S_ sg g, //
+Tehnilise    tehniline+0 //_A_ sg g, //
+Järelevalve    järele_valve+0 //_S_ sg g, //
+Inspektsioon    inspektsioon+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+lihtlõhkeainet    liht_lõhke_aine+t //_S_ sg p, //
+valmistatakse    valmista+takse //_V_ takse, //
+oma    oma+0 //_P_ sg g, //
+vajaduseks    vajadus+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Loomulikult    loomulikult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegevusloa    tegevus_luba+0 //_S_ sg g, //
+saamiseks    saamine+ks //_S_ sg tr, //
+nõutav    nõutav+0 //_A_ sg n, //
+lõhkematerjale    lõhke_materjal+e //_S_ pl p, //
+valmistava    valmista=v+0 //_A_ sg g, //
+käitise    käitis+0 //_S_ sg g, //
+olemasolu    olemas_olu+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+vastavus    vastavus+0 //_S_ sg n, //
+eelnõus    eel_nõu+s //_S_ sg in, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+nõuetele    nõue+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+näeb    näge+b //_V_ b, //
+ette    ette+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+müügiks    müük+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõutav    nõud+tav //_V_ tav, //    nõuta+v //_V_ v, //
+tegevusluba    tegevus_luba+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+aga    aga+0 //_J_ //
+võib    või+b //_V_ b, //
+müüa    müü+a //_V_ da, //
+isikule    isik+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+soetusluba    soetus_luba+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Neid    see+d //_P_ pl p, //
+lubasid    luba+sid //_S_ pl p, //
+väljastavad    väljasta+vad //_V_ vad, //
+vastavalt    vastavalt+0 //_D_ //
+Politseiamet    politsei_amet+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+prefektuurid    prefektuur+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+sätestab    sätesta+b //_V_ b, //
+nende    see+de //_P_ pl g, //
+lubade    luba+de //_S_ pl g, //
+väljaandmise    välja_andmine+0 //_S_ sg g, //
+tingimused    tingimus+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+korra    kord+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+sätestab    sätesta+b //_V_ b, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+hoiustamise    hoiusta=mine+0 //_S_ sg g, //
+,    , //_Z_ //
+hoidmise    hoidmine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+arvestamise    arvestamine+0 //_S_ sg g, //
+nõuded    nõue+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kusjuures    kus_juures+0 //_D_ //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+ajutise    ajutine+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+alalise    alaline+0 //_A_ sg g, //
+kasutusloa    kasutus_luba+0 //_S_ sg g, //
+väljastab    väljasta+b //_V_ b, //
+Tehnilise    tehniline+0 //_A_ sg g, //
+Järelevalve    järele_valve+0 //_S_ sg g, //
+Inspektsioon    inspektsioon+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg g, //
+5.    5.+0 //_O_ ?, //
+peatükk    pea_tükk+0 //_S_ sg n, //
+sätestab    sätesta+b //_V_ b, //
+nõuded    nõue+d //_S_ pl n, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+käitlemise    käitle=mine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+käibe    käive+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+vastutavatele    vastutav+tele //_A_ pl all, //
+isikutele    isik+tele //_S_ pl all, //
+ning    ning+0 //_J_ //
+nende    tema+de //_P_ pl g, //
+asendajatele    asendaja+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+näeb    näge+b //_V_ b, //
+ette    ette+0 //_D_ //
+nende    see+de //_P_ pl g, //
+isikute    isik+te //_S_ pl g, //
+atesteerimise    atesteerimine+0 //_S_ sg g, //
+Tehnilise    tehniline+0 //_A_ sg g, //
+Järelevalve    järele_valve+0 //_S_ sg g, //
+Inspektsiooni    inspektsioon+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+ning    ning+0 //_J_ //
+neile    see+le //_P_ pl all, //
+vastavasisulise    vastava_sisuline+0 //_A_ sg g, //
+tähtajalise    täht_ajaline+0 //_A_ sg g, //
+tunnistuse    tunnistus+0 //_S_ sg g, //
+andmise    andmine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+sätestab    sätesta+b //_V_ b, //
+ranged    range+d //_A_ pl n, //
+nõuded    nõue+d //_S_ pl n, //
+nii    nii+0 //_D_ //
+vastutavate    vastutav+te //_A_ pl g, //
+isikute    isik+te //_S_ pl g, //
+hariduse    haridus+0 //_S_ sg g, //
+,    , //_Z_ //
+erialase    eri_alane+0 //_A_ sg g, //
+staaži    staaž+0 //_S_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+usaldatavuse    usaldatavus+0 //_S_ sg g, //
+osas    osas+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Ette    ette+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nähtud    näge+tud //_V_ tud, //    nähtu+d //_V_ d, //    nähtud+0 //_A_ //    nähtud+0 //_A_ sg n, //    nähtud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+juhtumid    juhtum+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mil    mis+l //_P_ sg ad, //
+tunnistus    tunnistus+0 //_S_ sg n, //
+tühistatakse    tühista+takse //_V_ takse, //
+,    , //_Z_ //
+näiteks    näiteks+0 //_D_ //
+ohutuseeskirjade    ohutus_ees_kiri+de //_S_ pl g, //
+rikkumise    rikkumine+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Tehnilise    tehniline+0 //_A_ sg g, //
+Järelevalve    järele_valve+0 //_S_ sg g, //
+Inspektsiooni    inspektsioon+0 //_S_ sg g, //
+luba    luba+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõutav    nõud+tav //_V_ tav, //    nõuta+v //_V_ v, //
+lõhkematerjalide    lõhke_materjal+de //_S_ pl g, //
+kasutamiseks    kasutamine+ks //_S_ sg tr, //
+,    , //_Z_ //
+lõhketööde    lõhke_töö+de //_S_ pl g, //
+tegemiseks    tegemine+ks //_S_ sg tr, //
+,    , //_Z_ //
+lõhkematerjalide    lõhke_materjal+de //_S_ pl g, //
+töötlemiseks    töötlemine+ks //_S_ sg tr, //
+ning    ning+0 //_J_ //
+ilutulestiku    ilu_tulestik+0 //_S_ sg g, //
+korraldamiseks    korraldamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+sätestab    sätesta+b //_V_ b, //
+ranged    range+d //_A_ pl n, //
+nõuded    nõue+d //_S_ pl n, //
+lõhkemeistrile    lõhke_meister+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+lõhkajale    lõhka=ja+le //_S_ sg all, //
+ning    ning+0 //_J_ //
+neile    tema+le //_P_ pl all, //
+kutsetunnistuse    kutse_tunnistus+0 //_S_ sg g, //
+väljaandmise    välja_andmine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+äravõtmise    ära_võtmine+0 //_S_ sg g, //
+korra    kord+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+veoeeskirju    veo_ees_kiri+u //_S_ pl p, //
+käesolev    käes_olev+0 //_A_ sg n, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+sisalda    sisalda+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+neid    tema+d //_P_ pl p, //
+käsitlevad    käsitle+vad //_V_ vad, //
+veoliike    veo_liik+e //_S_ pl p, //
+reguleerivad    reguleeriv+d //_A_ pl n, //
+seadused    seadus+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+nende    see+de //_P_ pl g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+õigusaktid    õigus_akt+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Käsitlemist    käsitlemine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+leidnud    leid+nud //_V_ nud, //    leid=nud+0 //_A_ //    leid=nud+0 //_A_ sg n, //    leid=nud+d //_A_ pl n, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+autovedu    auto_vedu+0 //_S_ sg n, //
+koguses    kogus+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ületa    ületa+0 //_V_ o, //
+vabapiiriga    vaba_piir+ga //_S_ sg kom, //
+määratut    määratu+t //_A_ sg p, //    määratud+t //_A_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+üldiseks    üldine+ks //_A_ sg tr, //
+liikluseks    liiklus+ks //_S_ sg tr, //
+suletud    suletud+0 //_A_ //    suletud+0 //_A_ sg n, //    suletud+d //_A_ pl n, //    sulge+tud //_V_ tud, //
+teel    tee+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+territooriumil    territoorium+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Eelnõu    eel_nõu+0 //_S_ sg n, //
+sätestab    sätesta+b //_V_ b, //
+juriidilise    juriidiline+0 //_A_ sg g, //
+isiku    isik+0 //_S_ sg g, //
+vastutuse    vastutus+0 //_S_ sg g, //
+lõhkematerjaliseaduse    lõhke_materjali_seadus+0 //_S_ sg g, //
+rikkumise    rikkumine+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Ühtlasi    ühtlasi+0 //_D_ //
+näeb    näge+b //_V_ b, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+ette    ette+0 //_K_ //
+rakendusaktide    rakendus_akt+de //_S_ pl g, //
+andmise    andmine+0 //_S_ sg g, //
+Majandusministeeriumi    majandus_ministeerium+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+koostamisel    koostamine+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kasutatud    kasuta+tud //_V_ tud, //    kasutatud+0 //_A_ //    kasutatud+0 //_A_ sg n, //    kasutatud+d //_A_ pl n, //
+Saksa    saksa+0 //_G_ //
+Liitvabariigi    liit_vaba_riik+0 //_S_ sg g, //
+lõhkeaineseadust    lõhke_aine_seadus+t //_S_ sg p, //
+,    , //_Z_ //
+Soome    Soome+0 //_H_ sg g, //
+lõhkematerjalimäärust    lõhke_materjali_määrus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Seaduseelnõus    seadus_eel_nõu+s //_S_ sg in, //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+lõhkematerjali    lõhke_materjal+0 //_S_ sg g, //
+klassifikatsioon    klassifikatsioon+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+täielikult    täielikult+0 //_D_ //
+kooskõlas    koos_kõla+s //_S_ sg in, //
+ohtlike    ohtlik+e //_A_ pl g, //
+veoste    veos+te //_S_ pl g, //
+rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+autoveo    auto_vedu+0 //_S_ sg g, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+kokkuleppe    kokku_lepe+0 //_S_ sg g, //
+nõuetega    nõue+tega //_S_ pl kom, //
+ja    ja+0 //_J_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+Nõukogu    Nõu_kogu+0 //_H_ sg g, //    Nõukogu+0 //_H_ sg g, //
+direktiiviga    direktiiv+ga //_S_ sg kom, //
+93/15    93/15+0 //_N_ ?, //
+<TIMEX  tid="t32" type="DATE" temporalFunction="false" value="1993-04-05" >
+5.    5.+0 //_O_ ?, //
+aprillist    aprill+st //_S_ sg el, //
+1993    1993+0 //_N_ ?, //
+</TIMEX>
+“    “ //_Z_ //
+Tsiviilkasutuses    tsiviil_kasutus+s //_S_ sg in, //
+olevate    olev+te //_A_ pl g, //
+lõhkematerjalide    lõhke_materjal+de //_S_ pl g, //
+turustamis-    turustamis //_S_ ?, //
+ja    ja+0 //_J_ //
+järelevalvenõuete    järele_valve_nõue+te //_S_ pl g, //
+ühtlustamine    ühtlustamine+0 //_S_ sg n, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põhiline    põhiline+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millele    mis+le //_P_ pl all, //    mis+le //_P_ sg all, //
+ma    mina+0 //_P_ sg n, //
+tahtsin    taht+sin //_V_ sin, //
+juhtida    juhti+da //_V_ da, //
+teie    sina+0 //_P_ pl g, //
+tähelepanu    tähele_panu+0 //_S_ sg p, //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+,    , //_Z_ //
+härra    härra+0 //_S_ sg n, //
+minister    minister+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmetel    liige+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ettekandjale    ette_kandja+le //_S_ sg all, //
+küsimusi    küsimus+i //_S_ pl p, //
+?    ? //_Z_ //
+</s>
+<s>
+Tundub    tundu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+loobub    loobu+b //_V_ b, //
+kaasettekannetest    kaas_ette_kanne+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Riigikogu-poolseks    riigi_kogu-poolne+ks //_A_ sg tr, //
+kaasettekandeks    kaas_ette_kanne+ks //_S_ sg tr, //
+palun    palu+n //_V_ n, //
+kõnepulti    kõne_pult+0 //_S_ adt, //
+õiguskomisjoni    õigus_komisjon+0 //_S_ sg g, //
+liikme    liige+0 //_S_ sg g, //
+Vootele    Vootele+0 //_H_ sg n, //
+Hanseni    Hansen+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+V.
+Hansen
+|
+</ignoreeri>
+<s>
+Austatud    austa+tud //_V_ tud, //    austatud+0 //_A_ //    austatud+0 //_A_ sg n, //    austatud+d //_A_ pl n, //
+esimees    esi_mees+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Austatud    Austa=tu+d //_H_ pl n, //    Austatud+0 //_H_ sg n, //    Austatud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg n, //    Riigikogu+0 //_H_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t33" type="DATE" temporalFunction="true" value="1997-06-30" >
+Eile    eile+0 //_D_ //
+</TIMEX>
+arutas    aruta+s //_V_ s, //
+õiguskomisjon    õigus_komisjon+0 //_S_ sg n, //
+oma    oma+0 //_P_ sg g, //
+koosolekul    koos_olek+l //_S_ sg ad, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+627    627+0 //_N_ ?, //
+-    - //_Z_ //
+lõhkematerjaliseaduse    lõhke_materjali_seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Komisjon    Ko_misjon+0 //_H_ sg n, //    Komisjon+0 //_H_ sg n, //
+leidis    leid+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vajalik    vajalik+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+piisavalt    piisavalt+0 //_D_ //
+korralikul    korralik+l //_A_ sg ad, //
+kujul    kuju+l //_S_ sg ad, //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+seda    see+da //_P_ sg p, //
+menetleda    menetle+da //_V_ da, //
+Riigikogus    riigi_kogu+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+otsustas    otsusta+s //_V_ s, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+esimesele    esimene+le //_O_ sg all, //
+lugemisele    lugemine+le //_S_ sg all, //
+lubada    luba+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Meelde    Meelde+0 //_H_ sg n, //
+võib    või+b //_V_ b, //
+tuletada    tuleta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Riigikogus    Riigi_kogu+s //_H_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kaks    kaks+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+arutelul    arutelu+l //_S_ sg ad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+ja    ja+0 //_J_ //
+poolthäälte    poolt_hääl+te //_S_ pl g, //
+enamusega    enamus+ga //_S_ sg kom, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+mitte    mitte+0 //_D_ //
+piisava    piisav+0 //_A_ sg g, //
+poolthääle    poolt_hääl+0 //_S_ sg g, //
+enamusega    enamus+ga //_S_ sg kom, //
+,    , //_Z_ //
+vastu    vastu+0 //_D_ //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+eelnõud    eel_nõu+d //_S_ pl n, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsusele    valitsus+le //_S_ sg all, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+tegemiseks    tegemine+ks //_S_ sg tr, //
+lõhkematerjaliseaduse    lõhke_materjali_seadus+0 //_S_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+koostamiseks    koostamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t34" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Nüüd    nüüd+0 //_D_ //
+</TIMEX>
+mõningatest    mõningas+test //_P_ pl el, //
+küsimustest    küsimus+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+tekkisid    tekki+sid //_V_ sid, //
+komisjonis    komisjon+s //_S_ sg in, //
+arutelu    arutelu+0 //_S_ sg g, //
+käigus    käigus+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kõigepealt    kõige_pealt+0 //_D_ //
+oli    ole+i //_V_ s, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+küsimus    küsimus+0 //_S_ sg n, //
+kaitseotstarbeliste    kaitse_ots_tarbe=line+te //_A_ pl g, //
+lõhkeainete    lõhke_aine+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Eestis    Eesti+s //_H_ sg in, //
+nimelt    nimelt+0 //_D_ //
+valmistatakse    valmista+takse //_V_ takse, //
+<TIMEX  tid="t35" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+ette    ette+0 //_D_ //
+lõhkeainetööstust    lõhke_aine_tööstus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+peaks    pida+ks //_V_ ks, //
+tekkima    tekki+ma //_V_ ma, //
+vajadus    vajadus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+Eesti    Eesti+0 //_H_ sg g, //
+tööstus    tööstus+0 //_S_ sg n, //
+hakkaks    hakka+ks //_V_ ks, //
+käitlema    käitle+ma //_V_ ma, //
+mingil    mingi+l //_P_ sg ad, //
+viisil    viis+l //_S_ sg ad, //
+ka    ka+0 //_D_ //
+kaitseotstarbelisi    kaitse_ots_tarbe=line+i //_A_ pl p, //
+lõhkeaineid    lõhke_aine+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+kuna    kuna+0 //_J_ //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+eelnõu    eel_nõu+0 //_S_ sg n, //
+seda    see+da //_P_ sg p, //
+keelab    keela+b //_V_ b, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+sätesta    sätesta+0 //_V_ o, //
+selle    see+0 //_P_ sg g, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+tekib    tekki+b //_V_ b, //
+küsimus    küsimus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõni    mõni+0 //_P_ sg n, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+seadus    seadus+0 //_S_ sg n, //
+selle    see+0 //_P_ sg g, //
+kohta    kohta+0 //_K_ //
+või    või+0 //_J_ //
+lubada    luba+da //_V_ da, //
+seda    see+da //_P_ sg p, //
+mingi    mingi+0 //_P_ sg g, //
+ajutise    ajutine+0 //_A_ sg g, //
+normina    norm+na //_S_ sg es, //
+näiteks    näide+ks //_S_ sg tr, //
+selle    see+0 //_P_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+raames    raames+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+arutelu    arutelu+0 //_S_ sg g, //
+teema    teema+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tekkis    tekki+s //_V_ s, //
+ka    ka+0 //_D_ //
+küsimus    küsimus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+suur    suur+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lõhkeainete    lõhke_aine+te //_S_ pl g, //
+tegelik    tegelik+0 //_A_ sg n, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+majanduses    majandus+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+meile    mina+le //_P_ pl all, //
+anti    and+ti //_V_ ti, //
+teada    tead+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Põlevkivi    põlev_kivi+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tarvitab    tarvita+b //_V_ b, //
+umbes    umbes+0 //_D_ //
+90%    90%+0 //_N_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+tsiviilotstarbelisest    tsiviil_ots_tarbe=line+st //_A_ sg el, //
+lõhkeainest    lõhke_aine+st //_S_ sg el, //
+,    , //_Z_ //
+</kiil>
+ostab    ost+b //_V_ b, //
+seda    see+da //_P_ sg p, //
+<TIMEX  tid="t36" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+sisse    sisse+0 //_D_ //
+250    250+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+<TIMEX  tid="t1_6" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+arutati    aruta+ti //_V_ ti, //
+ilutulestikuga    ilu_tulestik+ga //_S_ sg kom, //
+seonduvaid    seonduv+id //_A_ pl p, //
+küsimusi    küsimus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+täpsemini    täpsemini+0 //_D_ //
+sätestada    sätesta+da //_V_ da, //
+need    see+d //_P_ pl n, //
+erinevused    erinevus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+millal    millal+0 //_D_ //
+pürotehnilisi    püro_tehniline+i //_A_ pl p, //
+tooteid    toode+id //_S_ pl p, //
+võib    või+b //_V_ b, //
+tarvitada    tarvita+da //_V_ da, //
+ilma    ilma+0 //_D_ //
+eriliste    eriline+te //_A_ pl g, //
+lubadeta    luba+deta //_S_ pl ab, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+millal    millal+0 //_D_ //
+võib    või+b //_V_ b, //
+ainult    ainult+0 //_D_ //
+spetsialist    spetsialist+0 //_S_ sg n, //
+neid    see+d //_P_ pl p, //
+kasutada    kasuta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Arutati    aruta+ti //_V_ ti, //
+ka    ka+0 //_D_ //
+seda    see+da //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+võib-olla    võib-olla+0 //_D_ //
+peaks    pida+ks //_V_ ks, //
+kriminaalkoodeksit    kriminaal_koodeks+t //_S_ sg p, //
+täiendama    täienda+ma //_V_ ma, //
+sättega    säte+ga //_S_ sg kom, //
+punaste    punane+te //_A_ pl g, //
+rakettide    rakett+de //_S_ pl g, //
+väljalaskmise    välja_laskmine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+hädaolukorda    häda_olu_kord+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+Eesti    Eesti+0 //_H_ sg g, //
+panna    pane+a //_V_ da, //
+Eesti-siseselt    Eesti-sisese=lt+0 //_D_ //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+eriti    eriti+0 //_D_ //
+rahvusvaheliselt    rahvus_vaheliselt+0 //_D_ //
+väga    väga+0 //_D_ //
+halba    halb+0 //_A_ sg p, //
+olukorda    olu_kord+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t37" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+ongi    ole+gi //_V_ b, //    ole+gi //_V_ vad, //
+jõutud    jõu=tud+0 //_A_ //    jõu=tud+0 //_A_ sg n, //    jõu=tud+d //_A_ pl n, //    jõud+tud //_V_ tud, //
+niikaugele    nii_kaugele+0 //_D_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+muinasjutus    muinas_jutt+s //_S_ sg in, //
+karjapoisist    karja_poiss+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kutsub    kutsu+b //_V_ b, //
+hunti    hunt+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+lõpuks    lõpuks+0 //_D_ //
+hunt    hunt+0 //_S_ sg n, //
+tuleb    tule+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+keegi    keegi+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+usu    usku+0 //_V_ o, //
+seda    see+da //_P_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Arutati    aruta+ti //_V_ ti, //
+ka    ka+0 //_D_ //
+seda    see+da //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+<TIMEX  tid="t38" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegused    praegune+d //_A_ pl n, //
+</TIMEX>
+normid    norm+d //_S_ pl n, //
+katavad    kat+vad //_V_ vad, //
+piisavalt    piisavalt+0 //_D_ //
+selliseid    selline+id //_P_ pl p, //
+juhtumeid    juhtum+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+näiteks    näide+ks //_S_ sg tr, //
+lõhkeaine    lõhke_aine+0 //_S_ sg g, //
+käitlejal    käitle=ja+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+küll    küll+0 //_D_ //
+käitlemisluba    käitle=mis_luba+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+tarvitab    tarvita+b //_V_ b, //
+lõhkeainet    lõhke_aine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+Eestis    Eesti+s //_H_ sg in, //
+lubatud    luba+tud //_V_ tud, //    lubatu+d //_A_ pl n, //    lubatud+0 //_A_ //    lubatud+0 //_A_ sg n, //    lubatud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+kas    kas+0 //_D_ //
+peaks    pida+ks //_V_ ks, //
+sätestama    sätesta+ma //_V_ ma, //
+mingi    mingi+0 //_P_ sg g, //
+vastutuse    vastutus+0 //_S_ sg g, //
+pürotehniliste    püro_tehniline+te //_A_ pl g, //
+huligaansuste    huligaansus+te //_S_ pl g, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+teame    tead+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t39" type="DATE" temporalFunction="false" value="1933" >
+1933.    1933.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+tarvitati    tarvita+ti //_V_ ti, //
+paukherneid    pauk_hernes+id //_S_ pl p, //
+poliitiliste    poliitiline+te //_A_ pl g, //
+miitingute    miiting+te //_S_ pl g, //
+segamiseks    segamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+meil    mina+l //_P_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõni    mõni+0 //_P_ sg n, //
+seadusesäte    seaduse_säte+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+võiks    või+ks //_V_ ks, //
+rakendada    rakenda+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+näiteks    näiteks+0 //_D_ //
+keegi    keegi+0 //_P_ sg n, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikmetest    liige+test //_S_ pl el, //
+otsustab    otsusta+b //_V_ b, //
+segada    sega+da //_V_ da, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+istungit    istung+t //_S_ sg p, //
+sel    see+l //_P_ sg ad, //
+teel    tee+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+puistab    puista+b //_V_ b, //
+siia    siia+0 //_D_ //
+haamri    haamer+0 //_S_ sg g, //
+alusele    alune+le //_S_ sg all, //    alus+le //_S_ sg all, //
+paukherneid    pauk_hernes+id //_S_ pl p, //
+?    ? //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+see    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+mõtteaineks    mõtte_aine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+siis    siis+0 //_D_ //
+komisjon    komisjon+0 //_S_ sg n, //
+otsustas    otsusta+s //_V_ s, //
+?    ? //_Z_ //
+</s>
+<s>
+Komisjon    komisjon+0 //_S_ sg n, //
+otsustas    otsusta+s //_V_ s, //
+kõigepealt    kõige_pealt+0 //_D_ //
+lubada    luba+da //_V_ da, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+<TIMEX  tid="t40" type="DATE" temporalFunction="true" value="1997-07-01" >
+täna    täna+0 //_D_ //
+</TIMEX>
+esimesele    esimene+le //_O_ sg all, //
+lugemisele    lugemine+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+teeb    tege+b //_V_ b, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+esimene    esimene+0 //_O_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+<TIMEX  tid="t41" type="DATE" temporalFunction="true" value="1997-07-01" >
+täna    täna+0 //_D_ //
+</TIMEX>
+lõpetada    lõpeta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Muudatusettepanekute    muudatus_ette_panek+te //_S_ pl g, //
+tähtajaks    täht_aeg+ks //_S_ sg tr, //
+pakume    pakku+me //_V_ me, //
+välja    välja+0 //_D_ //
+<TIMEX  tid="t42" type="DATE" temporalFunction="true" value="1997-09-11" >
+järgmise    järgmine+0 //_A_ sg g, //
+korralise    korraline+0 //_A_ sg g, //
+istungjärgu    istung_järk+0 //_S_ sg g, //
+töönädala    töö_nädal+0 //_S_ sg g, //
+neljapäeva    nelja_päev+0 //_S_ sg p, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t43" type="TIME" temporalFunction="true" value="1997-09-11T12" >
+11.    11.+0 //_O_ ?, //
+september    september+0 //_S_ sg n, //
+kell    kell+0 //_S_ sg n, //
+12.    12.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+<TIMEX  tid="t44" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+hetkel    hetk+l //_S_ sg ad, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+oska    oska+0 //_V_ o, //
+öelda    ütle+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+see    see+0 //_P_ sg n, //
+tähtaeg    täht_aeg+0 //_S_ sg n, //
+nõuab    nõud+b //_V_ b, //
+juhatuse    juhatus+0 //_S_ sg g, //
+luba    luba+0 //_S_ sg n, //
+või    või+0 //_J_ //
+mitte    mitte+0 //_D_ //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+vaja    vaja+0 //_D_ //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+V.
+Hansen
+|
+</ignoreeri>
+<s>
+Sellega    see+ga //_P_ sg kom, //
+ma    mina+0 //_P_ sg n, //
+lõpetaksin    lõpeta+ksin //_V_ ksin, //
+oma    oma+0 //_P_ sg g, //
+kaasettekande    kaas_ette_kanne+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+,    , //_Z_ //
+Vootele    Vootele+0 //_H_ sg n, //
+Hansen    Hansen+0 //_H_ sg n, //
+,    , //_Z_ //
+kolleegidel    kolleeg+del //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+küsimusi    küsimus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Arvo    Arvo+0 //_H_ sg n, //
+Sirendi    Sirendi+0 //_H_ sg n, //
+,    , //_Z_ //
+palun    palu+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+A.
+Sirendi
+|
+</ignoreeri>
+<s>
+Suur    suur+0 //_A_ sg n, //
+tänu    tänu+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Ettekandes    ette_kanne+s //_S_ sg in, //
+kasutati    kasuta+ti //_V_ ti, //
+umbes    umbes+0 //_D_ //
+kümme    kümme+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+sõna    sõna+0 //_S_ sg p, //
+“    “ //_Z_ //
+lõhkeaine    lõhke_aine+0 //_S_ sg n, //
+”    ” //_Z_ //
+ja    ja+0 //_J_ //
+kolm    kolm+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+sõna    sõna+0 //_S_ sg p, //
+“    “ //_Z_ //
+lõhkematerjal    lõhke_materjal+0 //_S_ sg n, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nende    tema+de //_P_ pl g, //
+vahe    vahe+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+ongi    ole+gi //_V_ b, //    ole+gi //_V_ vad, //
+üldse    üldse+0 //_D_ //
+õige    õige+0 //_A_ sg n, //
+kasutada    kasuta+da //_V_ da, //
+sõna    sõna+0 //_S_ sg p, //
+“    “ //_Z_ //
+lõhkematerjal    lõhke_materjal+0 //_S_ sg n, //
+”    ” //_Z_ //
+?    ? //_Z_ //
+</s>
+<s>
+Kuidas    kuidas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lood    lood+0 //_S_ sg n, //    lood+d //_S_ pl n, //    loog+d //_S_ pl n, //    lugu+d //_S_ pl n, //
+teistes    teine+tes //_O_ pl in, //    teine+tes //_P_ pl in, //
+lähikeeltes    lähi_keel+tes //_S_ pl in, //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+läti    läti+0 //_G_ //
+ja    ja+0 //_J_ //
+leedu    leedu+0 //_G_ //
+keeles    keel+s //_S_ sg in, //
+?    ? //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+V.
+Hansen
+|
+</ignoreeri>
+<s>
+Läti    Läti+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+leedu    leedu+0 //_G_ //
+keele    keel+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+oska    oska+0 //_V_ o, //
+ma    mina+0 //_P_ sg n, //
+midagi    miski+dagi //_P_ sg p, //
+öelda    ütle+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Komisjonis    komisjon+s //_S_ sg in, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+eksperdid    ekspert+d //_S_ pl n, //
+teatasid    teata+sid //_V_ sid, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juhindunud    juhindu+nud //_V_ nud, //    juhindu=nud+0 //_A_ //    juhindu=nud+0 //_A_ sg n, //    juhindu=nud+d //_A_ pl n, //
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Soome    Soome+0 //_H_ sg g, //
+seadustest    seadus+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Komisjonis    komisjon+s //_S_ sg in, //
+tekitas    tekita+s //_V_ s, //
+see    see+0 //_P_ sg n, //
+ka    ka+0 //_D_ //
+küsimusi    küsimus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+me    mina+0 //_P_ pl n, //
+teame    tead+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+tõlgiti    tõlki+ti //_V_ ti, //
+<TIMEX  tid="t45" type="DATE" temporalFunction="false" value="192" >
+1920-ndatel    1920=s+tel //_O_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+mateeria    mateeria+0 //_S_ sg g, //
+emaaineks    ema_aine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+need    see+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+eesti    eesti+0 //_G_ //
+keeles    keel+s //_S_ sg in, //
+suures    suur+s //_A_ sg in, //
+osas    osa+s //_S_ sg in, //
+sünonüümid    sünonüüm+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Praktilises    praktiline+s //_A_ sg in, //
+elus    elu+s //_S_ sg in, //
+pidi    pida+i //_V_ s, //
+neid    tema+d //_P_ pl p, //
+tarvitatama    tarvita+tama //_V_ tama, //
+nõndaviisi    nõnda_viisi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lõhkeaine    lõhke_aine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+konkreetselt    konkreetselt+0 //_D_ //
+see    see+0 //_P_ sg n, //
+aine    aine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+plahvatab    plahvata+b //_V_ b, //
+ilma    ilma+0 //_K_ //
+hapniku    hapnik+0 //_S_ sg g, //
+juuresolekuta    juures_olek+ta //_S_ sg ab, //
+jne.    jne+0 //_Y_ ?, //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+lõhkematerjal    lõhke_materjal+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+juurde    juurde+0 //_K_ //
+kuuluvad    kuulu+vad //_V_ vad, //
+juba    juba+0 //_D_ //
+mingid    mingi+d //_P_ pl n, //
+kapslid    kapsel+d //_S_ pl n, //
+,    , //_Z_ //
+detonaatorid    detonaator+d //_S_ pl n, //
+,    , //_Z_ //
+kestad    kest+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+sõjandusest    sõjandus+st //_S_ sg el, //
+rääkida    rääki+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+lõhkeaine    lõhke_aine+0 //_S_ sg n, //
+oleks    ole+ks //_V_ ks, //
+trotüül    trotüü+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+käsigranaat    käsi_granaat+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+lõhkematerjal    lõhke_materjal+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+meile    mina+le //_P_ pl all, //
+seda    see+da //_P_ sg p, //
+vahet    vahe+t //_S_ sg p, //
+seletati    seleta+ti //_V_ ti, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+!    ! //_Z_ //
+</s>
+<s>
+Lembit    Lembit+0 //_H_ sg n, //
+Arro    Arro+0 //_H_ sg n, //
+,    , //_Z_ //
+palun    palu+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+L.
+Arro
+|
+</ignoreeri>
+<s>
+Aitäh    aitäh+0 //_I_ //
+,    , //_Z_ //
+lugupeetud    lugu_peetud+0 //_A_ //    lugu_peetud+0 //_A_ sg n, //    lugu_peetud+d //_A_ pl n, //
+juhataja    juhataja+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+kustutamata    kustuta=mata+0 //_A_ //
+lubi    lubi+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+lõhkeaine    lõhke_aine+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Sellega    see+ga //_P_ sg kom, //
+saime    saa+ime //_V_ sime, //
+väikesest    väike+st //_A_ sg el, //    väikene+st //_A_ sg el, //
+peast    pea+st //_S_ sg el, //
+päris    päris+0 //_D_ //
+kõvu    kõva+u //_A_ pl p, //
+pauke    pauk+e //_S_ pl p, //
+teha    tege+a //_V_ da, //
+ja    ja+0 //_J_ //
+kala    kala+0 //_S_ sg p, //
+püüda    püüd+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+võib    või+b //_V_ b, //
+olla    ole+a //_V_ da, //
+ohtlik    ohtlik+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+seda    see+da //_P_ sg p, //
+õigesti    õigesti+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+kasutata    kasuta+ta //_V_ ta, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+pakendi    pakend+0 //_S_ sg g, //
+peal    peal+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+peaks    pida+ks //_V_ ks, //
+olema    ole+ma //_V_ ma, //
+mingisuguseid    mingi_sugune+id //_P_ pl p, //
+hoiatavaid    hoiatav+id //_A_ pl p, //
+märke    märk+e //_S_ pl p, //
+?    ? //_Z_ //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+V.
+Hansen
+|
+</ignoreeri>
+<s>
+Ma    mina+0 //_P_ sg n, //
+arvan    arva+n //_V_ n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kõikide    kõik+de //_P_ pl g, //
+selliste    selline+te //_P_ pl g, //
+ainete    aine+te //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võivad    või+vad //_V_ vad, //
+ootamatult    ootamatult+0 //_D_ //
+käes    käsi+s //_S_ sg in, //
+plahvatada    plahvata+da //_V_ da, //
+või    või+0 //_J_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+saab    saa+b //_V_ b, //
+mingit    mingi+t //_P_ sg p, //
+pürotehnilist    püro_tehniline+t //_A_ sg p, //
+efekti    efekt+0 //_S_ sg p, //
+saavutada    saavuta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+võiks    või+ks //_V_ ks, //
+pakendil    pakend+l //_S_ sg ad, //
+olla    ole+a //_V_ da, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+hoiatused    hoiatus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+teame    tead+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+väga    väga+0 //_D_ //
+kergelt    kergelt+0 //_D_ //
+võib    või+b //_V_ b, //
+koduste    kodune+te //_A_ pl g, //
+vahenditega    vahend+tega //_S_ pl kom, //
+näiteks    näide+ks //_S_ sg tr, //
+paukjoodi    pauk_jood+0 //_S_ sg p, //
+teha    tege+a //_V_ da, //
+ja    ja+0 //_J_ //
+muud    muu+d //_P_ sg p, //
+taolist    taoline+t //_A_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+ma    mina+0 //_P_ sg n, //
+arvan    arva+n //_V_ n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+ongi    ole+gi //_V_ b, //    ole+gi //_V_ vad, //
+arutelu    arutelu+0 //_S_ sg g, //
+teema    teema+0 //_S_ sg n, //
+selle    see+0 //_P_ sg g, //
+eelnõu    eel_nõu+0 //_S_ sg g, //
+menetlemisel    menetlemine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Siin    siin+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+küll    küll+0 //_D_ //
+lihtlõhkeainena    liht_lõhke_aine+na //_S_ sg es, //
+käsitletud    käsitle+tud //_V_ tud, //    käsitle=tud+0 //_A_ //    käsitle=tud+0 //_A_ sg n, //    käsitle=tud+d //_A_ pl n, //
+ammooniumsalpeetrit    ammoonium_salpeeter+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+muid    muu+id //_P_ pl p, //
+taolisi    taoline+i //_A_ pl p, //
+kättesaadavaid    kätte_saadav+id //_A_ pl p, //
+vahendeid    vahend+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+võib-olla    võib-olla+0 //_D_ //
+tuleks    tule+ks //_V_ ks, //
+käsitleda    käsitle+da //_V_ da, //
+ka    ka+0 //_D_ //
+lihtsaid    lihtne+id //_A_ pl p, //
+pürotehnilisi    püro_tehniline+i //_A_ pl p, //
+vahendeid    vahend+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Seda    see+da //_P_ sg p, //
+tuleb    tule+b //_V_ b, //
+ilmselt    ilmselt+0 //_D_ //
+arutada    aruta+da //_V_ da, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+lugemise    lugemine+0 //_S_ sg g, //
+ajal.    aeg+l //_S_ sg ad, //
+</s>
+<ignoreeri>
+|
+stenogramm:
+Riigikogu
+stenogrammid
+:
+juuli
+1997
+|
+istungjärk:
+VIII
+RIIGIKOGU
+STENOGRAMM
+ERAKORRALINE
+ISTUNGJÄRK
+Teisipäev
+,
+1.
+juuli
+1997
+Kell
+10.00
+|
+päevakorrapunkt:
+Lõhkematerjaliseaduse
+eelnõu
+(
+627
+SE
+)
+esimene
+lugemine
+|
+kõneleja:
+Esimees
+|
+</ignoreeri>
+<s>
+Tänan    täna+n //_V_ n, //
+!    ! //_Z_ //
+</s>
+<s>
+Lugupeetud    Lugu_peetud+0 //_H_ sg n, //    Lugu_peetud+d //_H_ pl n, //
+Vootele    Vootele+0 //_H_ sg n, //
+Hansen    Hansen+0 //_H_ sg n, //
+,    , //_Z_ //
+küsimusi    küsimus+i //_S_ pl p, //
+rohkem    rohkem+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Austatud    Austa=tu+d //_H_ pl n, //    Austatud+0 //_H_ sg n, //    Austatud+d //_H_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg n, //    Riigikogu+0 //_H_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Juhtivkomisjon    juhtiv_komisjon+0 //_S_ sg n, //
+õiguskomisjon    õigus_komisjon+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+ettepaneku    ette_panek+0 //_S_ sg g, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+627    627+0 //_N_ ?, //
+esimene    esimene+0 //_O_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+lõpetada    lõpeta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Teisi    teine+0 //_O_ pl p, //    teine+0 //_P_ pl p, //
+ettepanekuid    ette_panek+id //_S_ pl p, //
+laekunud    laeku+nud //_V_ nud, //    laeku=nud+0 //_A_ //    laeku=nud+0 //_A_ sg n, //    laeku=nud+d //_A_ pl n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+sellega    see+ga //_P_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seaduseelnõu    seadus_eel_nõu+0 //_S_ sg g, //
+esimene    esimene+0 //_O_ sg n, //
+lugemine    lugemine+0 //_S_ sg n, //
+lõpetatud    lõpeta+tud //_V_ tud, //    lõpetatud+0 //_A_ //    lõpetatud+0 //_A_ sg n, //    lõpetatud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Muudatusettepanekud    muudatus_ette_panek+d //_S_ pl n, //
+palun    palu+n //_V_ n, //
+esitada    esita+da //_V_ da, //
+<TIMEX  tid="t46" type="TIME" temporalFunction="true" value="1997-09-11T12" >
+11.    11.+0 //_O_ ?, //
+septembriks    september+ks //_S_ sg tr, //
+kella    kell+0 //_S_ sg g, //
+12-ks    12+ks //_N_ sg tr, //
+</TIMEX>
+õiguskomisjonile    õigus_komisjon+le //_S_ sg all, //
+.    . //_Z_ //
+</s>

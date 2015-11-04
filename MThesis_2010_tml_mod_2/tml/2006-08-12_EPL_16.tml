@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tules hukkus inimene 
+Foto : Marko Mumm 
+ <TIMEX3 tid="t66" type="TIME" value="2006-08-11T17:28" anchorTimeID="t0">Eile kell 17.28</TIMEX3> teatati tulekahjust Võrumaal Lasva vallas , kus põles elumaja . 
+ Kustutustööde käigus leiti elumajast meesterahva surnukeha . 
+ Maja hävis täielikult . 
+ Tules said kannatada ka aida ning suvemaja katused . 
+ Tulekahju tekke põhjus on selgitamisel . 
+</TimeML>

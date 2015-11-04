@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Tuuli Aug 
+ Foto : www.cdi.org 
+ Venemaa kavatseb vastukaaluks Lääne nurinale Venemaa rikkumiste pärast luua organisatsiooni , mis hakkaks Euroopas ja USA-s inimõiguste kaitset jälgima . 
+ Venemaa inimõiguste nõukogusse määratud presidendi saadik ja mõjukas advokaat Anatoli Kutšerena teatas , et loodava organisatsiooni peakorter tuleks kas Brüsselisse või Saksamaale , vahendab Reuters . 
+ Advokaadi sõnul innustasid teda inimõiguste kaitse organisatsiooni looma Euroopas ja USA-s elavate venelaste kirjad , milles kurdetakse õiguste rikkumist . 
+ " <TIMEX3 tid="t57" type="DURATION" value="PXY" beginPoint="t80" endPoint="t0" >Viimasel aastatel</TIMEX3><TIMEX3 tid="t80" type="DATE" value="XXXX" temporalFunction="true"/> on palju kritiseeritud inimõiguste rikkumisi Venemaal . 
+ Kuid , uskuge mind , sellised asju toimub ka mujal . 
+ Kujutlege , et Venemaa või Vene inimõiguslased teeksid raporti inimõiguste olukorrast näiteks Prantsusmaal . 
+ Mis te arvate , mis juhtuks ? " küsis Kutšerena . 
+</TimeML>

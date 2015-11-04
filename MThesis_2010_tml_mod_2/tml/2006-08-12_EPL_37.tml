@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Puupäevad toimusid mitmes kohas korraga 
+Sigrid Algre , Margus Konnula 
+ Järvakandis lõpeb 
+ Järvakandi puusümpoosionil osalesid kuus professionaalset skulptorit Eestist , Venemaalt ja Iirimaalt , kes valmistasid <TIMEX3 tid="t150" type="DURATION" value="P5D" >viie päeva jooksul</TIMEX3> igaüks puust oma taiese . 
+ <TIMEX3 tid="t151" type="DATE" value="2005" anchorTimeID="t0">Eelmisel aastal</TIMEX3> skulptorite tegemisi pealt vaadanud kohalik mees German Hamonjan asus <TIMEX3 tid="t152" type="DATE" value="2006" anchorTimeID="t0">sellel aastal</TIMEX3> ka ise skulptuuri tegema . 
+ <TIMEX3 tid="t153" type="DATE" value="2006-08-01"/><TIMEX3 tid="t154" type="DURATION" value="P5D" beginPoint="t153" endPoint="t155" anchorTimeID="t0">Augusti viiel esimesel päeval</TIMEX3><TIMEX3 tid="t155" type="DATE" value="2006-08-05"/> mürasid Uhtjärve nõiariigis mootorsaed ja tehti kunsti . 
+ Kuigi mõned valminud puukujudest on abstraktsed ega pruugi esmapilgul sobida nõiariigi looduslikku konteksti , pandi nad sinna siiski üles , et üldist ilmet mitmekesistada , nagu ütles peremees Aivo Värton . 
+ Sagadi ja Varbola traditsioonilised puupäevad toimusid <TIMEX3 tid="t156" type="DATE" value="2006-W32-WE" anchorTimeID="t154">samal nädalavahetusel</TIMEX3> . 
+ Sagadis olid avatud looduskool ja metsamuuseum ning meisterdamise töötoad , kus sai proovida vitspunumist ja laastudest punumist , origamit ning muud meisterdamist . 
+ Härrastemaja palkonil tutvustati ravimtaimi . 
+</TimeML>

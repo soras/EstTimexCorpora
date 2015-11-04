@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Priit Simson 
+ Soodsad suveilmad on Eesti aedmaasika varakult valmis küpsetanud ning konkurentsi tihenemise tõttu on maasikakilo hind turgudel <TIMEX3 tid="t190" type="DURATION" value="P1W" beginPoint="t318" endPoint="t0" comment="siin: viimane nädal == see nädal">viimase nädala jooksul</TIMEX3><TIMEX3 tid="t318" type="DATE" value="2007-W24" temporalFunction="true"/> pea kaks korda langenud . 
+ Eesti maasika valmimine tähendab kesist tulevikku importmaasikale , mis on turult peaaegu välja tõrjutud , vahendas " Aktuaalne kaamera " . 
+ Seoses kodumaise kauba pealetulekuga on maasikakilo hind <TIMEX3 tid="t191" type="DURATION" value="P1W" beginPoint="t315" endPoint="t0">viimase nädala jooksul</TIMEX3><TIMEX3 tid="t315" type="DATE" value="2007-W24" temporalFunction="true"/> ligi 50 krooni võrra langenud . 
+ See trend jätkub ilmselt ka <TIMEX3 tid="t192" type="DATE" value="2007-W25" anchorTimeID="t0">tuleval nädalal.</TIMEX3>
+ " Ma arvan , et <TIMEX3 tid="t193" type="DURATION" value="P1W">nädala jooksul</TIMEX3> läheb alla , sest maasikamüüjaid tuleb veel juurde , sest igal pool pole maasikas valmis , ja kui kõik jõuavad kohale , ilmselt <TIMEX3 tid="t194" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähi nädalatel</TIMEX3> läheb hind veel alla ja siis hakkab tõusma , " rääkis Halika talu perenaine . 
+ " <TIMEX3 tid="t195" type="DATE" value="2007-W23" anchorTimeID="t0">Möödunud nädal</TIMEX3> oli maasikas alla 120 ja 100 , aga siis oli ainult paar müüjat , " teadis Nõmme turu müüja Aimi Sildvee . 
+ " Soojad ilmad on seda teinud , et Lõuna-Eesti maasikas saab korraga valmis , nii et <TIMEX3 tid="t196" type="DURATION" value="P1W">nädal</TIMEX3>-<TIMEX3 tid="t197" type="DURATION" value="P1W3D" mod="APPROX">poolteist</TIMEX3> ja siis on maasikas läbi . 
+ No muidugi tuleb jääke , aga midagi erilist pole . " 
+</TimeML>

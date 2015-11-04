@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-14T10:11" functionInDocument="CREATION_TIME" comment="(esmaspäev)"/>
+
+Organidoonorite arv kasvab <TIMEX3 tid="t1" type="SET" value="P1Y" quant="EVERY">iga aastaga</TIMEX3> (7)
+<TIMEX3 tid="t2" type="TIME" value="2009-12-14T10:11">14.12.2009 10:11</TIMEX3>
+Kuigi Eestis ei ole inimesed veel harjunud lahkunud omaste neeru või maksa loovutama, on siiski <TIMEX3 tid="t3" type="SET" value="P1Y" quant="EVERY">iga aastaga</TIMEX3> rohkem neid, kes on šokist ja leinast hoolimata nõus ootamatult lahkunud lähedase organid abivajajatele annetama.
+
+ 
+
+Organidoonorluse saab jagada kaheks. Esimesel juhul loovutab organi, valdavalt neeru, elav doonor, teisel juhul on tegu elundite annetamisega pärast inimese surma. Teema on delikaatne igal juhul.
+
+Kui inimese lähedasel on vaja neeru ja talle sobib näiteks tema enda lihase ema neer, siis on otsust ehk lihtsam teha. Nii juhtus Rakveres elava Peeter Karuga <TIMEX3 tid="t4" type="DURATION" value="P45Y">(45),</TIMEX3> kellele <TIMEX3 tid="t5" type="DATE" value="2007" mod="APPROX" anchorTimeID="t0">üle kahe aasta tagasi</TIMEX3> andis neeru tema ema.
+
+<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> ei jõua Karu ära kirjeldada, mis tunne on elada terve neeruga ja mitte käia <TIMEX3 tid="t7" type="SET" value="P1D">üle päeva</TIMEX3> haiglas dialüüsravi saamas ehk verd jääkainetest puhastamas. «Ringutad <TIMEX3 tid="t8" type="TIME" value="TMO">hommikul</TIMEX3> ja tunned ennast sama hästi kui enne haigeks jäämist. See oli hea tunne,» meenutab Karu emotsioone uue neeru siirdamise järel.
+
+Uus neer muutis elu
+
+Et Karu uut neeru vajas, selgus <TIMEX3 tid="t9" type="DATE" value="2006" mod="APPROX" anchorTimeID="t0">umbes kolm aastat tagasi,</TIMEX3> kui Tallinna haiglate tohtrid mehele neerubiopsia tegid ehk võtsid tükikese Karu neerust uuringuteks. Arstide vahet hakkas mees jooksma aga liigestehaiguse ehk reumatoidartriidi tõttu, mis diagnoositi <TIMEX3 tid="t10" type="DATE" value="1999" anchorTimeID="t0">kümme aastat tagasi.</TIMEX3> Reumatoidartriit uuristas ja söövitas tema kõhresid, luid ja liigessidemeid. Mida kauem see kestis, seda ohtlikumaks muutus, ja lõpuks tekkisid Karul neerudes nii suured kahjustused, et need lakkasid töötamast.
+
+<TIMEX3 tid="t11" type="DATE" value="2007-03">2007. aasta märtsis,</TIMEX3> pärast uue neeru siirdamist, võttis tema elu uue pöörde. «See on täiesti uus elu, mis on eelnevaga täiesti võrreldamatu,» ütleb Karu. «Aeg pärast operatsiooni on olnud rahulik, ei ole olnud seda, et mu keha neeru ära tõukaks, ja analüüside tulemused on head – kõik töötab nii nagu siis, kui mul oli veel kaks neeru.»
+
+Siiski peab kahe lapse üksikisa neelama <TIMEX3 tid="t40" type="SET" value="P1D">päevas</TIMEX3> kümmekond tabletti, et organism ka <TIMEX3 tid="t41" type="DATE" value="FUTURE_REF">edaspidi</TIMEX3> organit ära ei tõukaks. Lisaks peab ta enda eest korralikult hoolitsema ega tohi külmetuda. <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF" anchorTimeID="t0">«Praegune</TIMEX3> gripihooaeg on eriti riskantne aeg,» nendib Karu. Ka ei tohi ta juua näiteks greibimahla ja süüa sinihallitusjuustu. «Viimasest ma väga puudust ei tunnegi, aga greipi sõin ma varem hea meelega, väga tervislik,» räägib Karu.
+
+Oma emaga suhtleb Karu tihti. Ema tunneb ikka ja jälle huvi, kuidas poja analüüside tulemused on. <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF" anchorTimeID="t0">«Nüüd</TIMEX3> on minus ju sõna otseses mõttes tükike emast,» on poeg tänulik.
+
+Otsus tuleb teha kiiresti
+
+Eestis on <TIMEX3 tid="t14" type="DATE" value="2009" anchorTimeID="t0">tänavu</TIMEX3> oma lähedasele organi loovutanud neli inimest. Nende inimeste siht on selge – päästa oma raskelt haige perekonnaliige. Miks peaks aga inimene nõustuma oma organite laialijagamisega pärast iseenda surma?
+
+On karm tõde, et kõige paremad organid saadakse just noortelt inimeselt, kes on lahkunud siit ilmast perekonnaliikmete jaoks ootamatult, põhjuseks sageli mõni traagiline õnnetus. Šokis ja leinavatel lähedastel pole otsuse tegemine kerge.
+
+Siiski on organidoonorite arv <TIMEX3 tid="t15" type="SET" value="P1Y" quant="EVERY">iga aastaga</TIMEX3> aina kasvanud, rõõmustab neerusiirdamisega tegelev arst, Tartu Ülikooli kliinikumi transplantoloog-uroloog Jaanus Kahu.
+
+Otsus lähedase organid loovutada tuleb vastu võtta <TIMEX3 tid="t16" type="DURATION" value="PTXH">tundide jooksul.</TIMEX3> «See ongi kõige raskem,» nendivad nii Kahu kui ka Tartu Ülikooli kliinikumi transplantatsiooni koordinaator Hele Nurme, kes lisab, et nii siirdamisega tegelevatele arstidele kui ka organite loovutamise süsteemi toimimisega tegelevatele transplantatsiooni koordinaatoritele on kõige suurem ja õnnetum takistus see, kui omaksed ei ole nõus.
+
+<TIMEX3 tid="t17" type="DATE" value="2009" anchorTimeID="t0">Sel aastal</TIMEX3> loovutati teistele inimestele 30 organidoonori elundid, kuid 15 potentsiaalse doonori organid jäid kasutamata, ja seda põhiliselt seepärast, et lähedased ei olnud loovutamisega nõus.
+
+Emotsionaalse ja delikaatse küsimuse küsivad lähedastelt tavaliselt arstid, kes on inimest ravinud ja seeläbi juba kontakti lähedastega saavutanud. «Samas meie veenmistööga ei tegele, inimesed peavad lõpuks ise selle otsuse tegema,» selgitab Kahu. Ka on siin ühiskonna suhtumise küsimus. «Suur osa inimestest toetab ideed surnud inimeste organitega kellegi elu päästa,» tõdeb Kahu. «Aga ometi on palju neid, kes sellises olukorras siiski nõusolekut ei anna.»
+
+Arstid selgitavad lähedastele, et inimese aju on surnud, mis on pöördumatu protsess ja seda inimest ei ole võimalik enam tagasi ellu tuua. <TIMEX3 tid="t18" type="TIME" value="XXXX-XX-XXTXX:XX">«Sel hetkel</TIMEX3> oleks vaja välja selgitada, mida see inimene ise arvas [organidoonorlusest], aga eestlane ei räägi sellel teemal,» märgib Nurme. «Mitte keegi ei julge olla see, kes võtaks vastutuse. Sellises olukorras ongi nii kiire otsustamine täiesti ebainimlik,» tõdeb ta.
+
+Ka on täiesti arusaadavalt kohutavalt raske jõuda inimeseni, kui ta on leinas. Seetõttu paneb Nurme inimestele südamele – võtke see aeg ning mõelge, kas oleksite nõus oma organid pärast surma loovutama, et päästa kellegi elu või aidata kellelgi teisel elada täisväärtuslikku elu.
+
+Organidoonorlus eestis
+•    <TIMEX3 tid="t19" type="DATE" value="2009" anchorTimeID="t0">Sel aastal</TIMEX3> on olnud 30 ajusurmas doonorit ja neli elusdoonorit, kes on oma lähisugulasele loovutanud ühe neeru.
+•    <TIMEX3 tid="t20" type="DATE" value="2008" anchorTimeID="t0">Mullu</TIMEX3> oli 30 ajusurmas doonorit ja kolm elusdoonorit.
+•    <TIMEX3 tid="t21" type="DATE" value="2009" anchorTimeID="t0">Tänavu</TIMEX3> oli 15 potentsiaalset ajusurmas doonorit, kes oleks küll sobinud, kuid kellest ei saanud doonorit nende lähedaste vastuseisu tõttu.
+•    <TIMEX3 tid="t22" type="DATE" value="2008" anchorTimeID="t0">Mullu</TIMEX3> oli potentsiaalseid doonoreid 19.
+•    <TIMEX3 tid="t23" type="DATE" value="2009" anchorTimeID="t0">Tänavu</TIMEX3> on tehtud Eestis 52 neeru- ja neli maksasiirdamist
+•    <TIMEX3 tid="t24" type="DATE" value="2008" anchorTimeID="t0">Möödunud aastal</TIMEX3> oli 57 neeru- ja kaks maksasiirdamist.
+•    <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> ootab maksasiirdamist kaks, neerusiirdamist 58 inimest.
+Allikas: TÜ kliinikum
+-----------------------------------------
+
+Organite vedu on <TIMEX3 tid="t26" type="DURATION" value="PTXM">minutite</TIMEX3> küsimus
+
+<TIMEX3 tid="t27" type="DATE" value="2008-FA" anchorTimeID="t0">Mullu sügisel</TIMEX3> korraldati Tartusse sissesõitvatele autodele dokumentide lauskontroll. Nende hulka sattus ka auto, mis viis Tallinnast Tartusse neeru ja maksa. Maksa siirdamist ootav patsient lebas juba Tartu Ülikooli kliinikumi operatsioonitoas laual.
+
+ «Seal oli tõesti vaid <TIMEX3 tid="t28" type="DURATION" value="PTXM">minutite</TIMEX3> küsimus, kas me jõuame maksaga õigel ajal kohale või mitte, see oleks võinud maksta inimesele elu,» meenutas juhtunut Tartu Ülikooli kliinikumi transplantatsiooni koordinaator Hele Nurme. Õnneks olid reidil dokumente kontrollinud politseinikud mõistlikud ja ei hakanud organiautot kauem kinni pidama.
+
+Transplantatsiooni koordinaatoreid on Eestis vaid kaks. <TIMEX3 tid="t29" type="DATE" value="2004" anchorTimeID="t0">Viis aastat tagasi</TIMEX3> hakkasid organite transpordi ja selle koordineerimisega tegelema Evelin Reinhold ja Hele Nurme, <TIMEX3 tid="t30" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> viibivad aga mõlemad naised lastega kodus ja neid asendavad kaks kolleegi.
+
+Kui neer tuleb ühelt inimeselt teisele siirata <TIMEX3 tid="t31" type="DURATION" value="PT12H">maksimaalselt 12 tunniga,</TIMEX3> siis maksa siirdamisel peab kiiremini tegutsema ja organ tuleb uude kehasse paigutada juba <TIMEX3 tid="t32" type="DURATION" value="PT6H">kuue tunni jooksul.</TIMEX3>
+Siirdamisi tehakse Eestis ainult Tartus ja selleks, et organ mujalt Eestist ülikoolipealinna toimetada, on vaja spetsiaalseid kohvreid, mida asjaosalised ise kutsuvad transpordikohvriteks.
+
+Organi eemaldab tavaliselt sama arst, kes selle hiljem siirdab. Pärast organi eemaldamist veendub arst, et sellega on kõik korras – et näiteks neer või maks ei ole kuskilt n-ö kärbunud või muidu kahjustunud, mis võis ultrahelis nägemata jääda. Seejärel loputatakse organ loputusvedelikuga verest puhtaks ning jahutatakse umbes 4–5 kraadini. Siis asetab arst organi läbipaistvasse steriilsesse anumasse, mis omakorda asetatakse konteinerisse.
+
+Kahekordses anumas ja jahedas vedelikus ulpiv neer liigub edasi transpordikohvrisse, kus sees külmakehad, mis <TIMEX3 tid="t33" type="DURATION" value="PT6H">6</TIMEX3>–<TIMEX3 tid="t34" type="DURATION" value="PT8H">8 tunni jooksul</TIMEX3>, mil seda organit transporditakse, külma hoiavad.
+
+Eesti saadab oma organeid ka Lätti ja Austriasse. Viimasesse lähevad Eestist kopsud, sest Eestis veel kopsusiirdamisega ei tegelda. Kuna kopsu siirdamisel on aeg veel eriti lühike – <TIMEX3 tid="t35" type="DURATION" value="PT4H">neli tundi</TIMEX3> –, on koordinaatorid eriti tänulikud Tallinna lennujaamale, et siiani on organite transport suurepäraselt sujunud.
+Kristi Leppik 
+</TimeML>
+

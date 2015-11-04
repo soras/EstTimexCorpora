@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Madis Taras 
+ Moskva eestvõttel toimub Tallinnas <TIMEX3 tid="t36" type="DATE" value="2007-08-28" anchorTimeID="t0">homme</TIMEX3> kaasmaalaste regionaalne konverents , kus ühe küsimusena võib tulla päevakorda meeleavalduste korraldamine vene koolide eesti keelele ülemineku vastu . 
+ Eesti erakonnad on selles küsimuses aga harvaesinevalt ühtsed , vahendavad Seitsmesed uudised . 
+ Venemaa keskvõimu kontrollitava Moskva kaasmaalaste koordinatsiooni nõukogu juhtimisel koguneb <TIMEX3 tid="t37" type="DATE" value="2007-08-28" anchorTimeID="t0">teisipäeval</TIMEX3> Meriton Grand Hotel Tallinnas mitukümmend Venemaalt ja Baltimaadest pärit kaasmaalaste organisatsioonide aktivisti . 
+ Võrreldes varasemate selliste üritustega iseloomustab eelolevat märgatavalt suurem osalejate arv , Moskva kätt esindab Tallinnas Vene välisministeeriumi kaasmaalaste osakonna juht Aleksandr Tšepurin . 
+ Päevalehe andmetel kavatsevad Moskva kontrollitavad organisatsioonid tõstatada konverentsil küsimuse järkjärgulisest eestikeelsele aineõppele üleminekust Eestis alates <TIMEX3 tid="t38" type="DATE" value="2007-FA" anchorTimeID="t0">eelolevast sügisest</TIMEX3> . 
+ Võimalik on , et kaasmaalaste konverentsil osalejad kaaluvad võimalusi korraldada Eestis seoses koolireformiga samasuguseid protestiaktsioone , mida korraldati <TIMEX3 tid="t39" type="DATE" value="2005" mod="APPROX" anchorTimeID="t0">paari aasta eest</TIMEX3> Lätis lätikeelsele haridusele ülemineku eel ja järel . 
+</TimeML>

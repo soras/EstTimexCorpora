@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ <TIMEX3 tid="t32" type="DATE" value="2007-06-16" anchorTimeID="t0">Täna</TIMEX3> Saaremaal Leisi koolimajas esimest korda kogunenud erakonna Eestimaa Rohelised suurkogu otsustas partei põhikirja mitte muuta , mistõttu ei valita erakonnale uut esimeest . 
+ Põhikirja muudatus oleks võimaldanud erakonnale valida esimehe ja neli juhatuse liiget . 
+ Suurkogule kogunenud 200 rohelist põhikirja muutmist heaks ei kiitnud , vahendas Eesti raadio . 
+ <TIMEX3 tid="t33" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> juhib erakonda 13-liikmeline juhatus . 
+ Lisaks põhikirja muutmisele arutatakse suurkogul ka partei edasisi eesmärke Euroopa parlamendi ja kohaliku omavalitsuse valimistel . 
+ Üldkogu ürituste raames toimub Leisi laululaval tasuta kontsert " Rändaja õhtulaul " ning pakutakse mahejäätist . 
+</TimeML>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Vabastati Aminat Mahmudova 
+Toimetaja : Kerttu Rannamäe 
+ <TIMEX3 tid="t67" type="TIME" value="2006-08-12T01:00" anchorTimeID="t0">Täna öösel kell 01.00</TIMEX3> vabastasid röövijad Eesti Vabariigi kodaniku , <TIMEX3 tid="t68" type="DURATION" value="P19Y" >19-aastase</TIMEX3> Aminat Mahmudova ning tagastasid tüdruku tema perekonnale . 
+ Rahvastikuministri nõunik Aarne Veedla sõnul olid röövijad liiga suure surve all , kuna Eesti oli täitnud kõik formaalsed kohustused , algatati kriminaalasi ning tehti erinevaid pöördumisi . 
+ " <TIMEX3 tid="t69" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Hetkel</TIMEX3> oli olukord keeruline , kuna röövijate isikud olid tegelikult ju teada , kuid kuna nad on Mahhat?kala juhtkonda kuuluvate isikute pojad , siis miilits midagi ette ei võtnud , " rääkis Veedla . 
+ Röövijad võtsid Aminati isa , Dagestani kultuuriühingu Eestis esimehe Apandi Mahmudoviga ise ühendust ning läbirääkimised kestsid kaua , kuna Apandi ei olnud nõus nö pearahaga leppima . 
+ " Sealsed inimesed ei saanud sellisest asjast aru . 
+ Tavaliselt on nii , et mida väärtuslikum pruut , seda suurem tasu . 
+ Kes pruudi tagasi annab , satub ise häbisse , " ütles Veedla . 
+ " Apandi Mahmudovi kindel seisukoht oli siiski , et nemad on Eesti elanikud ning ei kavatsegi sealsete traditsioonide järgi käituda . " 
+</TimeML>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Venemaale kuuluv Tõva tähistab <TIMEX3 tid="t116" type="DATE" value="2006-08-13" anchorTimeID="t0">homme</TIMEX3> oma kaotatud iseseisvuse 85. aastapäeva 
+Toomas Alatalu 
+ <TIMEX3 tid="t117" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> kuulub Tõva vabariik Venemaa koosseisu , kuid seda annektsiooni tõttu . 
+ <TIMEX3 tid="t118" type="DATE" value="2006-08-13" anchorTimeID="t0">Pühapäeval</TIMEX3> algavad Tõva pealinnas Kõzõlis suured pidustused , mis on pühendatud oma-aegse Tannu-Tuva rahvavabariigi omariikluse 85. aastapäevale . 
+ Meile teeb Tõva eriti huvitavaks see , et oleme temaga saatusekaaslased - <TIMEX3 tid="t119" type="DATE" value="1944-10" >oktoobris 1944</TIMEX3> see riik lihtsalt annekteeriti ja muudeti <TIMEX3 tid="t120" type="DURATION" value="P3D" >kolme päevaga</TIMEX3> neljandajärguliseks administratiivüksuseks Vene NFSV koosseisus , venepärase nimega Tuva autonoomne oblast . 
+ Ka Tõva " äravõtmise " dokumentides figureerib Eesti iseseisvuse likvideerija Andrei ?danovi nimi , kes teatavasti tegeles NSVL-i ülemnõukogus uute riikide lülitamisega NSVL-i koosseisu . 
+ Tõva omariiklus Aasia geograafilises keskpunktis kestis kokku <TIMEX3 tid="t121" type="DURATION" value="P23Y" >23 aastat</TIMEX3> . 
+ <TIMEX3 tid="t122" type="DATE" value="1921-08" >Augustis 1921</TIMEX3> jõudis lahenduseni poliitiline möll , mille oli vallandanud Hiina revolutsioon <TIMEX3 tid="t123" type="DATE" value="1911" anchorTimeID="t122">kümme aastat varem</TIMEX3> ja mida üritas ära kasutada naaber Venemaa , et saada enda valdusesse lõunapoolse impeeriumi äärealasid - Mongooliat ja Tõvat . 
+</TimeML>

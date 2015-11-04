@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Kaarel Kressa 
+ Vaevalt et kirjanik Leelo Tungal isegi teab , mitu raamatut on ta kirjutanud <TIMEX3 tid="t280" type="DATE" value="2007-06-22" anchorTimeID="t0">reedel</TIMEX3> taas sünni-päevani jõudva elu jooksul . 
+ Lastekirjanduse teabekeskuse koduleht pakub teosteks 30 lasteluulekogu ja 25 proosaraamatut , samuti kümmekond luulekogu täiskasvanutele , aga see on <TIMEX3 tid="t281" type="DATE" value="2006" anchorTimeID="t0">eelmise aasta</TIMEX3> seis . 
+ <TIMEX3 tid="t282" type="DATE" value="2007" anchorTimeID="t0">Tänavu</TIMEX3> on temalt ilmunud luulekogu " Sabaga päike " , kirjastamist ootab raamat " Seltsimees laps ja suured inimesed " . 
+ Kindel on , et vähemalt ühe riiulirea täidab Tungal oma originaalloominguga ära . 
+ Aga ta on ka viljakas tõlkija , rääkimata <TIMEX3 tid="t283" type="DURATION" value="P10Y" mod="APPROX">peaaegu kümnest lasteajakirja Hea Laps peatoimetajana töötatud aastast.</TIMEX3> 
+ Nagu sellest veel vähe oleks , on ta <TIMEX3 tid="t284" type="DURATION" value="PXY" beginPoint="t321" endPoint="t0" >viimastel aastatel</TIMEX3><TIMEX3 tid="t321" type="DATE" value="XXXX" temporalFunction="true"/> koos Ene Hiiepuu ja Anne Kloreniga koostanud mitu eesti keele õpikut ja aabitsa . 
+ Töö ajakirja juhina tõi Tunglale <TIMEX3 tid="t285" type="DATE" value="2007-05" anchorTimeID="t0">maikuus</TIMEX3> lastekirjanduse keskuse preemia Muhv , mis on mõeldud silmapaistva lastekirjanduse ja laste lugemise probleemide kirjaliku kajastamise premeerimiseks . 
+</TimeML>

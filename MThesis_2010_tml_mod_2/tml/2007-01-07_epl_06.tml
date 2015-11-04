@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-01-07" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+Toimetaja : Tuuli Aug 
+ Foto : www.elsevier.nl 
+ <TIMEX3 tid="t35" type="DATE" value="PAST_REF" anchorTimeID="t0">Äsja</TIMEX3> ametisse määratud Varssavi peapiiskop astus <TIMEX3 tid="t36" type="DATE" value="2007-01-07" anchorTimeID="t0">täna</TIMEX3> tagasi pärast seda , kui oli tunnistanud , et spioneeris nõukogude ajal kommunistliku valitsuse heaks . 
+ Paavst Benedictus XVI määras Stanislaw Wielguse <TIMEX3 tid="t37" type="DATE" value="2006-12-06" anchorTimeID="t0">möödunud aasta 6. detsembril</TIMEX3> Varssavi peapiiskopiks ja <TIMEX3 tid="t38" type="TIME" value="2007-01-07T11:00" anchorTimeID="t0">täna hommikul kell 11</TIMEX3> pidi toimuma tema ametisseõnnistamine , vahendab Reuters . 
+ Varem <TIMEX3 tid="t39" type="DATE" value="2007-W01" comment="'varem' arvestamata" anchorTimeID="t0">sel nädalal</TIMEX3> lahvatas skandaal , et peapiiskop oli nõukogude luure kollaborant . 
+ Algul Wielgus eitas kindlalt luures osalemist , kuid <TIMEX3 tid="t40" type="DATE" value="2007-01-05" anchorTimeID="t0">reedel</TIMEX3> möönis , et tal oli sidemeid nõukogude luurega . 
+ Peapiiskop jäi siiski endale kindlaks väites , et ta pole kunagi preestrite peale " koputanud " . 
+ Skandaal peapiiskop Wielguse ümber on häbistanud katoliikliku Poola kirikut ja toonud kaasa vihased üleskutsed , et Wielgus ametist loobuks . 
+ Paavsti nuntsius Poolas teatas , et paavst aktsepteerib Wielguse tagasiastumispalvet . 
+</TimeML>

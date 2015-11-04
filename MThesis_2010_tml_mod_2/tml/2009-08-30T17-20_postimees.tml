@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-08-30T17:20" functionInDocument="CREATION_TIME"/>
+
+Tramme ja trolle sõidab <TIMEX3 tid="t1" type="DATE" value="2009-FA" anchorTimeID="t0">sügisel</TIMEX3> <TIMEX3 tid="t2" type="DATE" value="2008-FA" anchorTimeID="t0"> mullusest </TIMEX3> märgatavalt vähem (69)
+<TIMEX3 tid="t3" type="TIME" value="2009-08-30T17:20">30.08.2009 17:20</TIMEX3>
+Alo Raun, vanemtoimetaja
+
+<TIMEX3 tid="t4" type="DATE" value="2009-09">Septembrist</TIMEX3> käivituv <TIMEX3 tid="t5" type="DATE" value="2010-WI"  anchorTimeID="t0">talvine</TIMEX3> sõidugraafik toob küll tallinlastele <TIMEX3 tid="t6" type="DATE" value="2009-SU" anchorTimeID="t0"> suvega</TIMEX3> võrreldes tihedama ühistranspordiliikluse, kuid <TIMEX3 tid="t7" type="DATE" value="2008-09" anchorTimeID="t0" comment="problemaatiline">aastatagusega</TIMEX3> võrreldes väheneb trammi- ja trolliliiklus märgatavalt.
+
+Nii näiteks hakkab <TIMEX3 tid="t8" type="DATE" value="2009-FA" anchorTimeID="t0">sügisesel tipptunnil</TIMEX3> käigus olema 55 trammi <TIMEX3 tid="t9" type="DATE" value="2008" anchorTimeID="t0">mulluse</TIMEX3> 65 asemel, mis tähendab 15-protsendist trammiliikluse hõrenemist. 91 trolli asemel hakkab <TIMEX3 tid="t10" type="DATE" value='XXXX-XX-XXTXX' anchorTimeID="t8"> tipptunnil</TIMEX3> liiklema 83 sarvekandjat, mis teeb languseks kümnendiku.
+
+Bussiliiklus pääseb samas kergelt - <TIMEX3 tid="t11" type="DATE" value="2009-FA" anchorTimeID="t0">sel sügisel </TIMEX3> sõidab pealinnas <TIMEX3 tid="t12" type="SET" value="XXXX-WXX-WD" quant="EVERY"> tööpäeviti</TIMEX3> 279 bussi, mis on praktiliselt sama kui <TIMEX3 tid="t13" type="DATE" value="2008-09" anchorTimeID="t0">aasta tagasi.</TIMEX3>
+
+Suuremad intervallid on <TIMEX3 tid="t14" type="TIME" value="T12:00">keskpäeval</TIMEX3> ja <TIMEX3 tid="t15" type="TIME" value="T20:00"> õhtul pärast kella 20t,</TIMEX3> mil sõitjate arv märgatavalt langeb.
+
+Sõitjaid jääb üha vähemaks
+
+Tallinna abilinnapea Jaanus Mutli ja transpordiameti juhataja Andres Harjo sõnul pole taolises vähenemises midagi traagilist, sest see lähtub regulaarsetest täituvusvaatlustest, mis näitavad, et <TIMEX3 tid="t16" type="DURATION" value="P1Y">viimase aasta</TIMEX3>-<TIMEX3 tid="t31" type="DURATION" value="P1Y6M">pooleteise jooksul</TIMEX3> on sõitjate arv märgatavalt langenud.
+
+Kogu reisijate arv on vähenenud viie protsendi võrra ning samasse suurusjärku jääb nende kinnitusel ka veeremi kogukärbe - lihtsalt seal, kus on vähem reisijaid, hõrendatakse rohkem.
+
+Harjo väitel on pealegi ka ekspressliinide piletihinna langus pannud inimesi rohkem nendega sõitma.
+
+Töötul pole linna asja
+
+Mutli sõnul saab vähenemist selgitada esmalt siiski majanduskriisiga.
+
+«Väga paljudel tallinlastel ja naabervaldade inimestel ei ole seoses töötuks jäämisega põhjust linna tulla. Kui sul töökohta ei ole, siis ega sa ju niisama ei lähe bussiga sõitma.»
+
+Paljud inimesed on tema teada hakanud ka kesklinnas rohkem jala käima. «Kui varem sõideti trammiga 1-2 peatust, siis <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> käiakse rohkem jalgsi, et raha kokku hoida.»
+
+Harjo sõnul võib veeremi arvu <TIMEX3 tid="t18" type="DATE" value="2008" anchorTimeID="t0">mullusega</TIMEX3> võrdlemine olla petlik, sest vahel asendatakse näiteks hoopis väiksem troll suuremaga.
+
+«Trolliliinidele lisandus <TIMEX3 tid="t19" type="DATE" value="2009" anchorTimeID="t0">käesoleval aastal</TIMEX3> 7 uut liigendtrolli, mis võimaldas jätkata kolme raskema liini (1., 3. ja 6.) üleviimist liigendtrollidele.» <TIMEX3 tid="t20" type="DATE" value="2009" anchorTimeID="t0">Tänavu</TIMEX3> saabunud uued trollid läksid 6. liinile ning 3. trolliliin on juba täielikult viidud liigendtrollidele.
+
+Suurima kärpe ohvriks langeb trammiliiklus ning selle põhiraskus langeb omakorda 3. liinile, kus on ka sõidunõudlus vähenenud, seda eriti Kadrioru suunal. «Põhjus on ka selles suunas sõitjate eelistatav bussiliiklus,» rääkis Harjo.
+
+3. liini trammiliiklust hõrendati juba <TIMEX3 tid="t21" type="DATE" value='2009-XX' comment="vaieldav, kuna algas hooaeg" mod="START"> suvehooaja hakul</TIMEX3>, mis ajast on liini liikluses <TIMEX3 tid="t22" type="TIME" value="TDT">päevasel ajal</TIMEX3> <TIMEX3 tid="t23" type="DURATION" value="PT5H">viietunnine</TIMEX3> paus ning liin lõpetab tegevuse juba <TIMEX3 tid="t24" type="TIME" value="T19">enne kella seitset õhtul.</TIMEX3> Samuti ei sõida 3. liini trammid enam <TIMEX3 tid="t25" type="SET" value="XXXX-WXX-6">laupäeviti</TIMEX3>-<TIMEX3 tid="t26" type="SET" value="XXXX-WXX-7">pühapäeviti</TIMEX3>.
+
+Üks trolliliin kaob
+
+Märgatavalt on Harjo andmetel langenud sõitjanõudlus Balti jaamaga seotud trolliliinidel 4, 5 ja 7, sest rongiliiklus on hõrenenud ja Balti jaama piirkonna tähtsus langenud.
+
+Tema sõnul ootab <TIMEX3 tid="t27" type="DATE" value="FUTURE_REF" anchorTimeID="t0">tulevikus</TIMEX3> vähemalt ühte kolmest liinist ees sulgemine. <TIMEX3 tid="t28" type="DURATION" value="PXY" beginPoint="t30" endPoint="t0" >«Viimaste aastate</TIMEX3><TIMEX3 tid="t30" type="DATE" value="XXXX" temporalFunction="true"/> sõitjate loendusandmete põhjal on Balti jaama piirkonna jaoks kolm trolliliini ilmselgelt palju, mistõttu liinivõrk ja liinide tööreziim vajab täiendavat ümbervaatamist,» lisas transpordiameti juht.
+
+Nii Harjo kui Mutli sõnul aitab ühistranspordiliikluse hõrendamine ka raha kokku hoida, kuid see pole põhieesmärk.
+
+Mutli lubas samuti, et kui mõnel liinil peaks koormus osutuma pärast kärpeid oodatust suuremaks, pannakse seal busse-trolle-tramme juurde.
+
+Ületunnikopikas jääb saamata
+
+Abilinnapea sõnul ei too trammi- ja trolliliikluse hõrendamine kaasa juhtide koondamisi, küll aga väheneb ületunnitöö maht ja selle eest saadav tasu kuni nullini.
+
+«Kindlasti väheneb juhtide ületunnitöö maht, mis on ka viimase asja jooksul päris kõvasti kukkunud. Kõik juhid, kes <TIMEX3 tid="t29" type="DATE" value="PRESENT_REF" anchorTimeID="t0" comment="Üldine viide käesolevasse hetke">täna</TIMEX3> töötavad, jätkavad oma tööd ja saavad oma normtunnid täis tehtud. Mõni juht suudab isegi ületunde teha.»
+
+Mutli sõnul ületab Tallinna ühistranspordi juhtide palgatase Eesti keskmist ning esialgu pole ka keegi kavandavate muudatuste pärast nurisenud.
+</TimeML>

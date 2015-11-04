@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Crockett ja Tubbs jõuavad Eesti kinodesse 
+<TIMEX3 tid="t273" type="DATE" value="2006-08-18" anchorTimeID="t0">Järgmisest reedest</TIMEX3> Eestis linastuv film " Miami Vice " toob kinoekraanidele kunagised teleseriaali tegelaskujud , kes <TIMEX3 tid="t274" type="DATE" value="1985" mod="APPROX" anchorTimeID="t0">paarikümne aasta eest</TIMEX3> mõjutasid popkultuuri rohkemgi , kui MTV seda esialgu suutis . 
+ Cro- 
+ <TIMEX3 tid="t275" type="DATE" value="198" mod="START" anchorTimeID="t0">80-ndate algus</TIMEX3> oli suurte muutuste aeg . 
+ <TIMEX3 tid="t276" type="DATE" value="198" mod="START" anchorTimeID="t275">Dekaadi alguses</TIMEX3> oli tegevust alustanud maailma esimene satelliidilt nähtav muusikakanal MTV ning noorsugu oli kõikvõimalikest trendimõjutustest hullumas . 
+ Sellest suundumusest otsustasid kuidagi kasu lõigata ka USA telekanalid . 
+ NBC soovis esialgu luua politseisarja nimega " MTV cops " , kus pidid seiklema viimase moe järgi riides ja luksuslikke atribuute kasutavad üli?efid politseinikud . 
+ Ferrari ja luksusjaht 
+ Legendi järgi andis ideele osalt tõuke USA-s tehtud seadusemuudatus , mis lubas kuritegelikku maailma imbunud salapolitseinikel oma usutavuse tõstmiseks kasutada kurjategijatelt konfiskeeritud luksusvara , alates relvadest ja narkootikumidest kuni autode ja luksjahtideni . 
+ Täpselt nii , nagu seda hakkaski tegema seriaali üks peategelane , Don Johnsoni kehastatud politseinik Sonny Crockett . 
+ Lisaks Crockettile oli <TIMEX3 tid="t277" type="DATE" value="1984" >1984.</TIMEX3>-<TIMEX3 tid="t278" type="DATE" value="1989" >1989. aastani</TIMEX3> <TIMEX3 tid="t279" type="DURATION" value="P5Y" beginPoint="t277" endPoint="t278"/>vändatud seriaali peategelaseks mustanahaline politseinik Rico Tubbs ( Philip Michael Thomas ) . 
+ Tema tuli Miamisse New Yorgist , jahtides oma venna mõrvareid , ning hakkas Crocketti paarimeheks .
+</TimeML>

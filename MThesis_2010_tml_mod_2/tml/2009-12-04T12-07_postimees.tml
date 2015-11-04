@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-04T12:07" functionInDocument="CREATION_TIME" comment="(esmaspäev)"/>
+
+Kalev/Cramo reis Mariupolisse kestab <TIMEX3 tid="t1" type="TIME" value="2009-12-05T00" anchorTimeID="t0">südaööni</TIMEX3>
+
+<TIMEX3 tid="t2" type="TIME" value="2009-12-04T12:07">04.12.2009 12:07</TIMEX3>
+
+Peep Pahv
+
+<TIMEX3 tid="t3" type="DATE" value="2009-12-05" anchorTimeID="t0">Homme</TIMEX3> kohtub Kalev/Cramo korvpallimeeskond Ühisliiga alagrupiturniiril Ukraina <TIMEX3 tid="t4" type="DATE" value="2008" anchorTimeID="t0">mulluse</TIMEX3> meistri Mariupoli Azovmašiga. <TIMEX3 tid="t5" type="TIME" value="2009-12-04TDT" anchorTimeID="t0">Tänase päeva</TIMEX3> veedab meeskond aga ülipikaks kujuneval reisil.
+
+<TIMEX3 tid="t6" type="TIME" value="2009-12-04T12:00" anchorTimeID="t5">Keskpäeval</TIMEX3> lendavad kalevlased Kiievisse, veedavad seal <TIMEX3 tid="t7" type="DURATION" value="PTXH" >mitu pikka tundi</TIMEX3> ning lendavad edasi Donetskisse. Kaevurite linnast sõidetakse mängupaika bussiga. «Kohale jõuame <TIMEX3 tid="t8" type="TIME" value="2009-12-05T00" mod="APPROX" anchorTimeID="t6">umbes kell 12</TIMEX3> või <TIMEX3 tid="t9" type="TIME" value="2009-12-05T01" anchorTimeID="t8">üks öösel,»</TIMEX3> märkis Kalevi abitreener Alar Varrak.
+
+Hiline saabumine poleks nii hull, kui <TIMEX3 tid="t10" type="DATE" value="2009-12-05" anchorTimeID="t0">laupäeval</TIMEX3> ei algaks mäng juba <TIMEX3 tid="t11" type="TIME" value="2009-12-05T14" anchorTimeID="t10">kell 14.</TIMEX3> <TIMEX3 tid="t12" type="TIME" value="2009-12-05TMO" anchorTimeID="t11">«Hommikul</TIMEX3> teeme väikese jalutuskäigu ning videovaatamise koosoleku. Muuks aega ei jää,» nentis Varrak.
+
+Kalev sõitis Ukrainasse kümne mängijaga. Koju jäid Martin Dorbek, Indrek Kajupank ning vigastatud Gregor Arbet. Millal Arbet meeskonnaga taasliitub, ei osanud Varrak veel öelda.
+
+Kalev/Cramo ja Azovmaši Tallinnas toimunud kohtumise võitis Ukraina klubi 100:61.
+</TimeML>
+

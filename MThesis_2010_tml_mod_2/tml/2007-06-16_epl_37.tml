@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Heiki Suurkask 
+ Šveitsis Lotschbergis avati <TIMEX3 tid="t156" type="DATE" value="2007-06-15" anchorTimeID="t0">eile</TIMEX3> pidulikult maailma pikim raudteetunnel maismaal , mis kulgeb 34 kilomeetrit läbi Alpi mägede aluse maapõue . 
+ Tunnel , mis alustab täies mahus tööd <TIMEX3 tid="t157" type="DATE" value="2007-12" anchorTimeID="t0">detsembris</TIMEX3> , vähendab sõi-duaega Itaalia ning Saksamaa vahel kolmandiku võrra . 
+ Tippkoorumusel hakkab seda läbima 42 reisi- ning 80 kaubarongi <TIMEX3 tid="t158" type="SET" value="P1D">päevas</TIMEX3>. 
+ <TIMEX3 tid="t159" type="DATE" value="2015">Aastal 2015</TIMEX3> valmib aga veidi ida pool Gotthardi tunnel , mis on tervelt 57 kilomeetrit pikk . 
+ Lotschbergi tunneli ehitamiskulu 4,3 miljardit franki ( 40 miljardit krooni ) võib küll tunduda tohutuna , ent raudtee tähendab mägises Šveitsis ka midagi muud kui üksnes vedurit vagunitega . 
+ Just rong on see vahend , millega Eestist vaid pisut väiksem Šveits on osanud panna isepäiselt mõtlevad kantonid omavahel ühendust pidama . 
+ Ajal , mil Eestis on suudetud vaid rongiliine sulgeda ja kulutatud miljardeid raudteede erastamisele ja taasriigistamisele , panustab Šveits ennekõike just rongiliikluse edendamisele . 
+</TimeML>

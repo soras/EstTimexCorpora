@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ 36. Standardi Tugitoolijooksul ümber Harku järve kinnitas Pavel Loskutov , et <TIMEX3 tid="t226" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >hetkel</TIMEX3> talle Eestis vastast ei leidu . 
+ Kindel võit tuli ajaga 18.45.  
+ <TIMEX3 tid="t228" type="DATE" value="2006" anchorTimeID="t0">Möödunud aasta</TIMEX3> võitja Vjatšeslav Košelev oli ajaga 18.56 teine , vahendab Sportnet.ee. 
+ Loskutov sai magusa revanši <TIMEX3 tid="t230" type="DATE" value="2007-W23" anchorTimeID="t0">eelmise nädala</TIMEX3> Ramirendi jooksul juhtunud apsaka tõttu Košelevilt saadud kaotuse eest . 
+ Kolmandaks jooksis ajaga 19.43 iga jooksuga tippudele lähemele jõudev Taivo Püi . 
+ Naistest tegi Harku järvele kõige kiiremini tiiru peale Jekaterina Patjuk , kes ajaga 23.22 oli üldjärjestuses 58. 
+ Mayeri Järvejooksude sarja teisel jooksul , 36. korda toimunud jooksul ümber Harku järve sai tulemuse kirja 662 jooksusõpra . 
+ Lisaks osales ka 12 kepikõndijat . 
+ Eelmine osalejate rekord 501 lõpetajat <TIMEX3 tid="t233" type="DATE" value="2006">aastast 2006</TIMEX3> ületati seega enam kui 100 jooksjaga . 
+ Enne põhijooksu toimunud Lotte lastejooksudel osales üle 100 lapse . 
+</TimeML>

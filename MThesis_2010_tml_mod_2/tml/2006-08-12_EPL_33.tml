@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Trepi tänava betoonpallid tõsteti kiiresti teeserva 
+Berit-Bärbel Rebane 
+ Trepi tänavale paigaldatud betoonist takistused lükati taas ümber . 
+ Esimene takistus pandi paika <TIMEX3 tid="t137" type="DATE" value="2006-08" mod="START" anchorTimeID="t0">augusti esimestel päevadel</TIMEX3> , teine alles <TIMEX3 tid="t138" type="DATE" value="2006-08-10" anchorTimeID="t0">kaks päeva tagasi</TIMEX3> . 
+ Suured betoonist poolkerad jäid oma rõõmsale kollasele värvile vaatamata kellelegi ette . 
+ Samas oli ära soditud ka tänavale sissesõitu keelav märk . 
+ Keegi tarkpea oli valge " tellise " punaseks võõbanud ning lisanud sellele ka abstraktse sigrimigri . 
+ AS-i Signaal juhatuse esimehe Ats Tamme sõnul oli tegemist 700-kilogrammiste betoonist teetakistustega , mida inimjõul ümber ei lükka . 
+ " Värvisime need spetsiaalselt kollaseks , et neid oleks parem märgata ning et jalgratturid ja jalakäijad neile otsa ei jookseks . "
+</TimeML>

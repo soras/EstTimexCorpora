@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+Toimetaja : Kerttu Rannamäe 
+ Foto : Jaan Rõõmus , piirivalveamet 
+ Koplis lahes madalikule sõitnud tanker Wesersten hiivas ankru <TIMEX3 tid="t9" type="TIME" value="2007-02-01T21:10" anchorTimeID="t0">täna õhtul kell 21.10</TIMEX3> ja suundus oma algsesse sihtpunkti Karlshamni . 
+ <TIMEX3 tid="t10" type="TIME" value="2007-02-01T15:50" anchorTimeID="t0">Täna kell 15.50</TIMEX3> langetati otsus anda Wesersternile luba ühekordseks ülesõiduks Karlshamni , kus tanker suundub remonti . 
+ <TIMEX3 tid="t11" type="TIME" value="2007-02-01T13:00" anchorTimeID="t10">Kell üks</TIMEX3> lahkus tanker Nimbus Wesersterni poordist , <TIMEX3 tid="t12" type="TIME" value="2007-02-01T14:30" anchorTimeID="t11">poolteist tundi hiljem</TIMEX3> asus tanker teele 4564 meetertonni ümber pumbatud kütusega . 
+ Wesersterni pardale jäid tuukrid , klassifikatsiooni ühing ning veeteede ameti esindajad . 
+ <TIMEX3 tid="t13" type="TIME" value="2007-02-01T15:50" anchorTimeID="t12">15.50</TIMEX3> teatas veeteede ameti esindaja Marek Rauk , et pumpamine ja tuukrite töö on lõpetatud ning on langetatud otsus anda Wesersternile luba ühekordseks ülesõiduks Karslhamni , kus peale lossimist suundub tanker remonti . 
+ <TIMEX3 tid="t14" type="TIME" value="2007-02-01T16:20" anchorTimeID="t13">16.20</TIMEX3> luba ka väljastati ning Weserstern lahkus lahelt lootsiga <TIMEX3 tid="t15" type="TIME" value="2007-02-01TEV" anchorTimeID="t0">täna õhtul</TIMEX3> . 
+</TimeML>

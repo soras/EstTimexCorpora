@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Kadri Masing 
+ Foto : Rauno Volmar 
+ <TIMEX3 tid="t45" type="DATE" value="2007-W4-WE" anchorTimeID="t0">Möödunud nädalavahetusel</TIMEX3> küttisid jahimehed Valgamaal lubatud ühe ilvese asemel kaks ilvest . 
+ Keskkonnainspektsioon alustas juhtumiga seoses väärteomenetluse . 
+ <TIMEX3 tid="t46" type="DATE" value="2007-01-27">Laupäeval , 27. jaanuaril</TIMEX3> peeti Valgamaal Põdrala vallas Põdrala jahiseltsi maadel metssea- ja ilvesejahti . 
+ Jahipäeva alguses oli avatud üks jahiluba ilvese ja teine metssea küttimiseks , teatas keskkonnainspektsioon . 
+ Tegelikult langes jahimeeste saagiks aga kaks ilvest - emailves ja temaga kaasas olnud ilvesekutsikas . 
+ Jahiselts teatas juhtunust ise Keskkonnainspektsioonile ning inspektorid alustasid jahiseaduse rikkumisega seoses väärteomenetluse . 
+ Jahiseaduse alusel välja antud jahieeskirja järgi on kutsikatega emailvesele jahipidamine keelatud , samuti on keelatud jahiloaga 
+ lubatust rohkema arvu ulukite hukkamine . 
+</TimeML>

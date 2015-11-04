@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Majaelanike vähemuse ainuvoli ootab kärpimine 
+ Uus korteriomandiseadus täpsustab omavahelisi suhteid 
+ ARGO IDEON , argo.ideon@postimees.ee 
+ Valitsuses arutatav uus korteriomandiga seotud õiguspakett jätab poolele teele olukordade lahendamise , kus üksainuski protestiv omanik saab suures kortermajas veto kaudu nullida kümnete või sadade positiivse algatuse . 
+ Uus korteriomandiseadus annab korterite omanikele suuremad volitused igapäevaasju häälteenamusega otsustada . 
+ Hoogsamad plaanid - näiteks pisimadki juurdeehitused - vajavad aga eelnõu kohaselt <TIMEX3 tid="t1133" type="DATE" value="FUTURE_REF" anchorTimeID="t0">edaspidigi</TIMEX3> suurtes majades ebareaalset sajaprotsendilist elanike nõusolekut , mida tuleb allkirjadega notariaalselt kinnitada . 
+ Vaenlased arvustasid 
+ Tallinnas Mustamäel , Tammsaare teel elavad Rain ja Triin Rang tunnevad heameelt , et nende 96-korterilises majas tegutsev ühistu rajas majaukseni tõusval trepil <TIMEX3 tid="t133" type="DATE" value="PAST_REF" anchorTimeID="t0">hiljuti</TIMEX3> kaldtee . 
+ Pisitütar Mariia sõidab <TIMEX3 tid="t134" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> kärus mugavalt otse üles ning last ja tema käru pole vaja süles ukseni tassida . 
+ " Pärast kaldtee valmimist sai aga korteriühistu selle vastu anonüümkirju , " lausus pereema Triin . 
+ " Üllatav , miks mõned inimesed selle vastu on , et puudega inimesed , lastega emad ja vanad inimesed paremini liikuda saavad . " 
+ Majaelanike enamusel peaksid tema sõnul olema piisavalt mõjusad vahendid selleks , et head ettevõtmised üksikute vastaste pärast korraldamata ei jääks ning saaks vajadusel talitseda rahurikkujaid . 
+ " Kui kõrvalkorteris käib mürarikas remont , siis tuleks see ikka <TIMEX3 tid="t135" type="TIME" value="TEV" >õhtul</TIMEX3> normaalsel ajal ära lõpetada , " ütles Triin Rang . 
+ " Päris väljatõstmist ma ka karistusena ei poolda - eks igaüks tahab ju elada . " 
+ Majandusminister Mihkel Pärnoja sõnul annavad uuenevas seadusandluses väljapakutud lahendused piisava võimaluse ühistute ja nende üksikute liikmete vastasseise lahendada . 
+ " Siis sõltub edasine juba omavalitsuste ja elanike heast tahtest , " sõnas minister . 
+ Pärnoja lubas lahendusi 
+ <TIMEX3 tid="t136" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> valitsuses esimesel lugemisel vaadeldud uus korteriomandiseaduse eelnõu ja mitme muu elamu- ning elamureformiga seotud seaduse muudatused on uuesti arutusel <TIMEX3 tid="t137" type="DATE" value="2000-W18" anchorTimeID="t0">kahe nädala pärast</TIMEX3> . 
+ Korteriomandiseaduse uus variant annab muu hulgas majaelanike enamusele õiguse otsustada häälteenamusega , et oma kohustusi teiste elanike suhtes oluliselt rikkunud korteriomanikult tuleb nõuda kohtu kaudu eluaseme võõrandamist . 
+ Samas kaitseb seadus rahaliselt inimest , kes pole näiteks nõus tsinkplekist katuse vahetamisega vaskpleki vastu , sellega , et vahetus küll toimub , ent vastuolijalt ei tohi nõuda osalemist selle kulutuste katmises . 
+ Muutmisele läheb ka üks valitsuse määrus , mille uuel kujul kinnitamine nullib kas või üheainsa korteriomaniku poolt terves majas ühiselt kasutatava osa suuruse muutmisel uute omandiosaluste seadusjärgse registreerimise . 
+</TimeML>

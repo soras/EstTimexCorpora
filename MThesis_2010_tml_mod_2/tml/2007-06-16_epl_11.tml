@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Politsei andmeil on Valgerannas nii rannalistele kui golfimängijaile mõeldud autoparklas rüüsted üsna tavalised , Audru vallavanem kinnitab , et vald selle probleemi lahendamiseks kulutusi ei tee . 
+ Valgerand on autorüüstajate paradiis , sest parkla on valveta ja lähedal pole elamuid või asutusi , mille aknast pilk paharetile peale võib sattuda , kirjutab Pärnu Postimees . 
+ Audru inimeste väitel kogunevad parklasse nii kohalikud pätid kui ka linnast sõitnud gastroleerijad . 
+ Rüüstamiste vältimiseks pole seni midagi tehtud . 
+ Aeg-ajalt väisab parklat Audru konstaabel . 
+ Pärnu politseiosakonna andmeil algatati <TIMEX3 tid="t35" type="DATE" value="2006-SU" anchorTimeID="t0">mullu suvel</TIMEX3> seoses Valgerannas autodesse sissemurdmiste ja rüüstamistega kuus kriminaalasja , <TIMEX3 tid="t36" type="DATE" value="2007" anchorTimeID="t0">tänavu</TIMEX3> on kirjas üks rüüstamine . 
+ Kõigi juhtumite ühised tunnused olid auto aknaklaasi purustamine ja autodest asjade varastamine . 
+ Ühine tunnus oli seegi , et tunnistajaid ja pealtnägijaid , samuti süüdlasi pole leitud . 
+</TimeML>

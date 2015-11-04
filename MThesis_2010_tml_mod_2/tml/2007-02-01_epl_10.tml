@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Maria-Elisa Rannajõe 
+ <TIMEX3 tid="t71" type="TIME" value="2007-02-01T19:00" anchorTimeID="t0">Täna kell seitse</TIMEX3> avatakse Tartus <TIMEX3 tid="t72" type="DURATION" value="P4D" >neli päeva</TIMEX3> kestev rahvusvaheline noortekooride festival , kuhu oodatakse üle kolmesaja osaleja Eestist , Ungarist , Lätist ja Leedust . 
+ <TIMEX3 tid="t73" type="DATE" value="2007-02-01" anchorTimeID="t0">1. </TIMEX3>- <TIMEX3 tid="t74" type="DATE" value="2007-02-04" anchorTimeID="t0">4. veebruarini</TIMEX3><TIMEX3 tid="t75" type="DURATION" value="P4D" beginPoint="t73" endPoint="t74" /> peetav koorifestival on järjekorras teine omalaadne , eelmine samasugune toimus Tartus <TIMEX3 tid="t76" type="DATE" value="2005" anchorTimeID="t0">kaks aastat tagasi</TIMEX3> . 
+ Seekordsel festivalil osaleb kolm välismaa ja neli Eesti koori , tuntuim külaline on ilmselt Riia noortekoor Kamer , mis on võitnud arvukalt konkursse ja on maailmas hinnatud oma kõrge taseme pärast . 
+ Eestist võtavad festivalist osa Tallinna muusikakeskkooli kammerkoor , Rapla segakoor Mitte-Riinimanda , Miina Härma gümnaasiumi segakoor ja Tartu Noortekoor . 
+ <TIMEX3 tid="t77" type="TIME" value="2007-02-01T19:00" anchorTimeID="t0">Täna kell seitse</TIMEX3> Tartu Ülikooli aulas algaval festivali avakontserdil esinevad lisaks mitmed Tartu noortekoorid ja neidudekoor Kurekell . 
+ <TIMEX3 tid="t78" type="DURATION" value="P4D" beginPoint="t73" endPoint="t74" >Nelja päeva jooksul</TIMEX3> annavad koorid Tartu erinevates kontserdipaikades koos kontserte ning <TIMEX3 tid="t79" type="TIME" value="2007-02-04T12" anchorTimeID="t0">pühapäeval kell 12</TIMEX3> algaval lõppkontserdil esitatakse puhkpilliorkester Tartu saatel kaks laulu ka ühiselt . 
+</TimeML>

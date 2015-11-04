@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Millal saab Eesti oma rahvusliku börsikriisi ? 
+ TAIVO PAJU 
+ Mitu aastat on vaja selleks , et eestlased unustaksid <TIMEX3 tid="t1" type="DATE" value="1997" >1997. aastal</TIMEX3> Tallinna börsil saadud haavad ning satuksid taas eufooriasse ? 
+ Ameerika tehnoloogiabörsi Nasdaq'i <TIMEX3 tid="t2" type="DATE" value="2000-W15" anchorTimeID="t0">läinudnädalane</TIMEX3> vabalangus tõestab säravalt , et soov ilma tööta üleöö rikkaks saada on peidus meis kõigis , sõltumata maailmajaost ja rahvusest . 
+ <TIMEX3 tid="t3" type="DATE" value="2000-04-14" anchorTimeID="t0">Läinud reedel</TIMEX3> kukkus Nasdaq'i koondindeks 9,7 protsenti , <TIMEX3 tid="t4" type="DATE" value="2000-W15" comment="alternatiiviks on intervall" anchorTimeID="t0">terve nädala jooksul</TIMEX3> kaotas Nasdaq aga oma väärtusest veerandi . 
+ Ennast peaaegu Rockefellerina tundnud investorid olid <TIMEX3 tid="t5" type="TIME" value="2000-04-14TEV" anchorTimeID="t0">läinud reede õhtuks</TIMEX3> umbes kahe triljoni dollari võrra vaesemad . 
+ Ühelt poolt oli <TIMEX3 tid="t6" type="DATE" value="2000-04-14" anchorTimeID="t0">reedese</TIMEX3> paanilise aktsiamüügi põhjuseks teade , et <TIMEX3 tid="t7" type="DATE" value="2000-03" anchorTimeID="t0">märtsikuine</TIMEX3> tarbijahindade inflatsioon oli tervelt 0,4 protsenti , mis on USA <TIMEX3 tid="t8" type="DURATION" value="P5Y" beginPoint="t344" endPoint="t0">viimase viie aasta</TIMEX3><TIMEX3 tid="t344" type="DATE" value="1995"/> kõrgeim näitaja . 
+ Ent ameeriklaste hirmust märksa tähtsamat rolli mängis seekordses börsikrahhis väikeinvestorite ja fondihaldurite ahnus , mis hirmu kõrval on teatavasti teine iga rahaliigutajat kannustav jõud . 
+ <TIMEX3 tid="t9" type="DATE" value="1999" mod="END" anchorTimeID="t0">Läinud aasta lõpus</TIMEX3> ja <TIMEX3 tid="t10" type="DATE" value="2000" mod="START" anchorTimeID="t0">selle aasta alguses</TIMEX3> minetasid ameeriklased igasuguse ettevaatlikkuse ja hakkasid üksteise võidu aktsiate tagatisel laenu võtma ning tehnoloogiasektori aktsiaid ostma . 
+ Üks ja sama maakler müüs aktsiaid ning andis kohe aktsiate ostmiseks ka laenu . 
+ Aktsiahinnad üha kerkisid ning inimesed said võtta üha suuremaid repolaene ( laene aktsiate tagatisel ) . 
+ New Yorgi börsil tegutsevate maaklerite antud laenud , mille tagatiseks olid aktsiad , kasvasid ainuüksi <TIMEX3 tid="t11" type="DATE" value="2000-03"  anchorTimeID="t0">märtsis</TIMEX3> 5 protsendi võrra . 
+ Kui aga aktsiahinnad <TIMEX3 tid="t12" type="DATE" value="2000-03" mod="END" anchorTimeID="t0">märtsi lõpus</TIMEX3> kõikuma lõid , käitusid laenuandjad oma klientidega jõhkralt , nõudes repolaenudele lisatagatisi . 
+ Kel lisatagatist polnud , selle aktsiad pani pank laenu tagatisena müüki . 
+ See langetas aktsiahindu veelgi . 
+ Kas pole põrgulikult tuttav , kui mõelda tagasi <TIMEX3 tid="t13" type="DATE" value="1997-FA" >1997. aasta sügisele</TIMEX3> Eestis ? 
+ <TIMEX3 tid="t14" type="DATE" value="1997-FA" anchorTimeID="t13">Toona</TIMEX3> paiskas Hansapank repolaenude tagatiseks võetud aktsiad müüki ja börsilanguse lumepall muudkui kogus hoogu . 
+ Ent erinevalt eestlastest , kel puudus <TIMEX3 tid="t15" type="DATE" value="1997" >1997. aastal</TIMEX3> igasugune börsil mängimise kogemus , on ameeriklastel seda ju enam kui küllalt . 
+ Kui Wall Street ei mäleta enam <TIMEX3 tid="t16" type="DATE" value="1929" >1929. aastat</TIMEX3> , mil aktsiahinnad kukkusid 89 protsenti , peaksid nad mäletama ju ometi börsikrahhe <TIMEX3 tid="t17" type="DATE" value="1987" >1987.</TIMEX3> ja <TIMEX3 tid="t18" type="DATE" value="1998" >1998. aastast</TIMEX3> . 
+ Aga ei . 
+ Selgub , et <TIMEX3 tid="t19" type="DURATION" value="P2Y" >kahe aastaga</TIMEX3> on kadunud kogu ettevaatlikkus . 
+ Võttes Ameerikas <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegused</TIMEX3> börsisündmused aluseks , on paslik küsida , kui mitme aasta pärast satuvad eestlased taas börsi-eufooriasse ning <TIMEX3 tid="t21" type="DATE" value="1997" >1997. aasta</TIMEX3> uhke tõus ja valus kukkumine kordub taas ? 
+ Analüütikud usuvad , et <TIMEX3 tid="t22" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> sellist eufooriat Eestis ei tule , ehkki <TIMEX3 tid="t23" type="DATE" value="2000" mod="START" anchorTimeID="t22">aasta alguses</TIMEX3> oli nii ostjate kui müüjate tuju vägagi optimistlik ja mõned pankurid arvasid juba , et läheb taas leiliviskamiseks . 
+ Konservatiivsemad pankurid usuvad kindlalt , et eufooriat ei tule , sest näpud on <TIMEX3 tid="t24" type="DATE" value="1997" >1997. aastast</TIMEX3> veel liiga valusad . 
+ Aga kui maailma majanduskasv taastub ning Eestisse imporditakse tubli annus ülevat meeleolu ? 
+ Kui kindlameelseks suudavad meie väikeinvestorid , fondihaldurid ja pankurid jääda ? 
+</TimeML>

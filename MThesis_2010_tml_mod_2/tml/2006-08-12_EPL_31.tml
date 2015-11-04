@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Venemaa võitlus metsade põlemisega kiiret edu ei anna 
+Heiki Suurkask 
+ Kingissepa rajoonis kehtestati erire?iim metsapõlengute ohjeldamiseks . 
+ Eesti piiri taga asuv Leningradi oblasti Kingissepa rajoon keh-testas oma territooriumil erire?iimi , kuna sealsed metsatulekahjud on matnud suitsupilve alla Põhja-Eesti ja Kagu-Soome , teatas ajaleht Põhjarannik . 
+ Kokku on <TIMEX3 tid="t132" type="DATE" value="2006-SU" anchorTimeID="t0">sel suvel</TIMEX3> Kingissepa rajoonis registreeritud 216 metsatulekahju , põlenud on 1445 hektarit . 
+ <TIMEX3 tid="t133" type="DATE" value="2006-08-11" anchorTimeID="t0">Eilse</TIMEX3> seisuga oli Venemaa riigimetsades teatatud 242 metsapõlengust , neist kolme hinnati tõsiseks , nimelt kaht Leningradi oblastis ja üht Karjalas . 
+ Kustutamisega tegeles 1935 inimest , üheksa lennukit ja 442 tuletõr-jeautot . 
+ Täielik metsas käimise keeld on kehtestatud kokku kuues rajoonis Leningradi oblastis , Karjala vabariigis ja Arhangelski oblastis . 
+</TimeML>

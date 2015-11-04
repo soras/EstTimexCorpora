@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Küsitlus 
+ Mihhail Stalnuhhin 
+ Riigikogu liige , Keskerakond 
+ Keegi pole selgitanud , kes hakkab reformi ellu viima . 
+ Haridusministeerium on selleks valmis alles <TIMEX3 tid="t231" type="DATE" value="2002" anchorTimeID="t0">kahe aasta pärast</TIMEX3> . 
+ Lähtudes sellest , kuidas meil on arendatud riigikeele õpetamist vene koolides , võib ka öelda , et haridusministeerium ei ole reformiks kunagi valmis . 
+ Koolidesse pole kuskilt võtta ka tegijaid . 
+ Kust võtta füüsika- , keemia- , matemaatika- ja muid õpetajaid , kes hakkavad töötama eesti keeles ? 
+ Teatavasti pole keegi sellele küsimusele kordagi usutavalt vastanud . 
+ Andres Taimla 
+ Riigikogu liige , Reformierakond 
+ Mis on kõige suuremaks probleemiks , kas halb riigikeele õpetamine või soov riigikeelt õppida ? 
+ Arvan , et just viimasest jääb vajaka . 
+ Küsitakse : kui palju läheb see maksma ? 
+ Küsiksin vastu : kui palju läheb Eesti riigile <TIMEX3 tid="t1234" type="DATE" value="FUTURE_REF" anchorTimeID="t0">edaspidi</TIMEX3> maksma see , kui me säilitaksime vana süsteemi ? 
+ Mõlemakeelsed koolid vajavad kvalifitseeritud õpetajaid , kelle käsutuses on kvaliteetsed õpikud . 
+ See maksab hoopis rohkem kui õppe üleminek riigikeelele . 
+ ( Riigikogu stenogrammist , <TIMEX3 tid="t232" type="DATE" value="2000-04-04" anchorTimeID="t0">04.04.</TIMEX3> ) 
+</TimeML>

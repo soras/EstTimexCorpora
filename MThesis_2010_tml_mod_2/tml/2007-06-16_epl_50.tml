@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+  Toimetaja : Haldi Ellam 
+ Foto : Pressifoto 
+ Markko Märtin osaleb <TIMEX3 tid="t215" type="DATE" value="2007-06-22">22.</TIMEX3>-<TIMEX3 tid="t216" type="DATE" value="2007-06-24">24. juunil</TIMEX3><TIMEX3 tid="t217" type="DURATION" value="P2D" beginPoint="t215" endPoint="t216"/> Inglismaal peetaval legendaarsel üritusel nimega Goodwood Festival of Speed . 
+ Goodwood Festival of Speed sai alguse <TIMEX3 tid="t218" type="DATE" value="1993">1993.aastal.</TIMEX3> 
+ <TIMEX3 tid="t219" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >Praeguseks</TIMEX3> on algselt mäkketõususvõistlusest välja kujunenud üks kõige mitmekülgsemaid mootorispordi üritusi üldse , vahendab etvsport.ee. 
+ Esindatud on pea kõiki liiki ratastel sõiduvahendid , millega eales võidu sõidetud . 
+ Kuna MM-rallide kalendris on <TIMEX3 tid="t220" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >hetkel</TIMEX3> auk , siis see võimaldab kohale tulla pea kõikidel hetkel sarjas osalevatel sõitjatel ja tiimidel . 
+ Kohal on Fordi ja Subaru tehasetiim , Stobart'i , Mitsubishi ja Skoda rallitiimid . 
+ Ford toob rajale kaks viimase malli Ford Focus RS WRC-d . 
+ Üks autodest on BP-Ford Rally Team'i ja teine Stobart'i värvides . 
+ Esimese autoga sõidab <TIMEX3 tid="t221" type="DATE" value="2007-06-22" anchorTimeID="t215">reedel</TIMEX3> ja <TIMEX3 tid="t222" type="DATE" value="2007-06-23" anchorTimeID="t221">laupäeval</TIMEX3> Markko Märtin ning <TIMEX3 tid="t223" type="DATE" value="2007-06-24" anchorTimeID="t222">pühapäeval</TIMEX3> Fordi tiimipealik ning endine rallisõitja Malcolm Wilson , Stobart'i autot roolib üritusel Malcolm Wilsoni poeg Matthew . 
+</TimeML>

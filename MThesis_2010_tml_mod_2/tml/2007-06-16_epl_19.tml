@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Akadeemia 
+ Akadeemik Mihhail Bronšteini hinnangul on Läti oma pragmaatiliste suhete tõttu Venemaaga võimalikuks majanduskriisiks paremini ette valmistatud kui Eesti . 
+ Akadeemik ütles , et kuna Läti poliitikud ei ole suhetes Venemaaga teinud selliseid vigu nagu Eesti omad , on Läti sadamatel šanss saada endale transiitveosed , millest Eesti on ilma jäänud , vahendas Läti majandusleht Biznes &amp; Baltija . 
+ Bronšteini sõnul on nii Läti kui ka Eesti peamine probleem maksebilansi jooksevkonto ülemäärane puudujääk ning juhul kui see saavutab 15-protsendilise taseme , piisab vaid väikesest tõukest , et majandus kokku variseks . 
+ " Sellises olukorras on normaalsed kaubandussuhted Venemaaga tähtsaim tasakaalustaja , " ütles akadeemik . 
+ " Lätil on selline vastukaal olemas , aga tundub , et Eestil ei ole . 
+ Minu hinnangu kohaselt võib kriis Eestis puhkeda ühel või teisel moel <TIMEX3 tid="t59" type="DATE" value="2007" mod="END" anchorTimeID="t0">selle aasta lõpul</TIMEX3> või <TIMEX3 tid="t60" type="DATE" value="2008" mod="START" anchorTimeID="t0">järgmise aasta algul."</TIMEX3>
+</TimeML>

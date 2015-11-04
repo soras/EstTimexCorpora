@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Reuters 
+ Kolmes Balti riigis peetakse <TIMEX3 tid="t22" type="DATE" value="2007-06-16" anchorTimeID="t0">laupäeval</TIMEX3> konverentse , kus loodetakse vastu võtta kommunismi rahvusvahelise kohtu ette toomist nõudev resolutsioon . 
+ Memento Liidu korraldatud konverentsi eesmärgiks on pöörata rahvusvahelise üldsuse tähelepanu kommunismi kuritegudele ja tõestada , et kommunism on sama kuritegelik ideoloogia kui natsism , vahendas Aktuaalne kaamera . 
+ Riigikogu õiguskomisjoni esimees Ken-Marti Vaher loodab , et vastu resolutsioon leiab vastukaja kõigis Euroopa Liidu riikide valitsustes ja parlamentides ja üheskoos otsustatakse kokku kutsuda rahvusvaheline tribunal . 
+ " Võib-olla see sõna tribunal kõlab <TIMEX3 tid="t23" type="DATE" value="20">21.sajandil</TIMEX3> pisut kurjakuulutavalt , samas on selge , et ühemõttelist hinnangut vajab kogu Euroopa ja kogu maailm , " ütles Vaher . 
+ " Minu hinnangul enne ei saa ka Euroopa väärtuskaart sirgeks , kui me ei ole sellele kõige laastavamale ideoloogiale inimkonna ajaloos <TIMEX3 tid="t24" type="DATE" value="19">20.sajandil</TIMEX3> andnud ühemõttelist hinnangut , " vahendas ETV24. 
+</TimeML>

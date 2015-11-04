@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-14T16:59" functionInDocument="CREATION_TIME" comment="(E)"/>
+
+Pühakojad lähevad <TIMEX3 tid="t1" type="DATE" value="2009-12-26" comment="puudu AFTER osa semantikas">pärast jõule</TIMEX3> säästurežiimile
+(3)
+
+<TIMEX3 tid="t2" type="TIME" value="2009-12-14T16:59" >14.12.2009 16:59</TIMEX3>
+
+Katrin Johanson, toimetaja
+
+Kommenteeri | Prindi
+Suurte hoonete kütmine toob kirikutele üle jõu käivad arved ning kogudused otsivad rahanappusele leevendust vara müües ja kinnisvara rentides.
+REKLAAM
+
+Viljandi Pauluse kiriku õpetaja Mart Salumäe ütles, et tema koguduse olukord on Viljandi praostkonnas maksmata arvete osas ehk kõige halvem. Ta hindab koguduse võla suuruseks 238 000 krooni.
+
+Et tegemist on Viljandimaa suurima kirikuhoonega, moodustavad märkimisväärse osa võlast maksmata soojaarved. Mart Salumäe sõnul pole sugugi tavatu, et kui küttevõlg <TIMEX3 tid="t3" type="DATE" value="XXXX-SU" >suve jooksul</TIMEX3> enam-vähem tasutud saab, siis <TIMEX3 tid="t4" type="DATE" value="XXXX-WI" >uuel talihooajal</TIMEX3> kipub see taas kogunema. <TIMEX3 tid="t5" type="DATE" value="2010-WI" anchorTimeID="t0">Sel talvel</TIMEX3> <TIMEX3 tid="t6" type="DATE" value="2010-01" anchorTimeID="t5">jaanuarist</TIMEX3> <TIMEX3 tid="t7" type="DATE" value="2010-03" anchorTimeID="t6">märtsini</TIMEX3><TIMEX3 tid="t8" type="DURATION" value="P2M" beginPoint="t6" endPoint="t7"/> suures kirikusaalis teenistusi ei peeta.
+
+«Kolime ümber talvekirikusse,» selgitas Salumäe.
+
+Küttekulusid mainis suure väljaminekuna ka Viljandi Jaani koguduse õpetaja Marko Tiitus. Ta kinnitas, et ehkki võlgu pole, annab majandussurutis koguduses tunda, seda enam et <TIMEX3 tid="t9" type="DATE" value="2010" anchorTimeID="t0">järgmisest aastast</TIMEX3> väheneb linna toetus 30 protsenti.
+
+<TIMEX3 tid="t10" type="DATE" value="2010" anchorTimeID="t0">«Tuleva aasta</TIMEX3> eelarvet peame väga hoolikalt kaaluma,» tõdes Tiitus. Lisaks küttekulude vähendamisele võib arutuse alla tulla mõnest ettevõtmisest loobumine ja palgata puhkuse võtmine.
+
+Jaani kiriku teenistuses on kuus alalist töötajat. Õpetaja toonitas, et nad kõik pole täiskohaga ametis. Lisaks eelmainituile töötab ringijuhtidena kolm muusikakollektiivi juhti.
+
+Tiituse sõnul aitavad olukorda leevendada heal ajal kogutud reservfond ja sõpruskoguduse abi. Jaani kogudus saab sissetulekut ka pastoraadihoone rentimisest Kondase keskusele.
+
+Pauluse koguduses on põhjalik kalkulatsioon juba tehtud ja kirikuõpetaja sõnul on kavandatud ka keerulisest olukorrast pääsemise plaan.
+
+«Ei saa salata — kirikul vara on, iseasi kuidas seda teenima panna,» lausus Mart Salumäe.
+
+Pauluse kogudus on konsistooriumist saanud loa teha kinnisvaratehinguid, millega loodetakse teenida umbes 70 000 krooni. Valmimas on ka metsakorralduskava ning raieõiguse müügist kavandab kirik saada kuni 80 000 krooni.
+
+Viljandis on kogudusel paar­kümmend hektarit, millest osa on linna hallatav kalmistumaa, kuid talle kuuluvad veel krundid Pärsti ja Viiratsi vallas.
+
+«Paraku pole võimalik mulda käruga panka müüki või tagatiseks viia,» nentis õpetaja.
+
+Raha hankimine võtab seega aega ja nõuab tööd. Pealegi käib koguduste kinnisvara arendamine kirikuvalitsuse range kontrolli alla ning Salumäe sõnul muudab see mõnegi lihtsa otsuseni jõudmise keerukaks.
+
+Lisakoormusena on Pauluse kogudus võtnud oma õlule linna laste turvakodu <TIMEX3 tid="t11" type="DURATION" value="P2M" >kahe kuu</TIMEX3> ülalpidamiskulud.
+
+Salumäe sõnul on kirik isemajandav ja peab toime tulema koguduse liikmeannetuste toel. «Meie liikmed maksavad väga kohusetundlikult, ent majanduskriis annab ennast tunda,» ütles ta. Kui <TIMEX3 tid="t12" type="DATE" value="2008" anchorTimeID="t0">mullu</TIMEX3> saadi liikmeannetustest 160 000 krooni, siis <TIMEX3 tid="t13" type="DATE" value="2009-11" anchorTimeID="t0">tänavu novembriks</TIMEX3> kogunenud summa oli 40 000 krooni väiksem.
+
+Marko Tiitus on samuti märganud annetuste vähenemist. «On mõistetav, et kui inimene on valiku ees, kas osta perele süüa või loovutada raha millegi muu hüvanguks, eelistab ta esimest.»
+
+Kirikuõpetaja sõnul on Jaani koguduses vähenenud liikmeannetuste arv, ent summad on pisut kasvanud. «Kirikuga lõdvalt seotud inimesed on kadunud, kuid need, kes on jäänud, hoiavad kokku ja toetavad sedavõrd rohkem,» lausus Tiitus.
+
+Täpseid kokkuvõtteid <TIMEX3 tid="t14" type="DATE" value="2009" anchorTimeID="t0">tänavustest</TIMEX3> annetussummadest pole Jaani koguduses veel tehtud.
+
+Linn on kogudusi toetanud alates <TIMEX3 tid="t15" type="DATE" value="1993" >1993. aastast.</TIMEX3> «Viljandi oli üks esimesi omavalitsusi Eestis, kes seda tegema hakkas,» tunnustas Mart Salumäe.
+
+Riik annab kirikute nõukogu kaudu raha küll kõigile selle organisatsiooni liikmetele, teiste hulgas ka evangeelse luterliku kiriku konsistoorimile, kuid see summa on mõeldud juhtimiskulude katteks ja kogudused sealt raha ei saa. Kirikuvalitsuse palgatoetusfondist tuleb üksnes väikestele maakogudustele vähemalt ühe töötaja miinimumtasu.
+
+Juba okupatsiooniajast alates on Eesti luterlasi aidanud vennaskirikud Saksamaal ja Soomes, kuid see pole ühtlane ja pidev sissetulek. 
+</TimeML>
+

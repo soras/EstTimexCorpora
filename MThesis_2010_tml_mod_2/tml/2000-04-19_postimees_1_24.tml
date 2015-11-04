@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Vaimumoona pataljonidele 
+ Postimees kutsub üles kaitseväele raamatuid kinkima 
+ Oleme vahel tundnud tuska selle üle , et Eesti kaitseväe suurelt osalt lääneriikidelt kingituseks saadud varustus - alates laevadest ja tankitõrjekahuritest ning lõpetades sõdurisaabaste ja katelokkidega - pole alati kõige moodsam ja kvaliteetsem . 
+ <TIMEX3 tid="t243" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> on meil kõigil võimalus kaasa aidata , et mingiski valdkonnas oleks Eesti väeosade varustus parimal tasemel . 
+ Postimees kutsub kõiki inimesi , kes peavad oluliseks Eesti kaitseväe ja seal teenivate meeste elukvaliteeti , vaatama üle oma kodused raamaturiiulid ning leidma sealt köiteid , mida annetada üksuste raamatukogudele . 
+ Olgu see igaühe isiklik panus Eesti kaitsevõime tugevdamisse . 
+ Tõsi , raamatud ei aita tõsta väeosade tulejõudu , kuid mitte ainult see ei määra armee võitlusvõimet . 
+ " Torude " arvust ja kvaliteedist olulisemgi on sõdurite kvaliteet . 
+ Postimees on alati pidanud tähtsaks sõdurite keskmise haridustaseme tõusu ning toetanud üliõpilaste ja kõrgharidusega noormeeste armeeteenistuse läbimist . 
+ Vastavalt uuele kaitseväeteenistuse seadusele tulebki kõigil üliõpilastel <TIMEX3 tid="t244" type="DURATION" value="P3Y" >kolme aasta jooksul pärast kõrgkooli sissesaamist</TIMEX3> munder selga tõmmata ja väljaõpe läbi teha . 
+ See ei ole karistus , vaid iga kodaniku enesestmõistetav kohustus oma riigi ees . 
+ Küll tuleb ühiskonnal mõelda selle peale , et noor inimene ei tajuks <TIMEX3 tid="t245" type="DURATION" value="P8M" >8</TIMEX3>-<TIMEX3 tid="t246" type="DURATION" value="P12M" >12 kuu</TIMEX3> pikkust teenistust karistusena , vaid lihtsalt ühe normaalse , kuigi tavapärasest pisut erineva eluperioodina . 
+ Seepärast tuleb hoolitseda ka selle eest , et keskmisest haritumat ja intelligentsemat noormeest ei tabaks väeossa saabudes kultuurishokk , kui ta leiab raamaturiiulilt eest vaid paar köidet Sholohhovi " Ülesküntud uudismaad " . 
+ Sooviksime , et lahked annetajad mõtleks sellelegi , et kogu ürituse eesmärk ei ole lihtsalt kodustele riiulitele vedelema ja tolmu koguma jäänud vanakraamist lahti saada , vaid ikkagi ajateenijatele väärt ja vajalikku lugemisvara pakkuda . 
+ Me ei hakka ometi omaenda sõduritele mingit kehva ja aegunud varustust sokutama . 
+ Loodetavasti koguneb annetatud kirjandust riigikaitseosakondadesse jõudsalt . 
+ Vaimumoona vastuvõtmine , sorteerimine ja väeosadesse toimetamine võiks kujuneda kaitseministeeriumile ja kaitseväe ametnikele ühtlasi korralikuks logistiliseks õppuseks . 
+</TimeML>

@@ -1,0 +1,165 @@
+Toimetaja    toimetaja+0 //_S_ sg n, //
+:    : //_Z_ //
+Haldi    Haldi+0 //_H_ sg n, //
+Ellam    Ellam+0 //_H_ sg n, //
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+Nõmme    Nõmme+0 //_H_ sg g, //
+linnaosa    linna_osa+0 //_S_ sg g, //
+valitsus    valitsus+0 //_S_ sg n, //
+Aastaid    aasta+id //_S_ pl p, //
+tegutsenud    tegutse+nud //_V_ nud, //    tegutse=nud+0 //_A_ //    tegutse=nud+0 //_A_ sg n, //    tegutse=nud+d //_A_ pl n, //
+Nõmme    Nõmme+0 //_H_ sg g, //
+turgu    turg+0 //_S_ sg p, //
+ähvardab    ähvarda+b //_V_ b, //
+sulgemine    sulgemine+0 //_S_ sg n, //
+,    , //_Z_ //
+kuna    kuna+0 //_J_ //
+turu    turg+0 //_S_ sg g, //
+rentnik    rentnik+0 //_S_ sg n, //
+NT    nt+0 //_Y_ ?, //
+Kaubanduse    Kaubandus+0 //_H_ sg g, //
+AS    AS+0 //_Y_ ?, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+hoolimata    hoolimata+0 //_K_ //
+ettekirjutustest    ette_kirjutus+test //_S_ pl el, //
+tervisekaitsenõuete    tervise_kaitse_nõue+te //_S_ pl g, //
+täitmiseks    täitmine+ks //_S_ sg tr, //
+ega    ega+0 //_J_ //
+müügitingimuste    müügi_tingimus+te //_S_ pl g, //
+parandamiseks    parandamine+ks //_S_ sg tr, //
+midagi    miski+dagi //_P_ sg p, //
+ette    ette+0 //_D_ //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+.    . //_Z_ //
+Eile    eile+0 //_D_ //
+hommikul    hommik+l //_S_ sg ad, //
+kontrollisid    kontrolli+sid //_V_ sid, //
+Nõmme    Nõmme+0 //_H_ sg g, //
+linnaosavalitsuse    linna_osa_valitsus+0 //_S_ sg g, //
+ametnikud    ametnik+d //_S_ pl n, //
+koos    koos+0 //_K_ //
+Tallinna    Tallinn+0 //_H_ sg g, //
+tervisekaitsetalituse    tervise_kaitse_talitus+0 //_S_ sg g, //
+inspektoritega    inspektor+tega //_S_ pl kom, //
+Nõmme    Nõmme+0 //_H_ sg g, //
+turgu    turg+0 //_S_ sg p, //
+,    , //_Z_ //
+teatas    teata+s //_V_ s, //
+Nõmme    Nõmme+0 //_H_ sg g, //
+linnaosa    linna_osa+0 //_S_ sg g, //
+valitsus    valitsus+0 //_S_ sg n, //
+.    . //_Z_ //
+Tervisekaitsetalituse    Tervise_kaitse_talitus+0 //_H_ sg g, //
+Harju    Harju+0 //_H_ sg g, //
+osakonna    osakond+0 //_S_ sg g, //
+juhataja    juhataja+0 //_S_ sg n, //
+Kai    Kai+0 //_H_ sg n, //
+Raska    Raska+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+kannata    kannata+0 //_V_ o, //
+Nõmme    Nõmme+0 //_H_ sg g, //
+turul    turg+l //_S_ sg ad, //
+valitsevad    valitsev+d //_A_ pl n, //
+hügieenitingimused    hügieeni_tingimus+d //_S_ pl n, //
+mingit    mingi+t //_P_ sg p, //
+kriitikat    kriitika+t //_S_ sg p, //
+.    . //_Z_ //
+Samuti    samuti+0 //_D_ //
+rikutakse    rikku+takse //_V_ takse, //
+kiiresti    kiiresti+0 //_D_ //
+rikneva    rikne=v+0 //_A_ sg g, //
+kauba    kaup+0 //_S_ sg g, //
+säilitamis-    säilitamis //_S_ ?, //
+ja    ja+0 //_J_ //
+käitlemistingimusi    käitle=mis_tingimus+i //_S_ pl p, //
+.    . //_Z_ //
+Nõmme    Nõmme+0 //_H_ sg g, //
+linnaosavanem    linna_osa_vanem+0 //_S_ sg n, //
+Rainer    Rainer+0 //_H_ sg n, //
+Vakra    Vakra+0 //_H_ sg g, //
+hinnangul    hinnang+l //_S_ sg ad, //
+oli    ole+i //_V_ s, //
+lihamajas    liha_maja+s //_S_ sg in, //
+valitsev    valitsev+0 //_A_ sg n, //
+olukord    olu_kord+0 //_S_ sg n, //
+kohutav    kohutav+0 //_A_ sg n, //
+.    . //_Z_ //
+"    " //_Z_ //
+Mitmes    mitu+s //_P_ sg in, //
+müügiboksis    müügi_boks+s //_S_ sg in, //
+olid    ole+id //_V_ sid, //
+külmutusseadmed    külmutus_seade+d //_S_ pl n, //
+katki    katki+0 //_D_ //
+ning    ning+0 //_J_ //
+liha    liha+0 //_S_ sg p, //
+hoiti    hoid+ti //_V_ ti, //
+sisuliselt    sisuliselt+0 //_D_ //
+õhutemperatuuril    õhu_temperatuur+l //_S_ sg ad, //
+.    . //_Z_ //
+Kõikjal    kõikjal+0 //_D_ //
+valitses    valitse+s //_V_ s, //
+mustus    mustus+0 //_S_ sg n, //
+,    , //_Z_ //
+rippusid    rippu+sid //_V_ sid, //
+ämblikuvõrgud    ämbliku_võrk+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+näha    näge+a //_V_ da, //
+oli    ole+i //_V_ s, //
+rottide    rott+de //_S_ pl g, //
+tegevuse    tegevus+0 //_S_ sg g, //
+jälgi    jälg+i //_S_ pl p, //
+.    . //_Z_ //
+Eriti    eriti+0 //_D_ //
+jubedad    jube+d //_A_ pl n, //
+olid    ole+id //_V_ sid, //
+turuhoone    turu_hoone+0 //_S_ sg g, //
+keldriruumid    keldri_ruum+d //_S_ pl n, //
+,    , //_Z_ //
+kus    kus+0 //_D_ //
+raiuti    raiu+ti //_V_ ti, //
+liha    liha+0 //_S_ sg p, //
+ning    ning+0 //_J_ //
+toimus    toimu+s //_V_ s, //
+hakkliha    hakk_liha+0 //_S_ sg p, //
+valmistamine    valmistamine+0 //_S_ sg n, //
+.    . //_Z_ //
+Kelder    kelder+0 //_S_ sg n, //
+meenutas    meenuta+s //_V_ s, //
+pigem    pigem+0 //_D_ //
+kaadreid    kaader+id //_S_ pl p, //
+mõnest    mõni+st //_P_ sg el, //
+õudusfilmist    õudus_film+st //_S_ sg el, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+toidukäitlemiseks    toidu_käitle=mine+ks //_S_ sg tr, //
+mõeldud    mõel=dud+0 //_A_ //    mõel=dud+0 //_A_ sg n, //    mõel=dud+d //_A_ pl n, //    mõtle+dud //_V_ tud, //
+ruumi    ruum+0 //_S_ sg p, //
+:    : //_Z_ //
+seal    seal+0 //_D_ //
+puudusid    puudu+sid //_V_ sid, //
+pesemisvõimalused    pesemis_võimalus+d //_S_ pl n, //
+,    , //_Z_ //
+lihakaste    liha_kast+e //_S_ pl p, //
+hoiti    hoid+ti //_V_ ti, //
+porisel    porine+l //_A_ sg ad, //
+põrandal    põrand+l //_S_ sg ad, //
+,    , //_Z_ //
+pinkidel    pink+del //_S_ pl ad, //
+vedelesid    vedele+sid //_V_ sid, //
+seapead    sea_pea+d //_S_ pl n, //
+,    , //_Z_ //
+nurgas    nurk+s //_S_ sg in, //
+kõrgus    kõrgus+0 //_S_ sg n, //
+veriste    verine+te //_A_ pl g, //
+kaltsude    kalts+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+paberite    paber+te //_S_ pl g, //
+virn    virn+0 //_S_ sg n, //
+jne    jne+0 //_Y_ ?, //
+,    , //_Z_ //
+"    " //_Z_ //
+rääkis    rääki+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //

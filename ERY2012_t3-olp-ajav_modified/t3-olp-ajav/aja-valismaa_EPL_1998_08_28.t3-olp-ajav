@@ -1,0 +1,581 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-08-28TXX:XX" />
+<ignoreeri>
+|
+autor:
+Toomas
+Tombu
+|
+ajalehenumber:
+Eesti
+Päevaleht
+28.08.1998
+|
+rubriik:
+Välismaa
+|
+artikkel:
+Lockerbie
+juhtum
+jõuab
+kohtusse
+|
+</ignoreeri>
+<s>
+Liibüast    Liibüa+st //_H_ sg el, //
+pärit    pärit+0 //_X_ //
+kahtlusalused    kahtlus_alune+d //_S_ pl n, //
+võivad    või+vad //_V_ vad, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1999" >
+aasta    aasta+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+</TIMEX>
+astuda    astu+da //_V_ da, //
+Haagi    Haag+0 //_H_ sg g, //
+kohtu    kohus+0 //_S_ sg g, //
+ette    ette+0 //_K_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1999" >
+Aasta    aasta+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+</TIMEX>
+võivad    või+vad //_V_ vad, //
+Hollandis    Holland+s //_H_ sg in, //
+kohtu    kohus+0 //_S_ sg g, //
+ette    ette+0 //_D_ //
+astuda    astu+da //_V_ da, //
+kaks    kaks+0 //_N_ sg n, //
+liibüalast    liibüalane+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+süüdistatakse    süüdista+takse //_V_ takse, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="1998" >
+1998.    1998.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Šotimaal    Šoti_maa+l //_H_ sg ad, //
+Lockerbies    Lockerbie+s //_H_ sg in, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+lennukikatastroofi    lennuki_katastroof+0 //_S_ sg g, //
+korraldamises    korraldamine+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+hukkus    hukku+s //_V_ s, //
+270    270+0 //_N_ ?, //
+inimest    inimene+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+USA    USA+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+Suurbritannia    Suur_britannia+0 //_H_ sg n, //
+teatasid    teata+sid //_V_ sid, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1998-08-24" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõustunud    nõustu+nud //_V_ nud, //    nõustu=nud+0 //_A_ //    nõustu=nud+0 //_A_ sg n, //    nõustu=nud+d //_A_ pl n, //
+Liibüa    Liibüa+0 //_H_ sg g, //
+sooviga    soov+ga //_S_ sg kom, //
+korraldada    korralda+da //_V_ da, //
+kohtuprotsess    kohtu_protsess+0 //_S_ sg n, //
+"    " //_Z_ //
+neutraalses    neutraalne+s //_A_ sg in, //
+kolmandas    kolmas+s //_O_ sg in, //
+riigis    riik+s //_S_ sg in, //
+"    " //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+pakkusid    pakku+sid //_V_ sid, //
+selleks    see+ks //_P_ sg tr, //
+Hollandit    Holland+t //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Liibüa    Liibüa+0 //_H_ sg g, //
+võttis    võt+is //_V_ s, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1998-08-26" anchorTimeID="t4" >
+kaks    kaks+0 //_N_ sg n, //
+päeva    päev+0 //_S_ sg p, //
+hiljem    hiljem+0 //_D_ //
+</TIMEX>
+pakkumise    pakkumine+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõus    nõus+0 //_D_ //
+kahtlusalused    kahtlus_alune+d //_A_ pl n, //
+kohtule    kohus+le //_S_ sg all, //
+välja    välja+0 //_D_ //
+andma    and+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lõpuks    lõpuks+0 //_D_ //
+vabaneda    vabane+da //_V_ da, //
+riiki    riik+0 //_S_ sg p, //
+<TIMEX  tid="t6" type="DURATION" temporalFunction="true" value="P7Y" mod="LESS_THAN" >
+peaaegu    pea_aegu+0 //_D_ //
+seitse    seitse+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+rõhunud    rõhu+nud //_V_ nud, //    rõhu=nud+0 //_A_ //    rõhu=nud+0 //_A_ sg n, //    rõhu=nud+d //_A_ pl n, //
+sanktsioonidest    sanktsioon+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Järgmine    järgmine+0 //_A_ sg n, //
+samm    samm+0 //_S_ sg n, //
+tuleb    tule+b //_V_ b, //
+astuda    astu+da //_V_ da, //
+ÜRO    ÜRO+0 //_Y_ ?, //
+julgeolekunõukogul    julge_oleku_nõu_kogu+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+muutmist    muutmine+t //_S_ sg p, //
+vajavad    vaja+vad //_V_ vad, //
+resolutsioonid    resolutsioon+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+järgi    järgi+0 //_K_ //
+kohus    kohus+0 //_S_ sg n, //
+pidi    pida+i //_V_ s, //
+toimuma    toimu+ma //_V_ ma, //
+kas    kas+0 //_D_ //
+USA-s    USA+s //_Y_ sg in, //
+või    või+0 //_J_ //
+Suurbritannias    Suur_britannia+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Suurbritannia    Suur_britannia+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Robin    Robin+0 //_H_ sg n, //
+Cook    Cook+0 //_H_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+juhul    juht+l //_S_ sg ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Liibüa    Liibüa+0 //_H_ sg g, //
+annab    and+b //_V_ b, //
+kahtlusalu-sed    kahtlusalu-sed+0 //_S_ sg n, //
+kohtule    kohus+le //_S_ sg all, //
+üle    üle+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+toetab    toeta+b //_V_ b, //
+London    London+0 //_H_ sg n, //
+Liibüa    Liibüa+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+sanktsioonide    sanktsioon+de //_S_ pl g, //
+tühistamist    tühistamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+läheb    mine+b //_V_ b, //
+plaanipäraselt    plaani_päraselt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+peetakse    pida+takse //_V_ takse, //
+kohut    kohus+t //_S_ sg p, //
+Haagis    haagis+0 //_S_ sg n, //
+Šoti    šoti+0 //_G_ //
+seaduste    seadus+te //_S_ pl g, //
+järgi    järgi+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+istungit    istung+t //_S_ sg p, //
+juhivad    juhti+vad //_V_ vad, //
+Šoti    Šot+0 //_H_ sg g, //    Šoti+0 //_H_ sg g, //    Šott+0 //_H_ sg g, //
+kohtunikud    kohtunik+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kahtlusaluste    kahtlus_alune+te //_A_ pl g, //
+süüdimõistmise    süüdi_mõistmine+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+tuleb    tule+b //_V_ b, //
+neil    tema+l //_P_ pl ad, //
+karistus    karistus+0 //_S_ sg n, //
+kanda    kand+a //_V_ da, //
+juba    juba+0 //_D_ //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+vanglates    vangla+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+Seni    seni+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kahtlusalused    kahtlus_alune+d //_A_ pl n, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+süüdistused    süüdistus+d //_S_ pl n, //
+tagasi    tagasi+0 //_K_ //
+lükanud    lüka=nud+0 //_A_ //    lüka=nud+0 //_A_ sg n, //    lüka=nud+d //_A_ pl n, //    lükka+nud //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Advokaat    advokaat+0 //_S_ sg n, //
+optimismi    optimism+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+jaga    jaga+0 //_V_ o, //
+</s>
+<s>
+Šoti    Šot+0 //_H_ sg g, //    Šoti+0 //_H_ sg g, //    Šott+0 //_H_ sg g, //
+advokaadi    advokaat+0 //_S_ sg g, //
+Alistair    Alistair+0 //_H_ sg n, //
+Duffi    Duff+0 //_H_ sg g, //    Duffi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+tema    tema+0 //_P_ sg g, //
+kaitsealused    kaitse_alune+d //_S_ pl n, //
+Abdel    Abdel+0 //_H_ sg n, //
+Basset    Basset+0 //_H_ sg n, //
+Ali    Ali+0 //_H_ sg n, //
+Mohamed    Mohame+d //_H_ pl n, //    Mohamed+0 //_H_ sg n, //
+al-Megrahi    al-Megrahi+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Lamen    Lamen+0 //_H_ sg n, //
+Khalifa    Khalifa+0 //_H_ sg n, //
+Fhimah    Fhimah+0 //_H_ sg n, //
+veel    veel+0 //_D_ //
+isiklikku    isiklik+0 //_A_ sg p, //
+nõusolekut    nõus_olek+t //_S_ sg p, //
+Liibüast    Liibüa+st //_H_ sg el, //
+lahkuda    lahku+da //_V_ da, //
+andnud    and+nud //_V_ nud, //    and=nud+0 //_A_ //    and=nud+0 //_A_ sg n, //    and=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Palju    palju+0 //_D_ //
+,    , //_Z_ //
+palju    palju+0 //_D_ //
+asju    asi+u //_S_ pl p, //
+tuleb    tule+b //_V_ b, //
+veel    veel+0 //_D_ //
+enne    enne+0 //_D_ //
+läbi    läbi+0 //_D_ //
+vaadata    vaata+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+me    mina+0 //_P_ pl n, //
+oleme    ole+me //_V_ me, //
+suutelised    suuteline+d //_A_ pl n, //
+otsustama    otsusta+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+pakkumine    pakkumine+0 //_S_ sg n, //
+sobib    sobi+b //_V_ b, //
+või    või+0 //_J_ //
+mitte    mitte+0 //_D_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Duff    Duff+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Advokaadi    Advo_kaadi+0 //_H_ sg g, //    Advokaat+0 //_H_ sg g, //
+arvates    arva+tes //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+eesolev    ees_olev+0 //_A_ sg n, //
+töö    töö+0 //_S_ sg n, //
+nii    nii+0 //_D_ //
+mahukas    mahukas+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kohtusse    kohus+sse //_S_ sg ill, //
+jõuab    jõud+b //_V_ b, //
+asi    asi+0 //_S_ sg n, //
+heal    hea+l //_A_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1999" >
+aasta    aasta+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Ameeriklaste    ameeriklane+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+brittide    britt+de //_S_ pl g, //
+nõudmisel    nõudmine+l //_S_ sg ad, //
+kehtestas    kehtesta+s //_V_ s, //
+ÜRO    ÜRO+0 //_Y_ ?, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="false" value="1992" >
+1992.    1992.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Liibüa-vastased    Liibüa-vastane+d //_A_ pl n, //
+sanktsioonid    sanktsioon+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+Tripoli    Tripoli+0 //_H_ sg n, //
+keeldus    keeldu+s //_V_ s, //
+kahtlusaluseid    kahtlus_alune+id //_S_ pl p, //
+lääneriikidele    lääne_riik+dele //_S_ pl all, //
+loovutamast    loovuta+mast //_V_ mast, //
+.    . //_Z_ //
+</s>
+<s>
+Sanktsioonid    sanktsioon+d //_S_ pl n, //
+keelasid    keela+sid //_V_ sid, //
+rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+lennuliikluse    lennu_liiklus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+relvamüügi    relva_müük+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+külmutati    külmuta+ti //_V_ ti, //
+arved    arve+d //_S_ pl n, //
+välispankades    välis_pank+des //_S_ pl in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+peatati    peata+ti //_V_ ti, //
+Liibüa    Liibüa+0 //_H_ sg g, //
+naftatööstuse    nafta_tööstus+0 //_S_ sg g, //
+varustamine    varustamine+0 //_S_ sg n, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+liiki    liik+0 //_S_ sg p, //
+seadmetega    seade+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+ÜRO    ÜRO+0 //_Y_ ?, //
+julgeolekunõukogu    julge_oleku_nõu_kogu+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+peagi    peagi+0 //_D_ //
+</TIMEX>
+vastu    vastu+0 //_D_ //
+võtta    võt+a //_V_ da, //
+otsuse    otsus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+kahtlusaluste    kahtlus_alune+te //_S_ pl g, //
+väljaandmisel    välja_andmine+l //_S_ sg ad, //
+vabaneb    vabane+b //_V_ b, //
+Liibüa    Liibüa+0 //_H_ sg g, //
+sanktsioonidest    sanktsioon+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Kõige    kõige+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+ajab    aja+b //_V_ b, //
+julgeolekunõukogu    julge_oleku_nõu_kogu+0 //_S_ sg g, //
+segadusse    segadus+se //_S_ adt, //
+Liibüa    Liibüa+0 //_H_ sg g, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="1998-08-26" >
+üleeilse    üle_eilne+0 //_A_ sg g, //
+</TIMEX>
+avalduse    avaldus+0 //_S_ sg g, //
+üldsõnalisus    üld_sõnali=sus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Avaluses    avalus+s //_S_ sg in, //
+öeldakse    ütle+dakse //_V_ takse, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+"    " //_Z_ //
+Liibüa    Liibüa+0 //_H_ sg g, //
+toetab    toeta+b //_V_ b, //
+arengut    areng+t //_S_ sg p, //
+USA    USA+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+Suurbritannia    Suur_britannia+0 //_H_ sg g, //
+seisukohtades    seisu_koht+des //_S_ pl in, //
+"    " //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+see    see+0 //_P_ sg n, //
+peaks    pida+ks //_V_ ks, //
+tähendama    tähenda+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Liibüa    Liibüa+0 //_H_ sg g, //
+kavatseb    kavatse+b //_V_ b, //
+loovutada    loovuta+da //_V_ da, //
+kaks    kaks+0 //_N_ sg n, //
+kahtlusalust    kahtlus_alune+t //_S_ sg p, //
+Hollandile    Holland+le //_H_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+tuleb    tule+b //_V_ b, //
+seda    see+da //_P_ sg p, //
+pidada    pida+da //_V_ da, //
+positiivseks    positiivne+ks //_A_ sg tr, //
+arenguks    areng+ks //_S_ sg tr, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Valge    Valge+0 //_H_ sg n, //
+Maja    Maja+0 //_H_ sg g, //
+esindaja    esindaja+0 //_S_ sg n, //
+James    James+0 //_H_ sg n, //
+Foley    Foley+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Võrdlus    võrdlus+0 //_S_ sg n, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="1998-08-28" comment="võib ka mittekonkreetses tähenduses">
+tänasega    tänane+ga //_A_ sg kom, //
+</TIMEX>
+</s>
+<s>
+Lockerbie    Lockerbie+0 //_H_ sg g, //
+juhtum    juhtum+0 //_S_ sg n, //
+sarnaneb    sarnane+b //_V_ b, //
+paljus    palju+s //_P_ sg in, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praeguse    praegune+0 //_A_ sg g, //
+</TIMEX>
+olukorraga    olu_kord+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+terroristide    terrorist+de //_S_ pl g, //
+pommirünnakutele    pommi_rünnak+tele //_S_ pl all, //
+USA    USA+0 //_Y_ ?, //
+saatkondade    saatkond+de //_S_ pl g, //
+vastu    vastu+0 //_K_ //
+vastasid    vasta+sid //_V_ sid, //
+Ühendriigid    ühend_riik+d //_S_ pl n, //
+raketirünnakutega    raketi_rünnak+tega //_S_ pl kom, //
+Sudaani    Sudaan+0 //_H_ sg g, //
+farmaatsiatehasele    farmaatsia_tehas+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+väidetavale    väidetav+le //_A_ sg all, //
+terroristide    terrorist+de //_S_ pl g, //
+treeningbaasile    treening_baas+le //_S_ sg all, //
+Afganistanis    Afganistan+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+millele    mis+le //_P_ pl all, //    mis+le //_P_ sg all, //
+omakorda    oma_korda+0 //_D_ //
+maksti    maks+ti //_V_ ti, //
+kätte    käsi+tte //_S_ adt, //
+pommiplahvatusega    pommi_plahvatus+ga //_S_ sg kom, //
+Kaplinnas    Kap_linn+s //_H_ sg in, //
+,    , //_Z_ //
+Ameerika    Ameerika+0 //_H_ sg g, //
+restoraniketti    restorani_kett+0 //_S_ adt, //
+kuuluvas    kuuluv+s //_A_ sg in, //
+asutuses    asutus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="1988" mod="APPROX" comment="vaieldav, võib ka olla BEFORE või ON_OR_BEFORE">
+Enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kümne    kümme+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+</TIMEX>
+sai    saa+i //_V_ s, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+alguse    algus+0 //_S_ sg g, //
+ühest    üks+st //_N_ sg el, //    üks+st //_P_ sg el, //
+baarist    baar+st //_S_ sg el, //
+Lääne-Saksamaal    Lääne-Saksa_maa+l //_H_ sg ad, //    Lääne-Saksamaa+l //_H_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+pommiplahvatus    pommi_plahvatus+0 //_S_ sg n, //
+nõudis    nõud+is //_V_ s, //
+kahe    kaks+0 //_N_ sg g, //
+USA    USA+0 //_Y_ ?, //
+sõduri    sõdur+0 //_S_ sg g, //
+elu    elu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sellele    see+le //_P_ sg all, //
+vastas    vasta+s //_V_ s, //
+Washington    Washington+0 //_H_ sg n, //
+õhurünnakuga    õhu_rünnak+ga //_S_ sg kom, //
+Tripolile    Tripoli+le //_H_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+hukkus    hukku+s //_V_ s, //
+Liibüa    Liibüa+0 //_H_ sg g, //
+riigijuhi    riigi_juht+0 //_S_ sg g, //
+Muammar    Muammar+0 //_H_ sg n, //
+al-Kaddafi    al-Kaddaf+0 //_H_ sg g, //    al-Kaddafi+0 //_H_ sg g, //
+tütar    tütar+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Siis    siis+0 //_D_ //
+suurendasid    suurenda+sid //_V_ sid, //
+terroristid    terrorist+d //_S_ pl n, //
+panuseid    panus+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+<TIMEX  tid="t13" type="DATE" temporalFunction="false" value="1988" >
+1988.    1988.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+<TIMEX  tid="t14" type="DURATION" temporalFunction="true" value="P2D" beginPoint="t15" endPoint="t16" >
+jõulude    jõulud+de //_S_ pl g, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="1988-12-24" anchorTimeID="t13" />
+<TIMEX  tid="t16" type="DATE" temporalFunction="true" value="1988-12-26" anchorTimeID="t13" />
+</TIMEX>
+eel    eel+0 //_K_ //
+plahvatas    plahvata+s //_V_ s, //
+Ameerika    Ameerika+0 //_H_ sg g, //
+lennukompaniile    lennu_kompanii+le //_S_ sg all, //
+Pan    Pan+0 //_H_ sg n, //
+Am    Am+0 //_Y_ ?, //
+kuuluvas    kuuluv+s //_A_ sg in, //
+lennukis    lennuk+s //_S_ sg in, //
+pomm    pomm+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Väidetavalt    väidetavalt+0 //_D_ //
+Liibüast    Liibüa+st //_H_ sg el, //
+pärit    pärit+0 //_X_ //
+terroristide    terrorist+de //_S_ pl g, //
+käe    käsi+0 //_S_ sg g, //
+läbi    läbi+0 //_K_ //
+hukkus    hukku+s //_V_ s, //
+270    270+0 //_N_ ?, //
+inimest    inimene+t //_S_ sg p, //
+.    . //_Z_ //
+</s>

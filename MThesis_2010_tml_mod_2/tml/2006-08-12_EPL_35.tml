@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Saare : mängitakse metsavendade lugu 
+Jõgevamaal Kääpa külas asuvas Kalevipoja kojas esietendub <TIMEX3 tid="t142" type="DATE" value="2006-08-13" anchorTimeID="t0">pühapäeval</TIMEX3> vabaõhulavastus " Legend " , mis räägib ühe metsavendade salga tegemistest <TIMEX3 tid="t143" type="DATE" value="1949-FA" >1949. aasta sügisel</TIMEX3> . 
+ Näidend on kokku pandud H. Väli novelli " Veri mullal " ja kohalike inimeste meenutuste põhjal . 
+ Näidendis mängivad Merle Jääger , Margus Stalte ja üle 30 ümbruskonna amatöör-näitleja . 
+ Metsavendade tüki on lavastanud Mati Tikk . 
+ Järgmised etendused toimuvad <TIMEX3 tid="t144" type="DATE" value="2006-08-16" anchorTimeID="t0">16.</TIMEX3>-<TIMEX3 tid="t145" type="DATE" value="2006-08-20" anchorTimeID="t0">20. augustini</TIMEX3><TIMEX3 tid="t146" type="DURATION" value="P4D" beginPoint="t144" endPoint="t145" /> . 
+ Tanel Mazur 
+</TimeML>

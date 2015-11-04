@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Madis Taras , Kadri Masing 
+ Foto : Rauno Volmar 
+ Süüdistuste järgi algas massirahutuste korraldamine juba <TIMEX3 tid="t46" type="DATE" value="2006" mod="MID">2006. aasta keskel</TIMEX3> . 
+ Riigiprokurör Laura Vaik saatis <TIMEX3 tid="t47" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> kohtusse süüdistusakti , milles süüdistab Dmitri Linterit , Mark Sirõki , Maksim Revat ja Dimitri Klenskit massilise korratuse organiseerimises <TIMEX3 tid="t48" type="DATE" value="2007-04" anchorTimeID="t0">käesoleva aasta aprillis</TIMEX3> Tallinnas . 
+ Süüdistusakti kohaselt organiseerisid Öise Vahtkonna liidrid Linter , Reva ja Klenski koos Venemaa noorteorganisatsiooni Naši Eesti liidri Mark Sirõkiga massilisi korratusi , mis toimusid Tallinnas <TIMEX3 tid="t49" type="DATE" value="2007-04-26" anchorTimeID="t0">26.</TIMEX3>-<TIMEX3 tid="t50" type="DATE" value="2007-04-28" anchorTimeID="t0">28. aprillil</TIMEX3><TIMEX3 tid="t51" type="DURATION" value="P2D" beginPoint="t49" endPoint="t50"/> . 
+ Massiliste korratustega kaasnesid rüüstamised , purustamised , süütamised ning vastuhakud võimuesindajatele . 
+ Tegutsesid koostöös 
+ " Süüdistatavate aktiivne tegevus massirahutuste korraldamiseks algas süüdistusakti kohaselt juba <TIMEX3 tid="t52" type="DATE" value="2006" mod="MID">2006. aasta keskel</TIMEX3> . 
+ Süüdistuse kohaselt on alust arvata , et Venemaa föderatsioonist saadi rahalist toetust ja ka nõuandeid korratuste organiseerimiseks . 
+ Näiteks paluti protestiaktsioonide toetuseks Venemaalt abi Georgi lintide muretsemisel , " ütles menetlust juhtiv riigiprokurör Laura Vaik . 
+ " Konkreetset eestvedajat ei ole võimalik süüdistatavatest välja tuua - pigem tegutsesid kõik neli koostöös ja koordineeritult ning iga süüdistatav täitis oma ülesandeid , " ütles Vaik , jättes samas täpsustamata , mis ülesanded kellegi kanda süüdistatavatest jäid . 
+</TimeML>

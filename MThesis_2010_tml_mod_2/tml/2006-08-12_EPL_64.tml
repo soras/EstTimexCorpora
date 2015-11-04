@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Seksuaalvähemuste kultuurinädal 
+<TIMEX3 tid="t299" type="DATE" value="2006-W32" anchorTimeID="t0">Sel nädalal</TIMEX3> toimus Euroopa Nõukogu kampaania " Kõik erinevad - kõik võrdsed " osana kultuurinädal Tallinn Pride <TIMEX3 tid="t300" type="DATE" value="2006" >2006.</TIMEX3>
+ Nagu ikka , on korraldajate üks eesmärke teadvustada , et homoseksuaalsed inimesed on ühiskonna täisväärtuslikud liikmed . 
+ <TIMEX3 tid="t301" type="DATE" value="2006" anchorTimeID="t0">Tänavu</TIMEX3> kolmandat korda toimuv homokultuurinädal toetub sedapuhku perekondlikele väärtustele . 
+ Mõistmise piir laieneb 
+ <TIMEX3 tid="t302" type="DATE" value="2006-08-13" anchorTimeID="t0">13. augustini</TIMEX3> on kolmes eri kohas avatud näitus " Me oleme perekond " . 
+ Viru keskuse neljanda korruse elustiilikeskuses Felicitalia näeb Tiina Tammetalu , Lilian Mosolaineni ja Bille Neeve maale . 
+ Caf&#233; Angelis on üleval Chintis Lundgreni maalid ja Heikki-Erich Merila fototöötlused . 
+ Rühmitus Infotankistid tutvustab Sõpruse kinos fotoseeriat " Mängud soorollisoos " . 
+ <TIMEX3 tid="t303" type="DATE" value="XXXX-WXX" comment="vaieldav, kas üldse märgistada" >Homokultuuri nädala</TIMEX3> avamisel viibinud luuletaja Ivar Sild peab <TIMEX3 tid="t304" type="DATE" value="XXXX-WXX" comment="vaieldav, kas üldse märgistada" >homokultuurile pühendatud nädala</TIMEX3> puhul oluliseks , et see annab erinevate huvide ning taustaga inimestele võimaluse omavahel suhelda . 
+ Eesti ühiskonna tolerantsustaset peab Sild rahuldavaks , tuues paralleeli sõjaeelse aja suhtumisega samasooliste kooselusse . 
+ " Mida aeg edasi , seda laiemaks on mõistmise piir läinud , " nendib Sild . 
+</TimeML>

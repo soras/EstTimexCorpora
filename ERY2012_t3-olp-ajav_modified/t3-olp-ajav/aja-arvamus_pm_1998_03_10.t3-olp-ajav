@@ -1,0 +1,496 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-03-10TXX:XX" />
+<ignoreeri>
+|
+autor:
+AIVAR
+JARNE
+,
+Postimees
+|
+ajalehenumber:
+Postimees
+1998.03.10
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Arvamus
+|
+alamrubriik:
+Arvamused
+|
+artikkel:
+Riia
+sündmused
+on
+õpetuseks
+Eestile
+|
+</ignoreeri>
+<s>
+Kas    kas+0 //_D_ //
+Tallinnas    Tallinn+s //_H_ sg in, //
+,    , //_Z_ //
+näiteks    näiteks+0 //_D_ //
+linnavalitsuse    linna_valitsus+0 //_S_ sg g, //
+esisel    esine+l //_S_ sg ad, //
+Vabaduse    Vabadus+0 //_H_ sg g, //
+väljakul    väljak+l //_S_ sg ad, //
+,    , //_Z_ //
+võiks    või+ks //_V_ ks, //
+korduda    kordu+da //_V_ da, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1998-W10" >
+nädal    nädal+0 //_S_ sg n, //
+tagasi    tagasi+0 //_D_ //
+</TIMEX>
+Riias    Riia+s //_H_ sg in, //
+aset    ase+t //_S_ sg p, //
+leidnud    leid+nud //_V_ nud, //    leid=nud+0 //_A_ //    leid=nud+0 //_A_ sg n, //    leid=nud+d //_A_ pl n, //
+venekeelsete    vene_keelne+te //_A_ pl g, //
+pensionäride    pensionär+de //_S_ pl g, //
+meeleavaldus    meele_avaldus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+selle    see+0 //_P_ sg g, //
+laialiajamine    laiali_ajamine+0 //_S_ sg n, //
+kumminuiadega    kummi_nui+dega //_S_ pl kom, //
+ning    ning+0 //_J_ //
+seejärel    see_järel+0 //_D_ //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+äge    äge+0 //_A_ sg n, //
+protest    protest+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kindlasti    kindlasti+0 //_D_ //
+mitte    mitte+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+Eestis    Eesti+s //_H_ sg in, //
+pole    ole+0 //_V_ neg o, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+kõige    kõige+0 //_D_ //
+viletsam    viletsam+0 //_C_ sg n, //
+elu    elu+0 //_S_ sg n, //
+mitte    mitte+0 //_D_ //
+vene    vene+0 //_G_ //
+keelt    keel+t //_S_ sg p, //
+kõnelevatel    kõnelev+tel //_A_ pl ad, //
+pensionäridel    pensionär+del //_S_ pl ad, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+elu    elu+0 //_S_ sg g, //
+hammasrataste    hammas_ratas+te //_S_ pl g, //
+vahele    vahele+0 //_K_ //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+laial    lai+l //_A_ sg ad, //
+elanikkonnakihil    elanikkonna_kiht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+rahvusprintsiibi    rahvus_printsiip+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+eriti    eriti+0 //_D_ //
+eristada    erista+da //_V_ da, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Protest    protest+0 //_S_ sg n, //
+ajalehtedes    aja_leht+des //_S_ pl in, //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+ollakse    ole+akse //_V_ takse, //
+massiliselt    massiliselt+0 //_D_ //
+töötud    töötu+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+seda    see+da //_P_ sg p, //
+niisugustes    nii_sugune+tes //_P_ pl in, //
+piirkondades    piirkond+des //_S_ pl in, //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+Kirde-    Kirs+de //_H_ adt, //
+või    või+0 //_J_ //
+Kagu-Eestis    Kagu-Eest+s //_H_ sg in, //    Kagu-Eesti+s //_H_ sg in, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+ka    ka+0 //_D_ //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+linnades    linn+des //_S_ pl in, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+Võhmas    võhmas+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+tekib    tekki+b //_V_ b, //
+protestilaine    protesti_laine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+tunnevad    tund+vad //_V_ vad, //
+ühtsust    ühtsus+t //_S_ sg p, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+erialade    eri_ala+de //_S_ pl g, //
+esindajad    esindaja+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+õpetajad    õpetaja+d //_S_ pl n, //
+või    või+0 //_J_ //
+õppurid    õppur+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Pole    ole+0 //_V_ neg o, //
+vahet    vahe+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+ollakse    ole+akse //_V_ takse, //
+venelane    venelane+0 //_S_ sg n, //
+või    või+0 //_J_ //
+eestlane    eestlane+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Muidugi    muidugi+0 //_D_ //
+suhtlevad    suhtle+vad //_V_ vad, //
+vene    vene+0 //_G_ //
+keelt    keel+t //_S_ sg p, //
+kõnelevad    kõnelev+d //_A_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+omavahel    oma_vahel+0 //_D_ //
+tihedamini    tihedamini+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Venekeelsed    vene_keelne+d //_A_ pl n, //
+televisiooni-    televisioon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+raadiosaated    raadio_saade+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõeldud    mõel=dud+0 //_A_ //    mõel=dud+0 //_A_ sg n, //    mõel=dud+d //_A_ pl n, //    mõtle+dud //_V_ tud, //
+ikka    ikka+0 //_D_ //
+vene    vene+0 //_G_ //
+keelt    keel+t //_S_ sg p, //
+kõnelevatele    kõnelev+tele //_A_ pl all, //
+inimestele    inimene+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+päevalehe    päeva_leht+0 //_S_ sg g, //
+Estonija    Estonija+0 //_H_ sg n, //
+või    või+0 //_J_ //
+Molodjozh    Molodjozh+0 //_H_ sg n, //
+Estonii    Estonii+0 //_H_ sg g, //
+trükitu    trüki=tu+0 //_S_ sg n, //
+jõuab    jõud+b //_V_ b, //
+kõige    kõige+0 //_D_ //
+paremini    paremini+0 //_D_ //
+vene    vene+0 //_G_ //
+keelt    keel+t //_S_ sg p, //
+kõnelevate    kõnelev+te //_A_ pl g, //
+inimesteni    inimene+teni //_S_ pl ter, //
+.    . //_Z_ //
+</s>
+<s>
+Seepärast    see_pärast+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tahetaks    taht+taks //_V_ taks, //
+näha    näge+a //_V_ da, //
+vene    vene+0 //_G_ //
+pensionäre    pensionär+e //_S_ pl p, //
+Vabaduse    Vabadus+0 //_H_ sg g, //
+väljakul    väljak+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+tuleb    tule+b //_V_ b, //
+üleskutse    üles_kutse+0 //_S_ sg n, //
+esitada    esita+da //_V_ da, //
+kõigepealt    kõige_pealt+0 //_D_ //
+ülalmärgitud    ülal_märgi=tud+0 //_A_ //    ülal_märgi=tud+0 //_A_ sg n, //    ülal_märgi=tud+d //_A_ pl n, //
+infokanalites    info_kanal+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Kuid    kuid+0 //_J_ //
+ükskõik    üks_kõik+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+rahvusmeelne    rahvus_meelne+0 //_A_ sg n, //
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+venekeelne    vene_keelne+0 //_A_ sg n, //
+press    press+0 //_S_ sg n, //
+säilitanud    säilita+nud //_V_ nud, //    säilita=nud+0 //_A_ //    säilita=nud+0 //_A_ sg n, //    säilita=nud+d //_A_ pl n, //
+siiski    siiski+0 //_D_ //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+soliidsuse    soliidsus+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Nõnda    nõnda+0 //_D_ //
+näiteks    näide+ks //_S_ sg tr, //
+protestiti    protesti+ti //_V_ ti, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+mõni    mõni+0 //_P_ sg n, //
+kuu    kuu+0 //_S_ sg n, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+keeleseaduse    keele_seadus+0 //_S_ sg g, //
+muudatuste    muudatus+te //_S_ pl g, //
+vastu    vastu+0 //_K_ //
+mitte    mitte+0 //_D_ //
+tänavatel    tänav+tel //_S_ pl ad, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+lehe    leht+0 //_S_ sg g, //
+vahendusel    vahendus+l //_S_ sg ad, //
+presidendile    president+le //_S_ sg all, //
+allkirju    all_kiri+u //_S_ pl p, //
+kogudes    kogu+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Seetõttu    see_tõttu+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vene    Vene+0 //_H_ sg g, //
+Erakonna    Erakond+0 //_H_ sg g, //    Erakonna+0 //_H_ sg g, //
+Eestis    Eesti+s //_H_ sg in, //
+liidri    liider+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+riigikogu    riigi_kogu+0 //_S_ sg g, //
+liikme    liige+0 //_S_ sg g, //
+Nikolai    Nikolai+0 //_H_ sg n, //
+Maspanovi    Maspanov+0 //_H_ sg g, //
+ennustus    ennustus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eestis    Eesti+s //_H_ sg in, //
+võib    või+b //_V_ b, //
+mõne    mõni+0 //_P_ sg g, //
+järgmise    järgmine+0 //_A_ sg g, //
+hinnatõusu    hinna_tõus+0 //_S_ sg g, //
+järel    järel+0 //_K_ //
+oodata    oota+ta //_V_ da, //
+samasugust    sama_sugune+t //_P_ sg p, //
+miitingut    miiting+t //_S_ sg p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Riias    Riia+s //_H_ sg in, //
+,    , //_Z_ //
+rajatud    raja+tud //_V_ tud, //    raja=tud+0 //_A_ //    raja=tud+0 //_A_ sg n, //    raja=tud+d //_A_ pl n, //
+liivale    liiv+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+pensionäridel    pensionär+del //_S_ pl ad, //
+muutubki    muutu+bki //_V_ b, //
+elu    elu+0 //_S_ sg n, //
+väljakannatamatuks    välja_kannatamatu+ks //_A_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+seda    see+da //_P_ sg p, //
+kindlasti    kindlasti+0 //_D_ //
+ka    ka+0 //_D_ //
+eesti    eesti+0 //_G_ //
+soost    soo+st //_S_ sg el, //    sugu+st //_S_ sg el, //
+pensionäride    pensionär+de //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Ei    ei+0 //_V_ neg, //
+kujuta    kujuta+0 //_V_ o, //
+aga    aga+0 //_J_ //
+ette    ette+0 //_D_ //
+Moskvat    Moskva+t //_H_ sg p, //
+erilist    eriline+t //_A_ sg p, //
+tähelepanu    tähele_panu+0 //_S_ sg p, //
+osutamas    osuta+mas //_V_ mas, //
+sellele    see+le //_P_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+politsei    politsei+0 //_S_ sg n, //
+ajab    aja+b //_V_ b, //
+laiali    laiali+0 //_D_ //
+lihtsalt    lihtsalt+0 //_D_ //
+mõne    mõni+0 //_P_ sg g, //
+meeleavalduse    meele_avaldus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+pole    ole+0 //_V_ neg o, //
+märgata    märka+ta //_V_ da, //
+rahvusprintsiipi    rahvus_printsiip+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Loomulikult    loomulikult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+Eestis    Eesti+s //_H_ sg in, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+väiksemaid    väiksem+id //_C_ pl p, //
+rahvusprintsiibi    rahvus_printsiip+0 //_S_ sg g, //
+põhjal    põhjal+0 //_K_ //
+kogunemisi    kogunemine+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="XXXX-05-09" comment="mittekonkreetne, valdkonnaspetsiifiline" >
+Võidupäeva    võidu_päev+0 //_S_ sg g, //
+</TIMEX>
+tähistamine    tähistamine+0 //_S_ sg n, //
+Tõnismäel    Tõnis_mägi+l //_H_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+venekeelsete    vene_keelne+te //_A_ pl g, //
+sõjaveteranide    sõja_veteran+de //_S_ pl g, //
+leeris    leer+s //_S_ sg in, //
+muutunud    muutu+nud //_V_ nud, //    muutu=nud+0 //_A_ //    muutu=nud+0 //_A_ sg n, //    muutu=nud+d //_A_ pl n, //
+juba    juba+0 //_D_ //
+traditsiooniks    traditsioon+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Ent    ent+0 //_J_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+tähtpäevaga    täht_päev+ga //_S_ sg kom, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väga    väga+0 //_D_ //
+raske    raske+0 //_A_ sg n, //
+ette    ette+0 //_D_ //
+kujutada    kujuta+da //_V_ da, //
+sõjaveterane    sõja_veteran+e //_S_ pl p, //
+muutumas    muutu+mas //_V_ mas, //
+tähtpäeval    täht_päev+l //_S_ sg ad, //
+vägivaldseks    vägi_valdne+ks //_A_ sg tr, //
+,    , //_Z_ //
+niisamuti    nii_samuti+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+politseinikke    politseinik+e //_S_ pl p, //
+neid    tema+d //_P_ pl p, //
+kumminuiadega    kummi_nui+dega //_S_ pl kom, //
+nüpeldamas    nüpelda+mas //_V_ mas, //
+.    . //_Z_ //
+</s>
+<s>
+Riia    Riia+0 //_H_ sg g, //
+õppetund    õppe_tund+0 //_S_ sg n, //
+</s>
+<s>
+Riia    Riia+0 //_H_ sg g, //
+miitingust    miiting+st //_S_ sg el, //
+ning    ning+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+järgnenud    järgne+nud //_V_ nud, //    järgne=nud+0 //_A_ //    järgne=nud+0 //_A_ sg n, //    järgne=nud+d //_A_ pl n, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+sõimust    sõim+st //_S_ sg el, //
+kõigil    kõik+l //_P_ pl ad, //
+tasandeil    tasand+il //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eestil    Eesti+l //_H_ sg ad, //
+üksjagu    üks_jagu+0 //_D_ //
+õppida    õppi+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kõigepealt    kõige_pealt+0 //_D_ //
+seda    see+da //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+meeleavalduse    meele_avaldus+0 //_S_ sg g, //
+muutumist    muutumine+t //_S_ sg p, //
+vägivaldseks    vägi_valdne+ks //_A_ sg tr, //
+üldse    üldse+0 //_D_ //
+ära    ära+0 //_D_ //
+hoida    hoid+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Teiseks    teiseks+0 //_D_ //
+peaksid    pida+ksid //_V_ ksid, //
+Eesti    Eesti+0 //_H_ sg g, //
+võimud    võim+d //_S_ pl n, //
+sündmuste    sündmus+te //_S_ pl g, //
+sääraseks    säärane+ks //_P_ sg tr, //
+pöördeks    pööre+ks //_S_ sg tr, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+olema    ole+ma //_V_ ma, //
+ette    ette+0 //_D_ //
+valmistatud    valmista+tud //_V_ tud, //    valmista=tud+0 //_A_ //    valmista=tud+0 //_A_ sg n, //    valmista=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Karm    karm+0 //_A_ sg n, //
+vastukaja    vastu_kaja+0 //_S_ sg n, //
+Moskvast    Moskva+st //_H_ sg el, //
+ei    ei+0 //_V_ neg, //
+tohiks    tohti+ks //_V_ ks, //
+Eestit    Eesti+t //_H_ sg p, //
+enam    enam+0 //_D_ //
+üllatada    üllata+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Lääneriigid    lääne_riik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+igasuguste    iga_sugune+te //_P_ pl g, //
+vähemuste    vähemus+te //_S_ pl g, //
+aktsioonidega    aktsioon+dega //_S_ pl kom, //
+ning    ning+0 //_J_ //
+nende    see+de //_P_ pl g, //
+laialiajamisega    laiali_ajamine+ga //_S_ sg kom, //
+ollakse    ole+akse //_V_ takse, //
+harjutud    harju=tu+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+jäävad    jää+vad //_V_ vad, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+piirini    piir+ni //_S_ sg ter, //
+alati    alati+0 //_D_ //
+pealtvaatajaks    pealt_vaataja+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Nõnda    nõnda+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eestil    Eesti+l //_H_ sg ad, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+võimalused    võimalus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Riia    Riia+0 //_H_ sg g, //
+sündmused    sündmus+d //_S_ pl n, //
+siin    siin+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+kordu    kordu+0 //_V_ o, //
+.    . //_Z_ //
+</s>

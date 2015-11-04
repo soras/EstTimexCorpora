@@ -1,0 +1,267 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-02-28TXX:XX" />
+<ignoreeri>
+|
+autor:
+URMAS
+KALDMAA
+|
+ajalehenumber:
+Postimees
+1998.02.28
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Uudised
+|
+artikkel:
+Altkäemaksu
+võtnud
+politseinik
+pääses
+tingimisi
+karistusega
+|
+</ignoreeri>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+maakohus    maa_kohus+0 //_S_ sg n, //
+karistas    karista+s //_V_ s, //
+altkäemaksu    alt_käe_maks+0 //_S_ sg p, //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+endist    endine+t //_A_ sg p, //
+politseinikku    politseinik+0 //_S_ sg p, //
+Veljo    Veljo+0 //_H_ sg n, //
+Raiki    Raik+0 //_H_ sg p, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="P1Y6M" >
+poolteiseaastase    pool_teise_aastane+0 //_A_ sg g, //
+</TIMEX>
+vabadusekaotusega    vabaduse_kaotus+ga //_S_ sg kom, //
+tingimisi    tingimisi+0 //_D_ //
+<TIMEX  tid="t1" type="DURATION" temporalFunction="false" value="P2Y" >
+kaheaastase    kahe_aastane+0 //_A_ sg g, //
+</TIMEX>
+katseajaga    katse_aeg+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Sindi    Sindi+0 //_H_ sg g, //
+politseijaoskonnas    politsei_jaoskond+s //_S_ sg in, //
+nooreminspektorina    noorem_inspektor+na //_S_ sg es, //
+töötanud    tööta+nud //_V_ nud, //    tööta=nud+0 //_A_ //    tööta=nud+0 //_A_ sg n, //    tööta=nud+d //_A_ pl n, //
+Veljo    Veljo+0 //_H_ sg n, //
+Raik    Raik+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="true" value="P26Y" >
+26    26+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+mõõtis    mõõt+is //_V_ s, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997-08-31" >
+mullu    mullu+0 //_D_ //
+31.    31.+0 //_O_ ?, //
+augustil    august+l //_S_ sg ad, //
+</TIMEX>
+kiirust    kiirus+t //_S_ sg p, //
+Pärnu    Pärnu+0 //_H_ sg g, //
+linna    linn+0 //_S_ sg g, //
+piiri    piir+0 //_S_ sg g, //
+lähedal    lähedal+0 //_K_ //
+Pärnu-Paide    Pärnu-Pai+de //_H_ pl g, //    Pärnu-Paide+0 //_H_ sg g, //
+maanteel    maan_tee+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+peatas    peata+s //_V_ s, //
+kiirust    kiirus+t //_S_ sg p, //
+ületanud    ületa+nud //_V_ nud, //    ületa=nud+0 //_A_ //    ületa=nud+0 //_A_ sg n, //    ületa=nud+d //_A_ pl n, //
+sõiduauto    sõidu_auto+0 //_S_ sg n, //
+Volvo    Volvo+0 //_H_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ähvardas    ähvarda+s //_V_ s, //
+juhilt    juht+lt //_S_ sg abl, //
+ära    ära+0 //_D_ //
+võtta    võt+a //_V_ da, //
+auto    auto+0 //_S_ sg g, //
+tehnilise    tehniline+0 //_A_ sg g, //
+passi    pass+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+too    too+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+maksa    maks+0 //_V_ o, //
+talle    tema+lle //_P_ sg all, //
+100    100+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kiirust    kiir+st //_S_ sg el, //    kiird+st //_S_ sg el, //
+ületanud    ületa+nud //_V_ nud, //    ületa=nud+0 //_A_ //    ületa=nud+0 //_A_ sg n, //    ületa=nud+d //_A_ pl n, //
+juht    juht+0 //_S_ sg n, //
+viis    viis+0 //_N_ sg n, //
+raha    raha+0 //_S_ sg p, //
+politseiautosse    politsei_auto+sse //_S_ sg ill, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+pääses    pääse+s //_V_ s, //
+karistuseta    karistus+ta //_S_ sg ab, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+juhuse    juhus+0 //_S_ sg g, //
+tahtel    tahe+l //_S_ sg ad, //
+istus    istu+s //_V_ s, //
+tema    tema+0 //_P_ sg g, //
+kõrval    kõrval+0 //_K_ //
+autos    auto+s //_S_ sg in, //
+samuti    samuti+0 //_D_ //
+politseinik    politseinik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Veljo    Veljo+0 //_H_ sg n, //
+Raik    Raik+0 //_H_ sg n, //
+väitis    väit+is //_V_ s, //
+kohtus    kohus+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+leidis    leid+is //_V_ s, //
+raha    raha+0 //_S_ sg n, //
+pärast    pärast+0 //_K_ //
+juhi    juht+0 //_S_ sg g, //
+lahkumist    lahkumine+t //_S_ sg p, //
+armatuurlaua    armatuur_laud+0 //_S_ sg g, //
+sahtlist    sahtel+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+oleks    ole+ks //_V_ ks, //
+tahtnud    taht+nud //_V_ nud, //    taht=nud+0 //_A_ //    taht=nud+0 //_A_ sg n, //    taht=nud+d //_A_ pl n, //
+selle    see+0 //_P_ sg g, //
+tagasi    tagasi+0 //_D_ //
+viia    vii+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+teadnud    tead+nud //_V_ nud, //    tead=nud+0 //_A_ //    tead=nud+0 //_A_ sg n, //    tead=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+ja    ja+0 //_J_ //
+kuhu    kuhu+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+versiooni    versioon+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+pidas    pida+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+leitud    leid+tud //_V_ tud, //    leitud+0 //_A_ //    leitud+0 //_A_ sg n, //    leitud+d //_A_ pl n, //
+raha    raha+0 //_S_ sg g, //
+kingituseks    kingitus+ks //_S_ sg tr, //
+vastutulelikkuse    vastu_tulelikkus+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+teise    teine+0 //_O_ adt, //    teine+0 //_P_ adt, //
+järgi    järgi+0 //_K_ //
+tahtis    taht+is //_V_ s, //
+vormistada    vormista+da //_V_ da, //
+trahvi    trahv+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+millegipärast    millegi_pärast+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+seda    see+da //_P_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Veljo    Veljo+0 //_H_ sg n, //
+Raiki    Raiki+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+süüdistada    süüdista+da //_V_ da, //
+üheski    üks+ski //_N_ sg in, //    üks+ski //_P_ sg in, //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+altkäemaksuvõtmises    alt_käe_maksu_võtmine+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+politseiprefektuuri    politsei_prefektuur+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Sindi    Sindi+0 //_H_ sg g, //
+politseijaoskonda    politsei_jaoskond+0 //_S_ adt, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aga    aga+0 //_J_ //
+väidetavate    väidetav+te //_A_ pl g, //
+altkäemaksuvõtmiste    alt_käe_maksu_võtmine+te //_S_ pl g, //
+pärast    pärast+0 //_K_ //
+korduvalt    korduvalt+0 //_D_ //
+helistatud    helista+tud //_V_ tud, //    helista=tud+0 //_A_ //    helista=tud+0 //_A_ sg n, //    helista=tud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+annab    and+b //_V_ b, //
+alust    alune+t //_S_ sg p, //    alus+t //_S_ sg p, //
+arvata    arva+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+taolisi    taoline+i //_P_ pl p, //
+juhtumeid    juhtum+id //_S_ pl p, //
+võis    või+s //_V_ s, //
+olla    ole+a //_V_ da, //
+ka    ka+0 //_D_ //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" comment="... pole päris selge, kas ainult kõnehetke külge ankurdamisest piisab ...">
+varem    varem+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+politseiprefektuuri    politsei_prefektuur+0 //_S_ sg g, //
+pressiesindaja    pressi_esindaja+0 //_S_ sg g, //
+Romek    Romek+0 //_H_ sg n, //
+Kosenkraniuse    Kosenkranius+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lõppenud    lõppe+nud //_V_ nud, //    lõppenud+0 //_A_ //    lõppenud+0 //_A_ sg n, //    lõppenud+d //_A_ pl n, //
+kohtuprotsess    kohtu_protsess+0 //_S_ sg n, //
+Raiki    Raik+0 //_H_ sg g, //    Raiki+0 //_H_ sg g, //
+üle    üle+0 //_K_ //
+heaks    hea+ks //_A_ sg tr, //
+näiteks    näide+ks //_S_ sg tr, //
+selle    see+0 //_P_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vastupidiselt    vastu_pidiselt+0 //_D_ //
+levinud    levi+nud //_V_ nud, //    levinud+0 //_A_ //    levinud+0 //_A_ sg n, //    levinud+d //_A_ pl n, //
+arvamusele    arvamus+le //_S_ sg all, //
+võimaldavad    võimalda+vad //_V_ vad, //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegused    praegune+d //_A_ pl n, //
+</TIMEX>
+seadused    seadus+d //_S_ pl n, //
+altkäemaksukuritegudes    alt_käe_maksu_kuri_tegu+des //_S_ pl in, //
+süüdi    süüdi+0 //_D_ //
+olevaid    olev+id //_A_ pl p, //
+riigiametnikke    riigi_ametnik+e //_S_ pl p, //
+kohtulikult    kohtulikult+0 //_D_ //
+karistada    karista+da //_V_ da, //
+.    . //_Z_ //
+</s>

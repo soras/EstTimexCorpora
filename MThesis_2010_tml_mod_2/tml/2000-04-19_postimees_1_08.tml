@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: <TIMEX3 tid="t83" type="DATE" value="XXXX-XX" comment="valdkonnaspetsiifiline">Heakorrakuu</TIMEX3>  hoogsam kui <TIMEX3 tid="t84" type="DATE" value="1999"  anchorTimeID="t0">mullu</TIMEX3> 
+ MARTIN PAU , martin.pau@postimees.ee 
+ <TIMEX3 tid="t85" type="DATE" value="1999-SP" anchorTimeID="t0">Läinud kevadel</TIMEX3> tõi heakorrakampaania avalikke haljasalasid rehitsema vaid õmblusfirma Sangar ja Toomemäe Noorte Kommertskoja , <TIMEX3 tid="t86" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> on end üles andnud juba üle tosina kollektiivi . 
+ Talgulisi vorsti ja õllega varustava Tartu Raadio turundusjuht Veiko Sepp ütles , et <TIMEX3 tid="t87" type="DATE" value="2000-04-18" anchorTimeID="t0">eilseks</TIMEX3> olid muruplatse rehitsenud Sangar , supilinlane Hannes Jäär naabritega , korteriühistu Aardla 146 , rühm tudengeid Tartu Ülikoolist ja põllumajandusülikoolist ning notar Kaja Lillo naabritega . 
+ <TIMEX3 tid="t88" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> puhastasid Oa tänava ja Emajõe vahelist ala Tartu Raadio töötajad , <TIMEX3 tid="t89" type="DATE" value="2000-04-19" anchorTimeID="t0">täna</TIMEX3> haaravad rehad laste turvakodu ja ülikooli looduskaitsering , <TIMEX3 tid="t90" type="DATE" value="2000-04-20" anchorTimeID="t0">homme</TIMEX3> linnavalitsuse ametnikud . 
+ <TIMEX3 tid="t91" type="DATE" value="2000-04-25" anchorTimeID="t0">25. aprilliks</TIMEX3> on end üles andnud tudengite valimisnimekiri Force Majeure , plaani peavad Kaitseliidu Tartu malev , MTÜ Antoniuse Gild ning Eesti Meestelaulu Seltsi Tartu meeskoor . 
+ Keskkonnateenistuse jäätmespetsialist Ülle Mauer kinnitas , et ohtlike jäätmete ning suurte majapidamisesemete kogumine läks edukalt . 
+ Ragn-Sells vedas kokku ligi 1000 kuupmeetrit vanu telereid ja külmikuid . 
+ Ohtlikke jäätmeid koguva Epler &amp; Lorenzi pearaamatupidaja Jana Raua sõnul kogunes akusid üle nelja tonni , värvijääke ja kemikaalidest saastunud taarat 3,4 tonni , vanu ravimeid üle 200 kilo ning elavhõbedat üle üheksa kilo . 
+</TimeML>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-16T09:27" functionInDocument="CREATION_TIME" comment="(kolmapäev)"/>
+
+Kari võsavillemeid sattus jahimeeste püssitoru ette
+(34)
+
+<TIMEX3 tid="t1" type="TIME" value="2009-12-16T09:27">16.12.2009 09:27</TIMEX3>
+
+Vilja Kohler
+
+Kommenteeri | Prindi
+Rannu lähistel metssigu passinud jahimehed juhtusid peale suurele hundikarjale, kelle liikmed olid külas <TIMEX3 tid="t2" type="DATE" value="PAST_REF" anchorTimeID="t0">hiljuti</TIMEX3> kurja teinud. <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> on see kari kolme võsavillemi jagu väiksem.
+REKLAAM
+
+
+«See oli suurem kari, hunte oli kokku üheksa,» rääkis Rannu jahiseltsi esimees Valdo Hermann <TIMEX3 tid="t4" type="DATE" value="2009-12-12" anchorTimeID="t0">laupäevasel</TIMEX3> metsseajahil Kureküla all metsas kohatud võsavillemitest. «Rannu kandis on seni ringi liikunud üksikud hundid. Karjas liiguvad nad Puhja kandis, rohkem kohtab neid Emajõe ääres.»
+
+Et jahimeestel oli hundilaskmisluba olemas, võeti võsavillemid kirbule. Ühe hundi lasi maha Rannu jahiseltsi liige Kalev Jenas ja teise tabas ta seltsikaaslane Maksim Jesin. «Maksim on veel algaja, temale oli see esimene hunt,» muheles Hermann. «Kalev on meil aga juba kogenud hundikütt, ta lasi hundi ka <TIMEX3 tid="t5" type="DATE" value="2008" anchorTimeID="t0">mullu.»</TIMEX3>
+
+Jahimeestest hirmunud kari põgenes Kurekülast Sangla poole. Rannu jahiselts andis putku pannud võsavillemitest kohe teada Konguta jahiseltsile. Selle mehed läksid huntidele ette.
+
+«Viis jõudis minema joosta, aga viimase saime kätte,» rääkis Konguta jahiseltsi esimees Aivar Kukin. Karja viimase, üksiku looma tabas Konguta jahiseltsi liige Indrek Sütt, kellele see susi oli esimene.
+
+Koerad kaovad
+
+Lastud kolm hunti olid emased, silma järgi hinnates <TIMEX3 tid="t6" type="DURATION" value="P2Y">kaks aastat</TIMEX3> <TIMEX3 tid="t7" type="DURATION" value="P8M">kaheksa kuud</TIMEX3> kuni <TIMEX3 tid="t8" type="DURATION" value="P3Y">kolm aastat</TIMEX3> <TIMEX3 tid="t9" type="DURATION" value="P8M">kaheksa kuud</TIMEX3> vanad loomad.
+
+«Hundiprobleem suureneb, kui neid ei kütita,» märkis Hermann. Kuigi Rannu kandis pole suuri lambakarju, kus kriimsilmad saaksid kurja teha, on nad sealgi korda saatnud üht-teist sellist, mis inimestel hinge täis ajab.
+
+<TIMEX3 tid="t10" type="DATE" value="2009-12-10" anchorTimeID="t0">Läinud neljapäeval</TIMEX3> viisid hundid Kurekülast ligi neli kilomeetrit kaugemale jääva Kobilu ühest majapidamisest ära <TIMEX3 tid="t11" type="DURATION" value="P3Y">kolmeaastase</TIMEX3> isase koera. «Ainult pea ja üks jalg oli koerast alles jäänud,» rääkis Tartu jahindusklubi jahindusnõunik Liivi Amor majavalvuri kurvast lõpust.
+Et see tükk on huntide töö, andsid tunnistust maja lähedalt leitud jäljed.
+
+<TIMEX3 tid="t12" type="DATE" value="2008" anchorTimeID="t0">«Läinud aastal</TIMEX3> viisid hundid meie ühe jahimehe kodust keti otsast koera minema,» lisas Hermann. «Ainult läbinäritud kaelarihm oli maha jäetud.»
+
+Probleem suureneb
+
+«Hundid on üha suurem probleem,» kinnitas Amor. «Näiteks Järvseljal lasti <TIMEX3 tid="t13" type="DATE" value="2009" anchorTimeID="t0">tänavu</TIMEX3> sokujahi ajal vaid üks sokk. Hundid, ilvesed ja karud on palju väiksemaid loomi lihtsalt ära söönud.»
+
+Lisaks <TIMEX3 tid="t14" type="DATE" value="2009-W50-WE" anchorTimeID="t0">nädalavahetusel</TIMEX3> Rannu lähistel tabatud kolmele hundile on <TIMEX3 tid="t15" type="DATE" value="2009-11" anchorTimeID="t0">läinud kuul</TIMEX3> alanud hundijahi ajal Tartumaal lastud veel üks võsavillem. Selle isase hundi lasid <TIMEX3 tid="t16" type="DATE" value="2009-11-07" anchorTimeID="t0">7. novembril</TIMEX3> Järvselja jahiseltsi kütid. Jõgevamaal on Mustveest Palani ulatuvates metsades küttimas käivad Kullavere jahisektsiooni mehed lasknud kaks hunti.
+
+Muide, hundid Rannu jahimeeste seajahti väga ei rikkunud. <TIMEX3 tid="t17" type="DATE" value="2009-12-12" anchorTimeID="t0">Laupäeval</TIMEX3> lasid nad ühe ja <TIMEX3 tid="t18" type="DATE" value="2009-12-13" anchorTimeID="t0">pühapäeval</TIMEX3> kolm metssiga.
+
+Hundijaht
+• Tartumaal tohib <TIMEX3 tid="t19" type="DATE" value="2009-11-01" anchorTimeID="t0">1. novembrist</TIMEX3> <TIMEX3 tid="t20" type="DATE" value="2010-02-28" anchorTimeID="t0">tuleva aasta 28. veebruarini</TIMEX3><TIMEX3 tid="t21" type="DURATION" beginPoint="t19" endPoint="t20" value="PXM"/> kestva hundijahi ajal küttida 8 ja Jõgevamaal 15 võsavillemit. Eelmise hundijahi aegu võisid Tartumaa jahimehed küttida 13 hunti, kellest tabati 11.
+• <TIMEX3 tid="t22" type="DATE" value="2008" anchorTimeID="t0">Läinud aastal</TIMEX3> elas Eestis hinnanguliselt paarsada hunti. Eelmise hundijahi aegu võis üle Eesti lasta 95 looma.
+• <TIMEX3 tid="t23" type="DATE" value="2009-09" anchorTimeID="t0">Tänavu septembris</TIMEX3> murdsid hundid Jõgevamaal Palamusel ühest karjast ligi sada lammast. Kõige hullemad tapatalgud korraldasid võsavillemid <TIMEX3 tid="t24" type="TIME" value="2009-09-14TNI" anchorTimeID="t0">ööl vastu 14. septembrit,</TIMEX3> kui huntide pärast jättis elu 23 lammast.
+Allikad: Tartu jahindusklubi, keskkonnaameti Jõgeva-Tartu regioon
+</TimeML>
+

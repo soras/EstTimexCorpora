@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-01-07" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+Toimetaja : Tuuli Aug 
+ Foto : Aldo Luud 
+ <TIMEX3 tid="t21" type="DATE" value="2007-W04-WE" anchorTimeID="t0">Jaanuari viimasel nädalavahetusel</TIMEX3> Otepääl aset leidva MK-etapi toimumine kinnitatakse lõplikult <TIMEX3 tid="t22" type="DATE" value="2007-01-19" anchorTimeID="t0">19. jaanuaril</TIMEX3> , sest siis tuleb korraldajatel rahvusvahelisele suusaliidule teatada , kas etapp toimub või mitte . 
+ Korralduskomitee esimehe Alar Arukuuse sõnul <TIMEX3 tid="t23" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguse seisuga</TIMEX3> võistlus toimub ja ettevalmistused käivad , kuigi Eesti meteoroloogia ja hüdroloogia instituudi ennustuste järgi <TIMEX3 tid="t24" type="DURATION" value="P2W" beginPoint="t0" endPoint="t44">lähema kahe nädala jooksul</TIMEX3><TIMEX3 tid="t44" type="DATE" value="2007-W03" temporalFunction="true"/> õiget talve oodata ei ole ning prognooside kohaselt peaks õhutemperatuur alles <TIMEX3 tid="t25" type="DATE" value="2007-01-20" mod="AFTER" anchorTimeID="t0">pärast 20. jaanuari</TIMEX3> muutuma selliseks , et saab ka kunstlume tootmist jätkata , kirjutab Valgamaalane . 
+ <TIMEX3 tid="t26" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> on viiekilomeetrisest võistlusrajast olemas 1,3 km pikkune lõik . 
+ Jätkuvalt vihmased ilmad võivad aga selle kvaliteeti muuta , nentis Arukuusk . 
+ <TIMEX3 tid="t27" type="DATE" value="2007-W01" anchorTimeID="t0">Sel nädalal</TIMEX3> arutas võistluse korralduskomitee koosolek võistluse läbiviimise üksikasju : Alar Arukuuse sõnul on väga suur tõenäosus , et viiekilomeetrist ringi kasutada ei saa , sest kuna ilmaennustused lubavad külmemaid ilmu alles <TIMEX3 tid="t28" type="DATE" value="2007-01" mod="END" anchorTimeID="t0">kuu lõpus</TIMEX3> , ei jõuta nende kättejõudmisel enam nii kiiresti 5 km ringi , staadioni ja sprindirada lumega katta . 
+</TimeML>

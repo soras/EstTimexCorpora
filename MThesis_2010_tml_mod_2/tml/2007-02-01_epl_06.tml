@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Kadri Masing 
+ Foto : www.pol.ee 
+ <TIMEX3 tid="t47" type="TIME" value="2007-01-30TNI">Teisipäeva , 30 jaanuari öösel</TIMEX3> tabasid Põhja prefektuuri politseinikud otse teolt kaks varguses kahtlustatavat noormeest , ühe Tallinna kesklinnas ja teise Lasnamäel . 
+ <TIMEX3 tid="t48" type="TIME" value="2007-01-30T02" anchorTimeID="t0">30. jaanuaril kella 2 ajal</TIMEX3> märkas Põhja prefektuuri politseinik tööst vabal ajal Vikerlase tänaval kahtlast isikut . 
+ Noormees toimetas maja ees seisnud autode kallal ning käivitunud oli ühe sõiduki signalisatsioon . 
+ Korrakaitsja võttis ühendust samas majas elava paarimehega ning teatas nähtust Põhja prefektuuri juhtimiskeskusele . 
+ Koos paarimehega asuti noormeest taga ajama ning üsna pea tabati ta samal tänaval koos varastatud CD-mängijaga . 
+ Hiljem selgus , et kinnipeetu , <TIMEX3 tid="t49" type="DURATION" value="P23Y" >23-aastane</TIMEX3> Aleksei oli sisse murdnud veel kahte sõidukisse . 
+ Alkoholijoobes noormees viidi politseiosakonda kainenema . 
+ Põhja prefekt Raivo Küüdi sõnul on üks hea politseiniku tunnuseid tema suhtumine valitud elukutsesse töövälisel ajal. " Tahe inimesi aidata ning oskus märgata seadusrikkumist ka siis , kui mundrit parasjagu seljas pole , ongi tõelise professionaali tunnusteks , " ütles prefekt Küüt . 
+</TimeML>

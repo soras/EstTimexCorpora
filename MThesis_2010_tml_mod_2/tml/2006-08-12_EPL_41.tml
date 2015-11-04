@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kanter võitis hõbeda , Tammert pronksi 
+Eesti võitis EM-võistluste meeste kettaheites kaks medalit - Gert Kanter hõbeda , Aleksander Tammert pronksi . 
+ Kullale tuli leedulane Virgilijus Alekna . 
+ EM-võistluste meeste kettaheite lõppvõistlust Göteborgi Ullevi staadionil asus avakatse järel juhtima Virgilijus Alekna . 
+ Leedulane lennutas ketta 68.67 kaugusele . 
+ Avakatse järel oli teine Lars Riedel 64.11 , kolmas Mariano Pestano 63.80 , neljas Rutger Smith 63.52 , viies Aleksander Tammert 62.02 , kuues Pjotr Malachowski 61.81 ja seitsmes Gerd Kanter 61.04-ga , teatab Sportnet.ee. 
+ Kanteri teisel katsel lendas ketas alla 60 meetri ja meie mees seda heidet mõõta ei lasknud . 
+ Eestlase järel heitis sakslane Michael Möllenbeck 64.82 ja tõusis teiseks . 
+ Riedel astus üle , Alekna teine katse - 67.63. 
+ Pestano parandas - 64.84 tõstis hispaanlase kahe sentimeetriga Möllenbeckist mööda , teiseks . 
+ Aga vaid <TIMEX3 tid="t176" type="DURATION" value="PT2M" mod="APPROX">mõneks minutiks</TIMEX3> , sest Tammerti sooritus oli võimas ning 65.32-ga võttis Eesti rekordimees ise sisse teise koha Alekna järel . 
+ Malachowskis parandas samuti - 64.57 kergitas poolaka viiendaks . 
+ Et vooru viimane heitja rumeenlane Sergiu Ursu sai kirja 62.48 , langes Kanter pärast teist heitevooru üheksandale kohale . 
+</TimeML>

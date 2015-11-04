@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: USA ei müü Taiwanile soovitud sõjalaevu 
+ INDREK KANNIK , indrek.kannik@postimees.ee 
+ Ühendriigid otsustasid <TIMEX3 tid="t290" type="DATE" value="2000-04-17" anchorTimeID="t0">esmaspäeval</TIMEX3> mitte müüa ülimodernseid Aegi-klassi hävitaja laevu Taiwanile . 
+ Valge Maja ametliku teate kohaselt otsustati aga Aegide müük edasi lükata . 
+ Valge Maja teatas ka , et Ühendriikide kaitseministeerium viib läbi põhjaliku uurimuse , selgitamaks välja Taiwani mereväe vajadused . 
+ <TIMEX3 tid="t291" type="DURATION" value="PXY" beginPoint="t345" endPoint="t0">Viimaste aastate jooksul</TIMEX3><TIMEX3 tid="t345" type="DATE" value="XXXX-XX-XX"/> on Ühendriigid müünud Taiwanile relvastust kokku 18 miljardi dollari eest ( üle 293 miljardi krooni ) . 
+ Taiwan palus USA-lt telekanali CNN teatel nelja Aegi-tüüpi hävitajat , millest igaüks omab võimet samaaegselt fikseerida ja tõrjuda kuni sada vaenlase objekti , näiteks lennukeid või ründerakette . 
+ Pentagon arvas aga omakorda , et Ühendriigid ei pea müüma nii modernset sõjatehnikat Taiwanile , kuna sellist sammu võiks Hiina RV tõlgendada provokatiivsena . 
+ Taiwani küsitud relvastusest keeldusid Ühendriigid müümast lisaks Aegi-tüüpi hävitajatele ka allveelaevu ja allveelaevade vastu suunatuid rakette , samas nõustusid aga suure tegevusraadiusega radari ja rakettide müümisega ning koolituspaketiga Taiwani sõjaväelastele . 
+ Senati välisasjade komitee esimees vabariiklane Jesse Helms kahetses Pentagoni otsust , öeldes , et Pentagon andis Riigidepartemangu ja Valge Maja survele järele . 
+ Helms lisas , et otsus " ohverdab Pekingi diktaatoritele meeldimise nimel Taiwani julgeoleku vajadused " . 
+ Hiina RV võimud aga tervitasid Ühendriikide otsust ettevaatlikult . 
+ Välisministeeriumi pressiesindaja Sun Yuxi ütles , et Hiina valitsus märkas nimetatud otsust , lisades aga , et tema valitsus nõuab endiselt igasuguste relvade müügi lõpetamist Taiwanile . 
+ Teatavasti loeb Hiina RV Taiwani üheks emamaast ajutiselt eraldunud provintsiks . 
+ <TIMEX3 tid="t292" type="DATE" value="PAST_REF" anchorTimeID="t0"  >Hiljutiste</TIMEX3> Taiwani presidendivalimiste eel ähvardas Mandri-Hiina saart sõjalise agressiooniga , kui too peaks välja kuulutama täieliku iseseisvuse . 
+</TimeML>

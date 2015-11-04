@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Kuidas emotsionaalset intelligentsust arendada 
+ Edu tagab käitumise ja mõtlemise muutmine 
+ MAARIKA LEMBER , maarika@fontes.ee 
+ Emotsionaalne intelligentsus on arendatav , kuid tegemist ei ole lihtsa äraõppimisega , vaid sihipärase ja järjekindla tegevusega . 
+ Emotsionaalset intelligentsust kooli tunniplaanis ei ole . 
+ Nii mõnedki väga nutikad ja eeskujulike tulemustega ülikoolilõpetajad leiavad end <TIMEX3 tid="t50" type="DATE" value="XXXX" comment="üldises tähenduses" anchorTimeID="t0">aastate pärast</TIMEX3> töötamas kunagiste keskpäraste tudengite alluvuses . 
+ Mis on siis viimastele suurema edu taganud ? 
+ Selleks on tasakaal tavapärase IQ ja emotsionaalse intelligentsuse vahel . 
+ Emotsionaalne intelligentsus on võime ära tunda , mõista ja efektiivselt rakendada nii enda kui teiste emotsioone . 
+ Emotsioonid on oluliseks inimliku energia- ja informatsiooniallikaks , nende oskuslik kasutamine aitab oluliselt kaasa suhete loomisele ja mõjukuse suurenemisele . 
+ Kursusi ei korraldata 
+ Kas emotsionaalne intelligentsus on arendatav ? 
+ Loomulikult , kuid tegemist ei ole lihtsa äraõppimisega , vaid sihipärase ja järjekindla tegevusega . 
+ Emotsionaalset intelligentsust kursustel õppida ei saa . 
+ Kursustel saame teadmisi sellest , kuidas käituda , kuid edu tagab <TIMEX3 tid="t51" type="SET" value="P1D" quant="EVERY">igapäevase</TIMEX3> käitumise ja mõtlemise muutumine . 
+ Nii mõnigi kord on muutumisprotsessi kõige raskem osa probleemi nägemine iseendas ja selle tunnistamine . 
+ Eriti juhtidel , kes on harjunud , et neil on reeglina õigus . 
+ Emotsionaalse intelligentsuse arendamine on pikaajaline protsess ( <TIMEX3 tid="t52" type="DURATION" value="P6M" mod="EQUAL_OR_MORE">vähemalt pool aastat</TIMEX3> ) , seetõttu peab inimene olema tõeliselt motiveeritud sellega tegelemiseks . 
+ Tihti esineb kahetisi tundeid - muutuda nagu tahaks , aga pole piisavalt põhjust . 
+ Sellisel juhul esineb õpilase tuntud sündroom " <TIMEX3 tid="t53" type="DATE" value="FUTURE_REF" comment="üldises tähenduses" >homme</TIMEX3> hakkan õppima " . 
+ Ja kui ka protsessiga selles staadiumis algust tehakse , siis enamasti see ebaõnnestub , kuna inimene pole ennast tulemuste saavutamisele täielikult pühendanud . 
+ Oluline on , et inimene mõistaks oma käitumise ja töötulemuste vahelist seost - see annab muutumisele väärtuse . 
+ Tulemuste saavutamiseks vajab inimene enda kõrvale tugiisikut , kellega koos tuleb määratleda eesmärgid , kes annab regulaarset tagasisidet , kes toetab ja innustab . 
+ Reeglina alustatakse 360&#176; hindamisest , mis seisneb selles , et inimese emotsionaalset intelligentsust puudutavatele küsimustele vastavad nii tema kolleegid , alluvad kui ülemus . 
+ Võrreldes neid andmeid inimese enesehinnanguga , selguvad olulised puudujäägid inimese käitumises . 
+ Vajalik on see eelkõige seepärast , et reeglina ei suuda inimesed , kes kõige enam abi vajavad , oma vigu ise näha . 
+ Uurimustest on selgunud , et edukad juhid ülehindavad ennast vaid ühes emotsionaalse intelligentsuse aspektis , keskpärased juhid aga neljas või enamas . 
+ Erinevate inimeste hinnangute kasutamine vähendab ühtlasi hindamistulemuste sõltuvust hindajast ja suurendab nende usaldusväärsust . 
+ Tugiisik aitab 
+ Järgmine oluline samm on eesmärkide määratlemine ja konkreetse tegevusplaani koostamine . 
+ Käitumise aluseks on suures osas inimese harjumused - kalduvus mõelda ja tunda teatud viisil . 
+ Et saavutada muutust käitumises , on vaja muuta selle aluseks olevaid harjumusi . 
+ Neuroloogiliselt tähendab see teatud " närviringide " ümberkujundamist . 
+ Esialgu on selleks vaja suurt teadlikkust ja jõupingutusi , kuid mida enam praktiseeritakse uut käitumist , seda tugevamaks muutub ajus uus " närviring " ning ajapikku kustub vana . 
+ Inimene peab väga täpselt aru saama , mida tal tuleb muuta ja selleks vajaminevad sammud ei tohi olla üle jõu käivad . 
+ Harjutamise juurde kuulub pidev tagasiside ja toetus tugiisikult , kuna muutuste juurdumine võtab palju aega ning tagasilöögid on tavapärased . 
+ Jõudu ja julgust saab ammutada eeskujudest ja muutumise väärtusest inimese jaoks . 
+ Parimaid tulemusi saavutatakse juhul , kui ka organisatsioon väärtustab muutumist ning pakub tunnustust ja tuge . 
+</TimeML>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Optiva panga kodulehekülg internetis www.optiva.ee 
+ MARTIN SÕMER , meediainimene 
+ Kuidagi mõttetuks muutub rippmenüü tabamine Optiva internetipangas . 
+ Menüü rullib end ülalt lahti ja kaob jälle ära , ilma et võimaldaks endasse sisenemist . 
+ Menüü ilmub ja kaob . 
+ Stoilise rahuga . 
+ Nagu skriinseiver . 
+ Aga skriinseiveriga ju pangaülekandeid ei tee . 
+ Ometi küsib reklaam vastutulelikult : " Raha armastad liigutada ? 
+ Optivas liigutad teenustasuta . " 
+ Tahaks liigutada küll , aga ei liigu , raip . 
+ Mitte kummaski suunas kusjuures . 
+ Seisab paigal . 
+ Samuti tasuta , aga seda reklaamis kirjas ei ole . 
+ Saanud lõpuks menüüsse sisse , on võimalik teha näiteks maksekorraldust . 
+ Kusagilt kosmosest võtab server mulle maksekorralduse numbri . 
+ No ei ole õige number , aga kuni ma seda parandan , kaotab server saaja nime . 
+ Kirjutan nime uuesti ja saan teada , et " summa formaat ei ole õige " . 
+ Ega ole küll . 
+ Ei saagi olla , kui server ise seda salakesi muudab , sokutades tuhande järele koma . 
+ Veel kuvab Optiva internetipank ekraani paremasse serva iseenesest viis viimast pangatehingu kirjeldust . 
+ Alla ilmub selle täienduseks tekst , mille peale ka Optiva panga kogenud surfajal kaitsmed sinise leegiga läbi põlevad - " soovitud ajavahemikul kirjeid ei leitud " . 
+ Kirjed on olemas , aga neid ei leitud . 
+ Nujahh , mis ma oskan öelda . 
+ OK , hüperteksti märgendamiskeel muutub kiiresti . 
+ Ilmselt märgatavalt kiiremini kui liigub raha Optiva pangas . 
+ Küsimuse peale , kas nad ise on oma imesüsteemiga töötada püüdnud , vastatakse Optivast selle väljapeetult idiootliku lehekülje kaitseks , et nende " põhimõte on tööks mõeldud süsteemi liigsete selgituste ja kiirelt ebavajalikuks muutuva informatsiooniga mitte koormata " . 
+ Heakene küll , aga informaatikas traditsioon ju ei ruuli . 
+ Ja pole mõtet säilitada lehekülje neid osi , mille kirjutamisega on joonelt puusse pandud . 
+ Võibolla on Optivas mõeldud klientide ajaveetmise peale . 
+ Et miks nad küll mängivad Minesweeperit või laovad pasjanssi , kui saab ka Optiva pangas ülekannet üritades <TIMEX3 tid="t337" type="DURATION" value="PTXM">minuteid</TIMEX3> korstnasse kirjutada . 
+ Aga aeg on raha ja raha on vähe ja aeg on kallis . 
+ Ja aeg muudkui läheb . 
+ Ja palderjanipudel tühjeneb üha . 
+</TimeML>

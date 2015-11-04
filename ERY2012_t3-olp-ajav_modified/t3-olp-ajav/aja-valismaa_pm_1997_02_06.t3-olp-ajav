@@ -1,0 +1,1077 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-02-06TXX:XX" />
+<ignoreeri>
+|
+autor:
+MARKO
+MIHKELSON
+,
+Brüssel
+|
+ajalehenumber:
+Postimees
+1997.02.06
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Välisinfo
+|
+artikkel:
+Euroopa
+julgeolekuintriig
+kogub
+hoogu
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+Äsja    äsja+0 //_D_ //
+</TIMEX>
+Shveitsi    Shveits+0 //_H_ sg g, //
+suusakuurordis    suusa_kuurort+s //_S_ sg in, //
+Davosis    Davos+s //_H_ sg in, //
+lõppenud    lõppe+nud //_V_ nud, //    lõppenud+0 //_A_ //    lõppenud+0 //_A_ sg n, //    lõppenud+d //_A_ pl n, //
+maailma    maa_ilm+0 //_S_ sg g, //
+mõjukamate    mõjuka=m+te //_C_ pl g, //
+inimeste    inimene+te //_S_ pl g, //
+foorumil    foorum+l //_S_ sg ad, //
+leidis    leid+is //_V_ s, //
+taaskord    taas_kord+0 //_D_ //
+kinnitust    kinnitus+t //_S_ sg p, //
+teadmine    teadmine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+rahvusvahelistes    rahvus_vaheline+tes //_A_ pl in, //
+suhetes    suhe+tes //_S_ pl in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esiprobleemiks    esi_probleem+ks //_S_ sg tr, //
+tõusnud    tõus+nud //_V_ nud, //    tõus=nud+0 //_A_ //    tõus=nud+0 //_A_ sg n, //    tõus=nud+d //_A_ pl n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+julgeolek    julge_olek+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Vaidlus    vaidlus+0 //_S_ sg n, //
+NATO    NATO+0 //_Y_ ?, //
+laienemise    laienemine+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+kontinendi    kontinent+0 //_S_ sg g, //
+julgeoleku    julge_olek+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+kogub    kogu+b //_V_ b, //
+<TIMEX  tid="t2" type="SET" temporalFunction="true" value="P1D" quant="EVERY" >
+iga    iga+0 //_P_ sg g, //
+päevaga    päev+ga //_S_ sg kom, //
+</TIMEX>
+üha    üha+0 //_D_ //
+uut    uus+t //_A_ sg p, //
+,    , //_Z_ //
+sageli    sageli+0 //_D_ //
+dramaatilisi    dramaatiline+i //_A_ pl p, //
+vahepalasid    vahe_pala+sid //_S_ pl p, //
+sisaldavat    sisaldav+t //_A_ sg p, //
+hoogu    hoog+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Huvi    huvi+0 //_S_ sg n, //
+selle    see+0 //_P_ sg g, //
+vastu    vastu+0 //_K_ //
+kütavad    küt+vad //_V_ vad, //
+üles    üles+0 //_D_ //
+nii    nii+0 //_D_ //
+ajakirjanikud    aja_kirjanik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+näevad    näge+vad //_V_ vad, //
+teemas    teema+s //_S_ sg in, //
+põnevat    põnev+t //_A_ sg p, //
+intriigi    intriig+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+poliitikud    poliitik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tegutsevad    tegutse+vad //_V_ vad, //
+siseriiklike    sise_riiklik+e //_A_ pl g, //
+olude    olu+de //_S_ pl g, //
+sunnil    sunnil+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+laienemist    laienemine+t //_S_ sg p, //
+ida    ida+0 //_S_ sg g, //
+suunas    suunas+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+alliansi    allianss+0 //_S_ sg g, //
+Brüsseli    Brüssel+0 //_H_ sg g, //
+ametnikud    ametnik+d //_S_ pl n, //
+võrrelnud    võrdle+nud //_V_ nud, //    võrrel=nud+0 //_A_ //    võrrel=nud+0 //_A_ sg n, //    võrrel=nud+d //_A_ pl n, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ühinemisega    ühinemine+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+pidades    pida+des //_V_ des, //
+seda    see+da //_P_ sg p, //
+viimasest    viimane+st //_A_ sg el, //
+veelgi    veelgi+0 //_D_ //
+ambitsioonikamaks    ambitsioonika=m+ks //_C_ sg tr, //
+ja    ja+0 //_J_ //
+ajaloolisemaks    aja_loolisem+ks //_C_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Lääne    Lääne+0 //_H_ sg g, //    Lääs+0 //_H_ sg g, //
+diplomaatide    diplomaat+de //_S_ pl g, //
+eufooria    eufooria+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+aga    aga+0 //_J_ //
+jääda    jää+da //_V_ da, //
+pisut    pisut+0 //_D_ //
+ennatlikuks    ennatlik+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Siiras    siiras+0 //_A_ sg n, //
+usk    usk+0 //_S_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+kindlamasse    kindlam+sse //_C_ sg ill, //
+ja    ja+0 //_J_ //
+stabiilsemasse    stabiilsem+sse //_C_ sg ill, //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+tulevikku    tulevik+0 //_S_ adt, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kinnitamata    kinnita=mata+0 //_A_ //
+tähtsaima    tähtsaim+0 //_U_ sg g, //
+sammuga    samm+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+siiani    siiani+0 //_D_ //
+leidnud    leid+nud //_V_ nud, //    leid=nud+0 //_A_ //    leid=nud+0 //_A_ sg n, //    leid=nud+d //_A_ pl n, //
+ühist    ühine+t //_A_ sg p, //
+keelt    keel+t //_S_ sg p, //
+Moskvaga    Moskva+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Alles    alles+0 //_D_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997-02-04" mod="APPROX" >
+paar    paar+0 //_N_ sg n, //
+päeva    päev+0 //_S_ sg p, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+teatas    teata+s //_V_ s, //
+Kremli    Kreml+0 //_H_ sg g, //    Kremli+0 //_H_ sg g, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+mõjukamaid    mõjuka=m+id //_C_ pl p, //
+tegelasi    tegelane+i //_S_ pl p, //
+Anatoli    Anatoli+0 //_H_ sg n, //
+Tshubais    Tshubais+0 //_H_ sg n, //
+sealsamas    seal_samas+0 //_D_ //
+Davosi    Davos+0 //_H_ sg g, //
+majandusfoorumil    majandus_foorum+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+“    “ //_Z_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+NATO    NATO+0 //_Y_ ?, //
+otsustab    otsusta+b //_V_ b, //
+laieneda    laiene+da //_V_ da, //
+Venemaaga    Vene_maa+ga //_H_ sg kom, //
+kokku    kokku+0 //_D_ //
+leppimata    leppi=mata+0 //_A_ //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+saab    saa+b //_V_ b, //
+see    see+0 //_P_ sg n, //
+olema    ole+ma //_V_ ma, //
+Lääne    Lääne+0 //_H_ sg g, //    Lääs+0 //_H_ sg g, //
+suurim    suurim+0 //_U_ sg n, //
+viga    viga+0 //_S_ sg n, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="true" value="P50Y" beginPoint="t5" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+50    50+0 //_N_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1947" />
+</TIMEX>
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DURATION" temporalFunction="true" value="P5M" beginPoint="t0" endPoint="t7" >
+Eelseisvad    eel_seisev+d //_A_ pl n, //
+viis    viis+0 //_N_ sg n, //
+kuud    kuu+d //_S_ sg p, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1997-07" />
+</TIMEX>
+peaksid    pida+ksid //_V_ ksid, //
+paljuski    palju+ski //_P_ sg in, //
+otsustama    otsusta+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+ja    ja+0 //_J_ //
+kuidas    kuidas+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+ikkagi    ikkagi+0 //_D_ //
+kulgema    kulge+ma //_V_ ma, //
+hakkab    hakka+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1997-07-08" >
+8.    8.+0 //_O_ ?, //
+juuliks    juuli+ks //_S_ sg tr, //
+</TIMEX>
+,    , //_Z_ //
+mil    mil+0 //_D_ //
+Madridis    Madrid+s //_H_ sg in, //
+algab    alga+b //_V_ b, //
+NATO    NATO+0 //_Y_ ?, //
+tippkohtumine    tipp_kohtumine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+selgub    selgu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+Euroopat    Euroopa+t //_H_ sg p, //
+ähvardab    ähvarda+b //_V_ b, //
+tõepoolest    tõe_poolest+0 //_D_ //
+uus    uus+0 //_A_ sg n, //
+lõhenemine    lõhenemine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+hoiatab    hoiata+b //_V_ b, //
+Venemaa    Vene_maa+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+või    või+0 //_J_ //
+suudetakse    suut+takse //_V_ takse, //
+tagasilooki    tagasi_look+i //_S_ pl p, //
+vältida    välti+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+nimel    nimel+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lääneriigid    lääne_riik+d //_S_ pl n, //
+alustanud    alusta+nud //_V_ nud, //    alusta=nud+0 //_A_ //    alusta=nud+0 //_A_ sg n, //    alusta=nud+d //_A_ pl n, //
+pingsat    pingne+t //_A_ sg p, //
+diplomaatilist    diplomaatiline+t //_A_ sg p, //
+missiooni    missioon+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lülitunud    lülitu+nud //_V_ nud, //    lülitu=nud+0 //_A_ //    lülitu=nud+0 //_A_ sg n, //    lülitu=nud+d //_A_ pl n, //
+nii    nii+0 //_D_ //
+NATO    NATO+0 //_Y_ ?, //
+peasekretär    pea_sekretär+0 //_S_ sg n, //
+Javier    Javier+0 //_H_ sg n, //
+Solana    Solana+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+meeskonnaga    meeskond+ga //_S_ sg kom, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+liikmesmaade    liikmes_maa+de //_S_ pl g, //
+liidrid    liider+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ettevõetavate    ette_võetav+te //_A_ pl g, //
+sammude    samm+de //_S_ pl g, //
+peaeesmärgiks    pea_ees_märk+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lepitada    lepita+da //_V_ da, //
+vastuolud    vastu_olu+d //_S_ pl n, //
+alliansi    allianss+0 //_S_ sg g, //
+liikmete    liige+te //_S_ pl g, //
+endi    ise+0 //_P_ pl g, //
+vahel    vahel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+üritades    ürita+des //_V_ des, //
+samas    samas+0 //_D_ //
+teha    tege+a //_V_ da, //
+NATO    NATO+0 //_Y_ ?, //
+laienemist    laienemine+t //_S_ sg p, //
+seeditavaks    seeditav+ks //_A_ sg tr, //
+Moskvale    Moskva+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+valmistub    valmistu+b //_V_ b, //
+laienemiseks    laienemine+ks //_S_ sg tr, //
+</s>
+<s>
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+Hiljuti    hiljuti+0 //_D_ //
+</TIMEX>
+Brüsselis    Brüssel+s //_H_ sg in, //
+resideerivatele    resideeri=v+tele //_A_ pl all, //
+diplomaatidele    diplomaat+dele //_S_ pl all, //
+esinedes    esine+des //_V_ des, //
+tõi    too+i //_V_ s, //
+Javier    Javier+0 //_H_ sg n, //
+Solana    Solana+0 //_H_ sg n, //
+välja    välja+0 //_D_ //
+kuus    kuus+0 //_N_ sg n, //
+tähtsamat    tähtsam+t //_C_ sg p, //
+küsimust    küsimus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+allianss    allianss+0 //_S_ sg n, //
+peaks    pida+ks //_V_ ks, //
+silmas    silm+s //_S_ sg in, //
+pidama    pida+ma //_V_ ma, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="1997-SU" >
+suviseks    suvine+ks //_A_ sg tr, //
+</TIMEX>
+tippkohtumiseks    tipp_kohtumine+ks //_S_ sg tr, //
+valmistudes    valmistu+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Esiteks    esiteks+0 //_D_ //
+rõhutas    rõhuta+s //_V_ s, //
+Solana    Solana+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+eelseisval    eel_seisev+l //_A_ sg ad, //
+tippkohtumisel    tipp_kohtumine+l //_S_ sg ad, //
+teeb    tege+b //_V_ b, //
+NATO    NATO+0 //_Y_ ?, //
+lõpuks    lõpuks+0 //_D_ //
+teatavaks    teatav+ks //_A_ sg tr, //
+need    see+d //_P_ pl n, //
+riigid    riik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+allianss    allianss+0 //_S_ sg n, //
+kutsub    kutsu+b //_V_ b, //
+endaga    ise+ga //_P_ sg kom, //
+ühinema    ühine+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+tervitades    tervita+des //_V_ des, //
+neid    tema+d //_P_ pl p, //
+NATO    NATO+0 //_Y_ ?, //
+täieõiguslike    täie_õiguslik+e //_A_ pl g, //
+liikmetena    liige+tena //_S_ pl es, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="false" value="1999" >
+1999.    1999.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Mäletatavasti    mäletatavasti+0 //_D_ //
+tegi    tege+i //_V_ s, //
+NATO    NATO+0 //_Y_ ?, //
+esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+oma    oma+0 //_P_ sg g, //
+laienemisotsuse    laienemis_otsus+0 //_S_ sg g, //
+teatavaks    teatav+ks //_A_ sg tr, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="false" value="1994-12" >
+1994.    1994.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+detsembris    detsember+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="1996-FA" >
+Läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+sügisel    sügis+l //_S_ sg ad, //
+</TIMEX>
+aga    aga+0 //_J_ //
+vihjati    vihja+ti //_V_ ti, //
+juba    juba+0 //_D_ //
+ametlikult    ametlikult+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t14" type="DATE" temporalFunction="false" value="1997-SU" >
+1997.    1997.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+suvel    suvi+l //_S_ sg ad, //
+</TIMEX>
+saavad    saa+vad //_V_ vad, //
+Madridis    Madrid+s //_H_ sg in, //
+kutsed    kutse+d //_S_ pl n, //
+kolm    kolm+0 //_N_ sg n, //
+või    või+0 //_J_ //
+neli    neli+0 //_N_ sg n, //
+Kesk-Euroopa    Kesk-Eu_roobas+0 //_H_ sg g, //    Kesk-Euroopa+0 //_H_ sg g, //
+riiki    riik+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Diplomaatilistes    diplomaatiline+tes //_A_ pl in, //
+ringkondades    ringkond+des //_S_ pl in, //
+ollakse    ole+akse //_V_ takse, //
+veendunud    veendu+nud //_V_ nud, //    veendunud+0 //_A_ //    veendunud+0 //_A_ sg n, //    veendunud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+NATO    NATO+0 //_Y_ ?, //
+laienemise    laienemine+0 //_S_ sg g, //
+esimene    esimene+0 //_O_ sg n, //
+ring    ring+0 //_S_ sg n, //
+hõlmab    hõlma+b //_V_ b, //
+Poolat    Poola+t //_H_ sg p, //
+,    , //_Z_ //
+Ungarit    Ungari+t //_H_ sg p, //
+ja    ja+0 //_J_ //
+Tshehhit    Tshehhi+t //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Nende    see+de //_P_ pl g, //
+kolme    kolm+0 //_N_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+esindajad    esindaja+d //_S_ pl n, //
+Brüsselis    Brüssel+s //_H_ sg in, //
+käituvad    käitu+vad //_V_ vad, //
+sedavõrd    seda_võrd+0 //_D_ //
+enesekindlalt    enese_kindlalt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+oleksid    ole+ksid //_V_ ksid, //
+nad    tema+d //_P_ pl n, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+NATO    NATO+0 //_Y_ ?, //
+liikmesmaad    liikmes_maa+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Teisele    teine+le //_O_ sg all, //    teine+le //_P_ sg all, //
+lainele    laine+le //_S_ sg all, //
+jääb    jää+b //_V_ b, //
+alguses    algus+s //_S_ sg in, //
+rahupartnerlus    rahu_partnerlus+0 //_S_ sg n, //
+</s>
+<s>
+Solana    Solana+0 //_H_ sg g, //
+teeside    tees+de //_S_ pl g, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+oluline    oluline+0 //_A_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+puudutab    puuduta+b //_V_ b, //
+otseselt    otseselt+0 //_D_ //
+neid    see+d //_P_ pl p, //
+riike    riik+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+NATO    NATO+0 //_Y_ ?, //
+laienemise    laienemine+0 //_S_ sg g, //
+esimesest    esimene+st //_O_ sg el, //
+ringist    ring+st //_S_ sg el, //
+välja    välja+0 //_D_ //
+jäävad    jää+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Alliansi    allianss+0 //_S_ sg g, //
+peasekretäri    pea_sekretär+0 //_S_ sg g, //
+hinnangul    hinnang+l //_S_ sg ad, //
+peaks    pida+ks //_V_ ks, //
+seda    see+da //_P_ sg p, //
+korvama    korva+ma //_V_ ma, //
+rahupartnerlusprogrammi    rahu_partnerlus_programm+0 //_S_ sg g, //
+märgatav    märgatav+0 //_A_ sg n, //
+edasiarendamine    edasi_arendamine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+luues    loo+es //_V_ des, //
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+uue    uus+0 //_A_ sg g, //
+koostööorganisatsioonina    koos_töö_organisatsioon+na //_S_ sg es, //
+Transatlantilise    trans_atlantiline+0 //_A_ sg g, //
+Partnerluse    partnerlus+0 //_S_ sg g, //
+Nõukogu    nõu_kogu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Nähtavasti    nähtavasti+0 //_D_ //
+just    just+0 //_D_ //    just+0 //_I_ //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+tees    tees+0 //_S_ sg n, //
+puudutab    puuduta+b //_V_ b, //
+täiel    täis+l //_A_ sg ad, //
+määral    määr+l //_S_ sg ad, //
+ka    ka+0 //_D_ //
+kolme    kolm+0 //_N_ sg p, //
+Balti    balti+0 //_G_ //
+riiki    riik+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+alliansi    allianss+0 //_S_ sg g, //
+laienemise    laienemine+0 //_S_ sg g, //
+esimesse    esimene+se //_O_ adt, //
+ringi    ring+0 //_S_ adt, //
+ei    ei+0 //_V_ neg, //
+mahu    mahtu+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+julgeolek    julge_olek+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+ettearvamatu    ette_arvamatu+0 //_A_ sg n, //
+käitumise    käitumine+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+sattuda    sattu+da //_V_ da, //
+suurimasse    suurim+sse //_U_ sg ill, //
+ohtu    oht+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nii    nii+0 //_D_ //
+Solana    Solana+0 //_H_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+NATO    NATO+0 //_Y_ ?, //
+ametnikud    ametnik+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+liikmesriikide    liikmes_riik+de //_S_ pl g, //
+esindajad    esindaja+d //_S_ pl n, //
+korduvalt    korduvalt+0 //_D_ //
+rõhutanud    rõhuta+nud //_V_ nud, //    rõhuta=nud+0 //_A_ //    rõhuta=nud+0 //_A_ sg n, //    rõhuta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+organisatsiooni    organisatsioon+0 //_S_ sg g, //
+esimese    esimene+0 //_O_ sg g, //
+laienemisega    laienemine+ga //_S_ sg kom, //
+ei    ei+0 //_V_ neg, //
+sulgu    sulgu+0 //_V_ o, //
+uksed    uks+d //_S_ pl n, //
+teistele    teine+tele //_O_ pl all, //    teine+tele //_P_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Pole    ole+0 //_V_ neg o, //
+aga    aga+0 //_J_ //
+mingi    mingi+0 //_P_ sg n, //
+saladus    saladus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+just    just+0 //_D_ //    just+0 //_I_ //
+Jalta    Jalta+0 //_H_ sg g, //
+kokkulepete    kokku_lepe+te //_S_ pl g, //
+kordumist    kordumine+t //_S_ sg p, //
+väikeriigid    väike_riik+d //_S_ pl n, //
+,    , //_Z_ //
+eeskätt    ees_kätt+0 //_D_ //
+Balti    Balt+0 //_H_ sg g, //    Balti+0 //_H_ sg g, //
+riigid    riik+d //_S_ pl n, //
+kardavadki    kart+vadki //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Siiani    siiani+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+suured    suur+d //_A_ pl n, //
+teatanud    teata+nud //_V_ nud, //    teata=nud+0 //_A_ //    teata=nud+0 //_A_ sg n, //    teata=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kontinendi    kontinent+0 //_S_ sg g, //
+uuest    uus+st //_A_ sg el, //
+jagamisest    jagamine+st //_S_ sg el, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+juttugi    jutt+gi //_S_ sg p, //
+olla    ole+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Viimati    viimati+0 //_D_ //
+teatas    teata+s //_V_ s, //
+sellest    see+st //_P_ sg el, //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+Jacques    Jacques+0 //_H_ sg n, //
+Chirac    Chirac+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+olles    ole+es //_V_ des, //
+kohtunud    kohtu+nud //_V_ nud, //    kohtu=nud+0 //_A_ //    kohtu=nud+0 //_A_ sg n, //    kohtu=nud+d //_A_ pl n, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+presidendi    president+0 //_S_ sg g, //
+Boriss    Boriss+0 //_H_ sg n, //
+Jeltsiniga    Jeltsin+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Reaalsete    Reaalne+te //_H_ pl g, //
+partnerlussuhete    partnerlus_suhe+te //_S_ pl g, //
+rajamine    rajamine+0 //_S_ sg n, //
+Venemaaga    Vene_maa+ga //_H_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+NATO    NATO+0 //_Y_ ?, //
+tähtsaim    tähtsaim+0 //_U_ sg n, //
+ülesanne    üles_anne+0 //_S_ sg n, //
+läheneva    lähenev+0 //_A_ sg g, //
+tippkohtumise    tipp_kohtumine+0 //_S_ sg g, //
+eel    eel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Solana    Solana+0 //_H_ sg n, //
+rõhutas    rõhuta+s //_V_ s, //
+oma    oma+0 //_P_ sg g, //
+Brüsseli    brüsseli+0 //_G_ //
+ettekandes    ette_kanne+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+NATO    NATO+0 //_Y_ ?, //
+eesmärgiks    ees_märk+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+saavutada    saavuta+da //_V_ da, //
+Venemaaga    Vene_maa+ga //_H_ sg kom, //
+kokkulepe    kokku_lepe+0 //_S_ sg n, //
+soliidseks    soliidne+ks //_A_ sg tr, //
+,    , //_Z_ //
+stabiilseks    stabiilne+ks //_A_ sg tr, //
+ja    ja+0 //_J_ //
+kestvaks    kestev+ks //_A_ sg tr, //
+julgeolekupartnerluseks    julge_oleku_partnerlus+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Kas    Ka+s //_H_ sg in, //    Kas+0 //_H_ sg n, //    kas+0 //_D_ //
+sellest    see+st //_P_ sg el, //
+dilemmast    dilemma+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väljapääs    välja_pääs+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+küsis    küsi+s //_V_ s, //
+Solana    Solana+0 //_H_ sg n, //
+iseendalt    ise_enese+lt //_P_ sg abl, //
+raskele    raske+le //_A_ sg all, //
+dialoogile    dialoog+le //_S_ sg all, //
+Venemaaga    Vene_maa+ga //_H_ sg kom, //
+vihjates    vihja+tes //_V_ des, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+vastas    vasta+s //_V_ s, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Jah    jah+0 //_D_ //
+,    , //_Z_ //
+ma    mina+0 //_P_ sg n, //
+usun    usku+n //_V_ n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Venemaaga    Vene_maa+ga //_H_ sg kom, //
+areneb    arene+b //_V_ b, //
+NATOl    NATOl+0 //_H_ sg n, //
+väga    väga+0 //_D_ //
+vaevaline    vaevaline+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+raske    raske+0 //_A_ sg n, //
+dialoog    dialoog+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+leiab    leid+b //_V_ b, //
+Brüssel    Brüssel+0 //_H_ sg n, //
+märgatavalt    märgatavalt+0 //_D_ //
+soojemat    soojem+t //_C_ sg p, //
+vastuvõttu    vastu_võtt+0 //_S_ adt, //
+Ukrainas    Ukraina+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Suhted    suhe+d //_S_ pl n, //
+Kiieviga    Kiiev+ga //_H_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Solana    Solana+0 //_H_ sg g, //
+teeside    tees+de //_S_ pl g, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+oluline    oluline+0 //_A_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+Suurbritannia    Suur_britannia+0 //_H_ sg g, //
+kaitseministri    kaitse_minister+0 //_S_ sg g, //
+Michael    Michael+0 //_H_ sg n, //
+Portillo    Portillo+0 //_H_ sg g, //
+<TIMEX  tid="t18" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+äsjane    äsjane+0 //_A_ sg n, //
+</TIMEX>
+visiit    visiit+0 //_S_ sg n, //
+Ukrainasse    Ukraina+sse //_H_ sg ill, //
+üksnes    üksnes+0 //_D_ //
+lisas    lisa+s //_V_ s, //
+usku    usk+0 //_S_ sg p, //
+koostöö    koos_töö+0 //_S_ sg g, //
+edukusse    edukus+se //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Ukraina    Ukraina+0 //_H_ sg g, //
+võtab    võt+b //_V_ b, //
+enda    ise+0 //_P_ sg g, //
+alla    alla+0 //_K_ //
+otsustava    otsustav+0 //_A_ sg g, //
+osa    osa+0 //_S_ sg g, //
+Euroopast    Euroopa+st //_H_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Iseseisev    ise_seisev+0 //_A_ sg n, //
+,    , //_Z_ //
+stabiilne    stabiilne+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+demokraatlik    demo_kraatlik+0 //_A_ sg n, //
+Ukraina    Ukraina+0 //_H_ sg g, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+strateegiliselt    strateegilise=lt+0 //_D_ //
+tähtis    tähtis+0 //_A_ sg n, //
+kogu    kogu+0 //_S_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+arengule    areng+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+kuulutas    kuuluta+s //_V_ s, //
+Solana    Solana+0 //_H_ sg n, //
+NATO    NATO+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+Ukraina    Ukraina+0 //_H_ sg g, //
+suhete    suhe+te //_S_ pl g, //
+tähtsust    tähtsus+t //_S_ sg p, //
+rõhutades    rõhuta+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Viienda    Viienda+0 //_H_ sg g, //
+olulise    oluline+0 //_A_ sg g, //
+punktina    punkt+na //_S_ sg es, //
+rõhutas    rõhuta+s //_V_ s, //
+Solana    Solana+0 //_H_ sg n, //
+Madridiks    Madrid+ks //_H_ sg tr, //
+valmistudes    valmistu+des //_V_ des, //
+suhete    suhe+te //_S_ pl g, //
+korraldamist    korraldamine+t //_S_ sg p, //
+Vahemere-äärsete    Vahe_mere-äärne+te //_A_ pl g, //
+riikidega    riik+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+alustanud    alusta+nud //_V_ nud, //    alusta=nud+0 //_A_ //    alusta=nud+0 //_A_ sg n, //    alusta=nud+d //_A_ pl n, //
+kõnelusi    kõnelus+i //_S_ pl p, //
+Egiptuse    Egiptus+0 //_H_ sg g, //
+,    , //_Z_ //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+,    , //_Z_ //
+Jordaania    Jordaania+0 //_H_ sg g, //
+,    , //_Z_ //
+Maroko    Maroko+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Tuneesiaga    Tuneesia+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Brüsseli    brüsseli+0 //_G_ //
+eesmärgiks    ees_märk+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muuta    muut+a //_V_ da, //
+nimetatud    nimeta+tud //_V_ tud, //    nimetatud+0 //_A_ //    nimetatud+0 //_A_ sg n, //    nimetatud+d //_A_ pl n, //
+riikide    riik+de //_S_ pl g, //
+vale    vale+0 //_S_ sg n, //
+ettekujutust    ette_kujutus+t //_S_ sg p, //
+NATOst    NATO+st //_Y_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+asetades    aseta+des //_V_ des, //
+rõhu    rõhk+0 //_S_ sg g, //
+reaalsele    reaalne+le //_A_ sg all, //
+koostööle    koos_töö+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Me    mina+0 //_P_ pl n, //
+ei    ei+0 //_V_ neg, //
+pea    pida+0 //_V_ o, //
+Vahemere-äärseid    Vahe_mere-äärne+id //_A_ pl p, //
+riike    riik+e //_S_ pl p, //
+uue    uus+0 //_A_ sg g, //
+ohu    oht+0 //_S_ sg g, //
+allikaks    allikas+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Vastupidi    vastu_pidi+0 //_D_ //
+,    , //_Z_ //
+me    mina+0 //_P_ pl n, //
+usume    usku+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimalik    võimalik+0 //_A_ sg n, //
+luua    loo+a //_V_ da, //
+head    hea+d //_A_ pl n, //
+,    , //_Z_ //
+tugevad    tugev+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+sõbralikud    sõbralik+d //_A_ pl n, //
+suhted    suhe+d //_S_ pl n, //
+üle    üle+0 //_K_ //
+Vahemere    Vahe_meri+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+me    mina+0 //_P_ pl n, //
+oleme    ole+me //_V_ me, //
+seda    see+da //_P_ sg p, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+üle    üle+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Solana    Solana+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+eneseuuendus    enese_uuendus+0 //_S_ sg n, //
+</s>
+<s>
+Solana    Solana+0 //_H_ sg g, //
+teeside    tees+de //_S_ pl g, //
+viimane    viimane+0 //_A_ sg n, //
+,    , //_Z_ //
+kuues    kuues+0 //_O_ sg n, //
+punkt    punkt+0 //_S_ sg n, //
+puudutab    puuduta+b //_V_ b, //
+NATO    NATO+0 //_Y_ ?, //
+enda    ise+0 //_P_ sg g, //
+juhtimisstruktuuride    juhtimis_struktuur+de //_S_ pl g, //
+reformimist    reformimine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Seejuures    see_juures+0 //_D_ //
+rõhutas    rõhuta+s //_V_ s, //
+Solana    Solana+0 //_H_ sg n, //
+selles    see+s //_P_ sg in, //
+kaht    kaks+0 //_N_ sg p, //
+uuendusmomenti    uuendus_moment+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+sellele    see+le //_P_ sg all, //
+<kiil>
+,    , //_Z_ //
+et    et+0 //_J_ //
+uued    uus+d //_A_ pl n, //
+struktuurid    struktuur+d //_S_ pl n, //
+peaksid    pida+ksid //_V_ ksid, //
+olema    ole+ma //_V_ ma, //
+iseenesest    ise_enesest+0 //_D_ //
+väiksemad    väiksem+d //_C_ pl n, //
+,    , //_Z_ //
+</kiil>
+peaks    pida+ks //_V_ ks, //
+NATO    NATO+0 //_Y_ ?, //
+selgeks    selge+ks //_A_ sg tr, //
+rääkima    rääki+ma //_V_ ma, //
+kaks    kaks+0 //_N_ sg n, //
+pakutud    pakku+tud //_V_ tud, //    pakutud+0 //_A_ //    pakutud+0 //_A_ sg n, //    pakutud+d //_A_ pl n, //
+uuendust    uuendus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Esiteks    esiteks+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+NATOl    NATOl+0 //_H_ sg n, //
+kavas    kava+s //_S_ sg in, //
+luua    loo+a //_V_ da, //
+rahuvalve    rahu_valve+0 //_S_ sg g, //
+ülesandeid    üles_anne+id //_S_ pl p, //
+täitev    täitev+0 //_A_ sg n, //
+eriüksus    eri_üksus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kusjuures    kus_juures+0 //_D_ //
+selles    see+s //_P_ sg in, //
+võiksid    või+ksid //_V_ ksid, //
+osaleda    osale+da //_V_ da, //
+ka    ka+0 //_D_ //
+NATO    NATO+0 //_Y_ ?, //
+liikmeks    liige+ks //_S_ sg tr, //
+mitteolevad    mitte_olev+d //_A_ pl n, //
+riigid    riik+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+uuendus    uuendus+0 //_S_ sg n, //
+rõhutab    rõhuta+b //_V_ b, //
+aga    aga+0 //_J_ //
+vajadust    vajadus+t //_S_ sg p, //
+suurendada    suurenda+da //_V_ da, //
+eurooplaste    eurooplane+te //_S_ pl g, //
+rolli    roll+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+vastutuse    vastutus+0 //_S_ sg g, //
+NATO    NATO+0 //_Y_ ?, //
+uutes    uus+tes //_A_ pl in, //
+struktuurides    struktuur+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Madridis    Madrid+s //_H_ sg in, //
+peaks    pida+ks //_V_ ks, //
+ilmnema    ilmne+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+prohvetlikud    prohvetlik+d //_A_ pl n, //
+olid    ole+id //_V_ sid, //
+Solana    Solana+0 //_H_ sg g, //
+sõnad    sõna+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+ta    tema+0 //_P_ sg n, //
+<TIMEX  tid="t19" type="DATE" temporalFunction="true" value="1997-01" >
+jaanuaris    jaanuar+s //_S_ sg in, //
+</TIMEX>
+Brüsselis    Brüssel+s //_H_ sg in, //
+välja    välja+0 //_D_ //
+käis    käi+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+peasekretär    pea_sekretär+0 //_S_ sg n, //
+ütles    ütle+s //_V_ s, //
+siis    siis+0 //_D_ //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Madridi    Madrid+0 //_H_ sg g, //
+tippkohtumine    tipp_kohtumine+0 //_S_ sg n, //
+toob    too+b //_V_ b, //
+meid    mina+d //_P_ pl p, //
+sammu    samm+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+lähemale    lähemale+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+eesmärgile    ees_märk+le //_S_ sg all, //
+luua    loo+a //_V_ da, //
+stabiilne    stabiilne+0 //_A_ sg n, //
+,    , //_Z_ //
+rahumeelne    rahu_meelne+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+õitsev    õitsev+0 //_A_ sg n, //
+Euro-Atlandi    Euro-Atland+0 //_H_ sg g, //    Euro-Atlandi+0 //_H_ sg g, //    Euro-Atlant+0 //_H_ sg g, //
+ruum    ruum+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+NATO    NATO+0 //_Y_ ?, //
+abiga    abi+ga //_S_ sg kom, //
+võime    või+me //_V_ me, //
+tõmmata    tõmba+ta //_V_ da, //
+kokku    kokku+0 //_D_ //
+nägemuse    nägemus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+George    Georg+e //_H_ pl p, //
+C.    C.+0 //_Y_ ?, //
+Marshall    Marshall+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+hakkasid    hakka+sid //_V_ sid, //
+kuulutama    kuulu+tama //_V_ tama, //    kuuluta+ma //_V_ ma, //
+<TIMEX  tid="t20" type="DATE" temporalFunction="true" value="1947" >
+50    50+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="1997-02-06" >
+Täna    täna+0 //_D_ //
+</TIMEX>
+pole    ole+0 //_V_ neg o, //
+see    see+0 //_P_ sg n, //
+nägemus    nägemus+0 //_S_ sg n, //
+laienenud    laiene+nud //_V_ nud, //    laiene=nud+0 //_A_ //    laiene=nud+0 //_A_ sg n, //    laiene=nud+d //_A_ pl n, //
+mitte    mitte+0 //_D_ //
+üksnes    üksnes+0 //_D_ //
+poolele    pool+le //_S_ sg all, //
+Euroopale    Euroopa+le //_H_ sg all, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+kogu    kogu+0 //_A_ //
+kontinendile    kontinent+le //_S_ sg all, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>

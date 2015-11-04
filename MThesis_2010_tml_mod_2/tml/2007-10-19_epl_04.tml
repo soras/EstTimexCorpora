@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Erik Rand 
+ Foto : www.gothamgazette.com 
+ Politsei lõpetas peamiselt alaealistest koosneva 21-liikmelise grupi Viljandis korda saadetud kuritegude uurimise ning <TIMEX3 tid="t13" type="DATE" value="2007-10" mod="END" anchorTimeID="t0">kuu lõpuks</TIMEX3> peaks kohus kinnitama nende karistused . 
+ Juurdlust juhtinud prokuröri Merike Tiku sõnul ei olnud seltskonna paarikümne toime pandud kuriteoepisoodi hulgas ühtegi sellist , mis oleks varem avalikkuse tähelepanu pälvinud , kirjutab Sakala . 
+ Enamasti oli tegemist mobiiltelefonide , rahakottide või jalgrataste vargusega . 
+ Samuti võtsid poisid omavoliliselt kasutada võõraid sõidukeid , millega nad ühel korral ka avarii tegid . 
+ Kamba arvel on mitu peksmist ja sissetungi võõrastesse kodudesse . 
+ Noored alustasid tegevust <TIMEX3 tid="t14" type="DATE" value="2006-SU" anchorTimeID="t0">möödunud aasta suvel</TIMEX3> ja nende kuritegude jada sai lõpu alles <TIMEX3 tid="t15" type="DATE" value="2007-02" anchorTimeID="t0">tänavu veebruaris</TIMEX3> . 
+</TimeML>

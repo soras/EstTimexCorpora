@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: ?ebrle kaitses suure meistri mainet 
+Andrus Nilk 
+ Kümnevõistluse Euroopa meistritiitlit kaitses Roman ?ebrle , rivaalid peavad samale tasemele tõusmiseks nägema ränka vaeva . 
+ Ateena olümpiavõitjale *ebrlele valmistas 1500 m jooks küll suuri raskusi , kuid võidusumma 8526 punkti kindlustas ülekaaluka esikoha . 
+ Hõbeda andis ungarlasele Attila Zsivoczkyle 8356 ja pronksi venelasele Aleksei Drozdovile isiklik rekord 8350. 
+ Seljakrampidega võidelnud Kristjan Rahnu sai 8083 punktiga üheksanda koha . 
+ Viimasel alal , 1500 m jooksus jaksas ta ponnistada isikliku rekordi 4.50 , 80 , kuid temast möödus kolm konkurenti . 
+ " Hooajaks valmistumisel pole ma olnud päris terve , " rääkis Rahnu . 
+ " Pidevalt on siit ja sealt midagi korrast ära . 
+ Vigastuste ja haiguste tõttu pole saanud korralikult treenida . 
+ Tegin iga ala Harju keskmisel tasemel . " 
+ Treener Roland Rahnu rääkis viies päeva enne EM-i , et startida tasub täiesti tervel mehel . 
+ Kuid seljakramp võttis temalt konkureerimisvõime Euroopa paremikuga . 
+ " Võib ju küsida , et miks ma sellises seisus üldse EM-ile tulin . 
+ Ei tahtnud <TIMEX3 tid="t252" type="DURATION" value="P1Y" comment="võib olla ka punktina">aastat</TIMEX3> päris vahele ka jätta . 
+ Võistlesin kaasa , ma polnud selles seltskonnas päris võõras , " ütles Kristjan Rahnu . 
+</TimeML>

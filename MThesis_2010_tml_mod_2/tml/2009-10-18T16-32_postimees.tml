@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-10-18T16:32" functionInDocument="CREATION_TIME"/>
+
+Pooled valijatest on oma hääle andnud
+<TIMEX3 tid="t1" type="TIME" value="2009-10-18T16:32">18.10.2009 16:32</TIMEX3>
+
+<TIMEX3 tid="t2" type="TIME" value="2009-10-18T16" anchorTimeID="t0">Kella neljaks pärastlõunal</TIMEX3> oli üle Eesti valimas käinud 548 928 inimest ehk 50,1 protsenti hääleõiguslikest valijatest.
+
+
+Kõige suurem on valimisaktiivsus endiselt Jõgevamaal - 53,8 protsenti. Järgneb Tallinn 53,5 protsendiga.
+
+Valimisaktiivsuse tabeli lõpus on jätkuvalt Tartu linn 44,5 protsendiga.
+
+<TIMEX3 tid="t3" type="DATE" value="2005">2005. aasta</TIMEX3> kohalikel valimistel oli <TIMEX3 tid="t4" type="TIME" value="2005-XX-XXTAF" anchorTimeID="t3">pärastlõunaks</TIMEX3> käinud hääletamas 37,5 protsenti valijatest.
+
+<TIMEX3 tid="t5" type="DATE" value="2009-10-18" anchorTimeID="t0">Täna</TIMEX3> on kõik valimisjaoskonnad avatud <TIMEX3 tid="t6" type="TIME" value="2009-10-18T20:00" anchorTimeID="t5">kell 20.00-ni.</TIMEX3> Valimispäeval saab hääletada üksnes oma elukohajärgses jaoskonnas.
+</TimeML>
+

@@ -1,0 +1,624 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2002-01-09TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+09.01.2002
+|
+rubriik:
+Majandus
+|
+artikkel:
+Keskkonnaorganisatsioonide
+nõuded
+energeetikamajandusele
+|
+</ignoreeri>
+<s>
+Keskkonnaorganisatsioonide    keskkonna_organisatsioon+de //_S_ pl g, //
+ühispöördumine    ühis_pöördumine+0 //_S_ sg n, //
+seoses    seoses+0 //_K_ //
+vajadusega    vajadus+ga //_S_ sg kom, //
+taastada    taasta+da //_V_ da, //
+seaduslikkus    seaduslikkus+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+energeetikamajanduse    energeetika_majandus+0 //_S_ sg g, //
+arendamisel    arendamine+l //_S_ sg ad, //
+,    , //_Z_ //
+Narva    Narva+0 //_H_ sg g, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Põlevkivi    põlev_kivi+0 //_S_ sg n, //
+erastamisel    erastamine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Ühispöördumise    ühis_pöördumine+0 //_S_ sg g, //
+tekst    tekst+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+<TIMEX text="9. 01. 2002"  tid="t1" type="DATE" temporalFunction="false" value="2002-01-09" >
+9.01.2002    9.01.2002+0 //_N_ ?, //
+</TIMEX>
+</s>
+<s>
+Lp.    Lp+0 //_Y_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+President    president+0 //_S_ sg n, //
+,    , //_Z_ //
+</s>
+<s>
+Lp.    Lp+0 //_Y_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Peaminister    pea_minister+0 //_S_ sg n, //
+</s>
+<s>
+Lp.    Lp+0 //_Y_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Majandusminister    majandus_minister+0 //_S_ sg n, //
+</s>
+<s>
+Keskkonnaorganisatsioonide    keskkonna_organisatsioon+de //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+läbi    läbi+0 //_D_ //
+viidud    vii+dud //_V_ tud, //    vii=dud+0 //_A_ //    vii=dud+0 //_A_ sg n, //    vii=dud+d //_A_ pl n, //
+dokumentide    dokument+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+erastamisprotsessi    erastamis_protsess+0 //_S_ sg g, //
+analüüs    analüüs+0 //_S_ sg n, //
+näitas    näita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Narva    Narva+0 //_H_ sg g, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Põlevkivi    põlev_kivi+0 //_S_ sg n, //
+erastamisel    erastamine+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsus    valitsus+0 //_S_ sg n, //
+alates    alates+0 //_K_ //
+<TIMEX  tid="t2" type="DATE" temporalFunction="false" value="1998" mod="SECOND_HALF">
+1998.a.    1998.a+0 //_Y_ ?, //
+teisest    teisene+t //_A_ sg p, //
+poolest    poolest+0 //_K_ //
+</TIMEX>
+,    , //_Z_ //
+rikkunud    rikku+nud //_V_ nud, //    rikku=nud+0 //_A_ //    rikku=nud+0 //_A_ sg n, //    rikku=nud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+põhiseadust    põhi_seadus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+mitmeid    mitu+id //_P_ pl p, //
+teisi    teine+0 //_O_ pl p, //    teine+0 //_P_ pl p, //
+seadusi    seadus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+näitas    näita+s //_V_ s, //
+analüüs    analüüs+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="false" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t1">
+senine    senine+0 //_A_ sg n, //
+</TIMEX>
+Eesti    Eesti+0 //_H_ sg g, //
+energeetikamajanduse    energeetika_majandus+0 //_S_ sg g, //
+arendamine    arendamine+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+kulgenud    kulge+nud //_V_ nud, //    kulge=nud+0 //_A_ //    kulge=nud+0 //_A_ sg n, //    kulge=nud+d //_A_ pl n, //
+kooskõlas    koos_kõla+s //_S_ sg in, //
+Eesti    Eesti+0 //_H_ sg g, //
+</s>
+<s>
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+ratifitseeritud    ratifitseeri+tud //_V_ tud, //    ratifitseeri=tud+0 //_A_ //    ratifitseeri=tud+0 //_A_ sg n, //    ratifitseeri=tud+d //_A_ pl n, //
+rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+kokkulepetega    kokku_lepe+tega //_S_ pl kom, //
+-    - //_Z_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+lepinguga    leping+ga //_S_ sg kom, //
+<kiil>
+(    ( //_Z_ //
+ratifitseeritud    ratifitseeri+tud //_V_ tud, //    ratifitseeri=tud+0 //_A_ //    ratifitseeri=tud+0 //_A_ sg n, //    ratifitseeri=tud+d //_A_ pl n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="1995" >
+1995.a.    1995.a+0 //_Y_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+Euroopa    Euroopa+0 //_H_ sg n, //
+Energiahartaga    Energia_harta+ga //_H_ sg kom, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1998" >
+1998    1998+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+direktiivide    direktiiv+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+säästva    säästev+0 //_A_ sg g, //
+arengu    areng+0 //_S_ sg g, //
+printsiipidega    printsiip+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tänu    tänu+0 //_K_ //
+monopoolse    monopoolne+0 //_A_ sg g, //
+põlevkivienergeetika    põlev_kivi_energeetika+0 //_S_ sg g, //
+eelisarendamisele    eelis_arenda=mine+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+säästva    säästev+0 //_A_ sg g, //
+energeetika    energeetika+0 //_S_ sg g, //
+arendamise    arendamine+0 //_S_ sg g, //
+eiramisele    eiramine+le //_S_ sg all, //
+muutunud    muutu+nud //_V_ nud, //    muutu=nud+0 //_A_ //    muutu=nud+0 //_A_ sg n, //    muutu=nud+d //_A_ pl n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+üheks    üks+ks //_N_ sg tr, //    üks+ks //_P_ sg tr, //
+suurimaks    suurim+ks //_U_ sg tr, //
+per    per+0 //_S_ sg n, //
+capita    cap+ta //_S_ sg ab, //    capi+ta //_S_ sg ab, //    capp+ta //_S_ sg ab, //
+saastajaks    saasta=ja+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Lähtudes    lähtu+des //_V_ des, //
+eeltoodust    eel_toodu+st //_S_ sg el, //
+teeme    tege+me //_V_ me, //
+järgmised    järgmine+d //_A_ pl n, //
+ettepanekud    ette_panek+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+Taastada    Taastada+0 //_H_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+energiamajanduse    energia_majandus+0 //_S_ sg g, //
+seaduslik    seaduslik+0 //_A_ sg n, //
+areng    areng+0 //_S_ sg n, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+otsuse    otsus+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+28    28+0 //_N_ ?, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="16. 12. 1998.a."  tid="t5" type="DATE" temporalFunction="false" value="1998-12-16" >
+16.12.1998.a.    16.12.1998.a+0 //_Y_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+korraldusega    korraldus+ga //_S_ sg kom, //
+nr    nr+0 //_Y_ ?, //
+1039    1039+0 //_N_ ?, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX text="31. 12. 1997.a."  tid="t6" type="DATE" temporalFunction="false" value="1997-12-31" >
+31.12.1997.a.    31.12.1997.a+0 //_Y_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+erastamiskava    erastamis_kava+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+Anda    and+a //_V_ da, //
+õiguslik    õiguslik+0 //_A_ sg n, //
+hinnang    hinnang+0 //_S_ sg n, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Põlevkivi    põlev_kivi+0 //_S_ sg p, //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="false" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t1">
+senisele    senine+le //_A_ sg all, //
+</TIMEX>
+erastamisprotsessile    erastamis_protsess+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+Valitsuse    valitsus+0 //_S_ sg g, //
+tegevusele    tegevus+le //_S_ sg all, //
+selle    see+0 //_P_ sg g, //
+läbiviimisel    läbi_vii=mine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+Koostada    Koostada+0 //_H_ sg g, //
+kooskõlas    koos_kõla+s //_S_ sg in, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+seaduste    seadus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+vastavate    vastav+te //_A_ pl g, //
+direktiividega    direktiiv+dega //_S_ pl kom, //
+uus    uus+0 //_A_ sg n, //
+pikaajaline    pika_ajaline+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuni    kuni+0 //_K_ //
+<TIMEX  tid="t9" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t7" endPoint="t8" >
+<TIMEX text="aastani 2035-"  tid="t7" type="DATE" temporalFunction="false" value="2035" >
+aastani    aasta+ni //_S_ sg ter, //
+<TIMEX text="2040"  tid="t8" type="DATE" temporalFunction="false" value="2040" >
+2035-2040    2035-2040+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+,    , //_Z_ //
+energeetika    energeetika+0 //_S_ sg g, //
+arengukava    arengu_kava+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Uue    uus+0 //_A_ sg g, //
+arengukava    arengu_kava+0 //_S_ sg g, //
+koostamine    koostamine+0 //_S_ sg n, //
+viia    vii+a //_V_ da, //
+läbi    läbi+0 //_D_ //
+koos    koos+0 //_K_ //
+strateegilise    strateegiline+0 //_A_ sg g, //
+keskkonnamõju    keskkonna_mõju+0 //_S_ sg g, //
+hindamise    hindamine+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+avalikkuse    avalikkus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+valitsusväliste    valitsus_väline+te //_A_ pl g, //
+keskkonnaorganisatsioonide    keskkonna_organisatsioon+de //_S_ pl g, //
+kaasamisega    kaasamine+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+4    4+0 //_N_ ?, //
+)    ) //_Z_ //
+Mitte    mitte+0 //_D_ //
+sulgeda    sulge+da //_V_ da, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liiduga    Liidu+ga //_H_ sg kom, //    Liidud+ga //_H_ sg kom, //    Liit+ga //_H_ sg kom, //
+peetavate    peetav+te //_A_ pl g, //
+läbirääkimiste    läbi_rääkimine+te //_S_ pl g, //
+energeetika    energeetika+0 //_S_ sg g, //
+peaükki    peaükk+0 //_S_ sg g, //    peaükki+0 //_S_ sg g, //
+enne    enne+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+valmis    valmis+0 //_D_ //
+uus    uus+0 //_A_ sg n, //
+pikaajaline    pika_ajaline+0 //_A_ sg n, //
+energeetika    energeetika+0 //_S_ sg g, //
+arengukava    arengu_kava+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tagada    taga+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+positsioon    positsioon+0 //_S_ sg n, //
+energeetika    energeetika+0 //_S_ sg g, //
+peatüki    pea_tükk+0 //_S_ sg g, //
+osas    osas+0 //_K_ //
+põhineks    põhine+ks //_V_ ks, //
+uuel    uus+l //_A_ sg ad, //
+pikaajalisel    pika_ajaline+l //_A_ sg ad, //
+energeetika    energeetika+0 //_S_ sg g, //
+arengukaval    arengu_kava+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+Peatada    peata+da //_V_ da, //
+koheselt    koheselt+0 //_D_ //
+põlevkivi    põlev_kivi+0 //_S_ sg g, //
+eristaatuse    eri_staatus+0 //_S_ sg g, //
+taotlemine    taotlemine+0 //_S_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Komisjonilt    komisjon+lt //_S_ sg abl, //
+selle    see+0 //_P_ sg g, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praeguses    praegune+s //_A_ sg in, //
+</TIMEX>
+sõnastuses    sõnastus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Pöörduda    pöördu+da //_V_ da, //
+</s>
+<s>
+eristaatuse    eri_staatus+0 //_S_ sg g, //
+taotlemise    taotlemine+0 //_S_ sg g, //
+küsimuse    küsimus+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+tagasi    tagasi+0 //_D_ //
+pärast    pärast+0 //_K_ //
+pikaajalise    pika_ajaline+0 //_A_ sg g, //
+energeetika    energeetika+0 //_S_ sg g, //
+arengukava    arengu_kava+0 //_S_ sg g, //
+koostamist    koostamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+6    6+0 //_N_ ?, //
+)    ) //_Z_ //
+Algatada    algata+da //_V_ da, //
+keskkonnamajanduslik    keskkonna_majanduslik+0 //_A_ sg n, //
+analüüs    analüüs+0 //_S_ sg n, //
+põlevkivitootmise    põlev_kivi_toot=mine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+põlevkivi    põlev_kivi+0 //_S_ sg g, //
+baasil    baas+l //_S_ sg ad, //
+elektri    elekter+0 //_S_ sg g, //
+tootmise    toot=mine+0 //_S_ sg g, //
+tegeliku    tegelik+0 //_A_ sg g, //
+maksumuse    maksumus+0 //_S_ sg g, //
+leidmiseks    leidmine+ks //_S_ sg tr, //
+,    , //_Z_ //
+võttes    võt+es //_V_ des, //
+sealhulgas    seal_hulgas+0 //_D_ //
+arvesse    arve+sse //_S_ sg ill, //
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="false" value="2001-10-27" >
+27.oktoobril    27._oktoober+l //_S_ sg ad, //
+2001    2001+0 //_N_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+vastu    vastu+0 //_K_ //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+direktiivi    direktiiv+0 //_S_ sg g, //
+nr    nr+0 //_Y_ ?, //
+<TIMEX text="2001" tid="t1_3" type="DATE" temporalFunction="false" value="2001">
+2001/77/EC    2001/77/EC+0 //_Y_ ?, //
+</TIMEX>
+nõuded    nõue+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+Töötada    tööta+da //_V_ da, //
+välja    välja+0 //_D_ //
+uuele    uus+le //_A_ sg all, //
+pikaajalisele    pika_ajaline+le //_A_ sg all, //
+energeetika    energeetika+0 //_S_ sg g, //
+arengukavale    arengu_kava+le //_S_ sg all, //
+vastav    vastav+0 //_A_ sg n, //
+Narva    Narva+0 //_H_ sg g, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+majanduslikult    majanduslikult+0 //_D_ //
+põhjendatud    põhjenda+tud //_V_ tud, //    põhjendatud+0 //_A_ //    põhjendatud+0 //_A_ sg n, //    põhjendatud+d //_A_ pl n, //
+rekonstrueerimise    re_konstrueerimine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+käigushoidmise    käigu+s_hoidmine+0 //_S_ sg g, //
+kava    kava+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+Korraldada    Korraldada+0 //_H_ sg g, //
+keskkonnamõju    keskkonna_mõju+0 //_S_ sg g, //
+hinnang    hinnang+0 //_S_ sg n, //
+juba    juba+0 //_D_ //
+alustatud    alusta+tud //_V_ tud, //    alusta=tud+0 //_A_ //    alusta=tud+0 //_A_ sg n, //    alusta=tud+d //_A_ pl n, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+energiablokkide    energia_blokk+de //_S_ pl g, //
+rekonstrueerimisele    re_konstrueerimine+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+käigus    käigus+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+planeeritud    planeeri+tud //_V_ tud, //    planeeritud+0 //_A_ //    planeeritud+0 //_A_ sg n, //    planeeritud+d //_A_ pl n, //
+paigaldada    paigalda+da //_V_ da, //
+keevkihikatlad    keev_kihi_katel+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuni    kuni+0 //_K_ //
+keskkonnamõju    keskkonna_mõju+0 //_S_ sg g, //
+hinnangu    hinnang+0 //_S_ sg g, //
+valmimiseni    valmimine+ni //_S_ sg ter, //
+peatada    peata+da //_V_ da, //
+energiablokkide    energia_blokk+de //_S_ pl g, //
+rekonstrueerimine    re_konstrueerimine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+9    9+0 //_N_ ?, //
+)    ) //_Z_ //
+Tagada    taga+da //_V_ da, //
+energeetika    energeetika+0 //_S_ sg g, //
+jt.    jt+0 //_Y_ ?, //
+majanduse    majandus+0 //_S_ sg g, //
+valdkondade    valdkond+de //_S_ pl g, //
+arengukavade    arengu_kava+de //_S_ pl g, //
+koostamisel    koostamine+l //_S_ sg ad, //
+seadusega    seadus+ga //_S_ sg kom, //
+nõutud    nõu=tud+0 //_A_ //    nõu=tud+0 //_A_ sg n, //    nõu=tud+d //_A_ pl n, //    nõud+tud //_V_ tud, //    nõutu+d //_A_ pl n, //
+avalikustamine    avalikustamine+0 //_S_ sg n, //
+</s>
+<s>
+ja    ja+0 //_J_ //
+läbipaistvus    läbi_paistvus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kaasata    Kaasata+0 //_H_ sg n, //
+kõigisse    kõik+sse //_P_ pl ill, //
+riigi    riik+0 //_S_ sg g, //
+tähtsate    tähtis+te //_A_ pl g, //
+arenguprobleemidega    arengu_probleem+dega //_S_ pl kom, //
+tegelevatesse    tegelev+tesse //_A_ pl ill, //
+komisjonidesse    komisjon+desse //_S_ pl ill, //
+valitsusväliste    valitsus_väline+te //_A_ pl g, //
+</s>
+<s>
+keskkonnaorganisatsioonide    keskkonna_organisatsioon+de //_S_ pl g, //
+esindajad    esindaja+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+Muuta    Muuta+0 //_H_ sg g, //
+järelvalveorganid    järel_valve_organ+d //_S_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Energiaturu    Energia_turg+0 //_H_ sg g, //    Energiaturu+0 //_H_ sg g, //
+Inspektsioon    inspektsioon+0 //_S_ sg n, //
+,    , //_Z_ //
+Tarbijakaitse    Tarbija_kaitse+0 //_H_ sg g, //
+Amet    amet+0 //_S_ sg n, //
+jt.    jt+0 //_Y_ ?, //
+haldussuutlikeks    haldus_suutlik+eks //_A_ pl tr, //
+.    . //_Z_ //
+</s>
+<s>
+Keskkonnaorganisatsioonid    keskkonna_organisatsioon+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Keskkonnainstituut    keskkonna_instituut+0 //_S_ sg n, //
+,    , //_Z_ //
+</s>
+<s>
+Kaupmehe    Kaupmehe+0 //_H_ sg n, //
+14    14+0 //_N_ ?, //
+,    , //_Z_ //
+Tallinn    Tallinn+0 //_H_ sg n, //
+10114    10114+0 //_N_ ?, //
+,    , //_Z_ //
+Heiki    Heiki+0 //_H_ sg n, //
+Kalle    Kalle+0 //_H_ sg n, //
+,    , //_Z_ //
+juhatuse    juhatus+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+</s>
+<s>
+Eestimaa    Eesti_maa+0 //_H_ sg g, //
+Looduse    loodus+0 //_S_ sg g, //
+Fond    fond+0 //_S_ sg n, //
+,    , //_Z_ //
+</s>
+<s>
+Pk    Pk+0 //_Y_ ?, //
+245    245+0 //_N_ ?, //
+,    , //_Z_ //
+Tartu    Tartu+0 //_H_ sg g, //
+50002    50002+0 //_N_ ?, //
+,    , //_Z_ //
+Toomas    Toomas+0 //_H_ sg n, //
+Trapido    Trapido+0 //_H_ sg n, //
+,    , //_Z_ //
+tegevdirektor    tegev_direktor+0 //_S_ sg n, //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Roheline    roheline+0 //_A_ sg n, //
+Liikumine    liikumine+0 //_S_ sg n, //
+,    , //_Z_ //
+</s>
+<s>
+Postkast    Post_kast+0 //_H_ sg n, //
+318    318+0 //_N_ ?, //
+,    , //_Z_ //
+Tartu    Tartu+0 //_H_ sg g, //
+50002    50002+0 //_N_ ?, //
+,    , //_Z_ //
+Peep    Peep+0 //_H_ sg n, //
+Mardiste    Mardiste+0 //_H_ sg n, //
+,    , //_Z_ //
+ERL    ERL+0 //_Y_ ?, //
+tegevjuht    tegev_juht+0 //_S_ sg n, //
+</s>
+<s>
+Nõmme    Nõmme+0 //_H_ sg g, //
+Tee    tee+0 //_S_ sg n, //
+Selts    Selts+0 //_H_ sg n, //
+,    , //_Z_ //
+</s>
+<s>
+Hiiu-Suurtüki    Hiiu-Suurtüki+0 //_H_ sg n, //
+18-1    18-1+0 //_N_ ?, //
+,    , //_Z_ //
+Tallinn    Tallinn+0 //_H_ sg n, //
+11611    11611+0 //_N_ ?, //
+,    , //_Z_ //
+Helle    Helle+0 //_H_ sg n, //
+Vilu    Vilu+0 //_H_ sg n, //
+,    , //_Z_ //
+juhatuse    juhatus+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+</s>
+<s>
+Säästva    säästev+0 //_A_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+Instituut    Instituut+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+SEI-Tallinn    SEI-Tallinn+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+</s>
+<s>
+PK-160    PK-160+0 //_N_ ?, //
+,    , //_Z_ //
+Tallinn    Tallinn+0 //_H_ sg n, //
+10502    10502+0 //_N_ ?, //
+,    , //_Z_ //
+Olavi    Olav+0 //_H_ sg g, //
+Tammemäe    Tammemäe+0 //_H_ sg n, //
+,    , //_Z_ //
+juhataja    juhataja+0 //_S_ sg n, //
+</s>
+<s>
+Tartu    Tartu+0 //_H_ sg g, //
+Üliõpilaste    üli_õpilane+te //_S_ pl g, //
+Looduskaitsering    loodus_kaitse_ring+0 //_S_ sg n, //
+</s>
+<s>
+Veski    Vesk+0 //_H_ sg g, //    Veski+0 //_H_ sg g, //
+15-10    15-10+0 //_N_ ?, //
+,    , //_Z_ //
+Tartu    Tartu+0 //_H_ sg g, //
+51005    51005+0 //_N_ ?, //
+,    , //_Z_ //
+Jaan    Jaan+0 //_H_ sg n, //
+Pärn    Pärn+0 //_H_ sg n, //
+,    , //_Z_ //
+juhatuse    juhatus+0 //_S_ sg g, //
+liige    liige+0 //_S_ sg n, //
+</s>

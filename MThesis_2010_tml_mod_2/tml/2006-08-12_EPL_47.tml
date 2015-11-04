@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Sebastien Loebile mõjus suvepaus hästi 
+Autoralli MM-sari jätkub pärast suvevaheaega Saksamaa ralliga . 
+ <TIMEX3 tid="t205" type="DATE" value="2006-08-11" anchorTimeID="t208">Esimese päeva</TIMEX3> ehk kaheksa kiiruskatse järel on liider <TIMEX3 tid="t206" type="DURATION" value="P4Y" beginPoint="t408" endPoint="t0">neljal viimasel aastal</TIMEX3><TIMEX3 tid="t408" type="DATE" value="2002" temporalFunction="true"/> selle ralli võitnud kahekordne maailmameister ja käimasoleva MM-sarja suveräänne liider Sebastien Loeb ( Citro&#235;n ) , kelle edu teisel kohal sõitva tiimikaaslase Daniel Sordo ees on <TIMEX3 tid="t207" type="DURATION" value="PT42.7S" >42,7 sekundit</TIMEX3> . 
+ Need kaks meest olid <TIMEX3 tid="t208" type="DATE" value="2006-08-11" anchorTimeID="t0">reedel</TIMEX3> ka ainsad , kes katsevõiduni küündisid - prantslane võitis viis ja hispaanlane kolm kihutamist . 
+ Kolmaski koht kuulub Citro&#235;nile , mille roolis soomlane Toni Gardemeister ( <TIMEX3 tid="t209" type="DURATION" value="PT2.06S" >+2.06</TIMEX3> ) . 
+ <TIMEX3 tid="t210" type="DURATION" value="PT5S" >Viie sekundiga</TIMEX3> on kaasmaalasest maas Marcus Grönholm ( Ford ) . 
+ Viiendana läheb <TIMEX3 tid="t211" type="DATE" value="2006-08-12" anchorTimeID="t205" >teisele päevale</TIMEX3> Petter Solberg ( Subaru ) . 
+</TimeML>

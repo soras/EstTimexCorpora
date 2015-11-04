@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-01-07" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+Toimetaja : Tuuli Aug 
+ Foto : www.redfish.net 
+ <TIMEX3 tid="t30" type="TIME" value="2007-01-06TNI" anchorTimeID="t0">Eile öösel</TIMEX3> mõrvati Venemaal õigeusupreester , tema kirikust rööviti ikoone ja lõpuks süüdati pühakoda ka põlema . 
+ Uuralite Sverdlovski regiooni kohalike võimude teatel pandi mõrv toime <TIMEX3 tid="t31" type="TIME" value="2007-01-06TNI" anchorTimeID="t0">6. jaanuari ööl</TIMEX3> ehk siis <TIMEX3 tid="t32" type="TIME" value="2007-01-06TEV" anchorTimeID="t0">Venemaa jõuluõhtul</TIMEX3> , vahendab Ria Novosti . 
+ Kohaliku Peeter-Pauli kiriku õpetaja laip leiti põlenud kiriku varemetest . 
+ Uurijate arvates panid kurjategijad kiriku põlema selleks , et oma tapa-ja röövlitöö jälgi varjata . 
+ Preestri mõrvanud kurjategijad viisid kirikust kaasa üle kahekümne ikooni . 
+ Miilits tabas kriminaalid kiiresti : vahi alla võeti kaks kohalikku töötut meest , kellel on juba varem kuriteoregister . 
+ Osa ikoone saadi tabatute käest kohe kätte , osa leiti hiljem kohalikule surnuaiale peidetult . 
+ Moskva patriarhaat on preestri mõrvast šokeeritud . 
+ Patriarhaadi pressiesindaja Vladimir Vigilanski sõnul on preestrite ründmisest <TIMEX3 tid="t33" type="DATE" value="PAST_REF" anchorTimeID="t0">viimasel ajal</TIMEX3> sagedamini kuulda kui varem ja preestriamet hakkab muutuma ohtlikuks elukutseks . 
+ Vigilanski lisas : " Iga inimese mõrv on alati tragöödia , kuid preestri mõrv <TIMEX3 tid="t34" type="TIME" value="2007-01-06TEV" anchorTimeID="t0" comment="võib aga olla, et siin jõuluõhtu üldisemas tähenduses...">jõuluõhtul</TIMEX3> on šokeeriv " 
+</TimeML>

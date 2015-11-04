@@ -1,0 +1,1233 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-05-29TXX:XX" />
+<ignoreeri>
+|
+autor:
+tekst
+:
+Aimar
+Ventsel
+|
+ajakirjanumber:
+Luup
+Nr
+.
+11
+(
+119
+)
+,
+29.
+mai
+2000
+|
+rubriik:
+VÄLISMAA
+|
+artikkel:
+Saksamaa
+uued
+tuuled
+|
+</ignoreeri>
+<s>
+EUROOPA    Euroopa+0 //_H_ sg g, //
+LIIT    liit+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+soovib    soovi+b //_V_ b, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+valitsemiseks    valitsemine+ks //_S_ sg tr, //
+luua    loo+a //_V_ da, //
+suurriikidest    suur_riik+dest //_S_ pl el, //
+tuumikut    tuumik+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Joschka    Joschka+0 //_H_ sg n, //
+Fischer    Fischer+0 //_H_ sg n, //
+pidas    pida+s //_V_ s, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2000-05-12" >
+12.    12.+0 //_O_ ?, //
+mail    maa+il //_S_ pl ad, //    mai+l //_S_ sg ad, //
+</TIMEX>
+Berliinis    Berliin+s //_H_ sg in, //
+Humboldti    Humboldt+0 //_H_ sg g, //    Humboldti+0 //_H_ sg g, //
+Ülikoolis    Üli_kool+s //_H_ sg in, //
+kõne    kõne+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+ta    tema+0 //_P_ sg n, //
+kirjeldas    kirjelda+s //_V_ s, //
+oma    oma+0 //_P_ sg g, //
+kujutluspilti    kujutlus_pilt+0 //_S_ sg p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+võimalikust    võimalik+st //_A_ sg el, //
+arengust    areng+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Välisminister    välis_minister+0 //_S_ sg n, //
+rõhutas    rõhuta+s //_V_ s, //
+mitu    mitu+0 //_P_ sg n, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+astub    astu+b //_V_ b, //
+üles    üles+0 //_D_ //
+eraisikuna    era_isik+na //_S_ sg es, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kajastab    kajasta+b //_V_ b, //
+vaid    vaid+0 //_D_ //
+iseenda    ise_enese+0 //_P_ sg g, //
+arvamust    arvamus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kuid    kuid+0 //_J_ //
+nendes    see+des //_P_ pl in, //
+seisukohtades    seisu_koht+des //_S_ pl in, //
+kaheldakse    kahtle+dakse //_V_ takse, //
+kõvasti    kõvasti+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Esiteks    esiteks+0 //_D_ //
+sarnanes    sarnane+s //_V_ s, //
+kõne    kõne+0 //_S_ sg g, //
+sisu    sisu+0 //_S_ sg n, //
+olulisel    oluline+l //_A_ sg ad, //
+määral    määr+l //_S_ sg ad, //
+sellega    see+ga //_P_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+Fischer    Fischer+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ametiisikuna    ameti_isik+na //_S_ sg es, //
+juba    juba+0 //_D_ //
+mitu    mitu+0 //_P_ sg n, //
+korda    kord+0 //_S_ sg p, //
+välja    välja+0 //_D_ //
+käinud    käi+nud //_V_ nud, //    käi=nud+0 //_A_ //    käi=nud+0 //_A_ sg n, //    käi=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+teiseks    teiseks+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+usu    usku+0 //_V_ o, //
+keegi    keegi+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+euroliidu    euro_liit+0 //_S_ sg g, //
+reformimise    reformimine+0 //_S_ sg g, //
+juhtfiguure    juht_figuur+e //_S_ pl p, //
+tuleks    tule+ks //_V_ ks, //
+millegagi    miski+gagi //_P_ sg kom, //
+sellest    see+st //_P_ sg el, //
+valdkonnast    valdkond+st //_S_ sg el, //
+avalikkuse    avalikkus+0 //_S_ sg g, //
+ette    ette+0 //_K_ //
+valitsusega    valitsus+ga //_S_ sg kom, //
+kooskõlastamata    koos_kõlasta=mata+0 //_A_ //
+.    . //_Z_ //
+</s>
+<s>
+Tuumik-Euroopa    Tuumik-Euroopa+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+välisministri    välis_minister+0 //_S_ sg g, //
+erakõne    era_kõne+0 //_S_ sg g, //
+keskseks    keskne+ks //_A_ sg tr, //
+ideeks    idee+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+nn    nn+0 //_Y_ ?, //
+Kerneuropa    Kerneuropa+0 //_H_ sg n, //
+ehk    ehk+0 //_D_ //
+eesti    eesti+0 //_G_ //
+keeles    keel+s //_S_ sg in, //
+siis    siis+0 //_D_ //
+tuumik-Euroopa    tuumik-Euroopa+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Fischeri    Fischer+0 //_H_ sg g, //    Fischeri+0 //_H_ sg g, //
+ettekujutuse    ette_kujutus+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+poleks    ole+ks //_V_ neg ks, //
+Euroopa    Euroopa+0 //_H_ sg n, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+asjaajamistesse    asja_ajamine+tesse //_S_ pl ill, //
+vaja    vaja+0 //_D_ //
+kaasata    kaasa+ta //_V_ da, //
+kõiki    kõik+0 //_P_ pl p, //
+liikmesmaid    liikmes_maa+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Piisaks    piisa+ks //_V_ ks, //
+ka    ka+0 //_D_ //
+sellest    see+st //_P_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+maailma    maa_ilm+0 //_S_ sg g, //
+asjade    asi+de //_S_ pl g, //
+üle    üle+0 //_K_ //
+aru    aru+0 //_S_ sg p, //
+pidama    pida+ma //_V_ ma, //
+tuleksid    tule+ksid //_V_ ksid, //
+kokku    kokku+0 //_D_ //
+kuus    kuus+0 //_N_ sg n, //
+nn    nn+0 //_Y_ ?, //
+tuumik-Euroopa    tuumik-Euroopa+0 //_H_ sg g, //
+riiki    riik+0 //_S_ sg p, //
+ehk    ehk+0 //_J_ //
+siis    siis+0 //_D_ //
+need    see+d //_P_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+omal    oma+l //_A_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    liit+0 //_S_ sg g, //
+asutasid    asuta+sid //_V_ sid, //
+.    . //_Z_ //
+</s>
+<s>
+Nimelt    nimelt+0 //_D_ //
+olevat    ole+vat //_V_ vat, //
+Fischeri    Fischer+0 //_H_ sg g, //    Fischeri+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+raske    raske+0 //_A_ sg n, //
+erinevaid    erinev+id //_A_ pl p, //
+riike    riik+e //_S_ pl p, //
+ühiseks    ühine+ks //_A_ sg tr, //
+organismiks    organism+ks //_S_ sg tr, //
+siduda    sidu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Sellepärast    selle_pärast+0 //_D_ //
+tuleks    tule+ks //_V_ ks, //
+alustada    alusta+da //_V_ da, //
+samm-sammult    samm-sammult+0 //_D_ //
+ja    ja+0 //_J_ //
+tihendada    tihenda+da //_V_ da, //
+kõigepealt    kõige_pealt+0 //_D_ //
+koostööd    koos_töö+d //_S_ sg p, //
+ainult    ainult+0 //_D_ //
+ELi    EL+i //_Y_ sg g, //
+kuue    kuub+0 //_S_ sg g, //
+vanima    vanim+0 //_U_ sg g, //
+liikmesmaaga    liikmes_maa+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Prantsusmaa    Prantsus_maa+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Belgia    Belgia+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mitteametlikult    mitte_ametlikult+0 //_D_ //
+juba    juba+0 //_D_ //
+väljendanud    väljenda+nud //_V_ nud, //    väljenda=nud+0 //_A_ //    väljenda=nud+0 //_A_ sg n, //    väljenda=nud+d //_A_ pl n, //
+rahulolu    rahul_olu+0 //_S_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+sisese    sisene+0 //_A_ sg g, //
+liidu    liit+0 //_S_ sg g, //
+loomisega    loomine+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Kampa    kamp+0 //_S_ adt, //
+tuleks    tule+ks //_V_ ks, //
+saada    saa+da //_V_ da, //
+veel    veel+0 //_D_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+oleks    ole+ks //_V_ ks, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+mõjukad    mõjukas+d //_A_ pl n, //
+riigid    riik+d //_S_ pl n, //
+ühes    üks+s //_N_ sg in, //    üks+s //_P_ sg in, //
+paadis    paat+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Plaane    Plaane+0 //_H_ sg n, //
+võib    või+b //_V_ b, //
+iga    iga+0 //_P_ sg n, //
+inimene    inimene+0 //_S_ sg n, //
+teha    tege+a //_V_ da, //
+muidugi    muidugi+0 //_D_ //
+nii    nii+0 //_D_ //
+palju    palju+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tahab    taht+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_10" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0">
+Peatselt    peatselt+0 //_D_ //
+</TIMEX>
+30    30+0 //_N_ ?, //
+liikmeni    liige+ni //_S_ sg ter, //
+kasvada    kasva+da //_V_ da, //
+ähvardav    ähvardav+0 //_A_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liit    Liit+0 //_H_ sg n, //
+peabki    pida+bki //_V_ b, //
+midagi    miski+dagi //_P_ sg p, //
+ette    ette+0 //_D_ //
+võtma    võt+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+oma    oma+0 //_P_ sg g, //
+iganenud    igane+nud //_V_ nud, //    iganenud+0 //_A_ //    iganenud+0 //_A_ sg n, //    iganenud+d //_A_ pl n, //
+struktuure    struktuur+e //_S_ pl p, //
+reformida    reformi+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Siiski    siiski+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+enamik    enamik+0 //_S_ sg n, //
+euroliidu    euro_liit+0 //_S_ sg g, //
+liikmeid    liige+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kandidaatmaid    kandidaat_maa+id //_S_ pl p, //
+Fischeri    Fischer+0 //_H_ sg g, //    Fischeri+0 //_H_ sg g, //
+“    “ //_Z_ //
+mõned    mõni+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võrdsemad    võrdsem+d //_C_ pl n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+”    ” //_Z_ //
+plaanide    plaan+de //_S_ pl g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kõige    kõige+0 //_D_ //
+häälekamalt    hääleka=malt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+protesti    protest+0 //_S_ sg g, //
+avaldanud    avalda+nud //_V_ nud, //    avalda=nud+0 //_A_ //    avalda=nud+0 //_A_ sg n, //    avalda=nud+d //_A_ pl n, //
+ehk    ehk+0 //_D_ //
+Soome    Soome+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Muidugi    muidugi+0 //_D_ //
+lülitaks    lüli+taks //_V_ taks, //
+“    “ //_Z_ //
+süvendatud    süvenda+tud //_V_ tud, //    süvenda=tud+0 //_A_ //    süvenda=tud+0 //_A_ sg n, //    süvenda=tud+d //_A_ pl n, //
+paindlik    paindlik+0 //_A_ sg n, //
+koostöö    koos_töö+0 //_S_ sg n, //
+”    ” //_Z_ //
+nn    nn+0 //_Y_ ?, //
+tuumikriikide    tuumik_riik+de //_S_ pl g, //
+vahel    vahel+0 //_K_ //
+“    “ //_Z_ //
+vähemad    vähem+d //_C_ pl n, //
+vennad    vend+d //_S_ pl n, //
+”    ” //_Z_ //
+paljude    palju+de //_P_ pl g, //
+otsuste    otsus+te //_S_ pl g, //
+tegemisest    tegemine+st //_S_ sg el, //
+automaatselt    automaatselt+0 //_D_ //
+välja    välja+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Soome    Soome+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Erkki    Erkki+0 //_H_ sg n, //
+Tuomioja    Tuomioja+0 //_H_ sg n, //
+rõhutas    rõhuta+s //_V_ s, //
+oma    oma+0 //_P_ sg g, //
+kõnes    kõne+s //_S_ sg in, //
+Berliinis    Berliin+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+tugevus    tugevus+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+seisne    seisne+0 //_V_ o, //
+mitte    mitte+0 //_D_ //
+tuumikriikide    tuumik_riik+de //_S_ pl g, //
+absoluutses    absoluutne+s //_A_ sg in, //
+sõna-    sõna+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+otsustusõiguses    otsustus_õigus+s //_S_ sg in, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+“    “ //_Z_ //
+heas    hea+s //_A_ sg in, //
+majandamises    majandamine+s //_S_ sg in, //
+,    , //_Z_ //
+konkurentsivõime    konkurentsi_võime+0 //_S_ sg g, //
+toetamises    toetamine+s //_S_ sg in, //
+,    , //_Z_ //
+know-how    know-how+0 //_S_ sg n, //
+vahetamises    vahetamine+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+operatiivses    operatiivne+s //_A_ sg in, //
+sotsiaalpoliitikas    sotsiaal_poliitika+s //_S_ sg in, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Prantsusmaa    Prantsus_maa+0 //_H_ sg g, //
+traditsioonilistesse    traditsiooniline+tesse //_A_ pl ill, //
+koostöö    koos_töö+0 //_S_ sg g, //
+süvendamise    süvendamine+0 //_S_ sg g, //
+plaanidesse    plaan+desse //_S_ pl ill, //
+suhtuvad    suhtu+vad //_V_ vad, //
+sama    sama+0 //_P_ sg n, //
+traditsiooniliselt    traditsiooniliselt+0 //_D_ //
+skeptiliselt    skeptiliselt+0 //_D_ //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Iirimaa    Iiri_maa+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+need    see+d //_P_ pl n, //
+riigid    riik+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Fischeri    Fischer+0 //_H_ sg g, //    Fischeri+0 //_H_ sg g, //
+plaane    plaan+e //_S_ pl p, //
+kõvasti    kõvasti+0 //_D_ //
+kritiseerinud    kritiseeri+nud //_V_ nud, //    kritiseeri=nud+0 //_A_ //    kritiseeri=nud+0 //_A_ sg n, //    kritiseeri=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg n, //
+Föderatsioon    Föderatsioon+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eraisik    Era_isik+0 //_H_ sg n, //    Eraisik+0 //_H_ sg n, //
+Joschka    Joschka+0 //_H_ sg n, //
+Fischeri    Fischer+0 //_H_ sg g, //    Fischeri+0 //_H_ sg g, //
+ettekanne    ette_kanne+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+sisaldanud    sisalda+nud //_V_ nud, //    sisalda=nud+0 //_A_ //    sisalda=nud+0 //_A_ sg n, //    sisalda=nud+d //_A_ pl n, //
+midagi    miski+dagi //_P_ sg p, //
+uut    uus+t //_A_ sg p, //
+peale    peale+0 //_D_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+väljendi    väljend+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Selleks    see+ks //_P_ sg tr, //
+oli    ole+i //_V_ s, //
+Euroopa    Euroopa+0 //_H_ sg n, //
+Föderatsioon    Föderatsioon+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+EF    EF+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Nimelt    nimelt+0 //_D_ //
+peaksid    pida+ksid //_V_ ksid, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+tuumikriigid    tuumik_riik+d //_S_ pl n, //
+moodustama    moodusta+ma //_V_ ma, //
+föderatsioonilaadse    föderatsiooni_laadne+0 //_A_ sg g, //
+ühenduse    ühendus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+seda    see+da //_P_ sg p, //
+ilma    ilma+0 //_K_ //
+naljata    nali+ta //_S_ sg ab, //
+.    . //_Z_ //
+</s>
+<s>
+Tulevane    tulevane+0 //_A_ sg n, //
+EF    EF+0 //_Y_ ?, //
+peaks    pida+ks //_V_ ks, //
+reguleerima    reguleeri+ma //_V_ ma, //
+tööjaotust    töö_jaotus+t //_S_ sg p, //
+rahvusriikide    rahvus_riik+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+Föderatsiooni    Föderatsioon+0 //_H_ sg g, //    Föderatsiooni+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+nõnda    nõnda+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+“    “ //_Z_ //
+hundid    hunt+d //_S_ pl n, //
+oleksid    ole+ksid //_V_ ksid, //
+söönud    söö+nud //_V_ nud, //    söönud+0 //_A_ //    söönud+0 //_A_ sg n, //    söönud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+lambad    lammas+d //_S_ pl n, //
+terved    terve+d //_A_ pl n, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Selleks    see+ks //_P_ sg tr, //
+peaksid    pida+ksid //_V_ ksid, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+tuumikriigid    tuumik_riik+d //_S_ pl n, //
+valima    vali+ma //_V_ ma, //
+otsestel    otsene+tel //_A_ pl ad, //
+valimistel    valimine+tel //_S_ pl ad, //
+presidendi    president+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kahekojalise    kahe_koja=line+0 //_A_ sg g, //
+parlamendi    parlament+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Uute    uus+te //_A_ pl g, //
+võimuorganite    võimu_organ+te //_S_ pl g, //
+tekkimine    tekkimine+0 //_S_ sg n, //
+muudaks    muut+ks //_V_ ks, //
+automaatselt    automaatselt+0 //_D_ //
+küsitavaks    küsitav+ks //_A_ sg tr, //
+europarlamendi    euro_parlament+0 //_S_ sg g, //
+mõttekuse    mõttekus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+töövõime    töö_võime+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+seega    seega+0 //_D_ //
+ka    ka+0 //_D_ //
+kõigi    kõik+0 //_P_ pl g, //
+mittetuumikriikide    mitte_tuumik_riik+de //_S_ pl g, //
+mõju    mõju+0 //_S_ sg p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidus    liit+s //_S_ sg in, //
+vastu    vastu+0 //_D_ //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+otsustele    otsus+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+EFi    EF+i //_Y_ sg g, //
+idee    idee+0 //_S_ sg g, //
+elluviimisel    ellu_vii=mine+l //_S_ sg ad, //
+saavad    saa+vad //_V_ vad, //
+peatakistuseks    pea_takistus+ks //_S_ sg tr, //
+kindlasti    kindlasti+0 //_D_ //
+inglased    inglane+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kardavad    kart+vad //_V_ vad, //
+teatavasti    teatavasti+0 //_D_ //
+suisa    suisa+0 //_D_ //
+paaniliselt    paaniliselt+0 //_D_ //
+siduda    sidu+da //_V_ da, //
+end    ise+0 //_P_ sg p, //
+mingi    mingi+0 //_P_ sg g, //
+föderatiivse    föderatiivne+0 //_A_ sg g, //
+ühendusega    ühendus+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+riigid    riik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+peaksid    pida+ksid //_V_ ksid, //
+teoreetiliselt    teoreetiliselt+0 //_D_ //
+kunagi    kunagi+0 //_D_ //
+-    - //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selleks    see+ks //_P_ sg tr, //
+suureks    suur+ks //_A_ sg tr, //
+sammuks    samm+ks //_S_ sg tr, //
+küpsed    küps+d //_A_ pl n, //
+-    - //_Z_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Föderatsiooniga    föderatsioon+ga //_S_ sg kom, //
+ühinema    ühine+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+peaksid    pida+ksid //_V_ ksid, //
+endalt    ise+lt //_P_ sg abl, //
+küsima    küsi+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+roll    roll+0 //_S_ sg n, //
+neil    tema+l //_P_ pl ad, //
+siis    siis+0 //_D_ //
+selles    see+s //_P_ sg in, //
+ühenduses    ühendus+s //_S_ sg in, //
+oleks    ole+ks //_V_ ks, //
+.    . //_Z_ //
+</s>
+<s>
+Lonkav    lonkav+0 //_A_ sg n, //
+euro    euro+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+võimul    võim+l //_S_ sg ad, //
+oleva    olev+0 //_A_ sg g, //
+sotsiaaldemokraatliku-rohelise    sotsiaal_demo_kraatliku-roheline+0 //_A_ sg g, //
+valitsuskoalitsiooni    valitsus_koalitsioon+0 //_S_ sg g, //
+eurokontseptsiooni    euro_kontseptsioon+0 //_S_ adt, //
+ei    ei+0 //_V_ neg, //
+jaga    jaga+0 //_V_ o, //
+ka    ka+0 //_D_ //
+opositsioonilised    opositsiooniline+d //_A_ pl n, //
+liberaalid    liberaal+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+kristlikud    kristlik+d //_A_ pl n, //
+demokraadid    demo_kraat+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Midagi    miski+dagi //_P_ sg p, //
+tuleb    tule+b //_V_ b, //
+siiski    siiski+0 //_D_ //
+teha    tege+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Suurte    suur+te //_A_ pl g, //
+ja    ja+0 //_J_ //
+ilusate    ilus+te //_A_ pl g, //
+plaanide    plaan+de //_S_ pl g, //
+logisemist    logise=mine+t //_S_ sg p, //
+demonstreerib    demonstreeri+b //_V_ b, //
+väga    väga+0 //_D_ //
+kujukalt    kujukalt+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praeguse    praegune+0 //_A_ sg g, //
+</TIMEX>
+lemmiklapse    lemmik_laps+0 //_S_ sg g, //
+euro    euro+0 //_S_ sg g, //
+ebastabiilsus    eba_stabiilsus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuna    kuna+0 //_J_ //
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+peetakse    pida+takse //_V_ takse, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+ühisraha    ühis_raha+0 //_S_ sg n, //
+peaaegu    pea_aegu+0 //_D_ //
+et    et+0 //_J_ //
+oma    oma+0 //_P_ sg g, //
+saavutuseks    saavutus+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selle    see+0 //_P_ sg g, //
+langev    langev+0 //_A_ sg n, //
+väärtus    väärtus+0 //_S_ sg n, //
+Saksa    saksa+0 //_G_ //
+poliitikute    poliitik+te //_S_ pl g, //
+eneseteadvuses    enese_teadvus+s //_S_ sg in, //
+muidugi    muidugi+0 //_D_ //
+väga    väga+0 //_D_ //
+hell    hell+0 //_A_ sg n, //
+koht    koht+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Euro    euro+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+maailma    maa_ilm+0 //_S_ sg g, //
+ainus    ainus+0 //_A_ sg n, //
+supranatsionaalne    supra_natsionaalne+0 //_A_ sg n, //
+raha    raha+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+EL    EL+0 //_Y_ ?, //
+sõltub    sõltu+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+liikmesmaade    liikmes_maa+de //_S_ pl g, //
+sageli    sageli+0 //_D_ //
+üsna    üsna+0 //_D_ //
+isekatest    isekas+test //_A_ pl el, //
+arusaamadest    aru_saam+dest //_S_ pl el, //
+selle    see+0 //_P_ sg g, //
+maailma    maa_ilm+0 //_S_ sg g, //
+asjadest    asi+dest //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+nii    nii+0 //_D_ //
+sõltub    sõltu+b //_V_ b, //
+ka    ka+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+ühenduse    ühendus+0 //_S_ sg g, //
+kindla    kindel+0 //_A_ sg g, //
+kodumaata    kodu_maa+ta //_S_ sg ab, //
+vääring    vääring+0 //_S_ sg n, //
+liikmesriikide    liikmes_riik+de //_S_ pl g, //
+suveräänsusest    suveräänsus+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Õigupoolest    õigu_poolest+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+euro    euro+0 //_S_ sg g, //
+kurb-valulik    kurb-valulik+0 //_A_ sg n, //
+sünnilugu    sünni_lugu+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lapsepõlv    lapse_põlv+0 //_S_ sg n, //
+ELi    EL+i //_Y_ sg g, //
+liikmesriikide    liikmes_riik+de //_S_ pl g, //
+suveräänsuse    suveräänsus+0 //_S_ sg g, //
+otsene    otsene+0 //_A_ sg n, //
+väljendus    väljendu+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+näitab    näita+b //_V_ b, //
+euro    euro+0 //_S_ sg g, //
+idee    idee+0 //_S_ sg g, //
+mittetoetamine    mitte_toetamine+0 //_S_ sg n, //
+maailma    maa_ilm+0 //_S_ sg g, //
+finantsringkondade    finants_ringkond+de //_S_ pl g, //
+skeptilisust    skeptili=sus+t //_S_ sg p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ühtse    ühtne+0 //_A_ sg g, //
+võimu-    võim+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+majandusruumi    majandus_ruum+0 //_S_ sg g, //
+suhtes    suhtes+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+aga    aga+0 //_J_ //
+vajab    vaja+b //_V_ b, //
+ühtset    ühtne+t //_A_ sg p, //
+Euroopat    Euroopa+t //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Sakslastel    sakslane+tel //_S_ pl ad, //
+ja    ja+0 //_J_ //
+prantslastel    prantslane+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaja    vaja+0 //_D_ //
+seljatagust    selja_tagune+t //_S_ sg p, //
+konkurentsis    konkurents+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+võitluses    võitlus+s //_S_ sg in, //
+ainukese    ainuke+0 //_A_ sg g, //    ainukene+0 //_A_ sg g, //
+supervõimu    super_võim+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Jutt    jutt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nimelt    nimelt+0 //_D_ //
+maast    maa+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+kust    kust+0 //_D_ //
+tuleb    tule+b //_V_ b, //
+tõeline    tõeline+0 //_A_ sg n, //
+“    “ //_Z_ //
+laiatarbevääring    laia_tarbe_vääring+0 //_S_ sg n, //
+”    ” //_Z_ //
+-    - //_Z_ //
+dollar    dollar+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Vähemalt    vähemalt+0 //_D_ //
+Kosovo    Kosovo+0 //_H_ sg g, //
+sõja    sõda+0 //_S_ sg g, //
+lõpust    lõpp+st //_S_ sg el, //
+saadik    saadik+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+pidevalt    pidevalt+0 //_D_ //
+sunnitud    sundi+tud //_V_ tud, //    sunnitud+0 //_A_ //    sunnitud+0 //_A_ sg n, //    sunnitud+d //_A_ pl n, //
+USA    USA+0 //_Y_ ?, //
+näägutamist    näägutamine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+õpetamist    õpetamine+t //_S_ sg p, //
+kuulama    kuula+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Kord    kord+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+Bundeswehriga    Bundeswehr+ga //_H_ sg kom, //    Bundeswehri+ga //_H_ sg kom, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+korras    korras+0 //_A_ //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+suudeta    suut+ta //_V_ ta, //
+omamaistest    oma_maine+test //_A_ pl el, //
+kontsernidest    kontsern+dest //_S_ pl el, //
+jagu    jagu+0 //_S_ sg n, //
+saada    saa+da //_V_ da, //
+jne.    jne+0 //_Y_ ?, //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Joschka    Joschka+0 //_H_ sg n, //
+Fischeri    Fischer+0 //_H_ sg g, //    Fischeri+0 //_H_ sg g, //
+poolvasakpoolsed    pool_vasak_poolne+d //_A_ pl n, //
+plaanid    plaan+d //_S_ pl n, //
+ühise    ühine+0 //_A_ sg g, //
+poliitilise    poliitiline+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+majandusliku    majanduslik+0 //_A_ sg g, //
+rusika    rusikas+0 //_S_ sg g, //
+loomisel    loomine+l //_S_ sg ad, //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+loogilisse    loogiline+se //_A_ adt, //
+arengustaadiumi    arengu_staadium+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Juba    juba+0 //_D_ //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+aastaid    aasta+id //_S_ pl p, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+rääkis    rääki+s //_V_ s, //
+tollane    tollane+0 //_A_ sg n, //
+opositsioonipoliitik    opositsiooni_poliitik+0 //_S_ sg n, //
+Fischer    Fischer+0 //_H_ sg n, //
+tuumik-Euroopast    tuumik-Euroopa+st //_H_ sg el, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ELi    EL+i //_Y_ sg g, //
+arengu    areng+0 //_S_ sg g, //
+lõppfaasist    lõpp_faas+st //_S_ sg el, //
+pikemas    pikem+s //_C_ sg in, //
+perspektiivis    perspektiiv+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Nüüd    nüüd+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aeg    aeg+0 //_S_ sg n, //
+unistus    unistus+0 //_S_ sg n, //
+täide    täis+de //_S_ adt, //
+viia    vii+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Austria    Austria+0 //_H_ sg g, //
+legaliseerimine    legaliseeri=mine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+poliitika    poliitika+0 //_S_ sg n, //
+liigub    liiku+b //_V_ b, //
+tasapisi    tasa_pisi+0 //_D_ //
+liitlaste    liitlane+te //_S_ pl g, //
+otsimise    otsimine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+koondamise    koondamine+0 //_S_ sg g, //
+poole    poole+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+näha    näge+a //_V_ da, //
+sellestki    see+stki //_P_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vaikselt    vaikselt+0 //_D_ //
+ja    ja+0 //_J_ //
+“    “ //_Z_ //
+leti    lett+0 //_S_ sg g, //
+all    all+0 //_K_ //
+”    ” //_Z_ //
+soojendatakse    soojenda+takse //_V_ takse, //
+suhteid    suhe+id //_S_ pl p, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praeguse    praegune+0 //_A_ sg g, //
+</TIMEX>
+peksupoisi    peksu_poiss+0 //_S_ sg g, //
+Austriaga    Austria+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+välisministrite    välis_minister+te //_S_ pl g, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="2000-05" mod="START" >
+mai    mai+0 //_S_ sg g, //
+alguses    algus+s //_S_ sg in, //
+</TIMEX>
+Assooridel    Assoorid+del //_H_ pl ad, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+kohtumisel    kohtumine+l //_S_ sg ad, //
+ei    ei+0 //_V_ neg, //
+toetanud    toeta+nud //_V_ nud, //    toeta=nud+0 //_A_ //    toeta=nud+0 //_A_ sg n, //    toeta=nud+d //_A_ pl n, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+poole    pool+0 //_S_ sg g, //
+sõnagagi    sõna+gagi //_S_ sg kom, //
+mitmete    mitu+te //_P_ pl g, //
+maade    maa+de //_S_ pl g, //
+esindajate    esindaja+te //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+üles    üles+0 //_D_ //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+mõtet    mõte+t //_S_ sg p, //
+lõpetada    lõpeta+da //_V_ da, //
+Austria-vastane    Austria-vastane+0 //_A_ sg n, //
+poliitiline    poliitiline+0 //_A_ sg n, //
+blokaad    blokaad+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Küll    küll+0 //_D_ //
+aga    aga+0 //_J_ //
+lasi    lask+i //_V_ s, //
+Joschka    Joschka+0 //_H_ sg n, //
+Fischer    Fischer+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+ka    ka+0 //_D_ //
+tema    tema+0 //_P_ sg g, //
+Prantsuse    prantsuse+0 //_G_ //
+ametivend    ameti_vend+0 //_S_ sg n, //
+Hubert    Hubert+0 //_H_ sg n, //
+Védrine    Védrine+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+end    end+0 //_Y_ ?, //
+koos    koos+0 //_K_ //
+Austria    Austria+0 //_H_ sg g, //
+välisministri    välis_minister+0 //_S_ sg g, //
+Benita    Ben+ta //_H_ sg ab, //
+Ferrero-Waldneriga    Ferrero-Waldner+ga //_H_ sg kom, //    Ferrero-Waldneri+ga //_H_ sg kom, //
+pildistada    pildista+da //_V_ da, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+läks    mine+s //_V_ s, //
+kolleegidevahelises    kolleegi+de_vaheline+s //_A_ sg in, //
+vestluses    vestlus+s //_S_ sg in, //
+esimesena    esimene+na //_O_ sg es, //
+üle    üle+0 //_K_ //
+sina    sina+0 //_P_ sg n, //
+peale    peale+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Austria    Austria+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+aga    aga+0 //_J_ //
+toonitas    toonita+s //_V_ s, //
+korduvalt    korduvalt+0 //_D_ //
+Austria    Austria+0 //_H_ sg g, //
+pro-euroliidu    pro-euro_liit+0 //_S_ sg g, //
+seisukohta    seisu_koht+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+seda    see+da //_P_ sg p, //
+ka    ka+0 //_D_ //
+mitmetes    mitu+tes //_P_ pl in, //
+Assooride    Assoorid+de //_H_ pl g, //
+kohtumisele    kohtumine+le //_S_ sg all, //
+järgnenud    järgne+nud //_V_ nud, //    järgne=nud+0 //_A_ //    järgne=nud+0 //_A_ sg n, //    järgne=nud+d //_A_ pl n, //
+intervjuudes    intervjuu+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+tulevase    tulevane+0 //_A_ sg g, //
+rahvahääletuse    rahva_hääletus+0 //_S_ sg g, //
+eesmärke    ees_märk+e //_S_ pl p, //
+olevat    ole+vat //_V_ vat, //
+demonstreerida    demonstreeri+da //_V_ da, //
+tervele    terve+le //_A_ sg all, //
+maailmale    maa_ilm+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+eelkõige    eel_kõige+0 //_D_ //
+naabermaadele    naaber_maa+dele //_S_ pl all, //
+austerlaste    austerlane+te //_S_ pl g, //
+otsusekindlust    otsuse_kindlus+t //_S_ sg p, //
+läbi    läbi+0 //_K_ //
+raskuste    raskus+te //_S_ pl g, //
+tähtede    täht+de //_S_ pl g, //
+poole    poole+0 //_K_ //
+liikumisel    liikumine+l //_S_ sg ad, //
+ehk    ehk+0 //_J_ //
+siis    siis+0 //_D_ //
+vankumatut    vankumatu+t //_A_ sg p, //
+tahet    tahe+t //_S_ sg p, //
+kõige    kõige+0 //_D_ //
+kiuste    kiuste+0 //_D_ //
+ELi    EL+i //_Y_ sg g, //
+kuuluda    kuulu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Latt    latt+0 //_S_ sg n, //
+püsib    püsi+b //_V_ b, //
+kõrgel    kõrgel+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Et    et+0 //_J_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liit    Liit+0 //_H_ sg n, //
+vajab    vaja+b //_V_ b, //
+ainult    ainult+0 //_D_ //
+neid    see+d //_P_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selle    see+0 //_P_ sg g, //
+ühenduse    ühendus+0 //_S_ sg g, //
+vääriliseks    vääriline+ks //_A_ sg tr, //
+kasvanud    kasva+nud //_V_ nud, //    kasva=nud+0 //_A_ //    kasva=nud+0 //_A_ sg n, //    kasva=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+demonstreerib    demonstreeri+b //_V_ b, //
+sakslaste    sakslane+te //_S_ pl g, //
+otsene    otsene+0 //_A_ sg n, //
+keeldumine    keeldumine+0 //_S_ sg n, //
+lubada    luba+da //_V_ da, //
+Poola    Poola+0 //_H_ sg g, //
+erandkorras    erand_kord+s //_S_ sg in, //
+kergemate    kergem+te //_C_ pl g, //
+tingimuste    tingimus+te //_S_ pl g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+ELi    EL+i //_Y_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Berliini    Berliin+0 //_H_ sg g, //
+valitsusringkondadest    valitsus_ringkond+dest //_S_ pl el, //
+kinnitati    kinnita+ti //_V_ ti, //
+:    : //_Z_ //
+<kindel_piir/>
+Poolale    Poola+le //_H_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kataloog    kataloog+0 //_S_ sg n, //
+nõudmistega    nõudmine+tega //_S_ pl kom, //
+ette    ette+0 //_D_ //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+tahavad    taht+vad //_V_ vad, //
+ELi    EL+i //_Y_ sg g, //
+sisse    sisse+0 //_D_ //
+saada    saa+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+olgu    ole+gu //_V_ gu, //
+aga    aga+0 //_J_ //
+nii    nii+0 //_D_ //
+lahked    lahke+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+täitku    täit+ku //_V_ gu, //
+need    see+d //_P_ pl n, //
+nõudmised    nõudmine+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Punkt    punkt+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Poolal    Poola+l //_H_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+isegi    isegi+0 //_D_ //
+hästi    hästi+0 //_D_ //
+läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Juba    juba+0 //_D_ //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+sattus    sattu+s //_V_ s, //
+ELi    EL+i //_Y_ sg g, //
+esimese    esimene+0 //_O_ sg g, //
+ringi    ringi+0 //_D_ //
+kandidaatide    kandidaat+de //_S_ pl g, //
+sekka    sekka+0 //_K_ //
+,    , //_Z_ //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+ainuüksi    ainu_üksi+0 //_D_ //
+poliitiliselt    poliitiliselt+0 //_D_ //
+motiveeritud    motiveeri+tud //_V_ tud, //    motiveeritud+0 //_A_ //    motiveeritud+0 //_A_ sg n, //    motiveeritud+d //_A_ pl n, //
+samm    samm+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millel    mis+l //_P_ pl ad, //    mis+l //_P_ sg ad, //
+polevat    ole+vat //_V_ neg vat, //
+riigi    riik+0 //_S_ sg g, //
+majandusliku    majanduslik+0 //_A_ sg g, //
+arenguga    areng+ga //_S_ sg kom, //
+mingit    mingi+t //_P_ sg p, //
+pistmist    pistmine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Selgesti    selgesti+0 //_D_ //
+võib    või+b //_V_ b, //
+ära    ära+0 //_D_ //
+tunda    tund+a //_V_ da, //
+tagamõtet    taga_mõte+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+maailma    maa_ilm+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+ja    ja+0 //_J_ //
+eriti    eriti+0 //_D_ //
+tema    tema+0 //_P_ sg g, //
+superriike    super_riik+e //_S_ pl p, //
+)    ) //_Z_ //
+</kiil>
+ei    ei+0 //_V_ neg, //
+löö    löö+0 //_V_ o, //
+ainult    ainult+0 //_D_ //
+massiga    mass+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kvaliteeti    kvaliteet+0 //_S_ sg p, //
+taga    taga+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+plaan    plaan+0 //_S_ sg n, //
+tõsta    tõst+a //_V_ da, //
+ELi    EL+i //_Y_ sg g, //
+kaalukust    kaalu=kus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+efektiivsust    efektiivsus+t //_S_ sg p, //
+asetab    aseta+b //_V_ b, //
+ka    ka+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg g, //
+raskele    raske+le //_A_ sg all, //
+positsioonile    positsioon+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Ühest    üks+st //_N_ sg el, //    üks+st //_P_ sg el, //
+küljest    külg+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sakslaste    sakslane+te //_S_ pl g, //
+huvi    huvi+0 //_S_ sg n, //
+Eestit    Eesti+t //_H_ sg p, //
+euroliitu    euro_liit+0 //_S_ adt, //
+tõmmata    tõmba+ta //_V_ da, //
+siililegi    siil+legi //_S_ sg all, //
+selge    selge+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Teisalt    teisalt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esmaseks    esmane+ks //_A_ sg tr, //
+takistuseks    takistus+ks //_S_ sg tr, //
+ELi    EL+i //_Y_ sg g, //
+saamisel    saamine+l //_S_ sg ad, //
+just    just+0 //_D_ //    just+0 //_I_ //
+sakslaste    sakslane+te //_S_ pl g, //
+konkreetne    konkreetne+0 //_A_ sg n, //
+arusaam    aru_saam+0 //_S_ sg n, //
+sellest    see+st //_P_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+milline    milline+0 //_P_ sg n, //
+too    too+0 //_P_ sg n, //
+liit    liit+0 //_S_ sg n, //
+peaks    pida+ks //_V_ ks, //
+välja    välja+0 //_D_ //
+nägema    näge+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Määrab    määra+b //_V_ b, //
+standardsus    standard=sus+0 //_S_ sg n, //
+,    , //_Z_ //
+mitte    mitte+0 //_D_ //
+hea    hea+0 //_A_ sg n, //
+tahe    tahe+0 //_S_ sg n, //
+või    või+0 //_J_ //
+ilusad    ilus+d //_A_ pl n, //
+silmad    silm+d //_S_ pl n, //
+!    ! //_Z_ //
+c    c+0 //_Y_ ?, //
+</s>

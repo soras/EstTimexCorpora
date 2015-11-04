@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Riina Kallas 
+ Foto : Reuters 
+ Eesti kaubavahetuse käive oli <TIMEX3 tid="t128" type="DATE" value="2007-06" anchorTimeID="t0">juunis</TIMEX3> statistikaameti esialgsetel andmetel 25 miljardit krooni , käive vähenes võrreldes <TIMEX3 tid="t129" type="DATE" value="2006-06" anchorTimeID="t0">eelmise aasta juuniga</TIMEX3> kaks protsenti ja <TIMEX3 tid="t130" type="DATE" value="2007-05" anchorTimeID="t0">tänavu maiga</TIMEX3> kaheksa protsenti . 
+ <TIMEX3 tid="t131" type="DATE" value="2007-06" anchorTimeID="t0">Juunis</TIMEX3> oli kaubavahetusest eksport 10,7 miljardit krooni ( 43% ) ja import 14,3 miljardit krooni ( 57% ) . 
+ Kaupade eksport jäi samale tasemele võrreldes <TIMEX3 tid="t132" type="DATE" value="2006-06" anchorTimeID="t0">eelmise aasta juuniga</TIMEX3> ja vähenes 8% võrreldes <TIMEX3 tid="t133" type="DATE" value="2007-05" anchorTimeID="t0">tänavu maiga</TIMEX3> . 
+ Kaupade import vähenes võrreldes <TIMEX3 tid="t134" type="DATE" value="2006-06" anchorTimeID="t0">eelmise aasta juuniga</TIMEX3> 4% ja <TIMEX3 tid="t135" type="DATE" value="2007-05" anchorTimeID="t0">tänavu maiga</TIMEX3> 8% . 
+ Kaubavahetuse bilansi puudujääk oli 3,6 miljardit krooni ( <TIMEX3 tid="t136" type="DATE" value="2006-06" >2006. aasta juunis</TIMEX3> 4,3 miljardit krooni , <TIMEX3 tid="t137" type="DATE" value="2007-05" anchorTimeID="t0">tänavu mais</TIMEX3> 3,9 miljardit krooni ) . 
+ Kaubade eksordist läks <TIMEX3 tid="t138" type="DATE" value="2007-06" anchorTimeID="t0">juunis</TIMEX3> Euroopa Liidu riikidesse 69% ja SRÜ riikidesse 10% kogu kaupade ekspordist . 
+ Peamised sihtriigid olid Soome ( 18% ekspordist ) , Rootsi ( 13% ) ja Läti ( 11% ) . 
+ Import Euroopa Liidu riikidest moodustas 76% ja SRÜ riikidest 14% kogu kaupade impordist . 
+ Kõige rohkem kaupa veeti sisse Soomest ( 16% impordist ) , Saksamaalt ( 13% ) ja Venemaalt ( 11% ) . 
+
+</TimeML>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Reimo Raja 
+ <TIMEX3 tid="t120" type="DATE" value="2008-SU" anchorTimeID="t0">Tuleva aasta suvel</TIMEX3> avatakse Pärnus Sauga vallas vabas õhus asuv veepark , kus külma <TIMEX3 tid="t121" type="DATE" value="XXXX-WI" comment="mõeldakse üldist, tulevikutalve...">talvega</TIMEX3> saab uisutada ja lumelauaga sõita . 
+ Veepargi arendaja OÜ Restvik ainuomaniku Ilmar Laane sõnul saab pargi töövalmis 50 miljoni krooniga . 
+ Kõikide plaanide teostamiseks kulub aga 200 miljonit krooni . 
+ Veepark tuleb arenevasse elamupiirkonda Eametsa külla ja ehitust alustatakse <TIMEX3 tid="t122" type="DATE" value="2007-SP" anchorTimeID="t0">tänavu kevadel</TIMEX3> - <TIMEX3 tid="t123" type="DATE" value="2007-04" anchorTimeID="t0">aprillis</TIMEX3> või <TIMEX3 tid="t124" type="DATE" value="2007-05" anchorTimeID="t0">mais</TIMEX3> . 
+ <TIMEX3 tid="t125" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >Praegu</TIMEX3> on ehitusega seoses veel lahtisi otsi , sest otsitakse põhjamaisele kliimale sobivaid ehitusmaterjale . 
+ Esimest korda saab ujumist proovida juba <TIMEX3 tid="t126" type="DATE" value="2007-FA" anchorTimeID="t0">sügisel</TIMEX3> . 
+ Selleks ajaks plaanitakse valmis saada kolmandik basseinidest . 
+ Veepark hõlmab nelja hektarit , millest 8000 m2 läheb välibasseinide alla . 
+ 3000-4000 m2 suurusele pinnale rajatakse 1,4 -1,7 m sügavune bassein , tulevad 2000 m2 lastebassein , 3,5 meetri sügavune bassein , kuhu saab tornist vettehüppeid teha , ning bassein , mis on mõeldud surfamiseks . 
+ " Niisugune park nagu igal pool Euroopa soojades maades , " võtab Laan asja ühe lausega kokku . 
+ Väliujula keskele tuleb ehtsate palmidega saareke . 
+</TimeML>

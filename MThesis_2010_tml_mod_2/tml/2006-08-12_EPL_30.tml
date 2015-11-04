@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Taifuun jättis inimesed veevangi 
+Torm <TIMEX3 tid="t129" type="DATE" value="2006-08-11" anchorTimeID="t0">Eile</TIMEX3> Hiina edelaosa tabanud taifuunis Saomai on hukkunud juba ligemale sada inimest , torm nõrgenes teel sisemaale . 
+ Tuule kiirus <TIMEX3 tid="t130" type="DURATION" value="P50Y" beginPoint="t407" endPoint="t0">viimase 50 aasta</TIMEX3><TIMEX3 tid="t407" type="DATE" value="1956"/> tugevaimas tormis ulatub 200 kilomeetrini tunnis , kirjutas BBC . 
+ Rohkem kui 1,5 miljonit inimest jõuti taifuuni teelt evakueerida , 7000 majapidamist hävines aga marutuule pöörises . 
+ Saomai - vietnami keeles planeet Veenus - on <TIMEX3 tid="t131" type="DATE" value="2006" anchorTimeID="t0">tänavu</TIMEX3> juba kaheksas Hiinat laastav taifuun . 
+</TimeML>

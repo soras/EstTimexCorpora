@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Rabarock avalikustas <TIMEX3 tid="t88" type="DATE" value="2007-01-31" anchorTimeID="t0">eile</TIMEX3> esimesed esinejad . 
+ Välismaistest artistidest jõuavad Eestisse Norra bänd Apoptygma Berzerk , Rootsist ansambel Pain ning Soomest raskeroki legend Peer Günt ja Poets of the Fall , kes pälvis Soome MTV aasta artisti preemia . 
+ Kodumaistest artistidest rõõmustavad festivalipublikut Dagö ja Metsatöll . 
+ Oma esimesed artistid tegi teatavaks ka rahvusvaheline Roskilde rokifestival . 
+ Sinna tasub <TIMEX3 tid="t89" type="DATE" value="2007-SU" anchorTimeID="t0">sel suvel</TIMEX3> kindlasti sammud seada neil , kes fännavad Björki või Red Hot Chili Peppersit . 
+ Baltimaade suurim rokifestival Rabarock toimub Järvakandi staadionil <TIMEX3 tid="t90" type="DATE" value="2007-06-15" anchorTimeID="t0">15.</TIMEX3>-<TIMEX3 tid="t91" type="DATE" value="2007-06-16" anchorTimeID="t0">16. juunini</TIMEX3> <TIMEX3 tid="t92" type="DURATION" value="P1D" beginPoint="t90" endPoint="t91"/>. 
+ Festivalil on oma ööklubi ja telklaager . 
+ Artistid astuvad üles kahel laval . 
+</TimeML>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Rüütli tänavas on asunud ka raekoda 
+ ENE PUUSEMP , ene.puusemp@postimees.ee 
+ Tartu vanalinna juba keskajal välja kujunenud tänavad on <TIMEX3 tid="t37" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguses</TIMEX3> linnapildis peaaegu endisel kohal ja kannavad taas ka oma ajaloolisi nimesid . 
+ <TIMEX3 tid="t38" type="DURATION" value="P700Y" >700 aasta</TIMEX3> vanuse Rüütli tänava Emajõe-poolse küljega aitab lähemat tutvust teha kunstiajaloolane Maret Eimre . 
+ Põhjalikult Tartu tänavate ajalugu uurinud Niina Raidi andmeil ulatus Rüütli tänav algselt Küütri tänavast Jaani kirikuni ja oli <TIMEX3 tid="t39" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegusest</TIMEX3> hoopis kitsam ning käänulisem . 
+ " Pärast <TIMEX3 tid="t40" type="DATE" value="1775" >1775. aasta</TIMEX3> suurt tulekahju andis tsaarivalitsus välja uue ehitusmääruse ja kinnitati uus linnaplaan , mis nägi ette tänavate õgvendamist , laiendamist ja nende äärde uute kivimajade ehitamist , " selgitab Maret Eimre . 
+ Keskajal kandis tänavalõik Suurturust ( Raekoja plats ) Küütri tänavani hoopis Suur-Vaekoja ( Kaalukoja ) nime . 
+ Vaekoda ise seisis turuplatsi põhjapoolsel küljel , <TIMEX3 tid="t42" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguse</TIMEX3> juveelipoe ( Raekoja plats 6 ) ees . 
+ <TIMEX3 tid="t43" type="DATE" value="18">19. sajandil</TIMEX3> nimetati kolm tänavat , Suur-Vaekoja , Rüütli ja Õuekohtu ( tänavalõik Jaani kirikust Laia tänavani ) , Rüütli tänavaks , mis hakkas ühendama turuplatsi põhjakülge Laia tänavaga . 
+ <TIMEX3 tid="t44" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praeguse</TIMEX3> Obu galerii ( Raekoja plats 8 ) kohal asus keskajal linna mündikoda , rootsi ajal uhke kivihoone , räägib Eimre . 
+ Pärast <TIMEX3 tid="t47" type="DATE" value="1775" >1775. aasta</TIMEX3> suurt tulekahju ehitati siia Johann Waltheri ( ka <TIMEX3 tid="t48" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguse</TIMEX3> raekojahoone autor ) projekti järgi baroksete kaunistustega varaklassitsistlik hoone . 
+ Selles on asunud Fritze ja Majori kaubamaja , <TIMEX3 tid="t49" type="DATE" value="1912" >1912. aastal</TIMEX3> ehitati hoone ümber . 
+ Möödunud kunagi kõrvalhoonetest ümber ehitatud elamust ning omaaegsest parfümeeria- ja seebipoest ( Rüütli 5 ) , juhib Eimre tähelepanu Ole Ehelaidi karufiguuri järgi <TIMEX3 tid="t50" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> Karu platsina tuntud kohale , kus kunagi asus üle linna kuulus restoran Kuld Lõvi . 
+ See meelelahutuspaik põles maha viimase sõja ajal. 
+ Rüütli tänava raekoda 
+ Rootsi ajal , <TIMEX3 tid="t53" type="DATE" value="16" mod="START">17. sajandi algul</TIMEX3> võeti raekojana kasutusele kivimaja Rüütli 9 krundil , kus <TIMEX3 tid="t54" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> kõrguvad Humala varemed . 
+ Siin hakkas istungeid pidama ka Tartu õuekohus . 
+ <TIMEX3 tid="t55" type="DATE" value="16" mod="END">17. sajandi lõpul</TIMEX3> kolis kohus Rüütli ja Laia tänava nurgamajja , oma uude hoonesse . 
+ <TIMEX3 tid="t56" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> on sellel kohal Eesti Telefoni maja . 
+ Rüütli tänava raekojahoone hävis Põhjasõjas . 
+ Eimre ütleb , et Rüütli 9 krunt , mida <TIMEX3 tid="t57" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> noolib vaid tuul ja vihm , on läbi aegade pidevalt millegagi tähelepanu köitnud . 
+ <TIMEX3 tid="t59" type="DATE" value="1755" >1755. aastal</TIMEX3> ehitati siia puumaja , kuhu asus Jaani koguduse ülalpidamisel tegutsenud tütarlastekool . 
+ <TIMEX3 tid="t60" type="DATE" value="1775" >1775. aasta</TIMEX3> tulekahjus põles see maha . 
+ Tragi kooliõpetaja Thiel , kes on suurt õnnetust üksikasjalikult kirjeldanud , tellis Venemaalt uue , kokkupandava koolimaja . 
+ See toodudki piki Emajõge kohale ja pandud <TIMEX3 tid="t61" type="DATE" value="1775-FA" comment="ei ole täpselt siiski teada, mis aasta sügiseks"  anchorTimeID="t60">sügiseks</TIMEX3> püsti . 
+ Paraku ei vastanud puitehitis vahepeal välja antud määrusele , mis lubas ehitada linna vaid kivihooneid , ja koolimaja kästi kohe maha lammutada . 
+ <TIMEX3 tid="t62" type="DATE" value="1780" >1780. aastal</TIMEX3> sai Johann Waltheri projekti järgi valmis kooli uus kivihoone . 
+ Munga-Rüütli nurgale ( Rüütli 13 ) ehitas pagar Schönrock <TIMEX3 tid="t63" type="DATE" value="189" >1890. aastail</TIMEX3> elumaja ja pagaritööstuse . 
+ <TIMEX3 tid="t64" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> on siin pesu- ja spordikaupade poed . 
+ Vana postimaja 
+ Rüütlit lõikava Munga tänava teisel nurgal on maja täis ehitussaginat : vanast postkontorist peab saama spordimuuseum . 
+ Ka see suur kivimaja ( Rüütli 15 ) kerkis tänava äärde pärast suurt tulekahju . 
+ <TIMEX3 tid="t65" type="DATE" value="1786" >1786. aastal</TIMEX3> ostis kroonuvõim selle kohtule , <TIMEX3 tid="t66" type="DATE" value="1797" >1797. aastast</TIMEX3> pärinevate andmete kohaselt oli siis majas vananevate aadlidaamide pansionaat . 
+ Postkontor hakkas selles hoones tööle <TIMEX3 tid="t67" type="DATE" value="18" anchorTimeID="t0">kaks sajandit tagasi</TIMEX3> , <TIMEX3 tid="t68" type="DATE" value="1800" >aastal 1800.</TIMEX3> 
+ Kuni <TIMEX3 tid="t69" type="DATE" value="1898" >1898. aastani</TIMEX3> pääses majja Munga tänavalt , siis tehti peauks maja Rüütli tänava poolsesse seina . 
+ Sünge lõpuga õlletegu 
+ Rüütli 17 maja ees on Maret Eimrel põhjust pikemalt seisatada , et jutustada lugu traagiliselt lõppenud õlleteost . 
+ Just sellelt krundilt , kunagise koolimaja kõrvalhoonest , pääses <TIMEX3 tid="t70" type="DATE" value="1775-SU" >1775. aasta suvel</TIMEX3> valla põleng , mis kandus tuulega kiiresti kesklinna suunas ja üle puusildade ka Emajõe teisele kaldale . 
+ Rehkendusmeistri <TIMEX3 tid="t71" type="DATE" value="1775-06" anchorTimeID="t70">juunikuine</TIMEX3> õlletegu oma hoovil lõppes suure katastroofiga , maha põles peaaegu kogu pärast Põhjasõda vaevaga üles ehitatud südalinn . 
+ Arhitektuuriloolased oskavad aga tagantjärele näha <TIMEX3 tid="t72" type="DATE" value="PAST_REF" anchorTimeID="t0">toonast</TIMEX3> tragöödiat ka teise nurga alt : hiidtulekahju andis põhjuse ja võimaluse hakata Tartu kesklinna üles ehitama uuel , klassitsistlikul moel . 
+ Kivimaja ehitas Rüütli 17 krundile <TIMEX3 tid="t73" type="DATE" value="1786" >1786. aastal</TIMEX3> klaasimeister Schaaf . 
+ Iga järgmine omanik kasvatas peale uue korruse . 
+ Rüütli 19 krundile rajati kolmekorruseline kaupmehemaja <TIMEX3 tid="t74" type="DATE" value="1855" >1855. aastal</TIMEX3> . 
+ Naabermaja Rüütli 21 , mille kohal keskajal asus vene kaupmehi teeninud Nikolai kirik , ehitas kolmekorruseliseks <TIMEX3 tid="t76" type="DATE" value="1878" >1878. aastal</TIMEX3> Peterburist Tartusse tulnud klaverimeister Robert Rathke , hiljem tehti muudatusi ka fassaadis . 
+ <TIMEX3 tid="t77" type="DATE" value="1885" >1885. aastal</TIMEX3> leidsid kaevuehitajad hoovil kaevates puusärke , nahkkingi , pandla ja hoonejäänuseid . 
+ Uurijad seovad neid leide keskaegse Nikolai kiriku ja selle surnuaiaga . 
+</TimeML>

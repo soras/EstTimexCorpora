@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tallinna linnadisainer Aavo Ermel lahkub vastuolude tõttu ametist 
+Askur Alas 
+ Tallinna linnadisainer Aavo Ermel lahkub segastel asjaoludel ametist . 
+ Linnavalitsuse esindaja kinnitusel lahkub Ermel omal soovil , Päevalehe allikate andmeil vastuolude tõttu abilinnapea Kalev Kalloga . 
+ Tallinna linnavalitsusega seotud kahe inimese sõnul sundis linnaplaneerimist kureeriv abilinnapea Kalev Kallo <TIMEX3 tid="t94" type="DATE" value="2006-W30" mod="APPROX" anchorTimeID="t0">paar nädalat tagasi</TIMEX3> lahkuma linnadisaineri Aavo Ermeli . 
+ Allikate väitel oli muu hulgas põhjuseks Ermeli vastuseis Kalevipoja kuju püstitamisele Tallinna lahte . 
+ Kallo nõunik eitab 
+ Abilinnapea Kalev Kallo avalike suhete nõunik Ivo Parbus hakkas seda infot kuuldes naerma . 
+ " Kas Ermel on Kalevipojaga nõus või mitte ... 
+ See on naljakas ... 
+ Aga tema lahkumine mind ei üllata , " ütles Parbus , kelle andmeil tegi Ermel ise lahku-misavalduse . 
+</TimeML>

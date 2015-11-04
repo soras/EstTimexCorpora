@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Kaitseminister Jaak Aaviksoo esines <TIMEX3 tid="t25" type="DATE" value="2007-06-16" anchorTimeID="t0">täna</TIMEX3> Pariisis rahvusvahelise globaalse julgeoleku konverentsil küberkaitse-teemalise ettekandega " Küberkaitse - märkamatuks jäänud III Maailmasõda " . 
+ Kaitseministri sõnul peegeldab valitud pealkiri hästi tegelikku olukorda maailmas , kus lisaks tavalistele julgeolekuohtudele on tekkinud uued , seni liialt vähe tähelepanu pälvinud ohud nagu kübersõda ja - terrorism , vahendas kaitseministeeriumi pressiteenistus . 
+ Analüüsides Eesti vastu toime pandud rünnakuid tõdes Aaviksoo , et internetist on reaalselt saanud <TIMEX3 tid="t26" type="DATE" value="20">XXI sajandi</TIMEX3> " täiuslik lahinguväli " . 
+ " Eesti-vastaste küberrünnakute näol oli tegemist kübersõja ja - terrorismiga , mida teostasid mitte ainult primitiivsete vahenditega asjaarmastajad , vaid ka kõrgetasemeliste teadmiste ja - vahenditega spetsialistid , " ütles Aaviksoo . 
+</TimeML>

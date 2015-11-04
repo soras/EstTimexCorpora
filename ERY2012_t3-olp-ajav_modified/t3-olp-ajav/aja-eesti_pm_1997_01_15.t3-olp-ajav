@@ -1,0 +1,376 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-01-15TXX:XX" />
+<ignoreeri>
+|
+autor:
+URMAS
+PAET
+|
+ajalehenumber:
+Postimees
+1997.01.15
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Uudised
+|
+artikkel:
+Viisavabadus
+Norraga
+võib
+tulla
+juba
+tänavu
+|
+</ignoreeri>
+<s>
+Norra    Norra+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Bjørn    Bjørn+0 //_H_ sg n, //
+Tore    Tore+0 //_H_ sg n, //
+Godal    Godal+0 //_H_ sg n, //
+teatas    teata+s //_V_ s, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1997-01-14" >
+eile    eile+0 //_D_ //
+</TIMEX>
+Tallinnas    Tallinn+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Norra    Norra+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+võidakse    või+dakse //_V_ takse, //
+viisavabadus    viisa_vabadus+0 //_S_ sg n, //
+kehtestada    kehtesta+da //_V_ da, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1997" >
+sel    see+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997-01-14" >
+Eile    eile+0 //_D_ //
+</TIMEX>
+Eestis    Eesti+s //_H_ sg in, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P1D" >
+ühepäevasel    ühe_päevane+l //_A_ sg ad, //
+</TIMEX>
+visiidil    visiit+l //_S_ sg ad, //
+viibinud    viibi+nud //_V_ nud, //    viibinud+0 //_A_ //    viibinud+0 //_A_ sg n, //    viibinud+d //_A_ pl n, //
+Norra    Norra+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Bjørn    Bjørn+0 //_H_ sg n, //
+Tore    Tore+0 //_H_ sg n, //
+Godal    Godal+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Toomas    Toomas+0 //_H_ sg n, //
+Hendrik    Hendrik+0 //_H_ sg n, //
+Ilves    Ilves+0 //_H_ sg n, //
+kirjutasid    kirjuta+sid //_V_ sid, //
+Tallinnas    Tallinn+s //_H_ sg in, //
+alla    alla+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Norra    Norra+0 //_H_ sg g, //
+valitsuste    valitsus+te //_S_ pl g, //
+vahelisele    vaheline+le //_A_ sg all, //
+kokkuleppele    kokku_lepe+le //_S_ sg all, //
+ebaseaduslikult    eba_seaduslikult+0 //_D_ //
+riigis    riik+s //_S_ sg in, //
+viibivate    viibiv+te //_A_ pl g, //
+isikute    isik+te //_S_ pl g, //
+tagasivõtmise    tagasi_võtmine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+kokkuleppe    kokku_lepe+0 //_S_ sg g, //
+sõlmimine    sõlmimine+0 //_S_ sg n, //
+toob    too+b //_V_ b, //
+lähemale    lähemale+0 //_D_ //
+ka    ka+0 //_D_ //
+viisavabaduse    viisa_vabadus+0 //_S_ sg g, //
+kehtestamise    kehtestamine+0 //_S_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Norra    Norra+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Godal    Godal+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1997-01-14" >
+eile    eile+0 //_D_ //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kuna    kuna+0 //_J_ //
+Põhjamaad    Põhja_maa+d //_H_ pl n, //    Põhjamaa+d //_H_ pl n, //    Põhjamaad+0 //_H_ sg n, //
+ühinevad    ühine+vad //_V_ vad, //
+Schengeni    Schengen+0 //_H_ sg g, //
+lepinguga    leping+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oluline    oluline+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Balti    balti+0 //_G_ //
+riikidega    riik+dega //_S_ pl kom, //
+viisavabaduse    viisa_vabadus+0 //_S_ sg g, //
+kehtestamiseks    kehtestamine+ks //_S_ sg tr, //
+oleksid    ole+ksid //_V_ ksid, //
+ühised    ühine+d //_A_ pl n, //
+alused    alune+d //_S_ pl n, //    alus+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+seisukohad    seisu_koht+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+põhineb    põhine+b //_V_ b, //
+viisavabaduse    viisa_vabadus+0 //_S_ sg g, //
+kehtestamine    kehtestamine+0 //_S_ sg n, //
+siiski    siiski+0 //_D_ //
+individuaalsetel    individuaalne+tel //_A_ pl ad, //
+läbirääkimistel    läbi_rääkimine+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Norra    Norra+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+avaldas    avalda+s //_V_ s, //
+lootust    lootus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+viisavabaduse    viisa_vabadus+0 //_S_ sg g, //
+kehtestamise    kehtestamine+0 //_S_ sg g, //
+leping    leping+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Norra    Norra+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+sõlmitakse    sõlmi+takse //_V_ takse, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1997" >
+sel    see+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Sõlmitud    sõlmi=tu+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+illegaalide    illegaal+de //_S_ pl g, //
+tagasivõtu    tagasi_võtt+0 //_S_ sg g, //
+leping    leping+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+Eesti    Eesti+0 //_H_ sg g, //
+passisüsteem    passi_süsteem+0 //_S_ sg n, //
+muutub    muutu+b //_V_ b, //
+veelgi    veelgi+0 //_D_ //
+paremaks    parem+ks //_C_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Need    see+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põhjused    põhjus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+miks    miks+0 //_D_ //
+ma    mina+0 //_P_ sg n, //
+olen    ole+n //_V_ n, //
+optimistlik    optimistlik+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+viisavabadusleping    viisa_vabadus_leping+0 //_S_ sg n, //
+sõlmitakse    sõlmi+takse //_V_ takse, //
+veel    veel+0 //_D_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1997" >
+sel    see+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+rääkis    rääki+s //_V_ s, //
+Godal    Godal+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+tegeleb    tegele+b //_V_ b, //
+viisavabaduse    viisa_vabadus+0 //_S_ sg g, //
+kehtestamise    kehtestamine+0 //_S_ sg g, //
+küsimustega    küsimus+tega //_S_ pl kom, //
+Norras    Norra+s //_H_ sg in, //
+justiitsministeerium    justiits_ministeerium+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+seetõttu    see_tõttu+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+Godal    Godal+0 //_H_ sg n, //
+midagi    miski+dagi //_P_ sg p, //
+täpsemat    täpsem+t //_C_ sg p, //
+öelda    ütle+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Balti    Balt+0 //_H_ sg g, //    Balti+0 //_H_ sg g, //
+riikidest    riik+dest //_S_ pl el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Norral    Norra+l //_H_ sg ad, //
+viisavabaduse    viisa_vabadus+0 //_S_ sg g, //
+leping    leping+0 //_S_ sg n, //
+sõlmitud    sõlmi+tud //_V_ tud, //    sõlmi=tud+0 //_A_ //    sõlmi=tud+0 //_A_ sg n, //    sõlmi=tud+d //_A_ pl n, //
+Leeduga    Leedu+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Toomas    Toomas+0 //_H_ sg n, //
+Hendrik    Hendrik+0 //_H_ sg n, //
+Ilves    Ilves+0 //_H_ sg n, //
+rõhutas    rõhuta+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+illegaalide    illegaal+de //_S_ pl g, //
+tagasivõtmise    tagasi_võtmine+0 //_S_ sg g, //
+lepingu    leping+0 //_S_ sg g, //
+sõlmimine    sõlmimine+0 //_S_ sg n, //
+Norraga    Norra+ga //_H_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+taas    taas+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+samm    samm+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Euroopaga    Euroopa+ga //_H_ sg kom, //
+integreerumise    integreerumine+0 //_S_ sg g, //
+protsessis    protsess+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Ilvese    Ilves+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teel    tee+l //_S_ sg ad, //
+Euroopasse    Euroopa+sse //_H_ sg ill, //
+vaja    vaja+0 //_D_ //
+lahendada    lahenda+da //_V_ da, //
+veel    veel+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+küsimus    küsimus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+surmanuhtluse    surma_nuhtlus+0 //_S_ sg g, //
+kaotamine    kaotamine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Bjørn    Bjørn+0 //_H_ sg n, //
+Tore    Tore+0 //_H_ sg n, //
+Godal    Godal+0 //_H_ sg n, //
+rõhutas    rõhuta+s //_V_ s, //
+ka    ka+0 //_D_ //
+regionaalse    regionaalne+0 //_A_ sg g, //
+koostöö    koos_töö+0 //_S_ sg g, //
+tihendamise    tihendamine+0 //_S_ sg g, //
+vajadust    vajadus+t //_S_ sg p, //
+viis    viis+0 //_N_ sg n, //
+pluss    pluss+0 //_S_ sg n, //
+kolm    kolm+0 //_N_ sg n, //
+mudeli    mudel+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+Põhjamaade    Põhja_maa+de //_H_ pl g, //    Põhjamaa+de //_H_ pl g, //    Põhjamaade+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Balti    Balt+0 //_H_ sg g, //    Balti+0 //_H_ sg g, //
+riikide    riik+de //_S_ pl g, //
+koostööd    koos_töö+d //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+Ilvese    Ilves+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+takista    takista+0 //_V_ o, //
+regionaalset    regionaalne+t //_A_ sg p, //
+koostööd    koos_töö+d //_S_ sg p, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mõned    mõni+d //_P_ pl n, //
+Põhjamaad    Põhja_maa+d //_H_ pl n, //    Põhjamaa+d //_H_ pl n, //    Põhjamaad+0 //_H_ sg n, //
+kuuluvad    kuulu+vad //_V_ vad, //
+NATOsse    NATO+sse //_Y_ sg ill, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+kuulu    kuulu+0 //_V_ o, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liitu    Liit+0 //_H_ adt, //
+ning    ning+0 //_J_ //
+vastupidi    vastu_pidi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Norra    Norra+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+kohtus    kohtu+s //_V_ s, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1997-01-14" >
+eile    eile+0 //_D_ //
+</TIMEX>
+Tallinnas    Tallinn+s //_H_ sg in, //
+president    president+0 //_S_ sg n, //
+Lennart    Lennart+0 //_H_ sg n, //
+Meri    Meri+0 //_H_ sg n, //
+,    , //_Z_ //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+esimehe    esi_mees+0 //_S_ sg g, //
+Toomas    Toomas+0 //_H_ sg n, //
+Savi    Savi+0 //_H_ sg n, //
+,    , //_Z_ //
+peaminister    pea_minister+0 //_S_ sg n, //
+Tiit    Tiit+0 //_H_ sg n, //
+Vähi    Vähi+0 //_H_ sg n, //
+ning    ning+0 //_J_ //
+välisminister    välis_minister+0 //_S_ sg n, //
+Toomas    Toomas+0 //_H_ sg n, //
+Hendrik    Hendrik+0 //_H_ sg n, //
+Ilvesega    Ilves+ga //_H_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinnast    Tallinn+st //_H_ sg el, //
+sõitis    sõit+is //_V_ s, //
+Norra    Norra+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Oslosse    Oslo+sse //_H_ sg ill, //
+.    . //_Z_ //
+</s>

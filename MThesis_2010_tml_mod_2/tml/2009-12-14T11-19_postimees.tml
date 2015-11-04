@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-14T11:19" functionInDocument="CREATION_TIME" comment="(esmaspäev)"/>
+
+Pakane näitab oma tõelist palet <TIMEX3 tid="t1" type="DATE" value="2009-W51" anchorTimeID="t0">kogu nädala</TIMEX3>
+(2)
+
+<TIMEX3 tid="t2" type="TIME" value="2009-12-14T11:19" >14.12.2009 11:19</TIMEX3>
+
+Merike Merilain, EMHI ilmaprognooside osakonna juhataja
+
+Kommenteeri | Prindi
+<TIMEX3 tid="t3" type="DATE" value="2009-W51" anchorTimeID="t0">Alanud nädalal</TIMEX3> määrab ilma Arktikast saabunud õhumass - taevas on enamasti selge ja püsib käre külm, mis näitab suurimat võimsust <TIMEX3 tid="t4" type="DATE" value="2009-12-18" anchorTimeID="t0">reedel.</TIMEX3> <TIMEX3 tid="t5" type="DATE" value="2009-W51" mod="MID" anchorTimeID="t0">Nädala keskel</TIMEX3> on lootust ka lumelisa saada.
+REKLAAM
+
+<TIMEX3 tid="t6" type="DURATION" value="P1D" >Ööpäeva</TIMEX3> keskmine õhutemperatuur on <TIMEX3 tid="t7" type="DATE" anchorTimeID="t5" value="2009-W51">selle aja</TIMEX3> normist kuni kümme kraadi madalam. Ka <TIMEX3 tid="t8" type="DATE" value="2009-W52" anchorTimeID="t0">järgmisel nädalal</TIMEX3> püsib normist külmem ilm.
+
+<TIMEX3 tid="t9" type="DATE" value="2009-12-15" anchorTimeID="t0">Teisipäeval</TIMEX3> liigub külma õhuga kõrgrõhuala aeglaselt üle Eesti kagu poole. Tuul on <TIMEX3 tid="t10" type="TIME" value="2009-12-15TNI" anchorTimeID="t9">öösel</TIMEX3> nõrk ning õhutemperatuur langeb sisemaal -15...-19 ja püsib <TIMEX3 tid="t11" type="TIME" value="2009-12-15TDT" anchorTimeID="t10">päevalgi</TIMEX3> -15 kraadi ringis, kitsal rannikuribal võib olla -10 kraadi lähedal. Saartel ja Liivi lahel sajab lund ja tuiskab, kuid mandril on saju tõenäosus väike. Tuul pöördub kagusse ja tugevneb läänerannikul 10-12 m/s.
+
+<TIMEX3 tid="t12" type="DATE" value="2009-12-16" anchorTimeID="t0">Kolmapäeval</TIMEX3> tekib Skandinaavial uus kõrgrõhukese, mis sunnib mere kohal oleva madalrõhuala liikuma lõunasse ja toob lumesaju tõenäosuse ka Lõuna-Eestisse.
+
+Lume ja tuisu tõenäosus on <TIMEX3 tid="t13" type="TIME" value="2009-12-17TNI" anchorTimeID="t0">neljapäeva öösel</TIMEX3> suur saartel ja Liivi lahe ümbruses, <TIMEX3 tid="t14" type="TIME" value="2009-12-17TMO" anchorTimeID="t13">hommikust</TIMEX3> sajuvõimalus kahaneb. Õhutemperatuur püsib madal, -15...-20 kraadi ringis.
+
+<TIMEX3 tid="t15" type="DATE" value="2009-12-18" anchorTimeID="t0">Reedel</TIMEX3> hakkab ilma määrama kõrgrõhuvöönd, mis sademeid ei too, ent õhutemperatuur langeb veelgi ning võib ulatuda -20...-25 kraadini.
+
+<TIMEX3 tid="t16" type="DATE" value="2009-12-19" anchorTimeID="t0">Laupäeval</TIMEX3> võib kohati kerget lund tulla ja kui <TIMEX3 tid="t17" type="TIME" value="2009-12-19TNI" anchorTimeID="t16">öösel</TIMEX3> on külma -15...-20, siis <TIMEX3 tid="t18" type="TIME" value="2009-12-19TDT" anchorTimeID="t17">päeval</TIMEX3> pilvisus tiheneb ning õhutemperatuur tõuseb -8...-12 kraadini.
+
+<TIMEX3 tid="t19" type="DATE" value="2009-12-20" anchorTimeID="t0">Pühapäeval</TIMEX3> tugevneb idakaarte tuul ja hakkab tuiskama, päeva jooksul läheb ilm pehmemaks ja külmakraade jätkub mandril -7...-11, saartel tõuseb õhutemperatuur -3...+1 kraadini.
+
+Märkimisväärset lumelisa peaks tooma <TIMEX3 tid="t20" type="DATE" value="2009-12-21" anchorTimeID="t0">järgmine esmaspäev.</TIMEX3>
+</TimeML>
+

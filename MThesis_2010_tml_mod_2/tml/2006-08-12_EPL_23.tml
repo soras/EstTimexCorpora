@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Apandi Mahmudov : mulle lubati tütar tagasi anda 
+Maris Meiessaar 
+ Dagestani sõitnud ja pulmaröövi ohvriks langenud <TIMEX3 tid="t95" type="DURATION" value="P19Y" >19-aastane</TIMEX3> tudengineiu lubati <TIMEX3 tid="t96" type="DATE" value="2006-08-11" anchorTimeID="t0">eile</TIMEX3> isale tagasi anda , aga lubadus jäi täitmata . 
+ Kas olete midagi uut teada saanud ? 
+ Esialgu ei ole midagi teada . 
+ <TIMEX3 tid="t97" type="DATE" value="2006-08-11" anchorTimeID="t0">Eile</TIMEX3> kohtusin Mahhat?kala linnapeaga , kohtusin selle röövli isaga . 
+ Nad lubasid mulle tütre <TIMEX3 tid="t98" type="DATE" value="2006-08-11" anchorTimeID="t0">eile</TIMEX3> tagasi tuua , aga pole veel toonud . 
+ Lubasid <TIMEX3 tid="t99" type="DATE" value="2006-08-11" anchorTimeID="t0">eile</TIMEX3> tagasi tuua ? 
+ Jah , Mahhat?kala linnapea andis mulle <TIMEX3 tid="t100" type="DATE" value="2006-08-11" anchorTimeID="t0">eile</TIMEX3> lubaduse , et saan tütre tagasi , aga pole veel saanud . 
+ Aeg läheb , " väimeest " ei leita kuidagi üles , politsei otsib teda . 
+ Kas te teate umbes , kus teie tütar on ? 
+ Mitte Mahhat?kalas . 
+ Ta viidi kuhugi Mahhat?kalast väljapoole , ma ei tea kuhu . 
+ Mis linnapea teile selle peale ütles , et te ei saanud oma tütart <TIMEX3 tid="t101" type="DATE" value="2006-08-11" anchorTimeID="t0">eile</TIMEX3> tagasi , nagu oli lubatud ? 
+</TimeML>

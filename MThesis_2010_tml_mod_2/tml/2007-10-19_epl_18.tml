@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Dannar Leitmaa 
+ Foto : Marko Mumm 
+ Viis poissi , kes loopisid kriketit mänginud pereisa kivide ja aiateivastega , mis kutsus esile ohvri südameinfarkti , pisteti Inglismaal <TIMEX3 tid="t62" type="DURATION" value="P2Y">kaheks aastaks</TIMEX3> vangi . 
+ <TIMEX3 tid="t63" type="DATE" value="2005" anchorTimeID="t0">Kaks aastat tagasi</TIMEX3> mängis <TIMEX3 tid="t64" type="DURATION" value="P67Y">67-aastane</TIMEX3> Ernest Norton koos oma teismelise pojaga kriketit , kui saabus 20-pealine noortekamp , kes hakkasid mängijaid solvama , vahendab Guardian . 
+ Norton läks poisse korrale kutsuma , kuid selle vastati teda kivirahega . 
+ Pooliku telliskivi suuruse kiviga tabati teda meelekohta ning teise kiviga lõhuti tema põseluu , mille järel sai Norton infarkti ning suri . 
+ Noorim ründajatest oli rünnaku <TIMEX3 tid="t65" type="DATE" value="XXXX-WXX-7TXX:XX" anchorTimeID="t68">hetkel</TIMEX3> <TIMEX3 tid="t66" type="DURATION" value="P10Y">10-aastane</TIMEX3> ning vanimad olid <TIMEX3 tid="t67" type="DURATION" value="P14Y" comment="kestvuse puhul me mitmust ei erista...">14-aastased</TIMEX3>. 
+ Enne Nortoni ründamist peksid samad noorukid Erithi väikelinnas aknaid puruks ning kaklesid teiste noorukitega . 
+ Kohtuasja menetlenud kohtunik sõnas poistele : " Te kütsite end üles oma kontrollimatu käitumisega ning seejärel ründasite õnnetut Ernest Nortonit , kes nautis vaikset <TIMEX3 tid="t68" type="DATE" value="XXXX-WXX-7">pühapäeva</TIMEX3> koos pojaga . 
+ Ta oli täiesti süütu . " 
+</TimeML>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Aare Pilv on üks keeletundlikumaid poeete uuemas eesti kirjanduses ; ehk tõsimeelseim Erakkonna rühmituse liikmeist , ent ka mängulisim , iseloomustab Berk Vaher . 
+ Pilve tekstides on harva " peiaripula " või flirtimist meediateemadega - see on tajude ja mälu luule , milles on ka omajagu eksistentsiaalset muhelust . 
+ Aare Pilve viies kogu " Näoline " ilmub <TIMEX3 tid="t270" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähinädalail.</TIMEX3> 
+ Luulekoguks on seda raske nimetada , sest pea poole raamatust hõlmavad proosatekstid . 
+ Ent poeetiliselt tihe on ka Aare proosa , samuti on ta siin " proosandanud " mitmeid oma varasemaid luuletekste . 
+ Järgnevalt Aare Pilve ja Berk Vaheri vestlus . 
+ - BV : Su uue kogu luuletuses " Aur " on kirjas : " Labane on vastandada / elu ja luulet , lapsik ja / ülbe , eks ju , minu arust " - aga samas tundub , et elu ja luule kokkukuulumine pole sinu jaoks sugugi probleemitu . 
+ Mõnel juhul võtab elu just kitsamas ja tavapärasemas mõttes luuletuse kuju , aga selles kogus on ka tavamõttes proosatekste märksa rohkem kui varasemates . 
+ Kuni selleni välja , et " remiksid " oma varasemaid luuletusi uuteks tekstideks kokku ja esitad need nüüd murdmata ridadena . 
+ Aga ka mitmed unenäolised ja lapsepõlvest pärit kogemused on antud sel kujul . 
+ Millest selline muutus ja kas see tähendab ka soovimatust luulet ja proosat vastandada ? 
+</TimeML>

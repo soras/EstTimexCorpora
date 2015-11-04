@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Smuuli tee viaduktil tehti <TIMEX3 tid="t188" type="DATE" value="2007-06-15" anchorTimeID="t0">reedel</TIMEX3> kaks koormuskatset , mille esialgsete tulemuste selgumise järel jõudsid katseid jälginud insenerid seisukohale , et viadukt on liiklemiseks ohutu ja kasutuselevõtuks valmis . 
+ " Esimese koormuskatse käigus sõitsid neli üle 30-tonnist veokit vantsilla keskmise ava ühele neljandikule , " kirjeldas Merko Ehituse juhatuse liige Andres Agukas . 
+ Teise katsega liigutati silla keskmisele avale umbes 240-tonnine koormus , millega katsetati üle 160 keskmise sõiduauto võimaliku koormuse mõju silla keskmisele avale . 
+ Mõlema skeemi alusel jäid veokid sillale <TIMEX3 tid="t189" type="DURATION" value="PT1H" mod="EQUAL_OR_MORE">vähemalt tunniks ajaks</TIMEX3> , et näha koormuse mõju konstruktsioonidele . 
+</TimeML>

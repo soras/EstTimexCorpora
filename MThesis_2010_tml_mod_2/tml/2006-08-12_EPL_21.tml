@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Liikluses hukkunute arv Tallinnas on tõusnud 
+Holger Roonemaa 
+ Põhja prefektuuri 
+ <TIMEX3 tid="t79" type="DATE" value="PAST_REF" anchorTimeID="t0">Äsja</TIMEX3> valminud <TIMEX3 tid="t80" type="DATE" value="2006" mod="FIRST_HALF" anchorTimeID="t0">esimese poolaasta</TIMEX3> liiklusanalüüsist selgub , et kui alates <TIMEX3 tid="t81" type="DATE" value="1997" >1997. aastast</TIMEX3> on Põhja prefektuuri aladel hukkunute arv järjest vähenenud , siis <TIMEX3 tid="t83" type="DATE" value="2006" anchorTimeID="t0">tänavu</TIMEX3> <TIMEX3 tid="t82" type="DATE" value="2006-01"/><TIMEX3 tid="t84" type="DURATION" value="P6M" beginPoint="t82" endPoint="t85" anchorTimeID="t83">esimese kuue kuuga</TIMEX3><TIMEX3 tid="t85" type="DATE" value="2006-06"/> oli kolm hukkunut rohkem kui <TIMEX3 tid="t86" type="DATE" value="2005-01"/><TIMEX3 tid="t88" type="DURATION" value="P6M" beginPoint="t86" endPoint="t87" anchorTimeID="t84"> samal ajal möödunud aastal</TIMEX3><TIMEX3 tid="t87" type="DATE" value="2005-06"/> . 
+ <TIMEX3 tid="t90" type="DATE" value="2006" >Selle aasta</TIMEX3> <TIMEX3 tid="t89" type="DATE" value="2006-01"/><TIMEX3 tid="t91" type="DURATION" value="P6M" beginPoint="t89" endPoint="t92" anchorTimeID="t90">esimese kuue kuuga</TIMEX3><TIMEX3 tid="t92" type="DATE" value="2006-06"/> hukkus Põhja prefektuuri alal 22 inimest . 
+ " Kõige ohustatum liikleja on jalakäija . 
+ <TIMEX3 tid="t93" type="DATE" value="2006" anchorTimeID="t0">Tänavu</TIMEX3> Tallinna liikluses hukkunud kümnest inimesest kuus olid just jalakäijad , " ütles Põhja politseiprefektuuri prefekt Raivo Küüt . 
+ Küüdi sõnul ei saa ülekäiguradadel juhtunud õnnetustes süüdistada ainult hooletuid juhte . 
+ " Põhjused on ka selles , et üle-käiguradade asukoha valik ja märgistus ei ole piisavalt head , et õnnetusi ära hoida , " ütles Küüt ja lisas , et kõige kriitilisemates kohtades tuleks jalakäijate ülekäik ja sõidutee viia eri tasanditele . 
+</TimeML>

@@ -1,0 +1,252 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-03-03TXX:XX" />
+<ignoreeri>
+|
+autor:
+REIN
+KÄRNER
+|
+ajalehenumber:
+Postimees
+1998.03.03
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Valised
+|
+artikkel:
+Serbia
+politsei
+jõhker
+vägivald
+Kosovo
+albaanlaste
+suhtes
+|
+</ignoreeri>
+<s>
+Serbia    Serbia+0 //_H_ sg g, //
+politsei    politsei+0 //_S_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1998-03-02" >
+eilne    eilne+0 //_A_ sg n, //
+</TIMEX>
+sekkumine    sekkumine+0 //_S_ sg n, //
+Kosovo    Kosovo+0 //_H_ sg g, //
+albaanlaste    albaanlane+te //_S_ pl g, //
+paarikümnetuhandelisse    paari_kümne_tuhande=line+se //_A_ adt, //
+meeleavaldusse    meele_avaldus+se //_S_ adt, //
+provintsipealinnas    provintsi_pea_linn+s //_S_ sg in, //
+Pristinas    Pristina+s //_H_ sg in, //
+ning    ning+0 //_J_ //
+Podujevos    Podujevo+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Vucitrnis    Vucitrn+s //_H_ sg in, //    Vucitrni+s //_H_ sg in, //
+põhjustas    põhjusta+s //_V_ s, //
+paljudele    palju+dele //_P_ pl all, //
+demonstrantidele    demonstrant+dele //_S_ pl all, //
+tõsiseid    tõsine+id //_A_ pl p, //
+vigastusi    vigastus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+edastas    edasta+s //_V_ s, //
+agentuur    agentuur+0 //_S_ sg n, //
+dpa    dpa+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Meeleavaldajad    meele_avaldaja+d //_S_ pl n, //
+järgisid    järgi+sid //_V_ sid, //
+albaanlaste    albaanlane+te //_S_ pl g, //
+parteide    partei+de //_S_ pl g, //
+,    , //_Z_ //
+ametiühingute    ameti_ühing+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+üliõpilasliidu    üli_õpilas_liit+0 //_S_ sg g, //
+üleskutseid    üles_kutse+id //_S_ pl p, //
+protesteerida    protesteeri+da //_V_ da, //
+serblaste    serblane+te //_S_ pl g, //
+terrorivalitsuse    terrori_valitsus+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Sajad    sada+d //_N_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+,    , //_Z_ //
+sealhulgas    seal_hulgas+0 //_D_ //
+paljud    palju+d //_P_ pl n, //
+ajakirjanikud    aja_kirjanik+d //_S_ pl n, //
+,    , //_Z_ //
+peksti    peks+ti //_V_ ti, //
+brutaalselt    brutaalse=lt+0 //_D_ //
+läbi    läbi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Üle    üle+0 //_K_ //
+45    45+0 //_N_ ?, //
+vigastatu    vigastatu+0 //_S_ sg g, //
+vajas    vaja+s //_V_ s, //
+hiljem    hiljem+0 //_D_ //
+arstabi    arst_abi+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Serbia    Serbia+0 //_H_ sg g, //
+siseministeerium    sise_ministeerium+0 //_S_ sg n, //
+keelas    keela+s //_V_ s, //
+kogu    kogu+0 //_A_ //
+provintsis    provints+s //_S_ sg in, //
+igasugused    iga_sugune+d //_P_ pl n, //
+meeleavaldused    meele_avaldus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Eripolitsei    eri_politsei+0 //_S_ sg g, //
+üksused    üksus+d //_S_ pl n, //
+jälgisid    jälgi+sid //_V_ sid, //
+korralduse    korraldus+0 //_S_ sg g, //
+täitmist    täitmine+t //_S_ sg p, //
+veel    veel+0 //_D_ //
+<TIMEX  tid="t2" type="TIME" temporalFunction="true" value="1998-03-02TEV" >
+eile    eile+0 //_D_ //
+õhtutundideni    õhtu_tund+deni //_S_ pl ter, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+Komisjon    komisjon+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+soovinud    soovi+nud //_V_ nud, //    soovi=nud+0 //_A_ //    soovi=nud+0 //_A_ sg n, //    soovi=nud+d //_A_ pl n, //
+aktiivsemaid    aktiivsem+id //_C_ pl p, //
+surveavaldusi    surve_avaldus+i //_S_ pl p, //
+Jugoslaavia    Jugo_slaavia+0 //_H_ sg g, //
+presidendile    president+le //_S_ sg all, //
+Slobodan    Slobodan+0 //_H_ sg n, //
+Milosevicile    Milosevic+le //_H_ sg all, //    Milosevici+le //_H_ sg all, //
+,    , //_Z_ //
+saavutamaks    saavuta+maks //_V_ maks, //
+Kosovo    Kosovo+0 //_H_ sg g, //
+konflikti    konflikt+0 //_S_ sg g, //
+rahumeelset    rahu_meelne+t //_A_ sg p, //
+lahendust    lahendus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+ELi    EL+i //_Y_ sg g, //
+komissar    komissar+0 //_S_ sg n, //
+Hans    Hans+0 //_H_ sg n, //
+van    van+0 //_Y_ ?, //
+den    den+0 //_S_ sg n, //
+Broek    Broek+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+Brüsselis    Brüssel+s //_H_ sg in, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Me    mina+0 //_P_ pl n, //
+kutsume    kutsu+me //_V_ me, //
+kõiki    kõik+0 //_P_ pl p, //
+rühmitusi    rühmitus+i //_S_ pl p, //
+taas    taas+0 //_D_ //
+üles    üles+0 //_D_ //
+vägivalda    vägi_vald+0 //_S_ sg p, //
+lõpetama    lõp+tama //_V_ tama, //    lõpeta+ma //_V_ ma, //    lõppe+tama //_V_ tama, //
+.    . //_Z_ //
+</s>
+<s>
+Usume    usku+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tarvis    tarvis+0 //_D_ //
+avaldada    avalda+da //_V_ da, //
+suuremat    suurem+t //_C_ sg p, //
+survet    surve+t //_S_ sg p, //
+Milosevicile    Milosevic+le //_H_ sg all, //    Milosevici+le //_H_ sg all, //
+,    , //_Z_ //
+alustamaks    alusta+maks //_V_ maks, //
+dialoogi    dialoog+0 //_S_ sg g, //
+rahumeelse    rahu_meelne+0 //_A_ sg g, //
+lahenduse    lahendus+0 //_S_ sg g, //
+nimel    nimel+0 //_K_ //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+välisminister    välis_minister+0 //_S_ sg n, //
+Klaus    Klaus+0 //_H_ sg n, //
+Kinkel    Kinkel+0 //_H_ sg n, //
+mõistis    mõist+is //_V_ s, //
+hukka    hukka+0 //_D_ //
+Kosovo    Kosovo+0 //_H_ sg g, //
+albaanlaste    albaanlane+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+serbia    serbia+0 //_G_ //
+politseinike    politseinik+e //_S_ pl g, //
+vahelise    vaheline+0 //_A_ sg g, //
+terrori    terror+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+vägivalla    vägi_vald+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+USA    USA+0 //_Y_ ?, //
+valitsus    valitsus+0 //_S_ sg n, //
+väljendas    väljenda+s //_V_ s, //
+sügavat    sügav+t //_A_ sg p, //
+muret    mure+t //_S_ sg p, //
+Serbia    Serbia+0 //_H_ sg g, //
+lõunaosas    lõuna_osa+s //_S_ sg in, //
+puhkenud    puhke+nud //_V_ nud, //    puhke=nud+0 //_A_ //    puhke=nud+0 //_A_ sg n, //    puhke=nud+d //_A_ pl n, //
+vägivallailmingute    vägi_valla_ilming+te //_S_ pl g, //
+üle    üle+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+hoiatas    hoiata+s //_V_ s, //
+Albaania    Albaania+0 //_H_ sg n, //
+valitsus    valitsus+0 //_S_ sg n, //
+võimaliku    võimalik+0 //_A_ sg g, //
+sõja    sõda+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kutsus    kutsu+s //_V_ s, //
+rahvusvahelist    rahvus_vaheline+t //_A_ sg p, //
+üldsust    üldsus+t //_S_ sg p, //
+konflikti    konflikt+0 //_S_ sg g, //
+sekkuma    sekku+ma //_V_ ma, //
+enne    enne+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hilja    hilja+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Sootuks    sootuks+0 //_D_ //
+vastupidisel    vastu_pidine+l //_A_ sg ad, //
+seisukohal    seisu_koht+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+president    president+0 //_S_ sg n, //
+Slobodan    Slobodan+0 //_H_ sg n, //
+Milosevic    Milosevic+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+hoiatas    hoiata+s //_V_ s, //
+omakorda    oma_korda+0 //_D_ //
+välisriike    välis_riik+e //_S_ pl p, //
+konflikti    konflikt+0 //_S_ sg g, //
+sekkumise    sekkumine+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>

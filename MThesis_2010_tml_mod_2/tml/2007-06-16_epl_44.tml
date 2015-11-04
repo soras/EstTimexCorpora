@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ MTÜ Eesti Pakendiringlus ja linn korraldavad <TIMEX3 tid="t179" type="DATE" value="2007-SU" anchorTimeID="t0">suvel</TIMEX3> aktsiooni , kus noored kaunistavad räämas avalikud pakendikonteinerid kunsti- ja omaloominguga . 
+ Tallinna spordi- ja noorsoo-ameti juhataja Jaak Raie märkis , et noorteaastal suhtutakse noortesse kui ressurssi ning konteinereid ilustades saavad noored anda just oma panuse avalikku ruumi . 
+ <TIMEX3 tid="t180" type="DATE" value="2007-W25" mod="START" anchorTimeID="t0">Järgmise nädala alguses</TIMEX3> hakkavad tööle valgusfoorid Narva maanteel Turba tänava ristmiku piirkonnas , kuhu rajati jalakäijate foor , ning Akadeemia tee ja Raja tänava ristmikul , kuhu paigaldati jalakäijate ja transpordifoor . 
+ <TIMEX3 tid="t181" type="DATE" value="2007-09" mod="START" comment="valdkonnaspetsiifiline" anchorTimeID="t0">Kooliaasta alguseks</TIMEX3> on kavandatud välja ehitada veel Majaka ja Pallasti tänava ristmiku foor ja <TIMEX3 tid="t182" type="DATE" value="2007" mod="END" anchorTimeID="t0">selle aasta lõpuks</TIMEX3> ka Peterburi ja Betooni ristmiku foor . 
+ <TIMEX3 tid="t183" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >Lähiajal</TIMEX3> paigaldab transpordiamet osale ülekäiguradadele ajatablood , mille ülesanne on näidata aega , mil fooris põleb jalakäijale roheline tuli . 
+</TimeML>

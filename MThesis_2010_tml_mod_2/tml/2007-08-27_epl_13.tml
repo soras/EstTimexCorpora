@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Ravil Khair Al-Din 
+ <TIMEX3 tid="t85" type="DATE" value="2006" anchorTimeID="t0" mod="APPROX">Ligi aasta tagasi</TIMEX3> mõrvatud Novaja Gazeta ajakirjaniku Anna Politkovskaja mõrvaga seoses on kinni peetud kümme inimest , kellele <TIMEX3 tid="t186" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >varsti</TIMEX3> süüdistus esitatakse . 
+ " Me oleme ajakirjanik Anna Politkovskaja kriminaalasja uurimisel jõudsalt edasi jõudnud , " vahendas RIA Novosti Venemaa peaprokurör Juri Tšaika sõnu . 
+ Ta lisas , et <TIMEX3 tid="t86" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praeguseks</TIMEX3> on vahistatud kümme inimest ning neile esitatakse <TIMEX3 tid="t87" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähiajal</TIMEX3> süüdistus . 
+ Politkovskaja tapeti Moskvas <TIMEX3 tid="t88" type="DATE" value="2006-10-07" >7. oktoobril 2006. aastal</TIMEX3> . 
+ Juurdluse põhiversiooni kohaselt oli mõrv seotud tema ametialase tegevusega . 
+</TimeML>

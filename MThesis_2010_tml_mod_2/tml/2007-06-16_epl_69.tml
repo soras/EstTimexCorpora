@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ <TIMEX3 tid="t292" type="DATE" value="2007-06-20" anchorTimeID="t0">Kolmapäeval</TIMEX3> tähistab <TIMEX3 tid="t293" type="DATE" value="XXXX-XX-XX" comment="vaieldav, sünnipäev">50. sünnipäeva</TIMEX3> kütusega tegelenud ärimees Endel Siff , kelle kohta on ajakirjanduses kasutatud ka väljendeid ettearvamatu , isepäine ja pururikas . 
+ <TIMEX3 tid="t294" type="DURATION" value="PXY">Aastaid</TIMEX3> on Siffi nimetatud kütuse- ja transiidiärimeheks . 
+ Näiteks <TIMEX3 tid="t295" type="DATE" value="1997">1997. aastal</TIMEX3> kandideeris ta ka Eesti parima kütuseärimehe tiitlile , kuigi polnud juba selleks ajaks <TIMEX3 tid="t296" type="DURATION" value="PXY">mitu aastat</TIMEX3> ühtegi naftatehingut teinud . 
+ Sellega tegelevad hoopis kolleegid , Siff loob pigem strateegiat ja teeb olulisemad otsused . 
+ Äri kõrval on Siff suur tennisesõber ja tegeleb ka heategevusega . 
+ <TIMEX3 tid="t297" type="DATE" value="2007-02" anchorTimeID="t0">Veebruaris</TIMEX3> kinkis Siff Tartu ülikooli kliinikumile uudse laserraviseadme , millega saab tõhusamalt ravida mitmesuguseid nahahaigusi . 
+</TimeML>

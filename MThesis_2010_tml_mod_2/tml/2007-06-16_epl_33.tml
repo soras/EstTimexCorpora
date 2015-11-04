@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Raimo Poom 
+ Foto : Rene Suurkaev 
+ Eestit külastanud eurovolinik tõstatas ka kaardimaksete teenustasude teema . 
+ <TIMEX3 tid="t147" type="DATE" value="2007-06-15" anchorTimeID="t0">Eile</TIMEX3> Eestit külastanud Euroopa komisjoni konkurentsivolinik Neelie Kroes soovitas siinsetel ametkondadel pöörata tähelepanu notarite ning kaardimaksete teenustasude juures tarbijat ähvardavatele ohtudele . 
+ Kroes ütles Päevalehele , et tõstis <TIMEX3 tid="t148" type="DATE" value="2007-06-15" anchorTimeID="t0">eile</TIMEX3> toimunud kohtumisel konkurentsiametiga üles küsimuse notariametiga seotud piirangutest . 
+ " Palusin neil uurida võimalust , kuidas tõhustada konkurentsi notarite seas , sest see on siiani liiga suletud valdkond , " rääkis Kroes . 
+ Ta tõi näiteks oma kodumaa Hollandi , kus ametile esitatavatest piirangutest loobumise järel langesid notarite teenustasud kuni 40% . 
+ Notarite Koja jurist Eve Sang ütles voliniku arvamust kuuldes , et Eesti ei ole ainuke EL-i liikmesriik , kus notarite arv on riiklikult paika pandud . 
+ " Eesti-sarnase notariaadisüsteemiga riike on 21 , " sõnas ta . 
+ Sang lisas , et samuti ei mõjuta notarite arv teenustasude hinda . 
+ " See on Eestis seadusega kindlaks määratud ning toimivad ristsubsideerimise põhimõttel - osa kallima hinnaga teenuste arvelt tuleb teha ka neid toiminguid , mille eest määratav tasu ei kata nende tegemiseks vajalikke kulutusi , " seletas ta . 
+</TimeML>

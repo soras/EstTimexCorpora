@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Erik Rand 
+ Foto : Pille-Riin Pregel 
+ <TIMEX3 tid="t18" type="TIME" value="2007-08-25T05:30" anchorTimeID="t0">Laupäeva varahommikul kella poole kuue paiku</TIMEX3> suri tänaval Kuressaare kesklinnas <TIMEX3 tid="t19" type="DURATION" value="P23Y" >23-aastane</TIMEX3> naisterahvas , kes oli alles <TIMEX3 tid="t20" type="TIME" value="2007-08-25T03:30" mod="APPROX" anchorTimeID="t18">paar tundi varem</TIMEX3> ööklubis aega veetnud . 
+ Naise kaaslaste sõnul kurtis too äkki , et tunneb end kehvasti . 
+ " Ta istus kõnniteeservale ja oksendas , " rääkis üks kaaslastest . 
+ Arvates , et tegu on alkoholist tingitud pööritusega , telliti takso , et naine koju viia . 
+ Taksojuht aga keeldus klienti peale võtmast ning sõitis lihtsalt minema , kirjutab Oma Saar . 
+ <TIMEX3 tid="t21" type="TIME" value="2007-08-25T05" comment="ankurdub sündmuse külge">Veidi aja pärast</TIMEX3> tekkisid tüdrukul juba krambid ja kahtlustades langetõvehoogu kutsus kaaslane kohale kiirabi . 
+ Enne kiirabi saabumist halvenes tüdruku seisund järsult , mistõttu võeti veel kord telefonitsi kiirabiga ühendust , et saada kannatanu abistamiseks juhtnööre . 
+ " Mulle öeldi , et ma toru ära ei paneks ja kästi kontrollida , kas pulss lööb . 
+ Ma ei tea , kas ma ei leidnud pulssi või seda selleks hetkeks enam ei olnud , " meenutab kaaslane . 
+ <TIMEX3 tid="t22" type="TIME" value="2007-08-25T05" comment="ankurdub sündmuse külge">Hetke pärast</TIMEX3> kohale jõudnud kiirabitöötajal jäi üle konstateerida vaid neiu surma . 
+</TimeML>

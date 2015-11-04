@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Baaris tellib kannu õlut mees , kellel on poole pea asemel apelsin . 
+ Baarimees ütleb : " Andke muidugi andeks , aga lubage tähelepanu juhtida , et teil on poole pea asemel apelsin . " 
+ " Jah , juba mõnda aega , " vastab mees . 
+ " Kuidas see juhtus , kui küsida tohib ? " tunneb baarimees huvi . 
+ " <TIMEX3 tid="t261" type="DATE" value="XXXX-XX-XX" comment="ühel ilusal päeval :)">Ühel ilusal päeval</TIMEX3> , " hakkab mees rääkima , " läksin ma vanakraamikauplusse ja leidsin ühe katkise lambi . 
+ Kui ma seda hõõruma hakkasin , ilmus välja džinn ja ütles , et täidab kolm minu soovi . 
+ Esiteks soovisin ma , et kõik naised minusse armuksid . 
+ Džinn viipas korraks käega ja kõik naised pöörasidki oma pilgud minu suunas . 
+ Teiseks soovisin , et mul oleks rahakott miljoni dollariga , mis kunagi ära ei kaoks ega tühjaks saaks . 
+ Džinn viipas jälle käega ja selline rahakott oligi mul taskus . 
+ Ja kolmandaks ei osanud ma enam muud soovida , kui et mul oleks poole pea asemel apelsin ! " 
+</TimeML>

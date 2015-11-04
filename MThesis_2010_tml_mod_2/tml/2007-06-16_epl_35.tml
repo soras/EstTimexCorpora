@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Mirko Ojakivi 
+ Tartu ülikool sai europatendi luufiksaatorile , mis vähendab luumur-dude paranemisaega . 
+ " Mida kiiremini paraneb traumeeritud või murdunud luu , seda vähem on inimesel ja loomal valu ning vaeva , " selgitas oma leiutise kasulikkust Eesti maaülikooli veterinaarmeditsiini ja loomakasvatuseinstituudi dotsent Vladimir Andrianov . 
+ Esialgu on vara rääkida <TIMEX3 tid="t151" type="DATE" value="2007-W23" anchorTimeID="t0">eelmisel nädalal</TIMEX3> europatendi saanud leiutise kasulikkusest inimesele , sest ühelegi inimesele pole seda tüüpi fiksaatorit veel paigaldatud . 
+ Uue fiksaatoriga on kokku puutunud juba mitu maaülikooli looma , kes ootavad <TIMEX3 tid="t152" type="DURATION" value="PXW">nädalaid</TIMEX3> sellega oma tehisluumurru kokkukasvamist . 
+ " Ei , me ei löö kaikaga loomade luid puruks . 
+ Eksperimente tehakse ainult tuimastatud loomadele , " lisas Andrianov . 
+ Teisisõnu , loom pannakse narkoosi abil magama , tema luule tehakse sae abil tehismurd ning siis pannakse paika fiksaator . 
+</TimeML>

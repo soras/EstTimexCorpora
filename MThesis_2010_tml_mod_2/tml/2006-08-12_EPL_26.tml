@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Keskerakonda ähvardab <TIMEX3 tid="t109" type="DATE" value="2007-SP" anchorTimeID="t0">kevadel</TIMEX3> taas poliitilisse üksindusse jäämine 
+Kai Kalamees 
+ Tüssamissüüdistuse kaela saanud Keskerakond peletab tulevasi partnereid eemale . 
+ Oma senised läbirääkimispartnerid hüljanud ja Rahvaliiduga siduvat lepingut sõlmiv Keskerakond on teiste erakondade hinnangul kahandanud tugevasti oma väljavaateid kuuluda märtsivalimiste järel nendega ühisesse valitsusse . 
+ Keskerakonna <TIMEX3 tid="t110" type="DATE" value="PAST_REF" anchorTimeID="t0">viimase aja</TIMEX3> sammud on pannud eriti nördima Reformierakonna , kelle liidrite väitel kaotab Edgar Savisaare juhitav partei <TIMEX3 tid="t111" type="SET" value="P1D" quant="EVERY">iga päevaga</TIMEX3> oma usaldusväärsust . 
+ " Nii ebameeldivad asjad jäävad meelde ja mõjutavad <TIMEX3 tid="t112" type="DATE" value="FUTURE_REF" anchorTimeID="t0">lähitulevikus</TIMEX3> koostööd , " oli Reformierakonna peasekretär Kristen Michal pahane , et topeltkõnelusi pidanud Keskerakond nurjas viie erakonna suure ?ansi valida president riigikogus . 
+ Erinev poliitiline kultuur 
+</TimeML>

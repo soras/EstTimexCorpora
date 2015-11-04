@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ 50. Saaremaa velotuuri teise etapi , 136,6 km Otepäält Viljandisse võitis Janek Tombak . 
+ Teise koha sai kümne mehe grupifinišis Erki Pütsep ja kolmanda Allan Oras , vahendab Sportnet.ee. 
+ Et samasse gruppi kuulus ka <TIMEX3 tid="t224" type="DATE" value="2007-06-15" anchorTimeID="t0">reedese</TIMEX3> etapi võitnud Jaan Kirsipuu , peaks meie kõigi aegade edukaim profirattur jätkama tuuri üldliidrina . 
+ <TIMEX3 tid="t225" type="DATE" value="2007-06-16" anchorTimeID="t0">Laupäevasel</TIMEX3> etapil oli kokku kolm vahe- ja kaks mäefinišit . 
+ Esimese vahefiniši juba 7. kilomeetril Sihval võitis Vahur Valvas Caspar Austa ja Oskari Kargu ees . 
+ 32 km järel keenis olid kolm paremat Kargu , Valvas ja proloogi kiireim Mart Ojavee . 
+ Tõrvas võidutses Andrei Mustonen , järgnesid Austa ja Ojavee . 
+ Karksi-Nuias ( 87 km ) jagati mäefiniši punkte ning kõige rohkem teenis neid Kargu , järgnesid triatleet Ain-Alar Juhansson ja Austa . 
+ 122 km kohal , juba Viljandis hõivasid teises mäefinišis kolm kõrgemat kohta Tombak , Ojavee ja Rein Taaramäe . 
+</TimeML>

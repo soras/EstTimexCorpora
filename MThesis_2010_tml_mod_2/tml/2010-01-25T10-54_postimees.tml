@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2010-01-25T10:54" functionInDocument="CREATION_TIME" comment="E"/>
+
+ <TIMEX3 tid="t1" type="DATE" value="2009" >Kinoaasta 2009</TIMEX3> tõi mitmeid rekordeid
+(14)
+
+<TIMEX3 tid="t2" type="TIME" value="2010-01-25T10:54" >25.01.2010 10:54</TIMEX3>
+
+Tiit Tuumalu
+
+Kommenteeri | Prindi
+Mäletate, kuidas lõppes eelmine, <TIMEX3 tid="t3" type="DATE" value="2008" >2008. aasta</TIMEX3> kinolevistatistikat kokku võttev artikkel siinsamas Postimehe veergudel? Kirjutasime, et loodetavasti teeb Solarise keskuse Cinamoni kino avamine Tallinna piletihindadega sama, mida tegi Cinamoni kino avamine Tartu piletihindadega.
+REKLAAM
+
+
+Tegigi, masu abil mõistagi, ja veel kuidas! Statistika ütleb, et Eesti keskmine kinopilet maksis <TIMEX3 tid="t4" type="DATE" value="2009" >2009. aastal</TIMEX3> 66 krooni – koguni neli krooni vähem kui <TIMEX3 tid="t5" type="DATE" value="2008" anchorTimeID="t4">aasta varem.</TIMEX3> Meenutagem, juba <TIMEX3 tid="t6" type="DATE" value="2005" >2005</TIMEX3> ulatus see 67 kroonini ja on <TIMEX3 tid="t7" type="DATE" comment="ehk: pärast aastat 2005" anchorTimeID="t6" value='XXXX'>pärast seda</TIMEX3> ainult ülespoole roninud. Langus võinuks olla suuremgi, kui Solaris oleks varem valmis saanud. See võimaldas Coca-Cola Plazal kasseerida <TIMEX3 tid="t8" type="SET" value="XXXX-XX-XXTEV" >õhtuste</TIMEX3> seansside eest pidurdamatult sisse koguni 120 krooni piletilt – summa, mille eest <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> lunastaks pääsme peaaegu et kaks vaatajat korraga.
+
+3D näitab võimu
+
+Lahing, mis vaataja hingede pärast puhkes, läheb ajalukku – oli lühike, kiire ja julm. Tuletame meelde. Coca-Cola Plaza langetab <TIMEX3 tid="t10" type="DURATION" value="PXW" >mõni nädal</TIMEX3> enne Cinamoni avamist <TIMEX3 tid="t11" type="SET" value="XXXX-XX-XXTEV" >õhtuse</TIMEX3> piletihinna 120 kroonilt 90-le – samale tasemele, mis Cinamonil. Siis kukub ühel Cinamoni kinosaalidest lagi sisse ja kino pannakse kinni. Näitamaks, kes on Tallinna kinoturu tegelik valitseja, annab kokakoolakino elavale laibale viimase hoobi – langetades veelgi hinda, juba 55 kroonini <TIMEX3 tid="t12" type="SET" value="XXXX-XX-XXTDT" >päevaste</TIMEX3> ja 65 kroonini <TIMEX3 tid="t13" type="SET" value="XXXX-XX-XXTEV" >õhtuste</TIMEX3> seansside eest.
+
+Jah, selle eest võib juba kinno minna küll. Iseäranis Lätiga võrreldes, kus keskmine kinopileti hind oli <TIMEX3 tid="t14" type="DATE" value="2008" >2008. aastal</TIMEX3> 73 krooni. Riia kokakoolakinos näiteks, mis kannab nime Parex Plaza, maksab tavapilet <TIMEX3 tid="t15" type="SET" value="XXXX-WXX-XTEV" comment="Ebatäpne, täpsem on: XXXX-WXX-WDTEV">argiõhtuti</TIMEX3> (v.a <TIMEX3 tid="t16" type="SET" value="XXXX-WXX-1" >esmaspäev)</TIMEX3> 88 krooni, <TIMEX3 tid="t17" type="SET" value="XXXX-WXX-WE" >nädalavahetustel</TIMEX3> 105 krooni. Parem pole olukord ka konkureerivas Cinamoni kobarkinos, mis tähendab, et Riias pole konkurents püsivalt madalaid hindu kindlustanud.
+
+Mis iseloomustas <TIMEX3 tid="t18" type="DATE" value="2009" >kinoleviaastat 2009</TIMEX3> veel? Kinokülastuste arv tegi taas taasiseseisvusaegse Eesti rekordi – 1 783 651 müüdud piletit ja 117 772 792 krooni kassatulu. See teeb 1,33 külastust iga Eesti elaniku kohta – Ida-Euroopa riikidest üks kõrgemaid.
+
+Rekordilisest või rekordilähedasest kinoaastast, iseäranis kassat silmas pidades, on teatanud teisedki riigid, Hispaania, Prantsusmaa, Poola... Põhjused? Majanduskriis, mis sunnib inimesi otsima odavamat meelelahutust ja mille eest põgenetakse kinno – eriti hästi lähevad suurejoonelised eskapistlikud vaatemängud. Jätkuv huvi kodumaise filmi vastu. Ja lõpuks, stereoskoopiliste ehk ruumiliste ehk 3D-filmide võidukäik.
+
+Viimane kehtib ka Eesti kohta. Kaheksa uut 3D-filmi, mille tõi <TIMEX3 tid="t20" type="DATE" value="2009" anchorTimeID="t0">mullu</TIMEX3> ekraanidele suurim filmilevitaja Forum Cinemas, kogusid 245 731 külastust, mis moodustab 13,7 protsenti vastavast koguarvust. Kassatulu poolest on protsent veelgi kõrgem – maksab ju 3D-filmide pilet rohkem kui tava- ehk 2D-filmide oma.
+
+Tasub tähele panna seda, et kinolevis ringles kokku 307 filmi, 161 uut ja 146 vana. Ja et 3D-filme näitas kuni Tallinna Cinamoni avamiseni üksnes Coca-Cola Plaza. Tulemus olnuks veelgi parem, kui «Avatar» poleks ekraanile jõudnud alles <TIMEX3 tid="t21" type="DATE" value="2009-12" mod="END" anchorTimeID="t0">detsembri lõpus,</TIMEX3> kogudes ainuüksi <TIMEX3 tid="t22" type="DURATION" value="P2W" >kahe nädalaga</TIMEX3> üle 59 000 vaataja, neist enamik ostis pileti just 3D-versioonile. 
+
+<TIMEX3 tid="t23" type="DATE" value="2009" anchorTimeID="t0">Aasta</TIMEX3> kümne vaadatuima linateose seas on 3D-filme koguni viis, lisaks «Avatarile» neli laste- või kogupereanimatsiooni, «Jääaeg 3», «Välk», «Üles» ja «Taevast sajab lihapalle».
+
+Fenomenaalne on «Jääaja» tulemus – 186 521 vaatajat on veel üks taasiseseisvusaegse Eesti kinolevi rekord, mille ees peab pea langetama isegi «Nimed marmortahvlil». <TIMEX3 tid="t25" type="DURATION" value="P20Y" beginPoint="t51" endPoint="t0">Viimase 20 aasta</TIMEX3><TIMEX3 tid="t51" type="DATE" value="1990" temporalFunction="true"/> Eesti kinolevi esikümnesse mahuvad <TIMEX3 tid="t26" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> kõik kolm «Jääaega», neist ühegi vaatajate hulk ei jää allapoole sadat tuhandet.
+
+Ent 3D-filmide tõeline plahvatus on tehnoloogia odavnemisega seoses tõenäoliselt veel ees – kas Hollywood on leidnud lõpuks rohu, millega järsult suurendada seni väga visalt kasvanud kinopublikut, näitab aeg. Vähemalt «Avatari» näide tõestab: «filmi sisse mineku» nimel on valmis kinno tulema ka need, kes seni on tavatsenud filme tõmmata internetist.
+
+Teine asi on see, kas <TIMEX3 tid="t27" type="DATE" value="FUTURE_REF" anchorTimeID="t0">lähiaastail</TIMEX3> ees ootav 3D-filmide uputus ei devalveeri asja ennast – seda, et kukru täitmise nimel tehakse haltuurat ja filmitakse/kantakse 3D-formaati (üle) ka need teosed, mis seda tegelikult välja ei kanna. Rõõmustav on, et sellesse maailma on sukeldunud ka meie Nukufilmi stuudio, kes stereoskoopilise nukuanimatsiooni pioneerina võtab parasjagu üles <TIMEX3 tid="t28" type="DURATION" value="PT30M" >pooletunnist</TIMEX3> muusikalist seiklusfilmi «Lisa Limone».
+
+Eesti filmi kaks protsenti
+
+Kõik pole siiski nii tore, nagu rekordilise <TIMEX3 tid="t29" type="DATE" value="2009" anchorTimeID="t0">kinoaasta,</TIMEX3> väiksemate piletihindade ja 3D-võidukäigu järgi võiks arvata. Vaadakem faktidele näkku! Eesti film – neli mängu- ja kolm dokumentaalfilmi – kogus kinolevis 27 679 vaatajat, sedagi tänu järellevitatavale «Detsembrikuumusele», mis tuli tegelikult välja juba <TIMEX3 tid="t30" type="DATE" value="2008" >2008. aastal.</TIMEX3> Turuosaks teeb see vaatajate koguarvu järgi 2,03 protsenti  – ja kui võtta arvesse üksnes esmalinastusi, siis kõigest 1,63 –, kassatulu järgi aga 1,59 protsenti. Nii väike oli see viimati <TIMEX3 tid="t31" type="DATE" value="2000" >2000. aastal,</TIMEX3> kui protsent jäi alla ühe. Mäletatavasti ei jõudnud <TIMEX3 tid="t32" type="DATE" value="2000" anchorTimeID="t31">tol aastal</TIMEX3> ekraanile ühtki uut kodumaist mängufilmi!
+
+<TIMEX3 tid="t33" type="DATE" value="2009" >2009. aasta</TIMEX3> vaadatuimate filmide edetabelist, mille esikümnes on <TIMEX3 tid="t34" type="DURATION" value="P8Y" beginPoint="t52" endPoint="t0">viimased kaheksa aastat</TIMEX3><TIMEX3 tid="t52" type="DATE" value="2002" temporalFunction="true"/> erandita seisnud vähemalt üks kodumaine linateos, leiab seekord esimese eesti filmi – «Pangaröövi» – alles 67. kohalt, «Püha Tõnu kiusamise» 71. ja «Buratino» 82. kohalt. Tõsi, viimane edestab siiski koha võrra «Piinakambrit», filmi, mis <TIMEX3 tid="t35" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> hoogsalt Oscari poole rühib.
+
+Kohad kohtadeks, aitab spordist! Olulisem on see, et neljast mängufilmist kolm – oma tegi ära ehk üksnes «Püha Tõnu kiusamine», mis pealegi Tallinna Cinamoni kino laevaringu alla jäi – pole kaugeltki mingid erilised kunstilised pusled, vaid just laiemat vaatajaskonda või teatud arvukat sihtgruppi – noori, nagu «Buratino» – kõnetada üritavad teosed.
+
+Ons eestlane hakanud hoolikamalt valima, iga filmi peale enam kinno ei jookse, kui see just ajaloolisi võite, natsiooni suurkujude elu või rahvalikku nalja ei viska? Ons põhjuseks lihtsalt filmide segane identiteet, kaugeks jäävad konfliktid ja konarlik vormistus? Või on see hoopis sügavam usalduskriis? Eks seda näita <TIMEX3 tid="t36" type="DATE" value="2010" anchorTimeID="t0">tänavune aasta</TIMEX3>, kui ekraanile jõuavad Marko Raadi, Andres Puustusmaa, Sulev Keeduse ja Mart Kivastiku filmid – peaks olema nii vaatemängulist põnevust, lihtsa inimese elu kui ka tõsist kunsti.
+
+Aga võib ka mõelda hoopis nii – kõik on korras, 3000–6000 vaatajat ühe keskmise kodumaise filmi kohta pole sugugi paha tulemus, pealegi ei eeldanud ükski teema tohutut vaatajaarvu. Kõrge kinokultuuriga Soomes näiteks valmib <TIMEX3 tid="t53" type="SET" value="P1Y">aastas</TIMEX3> keskmiselt 15 filmi, 100 000 vaataja piiri ületab neist ainult mõni, <TIMEX3 tid="t37" type="DATE" value="2009" anchorTimeID="t0">mullu</TIMEX3> neli. Vähemalt neljandik ei saa 10 000 iial kätte.
+
+Näiteks kunstist tiine «Võõras» («Muukalainen»), mida Eesti kaastootis ja mille helilooja Helena Tulve kandideerib Soome filmiauhinnale Jussi, ringles <TIMEX3 tid="t38" type="DATE" value="2009" anchorTimeID="t0">mullu</TIMEX3> Soome kinolevis kolme koopiaga ja sai kokku 2000 vaatajat. Nii et tegelikult läks vähemalt «Pühal Tõnul» väga hästi! 
+
+Väike huvi Euroopa vastu
+
+Soomest ja tema filmikultuurist veel. Näiteks on teatatud, et riigi abiga peaks <TIMEX3 tid="t39" type="DATE" value="2010" mod="END" >2010. aasta lõpuks</TIMEX3> olema digitaliseeritud juba 25 protsenti Soome kinodest. Mõistagi ei tähenda see üksnes vastutulekut 3D pealetungile, vaid ka seda, et sel viisil on võimalik viia kodumaiseid filme värskelt ja kvaliteetselt ka väiksemate kohtade vaatajateni, kus huvi Soome enda toodangu vastu püsib jätkuvasti suur.
+
+Huvitavat võrdlusmaterjali ja mõtteainest pakub ka soomlaste <TIMEX3 tid="t40" type="DATE" value="2009" anchorTimeID="t0">mullune</TIMEX3> kinolevi edetabel. Näiteks võib sellest välja lugeda, et viimane parima filmi Oscar, brittide «Rentslimiljonär», paikneb 6. kohal 187 156 vaatajaga. Eesti edetabelis on see alles 26., vaatajaid 18 873. Kõik 25 kohta eespool kuuluvad USA toodangule.
+
+Eestist veel. Jätkuvasti kogub äärmiselt visalt publikut kunstilise väärtusega Euroopa film. «Gomorra» – <TIMEX3 tid="t41" type="DATE" value="2008" >2008. aasta</TIMEX3> Euroopa parim – 2047 vaatajat. «Seinte vahel» – Cannes’i Kuldne Palmioks – 1055 vaatajat. «Lorna vaikimine» – 722 vaatajat. Loodetavasti aitab kahe saaliga Artise kino sellistele linateostele <TIMEX3 tid="t42" type="DATE" value="FUTURE_REF" anchorTimeID="t0">tulevikus</TIMEX3> rohkem tähelepanu pöörata.
+
+Millised eesti filmid toob ekraanile <TIMEX3 tid="t43" type="DATE" value="2010" >2010?</TIMEX3>
+•    «Lumekuninganna» <TIMEX3 tid="t44" type="DATE" value="2010-02" anchorTimeID="t0">(veebruar).</TIMEX3> Marko Raadi kirjutatud ja filmitud romantiline draama, mis kasutab Anderseni muinasjuttu hüppelauana – teismelises poisis süttib armastus jäävillas elava <TIMEX3 tid="t45" type="DURATION" value="P40Y" >40-aastase</TIMEX3> naise vastu, mis ei kohku tagasi millegi ees.
+•    «Punane elavhõbe» <TIMEX3 tid="t46" type="DATE" value="2010-03" anchorTimeID="t0">(märts).</TIMEX3> Andres Puustusmaa ekraniseerib Andres Anvelti romaani, tegevuspaigaks <TIMEX3 tid="t47" type="DATE" value="199" mod="START">1990ndate alguse</TIMEX3> Eesti, kus õitseb kuritegelik metalliäri.
+•    «Üks mu sõber» <TIMEX3 tid="t48" type="DATE" value="2010-10" anchorTimeID="t0">(oktoober).</TIMEX3> Kirjanik Mart Kivastiku täispikk filmidebüüt – südamlik lugu kahe vana mehe sõprusest, peaosades Aarne Üksküla ja Aleksander Eelmaa.
+•    «Kirjad Inglile» <TIMEX3 tid="t49" type="DATE" value="2010" mod="END" anchorTimeID="t0">(aasta lõpp).</TIMEX3> Sulev Keedus jutustab Vene vägede koosseisus Afganistani sõjas kadunuks jäänud Jeremia Juunas Kirotaja taasilmumisest vanematekoju.
+
+Eesti <TIMEX3 tid="t50" type="DATE" value="2009" >kinoleviaasta 2009</TIMEX3> oli taas rekordiline
+
+Eesti kinolevi esikümme
+1.    «Jääaeg 3» (USA) – 186 521 külastust
+2.    «Avatar» (pildil) (USA) – 59 514
+3.    «2012» (USA) – 58 628
+4.    «Välk» (USA) – 57 777
+5.    «Üles» (USA) – 50 916
+6.    «Vääritud tõprad» (USA) – 44 183
+7.    «Taevast sajab lihapalle» (USA) – 42 661
+8.    «Harry Potter ja segavereline prints» (Suurbritannia-USA) – 41 363
+9.    «Videviku saaga: Noorkuu» (USA) – 41 007
+10.    «Brüno» (USA) – 36 568
+
+Eesti kinolevi tagakümme
+161.    «Trikid» (Poola) – 88 külastust
+160.     «Isemoodi muinasjutt» (Ukraina-Eesti) – 106
+159.    «Pöörane armastuslugu» (Taani) – 110
+158.    «Leo» (Rootsi) – 133
+157.    «Reis Saturnile» (Taani) – 175
+156.    «Kaunis Bitch» (Taani-Saksamaa) – 208
+155.    «Võitlejaks sündinud» (Taani) – 212
+154.    «Shine a Light – valgus peale» (USA) – 245
+153.    «Jaanipäev Läti moodi» (Austria-Läti) – 288
+152.    «Levist väljas» (Island) – 315
+Kokku linastus siinses kinolevis 161 uut filmi, neist 87 levitas Forum Cinemas ja 42 ACME Film. Vanemate filmidega kokku ringles kinolevis 307 linateost.
+
+Eesti filmid kinolevis
+(koha järgi üldises edetabelis)
+67.    «Pangarööv» (pildil) – 6575 külastust
+71.    «Püha Tõnu kiusamine» – 6282
+82.    «Buratino» – 4692
+87.    «Disko ja tuumasõda» – 4114
+95.    «Vasha» – 3629
+128.    «Riigireetur» – 1300
+136.    «Baruto» – 1087
+«Hukkunud Alpinisti hotell» (taasesilinastus) – 780
+«Isemoodi muinasjutt» (Ukraina-Eesti) – 106
+
+Väikelevitajate filme (koha järgi üldises edetabelis)
+40.    «Vicky Cristina Barcelona» (Hispaania-USA) – 10 311
+102.    «Genova» (Suurbritannia-Itaalia) – 3142
+114.    «Seraphine» (Belgia-Prantsusmaa) – 2437
+118.    «Gomorra» (Itaalia) – 2046
+119.    «Antikristus» (Taani-Saksamaa) – 2014
+129.    «Ponyo mäe otsas» (Jaapan) – 1286
+137.    «Seinte vahel» (Prantsusmaa) – 1055
+139.    «Tulpan» (Kasahstan-Venemaa) – 1002
+145.    «Lorna vaikimine» (Belgia) – 722
+149.    «Delta» (Ungari) – 540
+Tallinnfilm tõi levisse 10, Estinfilm kuus, MTÜ Otaku kuus ja Kinobuss neli uut filmi.
+</TimeML>
+

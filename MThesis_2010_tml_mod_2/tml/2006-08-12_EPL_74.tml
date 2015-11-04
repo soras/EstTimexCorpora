@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Uus ja vana sloveeni rakenduskunstis 
+Eesti rahvusraamatukogu harulduste saalis näeb <TIMEX3 tid="t355" type="DATE" value="2006-08-24" anchorTimeID="t0">24. augustini</TIMEX3> sloveeni kunstnike loomingut : nad tõlgivad <TIMEX3 tid="t356" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüdisaegsesse</TIMEX3> disainikeelde vanu käsitöötraditsioone . 
+ Näituse naelaks on <TIMEX3 tid="t357" type="DATE" value="2004" >2004. aastal</TIMEX3> Budapestis toimunud näitusel " Euroopa lauad " parimaks eksponaadiks hääletatud " Sloveeni laud " , mis on kaetud traditsioonilisest idrija niplispitsist inspireeritud linikute , rahvalikest palmipuudepüha vanikutest tuletatud lilleseadete , käsitsi valmistatud paberile trükitud toidukaartide ning " pitsilise " kullatud portselaniga , mis valehäbi tundmata ei püüagi suhestuda kaine modernistliku disainimõttega , vaid naudib pitsi , portselani ja rahvapärandi sünteesi õhkõrnu mänge . 
+</TimeML>

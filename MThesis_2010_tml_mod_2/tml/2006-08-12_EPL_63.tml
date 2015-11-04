@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Oxfordi ülikoolis peetakse Tolkieni konverents 
+<TIMEX3 tid="t296" type="DATE" value="2006-08-21" anchorTimeID="t0">21.</TIMEX3>-<TIMEX3 tid="t297" type="DATE" value="2006-08-25" anchorTimeID="t0">25. augustini</TIMEX3><TIMEX3 tid="t298" type="DURATION" value="P4D" beginPoint="t296" endPoint="t297" /> kogunevad " Sõrmuste isanda " autori J. R. R. Tolkieni uurijad rahvusvahelisele konverentsile Inglismaal Oxfordis Exeteri kolled?is , kus Tolkien noorena õppis . 
+ Lektorid Prantsusmaalt , Poolast , Itaaliast , Rumeeniast , Saksamaalt ja USA-st arutlevad Tolkieni töö inspiratsiooniallikate ja mõjude üle . 
+ Muuseas arutletakse suure maailmasõja , Tolkieni ja inglise keele , " Kalevala " , Tolkieni juttude tervendava mõju , tema sõprade ja muu üle . 
+ Konverentsi osavõtutasu koos majutusega on 695 naela ehk üle 15 000 krooni . 
+</TimeML>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Haldi Ellam 
+ Ligi 50 Naši noorteühenduse liiget piketeeris vaikselt <TIMEX3 tid="t55" type="DATE" value="2007-10-19" anchorTimeID="t0">täna</TIMEX3> Eesti Moskva saatkonna ees . 
+ Pikett oli pühendatud pronkssõduri teisaldamisele , vahendas Itar-Tass . 
+ Agentuuri andmeil piketeerisid noored Eesti saatkonna ees Pronkssõduri plakatite ja fotodega SS-laste marssidest Tallinnas . 
+ " Me tahtsime venelastele ja maailmale veelkord meelde tuletada " Eesti probleemi " ja rahvusvahelise õiguse rikkumisi Vene vähemuse õiguste osas ja fašismi vastu võidelnud kangelaste mälestuse laimamise pärast , " selgitas Naši aktivist Makar Vikljantsev . 
+ " Samuti protestime me Naši aktivistide ebaseadusliku Eestist väljasaatmise pärast , " ütles ta meenutades , et Pronkssõduri endisele asukohale mälestama läinud našilased jäid tervelt <TIMEX3 tid="t56" type="DURATION" value="P10Y">kümneks aastaks</TIMEX3> ilma õigusest Euroopa Liitu sisse sõita . 
+</TimeML>

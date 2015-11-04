@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+  Kristi Vahemaa 
+ San Antonio on neljas meeskond , keda on kroonitud vähemalt neljal korral NBA meistriks . 
+ San Antonio Spurs alistas neljandas mängus Cleveland Cavaliersi võõrsil 83 : 82 ning võitis NBA finaalseeria mängudega 4 : 0. <TIMEX3 tid="t245" type="DURATION" value="P5Y" beginPoint="t316" endPoint="t0">Viimase viie aasta jooksul</TIMEX3><TIMEX3 tid="t316" type="DATE" value="2002" temporalFunction="true"/> kolm tiitlit võitnud ning <TIMEX3 tid="t246" type="DATE" value="PAST_REF" anchorTimeID="t0" >läbi ajaloo</TIMEX3> neli korda meistriks kroonitud Spurs ühines Boston Celticsi , Los Angeles Lakersi ja Chicago Bullsiga , kes on ainsad meeskonnad , kes on võitnud tiitli vähemalt neljal korral . 
+ " See võit on magusam , tee selleni oli palju raskem , kui eelmistel kordadel , " tunnistas Spursi staar Tim Duncan . 
+ Viimases finaalkohtumises oli San Antonio resultatiivseim 27 punkti toonud Manu Ginobili . 
+ Suurepärases vormis oli taas kord Tony Parker , kes viskas 24 punkti ning andis seitse korvisöötu . 
+ Parker valiti ka finaalseeria kõige väärtuslikumaks mängijaks , sellega sai temast ühtlasi esimene eurooplane , kes sellise au osaliseks on saanud . 
+</TimeML>

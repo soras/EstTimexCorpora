@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Irkutskis elav <TIMEX3 tid="t27" type="DURATION" value="P26Y">26-aastane</TIMEX3> Iolanta Kelk püüab leida oma Eestist küüditatud ja Siberisse elama jäänud vanaisa Hans Kelgu sugulasi . 
+ Iolanta Kelk pöördus Vene Esimese kanali saatesse " Ždi menja " ( " Oota mind " ) , mis aitab üksteist silmist kaotanud tuttavatel või sugulastel teineteist taas leida . 
+ Seal kohtus ta tallinlanna Anna Rahmanovaga , kes aitab saatetegijaid Eestis , kirjutab Postimees . 
+ Rahmanova sai okupatsioonimuuseumist teada , et <TIMEX3 tid="t28" type="DATE" value="1927">1927. aastal</TIMEX3> sündinud Hans Kelk arreteeriti <TIMEX3 tid="t29" type="DATE" value="1944-11-28">28. novembril 1944. aastal</TIMEX3> Tallinnas Nõmmel , Künka tänav 11 asunud maja esimeses korteris . 
+ <TIMEX3 tid="t30" type="DATE" value="1946-03-18">18. märtsil 1946. aastal</TIMEX3> karistati teda paragrahvi 58-1a järgi <TIMEX3 tid="t31" type="DURATION" value="P8Y">kaheksaks aastaks</TIMEX3> asumisele saatmisega . 
+ Rahmanova sõnul ei teadnud Iolanta , millal ja mille eest oli ta vanaisa süüdi mõistetud . 
+ " Vanaema polnud sellest midagi rääkinud ja oli hävitanud kõik vanaisast maha jäänud dokumendid , sest kartis tagakiusamist , " rääkis ta . 
+</TimeML>

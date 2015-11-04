@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-01-07" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+Toimetaja : Tuuli Aug 
+ Foto : Priit Simson 
+ <TIMEX3 tid="t1" type="DATE" value="2006" anchorTimeID="t0">Mullu</TIMEX3> kaeti 335 kilomeetrit Eesti kruusateid tolmuvaba mustkattega , kuid <TIMEX3 tid="t2" type="DATE" value="2007" anchorTimeID="t0">alanud aasta</TIMEX3> sama edukaks ei jää , sest riigieelarvest teedeehituseks antavad summad on ligikaudu samad ent ehitushinnad on kerkinud , kokku aga on Eestis 7000 kilomeetrit kruusateid . 
+ Maanteeameti eelistus on olemasolevate mustkatete remontimine ja hooldamine , mitte aga kruusateede tolmu- ja porivabaks muutmine , kirjutab ETV 24. 
+ Just asfaltkatete remondiks kulub ka suur osa <TIMEX3 tid="t3" type="DATE" value="2007" anchorTimeID="t0">tänavusest</TIMEX3> 2,5 miljardist teedehooldusrahast . 
+ Maanteeameti peadirektori Riho Sõrmus sõnul lõhub ja purustab asfaldi auk autot , kruusatee auk enamasti mitte : " Ehk asfaltkate , mis on ehitatud- see on meie jaoks väärtus ja ei ole mõtet hakata tegelema sellise teedeparandusega , kus ühes kohas ehitame kruusateedele katteid ehk tõstame nende teede väärtust ja samas ei jätku raha , et amortiseerunud ja vanu asfaltkatteid remontida , " ütles Sõrmus . 
+</TimeML>

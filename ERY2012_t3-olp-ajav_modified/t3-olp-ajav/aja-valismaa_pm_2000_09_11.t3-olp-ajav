@@ -1,0 +1,322 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-09-11TXX:XX" />
+<ignoreeri>
+|
+autor:
+Heiki
+Suurkask
+,
+heiki.suurkask@postimees.ee
+|
+ajalehenumber:
+Postimees
+2000.09.11
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Valised
+|
+artikkel:
+ERO
+taunis
+Hiina
+tegevust
+|
+</ignoreeri>
+<s>
+Ajal    aeg+l //_S_ sg ad, //
+,    , //_Z_ //
+mil    mil+0 //_D_ //
+Hiina    Hiina+0 //_H_ sg g, //
+parlamendiliider    parlamendi_liider+0 //_S_ sg n, //
+Li    Li+0 //_Y_ ?, //
+Peng    Peng+0 //_H_ sg n, //
+kohtus    kohtu+s //_V_ s, //
+Eesti    Eesti+0 //_H_ sg g, //
+presidendi    president+0 //_S_ sg g, //
+Lennart    Lennart+0 //_H_ sg n, //
+Meriga    Meri+ga //_H_ sg kom, //
+Kadriorus    Kadri_org+s //_H_ sg in, //    Kadrioru+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+peeti    pida+ti //_V_ ti, //
+Rahvusraamatukogu    Rahvus_raamatu_kogu+0 //_H_ sg g, //
+saalis    saal+s //_S_ sg in, //
+konverentsi    konverents+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+muu    muu+0 //_P_ sg g, //
+hulgas    hulgas+0 //_K_ //
+tauniti    tauni+ti //_V_ ti, //
+Hiina    Hiina+0 //_H_ sg g, //
+okupatsioonipoliitikat    okupatsiooni_poliitika+t //_S_ sg p, //
+Tiibetis    Tiibet+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Esindamata    esinda=mata+0 //_A_ //
+Rahvaste    rahvas+te //_S_ pl g, //
+Organisatsioon    organisatsioon+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+ERO    ERO+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+sai    saa+i //_V_ s, //
+alguse    algus+0 //_S_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1990" >
+kümme    kümme+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+Tartus    Tartu+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+pidas    pida+s //_V_ s, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2000-09-09" >
+laupäeval    lau_päev+l //_S_ sg ad, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2000-09-10" >
+pühapäeval    püha_päev+l //_S_ sg ad, //
+</TIMEX>
+Tallinnas    Tallinn+s //_H_ sg in, //
+konverentsi    konverents+0 //_S_ sg g, //
+“    “ //_Z_ //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P10Y" >
+Kümme    kümme+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+Esindamata    esinda+mata //_V_ mata, //
+Rahvaste    rahvas+te //_S_ pl g, //
+Organisatsiooni    organisatsioon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+rahvaste    rahvas+te //_S_ pl g, //
+õigused    õigus+d //_S_ pl n, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1990" >
+Kümme    kümme+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+Tartus    Tartu+s //_H_ sg in, //
+koostatud    koosta+tud //_V_ tud, //    koosta=tud+0 //_A_ //    koosta=tud+0 //_A_ sg n, //    koosta=tud+d //_A_ pl n, //
+dokumendile    dokument+le //_S_ sg all, //
+allakirjutanute    alla_kirjutanu+te //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+oli    ole+i //_V_ s, //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+seas    seas+0 //_K_ //
+ka    ka+0 //_D_ //
+hilisem    hilisem+0 //_C_ sg n, //
+Nobeli    Nobel+0 //_H_ sg g, //
+rahupreemia    rahu_preemia+0 //_S_ sg g, //
+laureaat    laureaat+0 //_S_ sg n, //
+Jose    Jose+0 //_H_ sg n, //
+Ramos    Ramos+0 //_H_ sg n, //
+Horta    Horta+0 //_H_ sg n, //
+Ida-Timorist    Ida-Timor+st //_H_ sg el, //    Ida-Timori+st //_H_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Konverentsi    konverents+0 //_S_ sg g, //
+peamised    peamine+d //_A_ pl n, //
+eestvedajad    eest_vedaja+d //_S_ pl n, //
+,    , //_Z_ //
+Hiina    Hiina+0 //_H_ sg g, //
+okupeeritud    okupeeri+tud //_V_ tud, //    okupeeri=tud+0 //_A_ //    okupeeri=tud+0 //_A_ sg n, //    okupeeri=tud+d //_A_ pl n, //
+Ida-Turkestani    Ida-Tur_kest+ni //_H_ sg ter, //
+esindaja    esindaja+0 //_S_ sg n, //
+,    , //_Z_ //
+ERO    ERO+0 //_Y_ ?, //
+peasekretäri    pea_sekretär+0 //_S_ sg g, //
+kt    kt+0 //_Y_ ?, //
+Erkin    Erkin+0 //_H_ sg n, //
+Alptekin    Alptekin+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+orientalist    orientalist+0 //_S_ sg n, //
+Linnart    Linnart+0 //_H_ sg n, //
+Mäll    Mäll+0 //_H_ sg n, //
+koostasid    koosta+sid //_V_ sid, //
+veel    veel+0 //_D_ //
+enne    enne+0 //_K_ //
+Li    Li+0 //_Y_ ?, //
+lahkumist    lahkumine+t //_S_ sg p, //
+Eesti    Eesti+0 //_H_ sg g, //
+pinnalt    pind+lt //_S_ sg abl, //
+avalduse    avaldus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+taunisid    tauni+sid //_V_ sid, //
+etnilise    etniline+0 //_A_ sg g, //
+puhastuse    puhastus+0 //_S_ sg g, //
+poliitikat    poliitika+t //_S_ sg p, //
+Tiibetis    Tiibet+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kutsusid    kutsu+sid //_V_ sid, //
+Hiina    Hiina+0 //_H_ sg g, //
+ametivõime    ameti_võim+e //_S_ pl p, //
+üles    üles+0 //_D_ //
+kohtuma    kohtu+ma //_V_ ma, //
+Tiibeti    Tiibet+0 //_H_ sg g, //
+usuliidri    usu_liider+0 //_S_ sg g, //
+14.    14.+0 //_O_ ?, //
+dalai-laamaga    dalai-laama+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Sel    see+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+suur    suur+0 //_A_ sg n, //
+osa    osa+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+poliitikutest    poliitik+test //_S_ pl el, //
+tegeles    tegele+s //_V_ s, //
+suhete    suhe+te //_S_ pl g, //
+parandamisega    parandamine+ga //_S_ sg kom, //
+Hiina    Hiina+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+vahel    vahel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kohtudes    kohtu+des //_V_ des, //
+Li    Li+0 //_Y_ ?, //
+Pengiga    Peng+ga //_H_ sg kom, //    Pengi+ga //_H_ sg kom, //    Penk+ga //_H_ sg kom, //
+ka    ka+0 //_D_ //
+saates    saat+es //_V_ des, //
+teda    tema+da //_P_ sg p, //
+ära    ära+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+osalesid    osale+sid //_V_ sid, //
+mitmed    mitu+d //_P_ pl n, //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+Isamaaliidu    Isa_maa_liit+0 //_H_ sg g, //    Isamaaliidu+0 //_H_ sg g, //    Isamaaliidud+0 //_H_ sg g, //
+fraktsiooni    fraktsioon+0 //_S_ sg g, //
+liikmed    liige+d //_S_ pl n, //
+konverentsil    konverents+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+ERO    ERO+0 //_Y_ ?, //
+konverentsi    konverents+0 //_S_ sg g, //
+alustuseks    alustus+ks //_S_ sg tr, //
+sai    saa+i //_V_ s, //
+sõna    sõna+0 //_S_ sg g, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+aseesimees    ase_esi_mees+0 //_S_ sg n, //
+Tunne    Tunne+0 //_H_ sg n, //
+Kelam    Kelam+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+konverentsil    konverents+l //_S_ sg ad, //
+esinesid    esine+sid //_V_ sid, //
+ettekannetega    ette_kanne+tega //_S_ pl kom, //
+ka    ka+0 //_D_ //
+Tartu    Tartu+0 //_H_ sg g, //
+Ülikooli    Üli_kool+0 //_H_ sg g, //
+professor    professor+0 //_S_ sg n, //
+Kaido    Kaido+0 //_H_ sg n, //
+Jaanson    Jaanson+0 //_H_ sg n, //
+,    , //_Z_ //
+esindajad    esindaja+d //_S_ pl n, //
+Gagauusiast    Gagauusia+st //_H_ sg el, //
+,    , //_Z_ //
+Ingerist    Inger+st //_H_ sg el, //    Ingeri+st //_H_ sg el, //
+,    , //_Z_ //
+Tsherkessiast    Tsherkessia+st //_H_ sg el, //
+<kiil>
+(    ( //_Z_ //
+Adõgeest    Adõgee+st //_H_ sg el, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+Udmurtiast    Udmurtia+st //_H_ sg el, //
+,    , //_Z_ //
+Marist    Mari+st //_H_ sg el, //
+,    , //_Z_ //
+Tiibetist    Tiibet+st //_H_ sg el, //
+,    , //_Z_ //
+Venemaalt    Vene_maa+lt //_H_ sg abl, //
+ning    ning+0 //_J_ //
+Valgevene    Valge_vene+0 //_H_ sg g, //
+opositsioonijuht    opositsiooni_juht+0 //_S_ sg n, //
+Semjon    Semjon+0 //_H_ sg n, //
+Sharetski    Sharetski+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="2000-09-10" >
+Eile    eile+0 //_D_ //
+</TIMEX>
+korraldati    korralda+ti //_V_ ti, //
+spetsiaalne    spetsiaalne+0 //_A_ sg n, //
+diskussiooniring    diskussiooni_ring+0 //_S_ sg n, //
+Tshtsheenia    Tshtsheenia+0 //_H_ sg g, //
+teemadel    teema+del //_S_ pl ad, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+lõpetuseks    lõpetus+ks //_S_ sg tr, //
+võeti    võt+ti //_V_ ti, //
+vastu    vastu+0 //_D_ //
+resolutsioon    resolutsioon+0 //_S_ sg n, //
+olukorrast    olu_kord+st //_S_ sg el, //
+Tshetsheenias    Tshetsheenia+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Tshetsheenid    tshetsheen+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+algusest    algus+st //_S_ sg el, //
+peale    peale+0 //_D_ //
+aktiivsed    aktiivne+d //_A_ pl n, //
+osalised    osaline+d //_A_ pl n, //
+EROs    EROs+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüdsest    nüüdne+st //_A_ sg el, //
+</TIMEX>
+konverentsist    konverents+st //_S_ sg el, //
+tulid    tule+id //_V_ sid, //
+osa    osa+0 //_S_ sg n, //
+võtma    võt+ma //_V_ ma, //
+lisaks    lisa+ks //_S_ sg tr, //
+esindajale    esindaja+le //_S_ sg all, //
+Eestis    Eesti+s //_H_ sg in, //
+Imran    Imran+0 //_H_ sg n, //
+Ahhajevile    Ahhajevile+0 //_H_ sg g, //
+ka    ka+0 //_D_ //
+Tshetsheenia    Tshetsheenia+0 //_H_ sg g, //
+esindajad    esindaja+d //_S_ pl n, //
+Leedus    Leedu+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+ERO    ERO+0 //_Y_ ?, //
+juures    juures+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+ka    ka+0 //_D_ //
+Tshetsheenia    Tshetsheenia+0 //_H_ sg g, //
+põrandaaluse    põranda_alune+0 //_A_ sg g, //
+parlamendi    parlament+0 //_S_ sg g, //
+väliskomitee    välis_komitee+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Ahjad    Ahja+d //_H_ pl n, //    Ahjad+0 //_H_ sg n, //
+Idigov    Idigov+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>

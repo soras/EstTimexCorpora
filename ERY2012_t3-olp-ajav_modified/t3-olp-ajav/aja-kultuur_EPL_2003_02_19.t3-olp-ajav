@@ -1,0 +1,160 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2003-02-19TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+19.02.2003
+|
+rubriik:
+Kultuur
+|
+artikkel:
+Heinz
+Valk
+ja
+Pärt
+Lippus
+saavad
+presidendi
+rahvaluulepreemiad
+|
+</ignoreeri>
+<s>
+President    president+0 //_S_ sg n, //
+annab    and+b //_V_ b, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="2002" >
+2002.    2002.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+rahvaluulepreemiad    rahva_luule_preemia+d //_S_ pl n, //
+Heinz    Heinz+0 //_H_ sg n, //
+Valgule    Valgule+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Pärt    Pärt+0 //_H_ sg n, //
+Lippusele    Lippunen+le //_H_ sg all, //    Lippus+le //_H_ sg all, //
+üle    üle+0 //_D_ //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2003-02-21" >
+reedel    reede+l //_S_ sg ad, //
+</TIMEX>
+Tartus    Tartu+s //_H_ sg in, //
+kirjandusmuuseumis    kirjandus_muuseum+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Kunstnik    kunstnik+0 //_S_ sg n, //
+Heinz    Heinz+0 //_H_ sg n, //
+Valk    Valk+0 //_H_ sg n, //
+pälvis    pälvi+s //_V_ s, //
+preemia    preemia+0 //_S_ sg g, //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t3" endPoint="t4" >
+<TIMEX text="1962-"  tid="t3" type="DATE" temporalFunction="false" value="1962" >
+<TIMEX text="2002 aastatel"  tid="t4" type="DATE" temporalFunction="false" value="2002" >
+1962-2002    1962-2002+0 //_N_ ?, //
+</TIMEX>
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+</TIMEX>
+kogutud    kogu+tud //_V_ tud, //    kogu=tud+0 //_A_ //    kogu=tud+0 //_A_ sg n, //    kogu=tud+d //_A_ pl n, //
+vanade    vana+de //_A_ pl g, //
+laulikute    laulik+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+salmialbumite    salmi_album+te //_S_ pl g, //
+kogu    kogu+0 //_A_ //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Valk    valk+0 //_S_ sg n, //
+kogus    kogu+s //_V_ s, //
+61    61+0 //_N_ ?, //
+albumit    album+t //_S_ sg p, //
+põhiliselt    põhiliselt+0 //_D_ //
+Harjumaalt    Harju_maa+lt //_H_ sg abl, //
+,    , //_Z_ //
+Läänemaalt    Lääne_maa+lt //_H_ sg abl, //
+ja    ja+0 //_J_ //
+Hiiumaalt    Hiiu_maa+lt //_H_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+Lippus    Lippus+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Tartu    Tartu+0 //_H_ sg g, //
+ülikooli    üli_kool+0 //_S_ sg g, //
+üliõpilane    üli_õpilane+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t6" type="DURATION" temporalFunction="true" value="PXY" beginPoint="t7" endPoint="t0" >
+viimastel    viimane+tel //_A_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="XXXX" />
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+helisalvestusi    heli_salves=tus+i //_S_ pl p, //
+mitmetel    mitu+tel //_P_ pl ad, //
+erinevatel    erinev+tel //_A_ pl ad, //
+teemadel    teema+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kogunud    kogu+nud //_V_ nud, //    kogu=nud+0 //_A_ //    kogu=nud+0 //_A_ sg n, //    kogu=nud+d //_A_ pl n, //
+mälestusi    mälestus+i //_S_ pl p, //
+folklorist    folklorist+0 //_S_ sg n, //
+Herbert    Herbert+0 //_H_ sg n, //
+Tamperest    Tampere+st //_H_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+intervjueerinud    intervjueeri+nud //_V_ nud, //    intervjueeri=nud+0 //_A_ //    intervjueeri=nud+0 //_A_ sg n, //    intervjueeri=nud+d //_A_ pl n, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+tänapäeva    täna_päev+0 //_S_ sg g, //
+</TIMEX>
+jõuluvanasid    jõulu_vana+sid //_S_ pl p, //
+,    , //_Z_ //
+jäädvustanud    jäädvusta+nud //_V_ nud, //    jäädvusta=nud+0 //_A_ //    jäädvusta=nud+0 //_A_ sg n, //    jäädvusta=nud+d //_A_ pl n, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+tänapäeva    täna_päev+0 //_S_ sg g, //
+</TIMEX>
+pärimusmuusikat    pärimus_muusika+t //_S_ sg p, //
+kontserditel    kontserd+tel //_S_ pl ad, //    kontserdite+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+seltskondlikel    seltskondlik+el //_A_ pl ad, //
+ühislaulmistel    ühis_laulmine+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Ühtekokku    ühte_kokku+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ta    tema+0 //_P_ sg n, //
+kogunud    kogu+nud //_V_ nud, //    kogu=nud+0 //_A_ //    kogu=nud+0 //_A_ sg n, //    kogu=nud+d //_A_ pl n, //
+<TIMEX  tid="t10" type="DURATION" temporalFunction="false" value="PT12H" >
+12    12+0 //_N_ ?, //
+tundi    tund+0 //_S_ sg p, //
+</TIMEX>
+helisalvestisi    heli_salvestis+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+rahvaluulepreemia    rahva_luule_preemia+0 //_S_ sg g, //
+suuruseks    suurus+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="2003" >
+tänavu    tänavu+0 //_D_ //
+</TIMEX>
+6000    6000+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+makstakse    maks+takse //_V_ takse, //
+välja    välja+0 //_D_ //
+presidendi    president+0 //_S_ sg g, //
+kultuurirahastu    kultuuri_rahastu+0 //_S_ sg g, //
+toel    toel+0 //_K_ //
+.    . //_Z_ //
+</s>

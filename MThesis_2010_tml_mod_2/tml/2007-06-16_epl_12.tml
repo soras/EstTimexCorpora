@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Marko Mumm 
+ <TIMEX3 tid="t37" type="DATE" value="2007-W24" anchorTimeID="t0" comment="ebaselge, kas käesolev või eelmine nädal">Viimase päikeselise nädalaga</TIMEX3> on suurenenud külmetushaigustesse jäänute arv . 
+ " Inimesed kaitsevad end päikese eest nii , nagu keegi oskab : palju süüakse jäätist ja juuakse otse külmikust võetud jooke , et kuidagi päikesest ülekuumenenud nahka jahutada ning tulemuseks on külmetused . 
+ Tihti läheb asi angiinini , " selgitab Narva perearst Maria Brodneva Põhjaranniku vahendusel . 
+ Ta selgitab , et palava ilmaga on tegelikult väga lihtne külmetuda . 
+ Oma osa on selles ka kontrastsetel protseduuridel , kui liiga kuum organism saab kohe liiga külma . 
+ Jõhvi perearst Sofia Beljakova lisab , et sellised hädad lähevad vanemast põlvkonnast tavaliselt mööda : " Vanad inimesed on targaks saanud , nad hoiavad ennast ega lase organismil algul ülekuumeneda , hiljem aga alajahtuda . " 
+</TimeML>

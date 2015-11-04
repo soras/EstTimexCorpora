@@ -1,0 +1,123 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-11-03TXX:XX" />
+<ignoreeri>
+|
+autor:
+ETA
+|
+ajalehenumber:
+Eesti
+Päevaleht
+03.11.1997
+|
+rubriik:
+Kultuur
+|
+artikkel:
+Filharmoonia
+Kammerkoor
+alustas
+Euroopa-turneed
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+äsja    äsja+0 //_D_ //
+</TIMEX>
+Ameerikast    Ameerika+st //_H_ sg el, //
+üliedukalt    üli_edukas+lt //_A_ sg abl, //
+kontsertreisilt    kontsert_reis+lt //_S_ sg abl, //
+naasnud    naas+nud //_V_ nud, //    naasnud+0 //_A_ //    naasnud+0 //_A_ sg n, //    naasnud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Filharmoonia    filharmoonia+0 //_S_ sg g, //
+Kammerkoor    kammer_koor+0 //_S_ sg n, //
+eesotsas    ees_ots+s //_S_ sg in, //
+Tõnu    Tõnu+0 //_H_ sg n, //
+Kaljustega    Kaljuste+ga //_H_ sg kom, //
+sõitis    sõit+is //_V_ s, //
+Itaaliasse    Itaalia+sse //_H_ sg ill, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+andis    and+is //_V_ s, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1997-11-01" >
+laupäeval    lau_päev+l //_S_ sg ad, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997-11-02" >
+pühapäeval    püha_päev+l //_S_ sg ad, //
+</TIMEX>
+Palermos    Palermo+s //_H_ sg in, //
+kaks    kaks+0 //_N_ sg n, //
+kontserti    kontsert+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1997-11-10" >
+10.    10.+0 //_O_ ?, //
+novembril    november+l //_S_ sg ad, //
+</TIMEX>
+alustab    alusta+b //_V_ b, //
+koor    koor+0 //_S_ sg n, //
+pikemat    pikem+t //_C_ sg p, //
+Euroopa-turneed    Euroopa-turnee+d //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DURATION" temporalFunction="false" value="P10D" >
+Kümne    kümme+0 //_N_ sg g, //
+päeva    päev+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+annab    and+b //_V_ b, //
+koor    koor+0 //_S_ sg n, //
+Münchenis    München+s //_H_ sg in, //
+,    , //_Z_ //
+Viinis    Viin+s //_H_ sg in, //
+,    , //_Z_ //
+Groningenis    Groningen+s //_H_ sg in, //
+,    , //_Z_ //
+Kölnis    Köln+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Ludwigsburgis    Ludwigsburg+s //_H_ sg in, //    Ludwigsburgi+s //_H_ sg in, //    Ludwigsburk+s //_H_ sg in, //
+kuus    kuus+0 //_N_ sg n, //
+kontserti    kontsert+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Filharmoonia    filharmoonia+0 //_S_ sg g, //
+Kammerkooriga    kammer_koor+ga //_S_ sg kom, //
+koos    koos+0 //_D_ //
+astub    astu+b //_V_ b, //
+üles    üles+0 //_D_ //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Kammerorkester    kammer_orkester+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa-reisi    Euroopa-reis+0 //_S_ sg g, //
+kavva    kava+0 //_S_ adt, //
+kuulub    kuulu+b //_V_ b, //
+Johann    Johann+0 //_H_ sg n, //
+Sebastian    Sebastian+0 //_H_ sg n, //
+Bachi    Bach+0 //_H_ sg g, //
+,    , //_Z_ //
+Arvo    Arvo+0 //_H_ sg n, //
+Pärdi    Pärt+0 //_H_ sg g, //
+ning    ning+0 //_J_ //
+Erkki-Sven    Erkki-Sven+0 //_H_ sg n, //
+Tüüri    Tüür+0 //_H_ sg g, //    Tüüri+0 //_H_ sg g, //
+loomingut    looming+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Turnee    turnee+0 //_S_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+kontserdi    kontsert+0 //_S_ sg g, //
+annab    and+b //_V_ b, //
+koor    koor+0 //_S_ sg n, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1997-11-19" >
+19.    19.+0 //_O_ ?, //
+novembril    november+l //_S_ sg ad, //
+</TIMEX>
+Ludwigsburgis    Ludwigsburg+s //_H_ sg in, //    Ludwigsburgi+s //_H_ sg in, //    Ludwigsburk+s //_H_ sg in, //
+.    . //_Z_ //
+</s>

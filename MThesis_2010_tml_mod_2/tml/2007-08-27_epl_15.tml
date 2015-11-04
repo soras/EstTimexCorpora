@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Kadri Masing 
+ Tartumaal hukkus kolm inimest , Tallinna maantee peal sai kolm inimest viga . 
+ Tartumaal juhtus <TIMEX3 tid="t93" type="TIME" value="2007-08-25TMO" mod="START" anchorTimeID="t0">laupäeva varahommikul</TIMEX3> üliraske liiklusõnnetus , milles hukkus kolm ja sai vigastada kolm inimest , surmaauto roolis oli varem korduvalt joobes juhtimise eest karistatud juht . 
+ <TIMEX3 tid="t94" type="TIME" value="2007-08-25T06:30" anchorTimeID="t93">Kella 6.30 ajal</TIMEX3> juhtus liiklusõnnetus Tartu vallas Jõhvi-Tartu-Valga mnt 128. km-l ringristmiku lähedal , kus Jõhvi suunast Tartu poole suundunud sõiduauto Audi A6 , mida juhtis Sergei ( snd <TIMEX3 tid="t95" type="DATE" value="1959" >1959</TIMEX3> ) , kaotas juhitavuse , sõitis teelt välja ja rullus üle katuse . 
+ Sündmuskohal viibinud politseinike sõnul oli auto hakanud ringristmikult vasakule Tartu poole pöörama , kuid sõitis parema küljega vastu liiklusmärki , seejärel vastu teist liiklusmärki , kaldus seepeale kraavi ning rullus umbes 40 meetrit teelt välja võssa . 
+ Pidurdusjälgede põhjal võib öelda , et auto kiirus pidi olema väga suur . 
+</TimeML>

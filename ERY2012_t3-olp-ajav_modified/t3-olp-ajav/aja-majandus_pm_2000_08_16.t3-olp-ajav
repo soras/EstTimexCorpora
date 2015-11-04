@@ -1,0 +1,233 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-08-16TXX:XX" />
+<ignoreeri>
+|
+autor:
+Nils
+Niitra
+,
+nils.niitra@postimees.ee
+|
+ajalehenumber:
+Postimees
+2000.08.16
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Majandus
+|
+artikkel:
+ERA
+Panga
+tavahoiustajad
+saavad
+kolmandiku
+tagasi
+|
+</ignoreeri>
+<s>
+ERA    era+0 //_S_ sg g, //
+Panga    pank+0 //_S_ sg g, //
+pankrotihaldur    pankroti_haldur+0 //_S_ sg n, //
+Jaak    Jaak+0 //_H_ sg n, //
+Annus    Annus+0 //_H_ sg n, //
+prognoosis    prognoos+s //_S_ sg in, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2000-08-15" >
+eilsel    eilne+l //_A_ sg ad, //
+</TIMEX>
+võlausaldajate    võla_usaldaja+te //_S_ pl g, //
+üldkoosolekul    üld_koos_olek+l //_S_ sg ad, //
+tavahoiustajatele    tava_hoiustaja+tele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+teenivad    teeni+vad //_V_ vad, //
+jaotistena    jaotis+tena //_S_ pl es, //
+umbes    umbes+0 //_D_ //
+100    100+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+oma    oma+0 //_P_ sg g, //
+kokku    kokku+0 //_D_ //
+300    300+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+suurusest    suurune+st //_A_ sg el, //
+nõudest    nõu+dest //_S_ pl el, //    nõue+st //_S_ sg el, //
+panga    pank+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Umbes    umbes+0 //_D_ //
+kolmandik    kolmandik+0 //_N_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+võiks    või+ks //_V_ ks, //
+loota    loot+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Annus    Annus+0 //_H_ sg n, //
+<TIMEX  tid="t2" type="TIME" temporalFunction="true" value="2000-08-15TEV" >
+eile    eile+0 //_D_ //
+õhtul    õhtu+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+siiski    siiski+0 //_D_ //
+välistatud    välista+tud //_V_ tud, //    välistatud+0 //_A_ //    välistatud+0 //_A_ sg n, //    välistatud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+juhul    juht+l //_S_ sg ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+panga    pank+0 //_S_ sg g, //
+endine    endine+0 //_A_ sg n, //
+omanik    omanik+0 //_S_ sg n, //
+Andres    Andres+0 //_H_ sg n, //
+Bergmann    Bergmann+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+temaga    tema+ga //_P_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+firmad    firma+d //_S_ pl n, //
+võidavad    võit+vad //_V_ vad, //
+kohtus    kohus+s //_S_ sg in, //
+pankrotipesa    pankroti_pesa+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+võlanõuete    võla_nõue+te //_S_ pl g, //
+kogusumma    kogu_summa+0 //_S_ sg n, //
+kasvada    kasva+da //_V_ da, //
+kuni    kuni+0 //_K_ //
+saja    sada+0 //_N_ sg g, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Sellise    selline+0 //_P_ sg g, //
+stsenaariumi    stsenaarium+0 //_S_ sg p, //
+käivitudes    käivitu+des //_V_ des, //
+saaks    saa+ks //_V_ ks, //
+viienda    viies+0 //_O_ sg g, //
+järgu    järk+0 //_S_ sg g, //
+võlanõude    võla_nõue+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+tagasi    tagasi+0 //_D_ //
+neljandiku    neljandik+0 //_N_ sg g, //
+panka    pank+0 //_S_ adt, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+rahast    raha+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Pangal    Panga+l //_H_ sg ad, //    Pank+l //_H_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+käsil    käsil+0 //_D_ //
+30    30+0 //_N_ ?, //
+nõuetega    nõue+tega //_S_ pl kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+kohtuvaidlust    kohtu_vaidlus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+ERA    era+0 //_S_ sg g, //
+Panga    pank+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+tunnustatud    tunnusta+tud //_V_ tud, //    tunnustatud+0 //_A_ //    tunnustatud+0 //_A_ sg n, //    tunnustatud+d //_A_ pl n, //
+nõuete    nõue+te //_S_ pl g, //
+kogusumma    kogu_summa+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+küll    küll+0 //_D_ //
+322    322+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+sellest    see+st //_P_ sg el, //
+22    22+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+moodustavad    moodusta+vad //_V_ vad, //
+maksuameti    maksu_amet+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+hüvitusfondi    hüvitus_fond+0 //_S_ sg g, //
+eelisjärjekorras    eelis_järje_kord+s //_S_ sg in, //
+rahuldatavad    rahulda=tav+d //_A_ pl n, //
+nõuded    nõue+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Annuse    annus+0 //_S_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pankrotipesa    pankroti_pesa+0 //_S_ sg n, //
+müünud    müü+nud //_V_ nud, //    müü=nud+0 //_A_ //    müü=nud+0 //_A_ sg n, //    müü=nud+d //_A_ pl n, //
+maha    maha+0 //_D_ //
+osa    osa+0 //_S_ sg g, //
+laenuportfellist    laenu_portfell+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+pangale    pank+le //_S_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kätte    käsi+tte //_S_ adt, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+veel    veel+0 //_D_ //
+11    11+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+ulatuses    ulatus+s //_S_ sg in, //
+hästitoimivaid    hästi_toimiv+id //_A_ pl p, //
+pikaajalisi    pika_ajaline+i //_A_ pl p, //
+laene    laen+e //_S_ pl p, //
+ning    ning+0 //_J_ //
+lisaks    lisa+ks //_S_ sg tr, //
+osa    osa+0 //_S_ sg n, //
+niinimetatud    nii_nimetatud+0 //_D_ //
+neljanda    neljas+0 //_O_ sg g, //
+järgu    järk+0 //_S_ sg g, //
+laene    laen+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+kohtuvaidlustega    kohtu_vaidlus+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Pankrotivara    pankroti_vara+0 //_S_ sg g, //
+müügiga    müük+ga //_S_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+haldurid    haldur+d //_S_ pl n, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2000-08-16" >
+tänaseks    tänaseks+0 //_D_ //
+</TIMEX>
+reaalse    reaalne+0 //_A_ sg g, //
+rahana    raha+na //_S_ sg es, //
+deponeerinud    deponeeri+nud //_V_ nud, //    deponeeri=nud+0 //_A_ //    deponeeri=nud+0 //_A_ sg n, //    deponeeri=nud+d //_A_ pl n, //
+veidi    veidi+0 //_D_ //
+üle    üle+0 //_K_ //
+100    100+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>

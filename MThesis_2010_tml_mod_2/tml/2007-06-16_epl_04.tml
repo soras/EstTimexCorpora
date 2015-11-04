@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Notariteenused on Eestis üks väheseid valdkondi , millel on õnnestunud end kaitsta konkurentsi ja turu surve eest . 
+ Nii notarite arvu kui ka teenustasusid reguleerib seadus . 
+ Ning kuna turu survet pole , on tagajärjeks ülipikad järjekorrad ja kõrged hinnad . 
+ <TIMEX3 tid="t18" type="DATE" value="2007-06-15" anchorTimeID="t0">Eile</TIMEX3> juhtis sellele probleemile tähelepanu Eestit külastanud Euroopa Komisjoni konkurentsivolinik Neelie Kroes . 
+ Ja tõepoolest : miks ei võiks notarite arv ja teenustasud kujuneda vabalt , riiklik oleks vaid kvalifikatsiooni- ja kvaliteedikontroll ? 
+ Mõelda tasub teisegi probleemi üle , mida Kroes Eesti puhul märkis : kaardimaksete kõrged teenustasud . 
+</TimeML>

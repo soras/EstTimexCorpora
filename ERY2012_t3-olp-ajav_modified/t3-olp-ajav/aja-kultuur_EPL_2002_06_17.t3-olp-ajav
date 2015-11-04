@@ -1,0 +1,604 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2002-06-17TXX:XX" />
+<ignoreeri>
+|
+autor:
+Heili
+Vaus-Tamm
+,
+muusikakriitik
+|
+ajalehenumber:
+Eesti
+Päevaleht
+17.06.2002
+|
+rubriik:
+Kultuur
+|
+artikkel:
+Kalle
+Randalu
+ja
+sellid
+võtsid
+üksteiselt
+mõõtu
+|
+</ignoreeri>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+heliloojate    heli_looja+te //_S_ pl g, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="P100Y" mod="APPROX" >
+peaaegu    pea_aegu+0 //_D_ //
+sajandivanused    sajandi_vanune+d //_A_ pl n, //
+</TIMEX>
+väikepalad    väike_pala+d //_S_ pl n, //
+kõlasid    kõla+sid //_V_ sid, //
+üllatavalt    üllatavalt+0 //_D_ //
+jõuliselt    jõuliselt+0 //_D_ //
+</s>
+<s>
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Priit    Priit+0 //_H_ sg n, //
+Simson    Simson+0 //_H_ sg n, //
+</s>
+<s>
+Festivali    festival+0 //_S_ sg g, //
+"    " //_Z_ //
+Tubin    Tubin+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+aeg    aeg+0 //_S_ sg n, //
+"    " //_Z_ //
+kunstiline    kunstiline+0 //_A_ sg n, //
+juht    juht+0 //_S_ sg n, //
+Vardo    Vardo+0 //_H_ sg n, //
+Rumessen    Rumessen+0 //_H_ sg n, //
+tõi    too+i //_V_ s, //
+maailma    maa_ilm+0 //_S_ sg g, //
+pianismi    pianism+0 //_S_ sg g, //
+noored    noor+d //_A_ pl n, //
+talendid    talent+d //_S_ pl n, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="19" mod="FIRST_HALF" >
+20.    20.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+esimese    esimene+0 //_O_ sg g, //
+poole    pool+0 //_S_ sg g, //
+</TIMEX>
+teoseid    teos+id //_S_ pl p, //
+mängima    mängi+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+selgus    selgu+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Estonia    Estonia+0 //_H_ sg g, //
+kontserdisaalis    kontserdi_saal+s //_S_ sg in, //
+esinenud    esine+nud //_V_ nud, //    esine=nud+0 //_A_ //    esine=nud+0 //_A_ sg n, //    esine=nud+d //_A_ pl n, //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Jaapani    Jaapan+0 //_H_ sg g, //
+muusikud    muusik+d //_S_ pl n, //
+Eestiga    Eesti+ga //_H_ sg kom, //
+üsna    üsna+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+-    - //_Z_ //
+<kindel_piir/>
+nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Kalle    Kalle+0 //_H_ sg n, //
+Randalu    Randalu+0 //_H_ sg g, //
+aspirandid    aspirant+d //_S_ pl n, //
+Karlsruhe    Karlsruhe+0 //_H_ sg g, //
+kõrgemas    kõrgem+s //_C_ sg in, //
+muusikakoolis    muusika_kool+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Koos    koos+0 //_K_ //
+Ave    Ave+0 //_H_ sg g, //
+Nieleriga    Nieler+ga //_H_ sg kom, //    Nieleri+ga //_H_ sg kom, //
+<kiil>
+(    ( //_Z_ //
+varem    varem+0 //_D_ //
+Nahkur    nahkur+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+suurte    suur+te //_A_ pl g, //
+konkursivõitudega    konkursi_võit+dega //_S_ pl kom, //
+,    , //_Z_ //
+maailma    maa_ilm+0 //_S_ sg g, //
+eri    eri+0 //_A_ //
+paigus    paik+us //_S_ pl in, //
+kõrgelt    kõrgelt+0 //_D_ //
+haritud    hari+tud //_V_ tud, //    haritud+0 //_A_ //    haritud+0 //_A_ sg n, //    haritud+d //_A_ pl n, //
+noored    noor+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Selliste    selline+te //_P_ pl g, //
+noorte    noor+te //_S_ pl g, //
+maksimaalselt    maksimaalselt+0 //_D_ //
+püüdlik    püüdlik+0 //_A_ sg n, //
+interpretatsioon    inter_pretatsioon+0 //_S_ sg n, //
+näitab    näita+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+väärtused    väärtus+d //_S_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" >
+tolle    too+0 //_P_ sg g, //
+aja    aeg+0 //_S_ sg g, //
+</TIMEX>
+muusikas    muusika+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+võõramaalased    võõra_maalane+d //_S_ pl n, //
+sealt    sealt+0 //_D_ //
+välja    välja+0 //_D_ //
+loevad    luge+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Iisraeli    Iisrael+0 //_H_ sg g, //
+pianisti    pianist+0 //_S_ sg g, //
+Daniel    Daniel+0 //_H_ sg n, //
+Vaimani    Vaiman+0 //_H_ sg g, //    Vaimani+0 //_H_ sg g, //
+kaalutletult    kaalutletult+0 //_D_ //
+kontrolli    kontroll+0 //_S_ sg g, //
+all    all+0 //_K_ //
+mängus    mäng+s //_S_ sg in, //
+jäi    jää+i //_V_ s, //
+Elleri    Elleri+0 //_H_ sg n, //
+Meditatsioon    Meditatsioon+0 //_H_ sg n, //
+vähe-ütlevaks    vähe-ütlev+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Põhiliselt    põhiliselt+0 //_D_ //
+nappis    nappi+s //_V_ s, //
+avarustunnet    avarus_tunne+t //_S_ sg p, //
+,    , //_Z_ //
+kõlade    kõla+de //_S_ pl g, //
+kuulatlemist    kuulatle=mine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+fraasidesse    fraas+desse //_S_ pl ill, //
+süüvimist    süüvi=mine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+humoreskis    humoresk+s //_S_ sg in, //
+"    " //_Z_ //
+Tüütu    tüütu+0 //_A_ sg n, //
+kärbes    kärbes+0 //_S_ sg n, //
+"    " //_Z_ //
+oli    ole+i //_V_ s, //
+tüü-tult    tüü-tult+0 //_S_ sg n, //
+vähe    vähe+0 //_D_ //
+humoorikust    humoorikus+t //_S_ sg p, //
+,    , //_Z_ //
+lihtsalt    lihtsalt+0 //_D_ //
+virtuoospala    virtuoos_pala+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rahmaninovi    Rahmaninov+0 //_H_ sg g, //
+Sonaadi    Sonaadi+0 //_H_ sg n, //
+esitas    esita+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+reljeefselt    reljeefse=lt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+tuues    too+es //_V_ des, //
+eredalt    eredalt+0 //_D_ //
+esile    esile+0 //_D_ //
+eri    eri+0 //_A_ //
+tasandeid    tasand+id //_S_ pl p, //
+,    , //_Z_ //
+-    - //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+ilma    ilma+0 //_K_ //
+muusikale    muusikal+e //_S_ pl p, //
+omase    omane+0 //_A_ sg g, //
+siira    siiras+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+tulise    tuline+0 //_A_ sg g, //
+vaimustuseta    vaimustus+ta //_S_ sg ab, //
+.    . //_Z_ //
+</s>
+<s>
+Mitte    mitte+0 //_D_ //
+hilisromantilise    hilisromanti=line+0 //_A_ sg g, //
+,    , //_Z_ //
+vaid    vaid+0 //_D_ //
+justkui    just_kui+0 //_D_ //    just_kui+0 //_J_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="19" mod="SECOND_HALF" >
+20.    20.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+teise    teine+0 //_O_ adt, //    teine+0 //_P_ adt, //
+poole    pool+0 //_N_ sg g, //
+</TIMEX>
+muusika    muusika+0 //_S_ sg g, //
+kaine    kaine+0 //_A_ sg n, //
+kõrvaltvaataja    kõrvalt_vaataja+0 //_S_ sg n, //
+pilgu    pilk+0 //_S_ sg g, //
+läbi    läbi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Jaapanlanna    jaapanlanna+0 //_S_ sg n, //
+Miho    Miho+0 //_H_ sg n, //
+Uchida    Uchida+0 //_H_ sg n, //
+jõudis    jõud+is //_V_ s, //
+Elleri    Eller+0 //_H_ sg g, //    Elleri+0 //_H_ sg g, //
+prelüüdidele    prelüüd+dele //_S_ pl all, //
+märksa    märksa+0 //_D_ //
+lähemale    lähemale+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+End    ise+0 //_P_ sg p, //
+Debussy    Debussy+0 //_H_ sg n, //
+pre-lüüdide    pre-lüüd+de //_S_ pl g, //    pre-lüüdide+0 //_S_ sg g, //
+peene    peen+0 //_A_ sg g, //
+esitusega    esitus+ga //_S_ sg kom, //
+tundlikule    tundlik+le //_A_ sg all, //
+lainele    laine+le //_S_ sg all, //
+häälestanud    häälesta+nud //_V_ nud, //    häälesta=nud+0 //_A_ //    häälesta=nud+0 //_A_ sg n, //    häälesta=nud+d //_A_ pl n, //
+<kiil>
+(    ( //_Z_ //
+hea    hea+0 //_A_ sg n, //
+kavavalik    kava_valik+0 //_S_ sg n, //
+!    ! //_Z_ //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+olid    ole+id //_V_ sid, //
+ta    tema+0 //_P_ sg n, //
+süüvimised    süüvi=mine+d //_S_ pl n, //
+väikepaladesse    väike_pala+desse //_S_ pl ill, //
+vabad    vaba+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+improvisatsioonilised    improvisatsiooni=line+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Jagus    jagu+s //_V_ s, //
+eestlusele    eestlus+le //_S_ sg all, //
+omast    omane+t //_A_ sg p, //
+aega    aeg+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+jahedat    jahe+t //_A_ sg p, //
+õhku    õhk+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Pärast    pärast+0 //_K_ //
+välismaalaste    välis_maalane+te //_S_ pl g, //
+vaoshoitud    vaos_hoitud+0 //_A_ //    vaos_hoitud+0 //_A_ sg n, //    vaos_hoitud+d //_A_ pl n, //
+või    või+0 //_J_ //
+pastelset    pastelne+t //_A_ sg p, //
+interpretatsiooni    inter_pretatsioon+0 //_S_ sg p, //
+mõjus    mõju+s //_V_ s, //
+eestlanna    eestlanna+0 //_S_ sg n, //
+Ave    Ave+0 //_H_ sg g, //
+Nieleri    Nieler+0 //_H_ sg g, //    Nieleri+0 //_H_ sg g, //
+jõuliselt    jõuliselt+0 //_D_ //
+emotsionaalne    emotsionaalne+0 //_A_ sg n, //
+mäng    mäng+0 //_S_ sg n, //
+hästi    hästi+0 //_D_ //
+ajastatult    ajasta=tult+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Sisimas    sisim+s //_U_ sg in, //
+justkui    just_kui+0 //_D_ //    just_kui+0 //_J_ //
+olidki    ole+idki //_V_ sid, //
+seda    see+da //_P_ sg p, //
+oodanud    ooda=nud+0 //_A_ //    ooda=nud+0 //_A_ sg n, //    ooda=nud+d //_A_ pl n, //    oota+nud //_V_ nud, //
+-    - //_Z_ //
+ikkagi    ikkagi+0 //_D_ //
+romantilised    romantiline+d //_A_ pl n, //
+teosed    teos+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Mart    Mart+0 //_H_ sg n, //
+Saare    Saare+0 //_H_ sg g, //
+prelüüdid    prelüüd+d //_S_ pl n, //
+tundusid    tundu+sid //_V_ sid, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+hingetõmbega    hinge_tõmme+ga //_S_ sg kom, //
+esitatud    esita+tud //_V_ tud, //    esitatud+0 //_A_ //    esitatud+0 //_A_ sg n, //    esitatud+d //_A_ pl n, //
+puhangutena    puhang+tena //_S_ pl es, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+mängitud    mängi+tud //_V_ tud, //    mängi=tud+0 //_A_ //    mängi=tud+0 //_A_ sg n, //    mängi=tud+d //_A_ pl n, //
+ihu    ihk+0 //_S_ sg g, //    ihu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+hingega    hing+ga //_S_ sg kom, //    hinge+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+sellid    sell+d //_S_ pl n, //
+lõpetasid    lõpeta+sid //_V_ sid, //
+,    , //_Z_ //
+<kindel_piir/>
+ilmus    ilmu+s //_V_ s, //
+lavale    lava+le //_S_ sg all, //
+meister    meister+0 //_S_ sg n, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kalle    Kalle+0 //_H_ sg n, //
+Randalu    Randalu+0 //_H_ sg n, //
+mängis    mängi+s //_V_ s, //
+suureks    suur+ks //_A_ sg tr, //
+iga    iga+0 //_P_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tillukese    tilluke+0 //_A_ sg g, //
+pala    pala+0 //_S_ sg n, //
+Tubina    Tubin+0 //_H_ sg g, //
+tsüklist    tsükkel+st //_S_ sg el, //
+"    " //_Z_ //
+Neli    neli+0 //_N_ sg n, //
+rahvaviisi    rahva_viis+0 //_S_ sg p, //
+minu    mina+0 //_P_ sg g, //
+kodumaalt    kodu_maa+lt //_S_ sg abl, //
+"    " //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Humoorikalt    humoorikalt+0 //_D_ //
+,    , //_Z_ //
+kuulatledes    kuulatle+des //_V_ des, //
+ja    ja+0 //_J_ //
+nautides    nauti+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Iga    iga+0 //_P_ sg g, //
+nüanssi    nüanss+0 //_S_ sg p, //
+meisterliku    meisterlik+0 //_A_ sg g, //
+mänguga    mäng+ga //_S_ sg kom, //
+esile    esile+0 //_D_ //
+tuues    too+es //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+Elleri    Eller+0 //_H_ sg g, //    Elleri+0 //_H_ sg g, //
+klaverimuusika    klaveri_muusika+0 //_S_ sg g, //
+vapilugu    vapi_lugu+0 //_S_ sg n, //
+,    , //_Z_ //
+paljukuuldud    palju_kuuldu+d //_S_ pl n, //
+"    " //_Z_ //
+Kellad    Kell+d //_H_ pl n, //    Kella+d //_H_ pl n, //    Kellad+0 //_H_ sg n, //
+"    " //_Z_ //
+pani    pane+i //_V_ s, //
+kuulama    kuula+ma //_V_ ma, //
+uudsete    uudne+te //_A_ pl g, //
+rõhuasetuste    rõhu_asetus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+varjunditega    varjund+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Sellide    sell+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+meistri    meister+0 //_S_ sg g, //
+vahet    vahe+t //_S_ sg p, //
+rõhutas    rõhuta+s //_V_ s, //
+seegi    see+gi //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+kavad    kava+d //_S_ pl n, //
+sarnanesid    sarnane+sid //_V_ sid, //
+üksteisega    üks_teise+ga //_P_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+oli    ole+i //_V_ s, //
+Randalu    Randalu+0 //_H_ sg g, //
+toon    toon+0 //_S_ sg n, //
+eriliselt    eriliselt+0 //_D_ //
+rikas    rikas+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+volüümikas    volüümikas+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Üksiku    Üksik+0 //_H_ sg g, //    Üksiku+0 //_H_ sg g, //
+noodi    noot+0 //_S_ sg g, //
+nautimise    nauti=mine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+väärtustamiseni    väärtustamine+ni //_S_ sg ter, //
+välja    välja+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+kõla    kõla+0 //_S_ sg n, //
+tuli    tule+i //_V_ s, //
+sügavalt    sügavalt+0 //_D_ //
+klaverist    klaver+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tungis    tungi+s //_V_ s, //
+kuulajasse    kuulaja+sse //_S_ sg ill, //
+,    , //_Z_ //
+lausa    lausa+0 //_D_ //
+füüsiliselt    füüsiliselt+0 //_D_ //
+tajutavalt    tajutavalt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Sümpomaatiline    Sümpomaatiline+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+heliloojate    heli_looja+te //_S_ pl g, //
+väikepalad    väike_pala+d //_S_ pl n, //
+tundusid    tundu+sid //_V_ sid, //
+Randalu    Randalu+0 //_H_ sg g, //
+esituses    esitus+s //_S_ sg in, //
+täiuslikumad    täiuslikum+d //_C_ pl n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Skrjabini    Skrjabin+0 //_H_ sg g, //    Skrjabini+0 //_H_ sg g, //
+Sonaat    sonaat+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Oli    ole+i //_V_ s, //
+küll    küll+0 //_D_ //
+loomulikkust    loomulikkus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+vabadust    vabadus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+oma    oma+0 //_P_ sg g, //
+eksalteerituses    eksalteeritus+s //_S_ sg in, //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+helilooja    heli_looja+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+jäi    jää+i //_V_ s, //
+sellest    see+st //_P_ sg el, //
+väheks    väheks+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Parimana    parim+na //_U_ sg es, //
+jäid    jää+id //_V_ sid, //
+meelde    meel+de //_S_ adt, //
+lühikesed    lühike+d //_A_ pl n, //
+hingeldavad    hingelda=v+d //_A_ pl n, //
+teemajupid    teema_jupp+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+õr-nad    õr-tema+d //_P_ pl n, //
+kõlasaared    kõla_saar+d //_S_ pl n, //
+mürisevate    mürisev+te //_A_ pl g, //
+bassikaskaadide    bassi_kaskaad+de //_S_ pl g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Lõpp    lõpp+0 //_S_ sg n, //
+aga    aga+0 //_J_ //
+tuli    tule+i //_V_ s, //
+äkki    äkki+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+lõpunooti    lõpu_noot+0 //_S_ sg p, //    lõpu_noot+i //_S_ pl p, //
+saatvas    saatev+s //_A_ sg in, //
+meeletus    meeletus+0 //_S_ sg n, //
+liigutuses    liigutus+s //_S_ sg in, //
+kajastus    kajastu+s //_V_ s, //
+see    see+0 //_P_ sg n, //
+hingejõud    hinge_jõud+0 //_S_ sg n, //    hinge_jõud+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+oleks    ole+ks //_V_ ks, //
+tahtnud    taht+nud //_V_ nud, //    taht=nud+0 //_A_ //    taht=nud+0 //_A_ sg n, //    taht=nud+d //_A_ pl n, //
+lõ-pulejõudmises    lõ-pulejõud=mine+s //_S_ sg in, //
+kuulda    kuul+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Seni    seni+0 //_D_ //
+väliselt    väliselt+0 //_D_ //
+vaoshoitud    vaos_hoitud+0 //_A_ //    vaos_hoitud+0 //_A_ sg n, //    vaos_hoitud+d //_A_ pl n, //
+Randalu    Randalu+0 //_H_ sg g, //
+mängu    mäng+0 //_S_ adt, //
+oli    ole+i //_V_ s, //
+lisandunud    lisandu+nud //_V_ nud, //    lisandu=nud+0 //_A_ //    lisandu=nud+0 //_A_ sg n, //    lisandu=nud+d //_A_ pl n, //
+annus    annus+0 //_S_ sg n, //
+artistlikku    artist=lik+0 //_A_ sg p, //
+maneerlikkust    maneer=likkus+t //_S_ sg p, //
+-    - //_Z_ //
+miks    miks+0 //_D_ //
+ka    ka+0 //_D_ //
+mitte    mitte+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="TIME" temporalFunction="true" value="TEV" comment="ühtki konkreetset daatumit pole, ankurdada ei saa">
+Õhtu    õhtu+0 //_S_ sg n, //
+</TIMEX>
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+avastuse    avastus+0 //_S_ sg g, //
+pakkus    pakku+s //_V_ s, //
+Saare    Saare+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Tubina    Tubin+0 //_H_ sg g, //
+palade    pala+de //_S_ pl g, //
+jõulisus    jõulisus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tubina    Tubin+0 //_H_ sg g, //
+loomingust    looming+st //_S_ sg el, //
+hinnatakse    hinda+takse //_V_ takse, //
+põhiliselt    põhiliselt+0 //_D_ //
+</s>
+<s>
+sümfooniaid    sümfoonia+id //_S_ pl p, //
+,    , //_Z_ //
+Saarelt    saar+lt //_S_ sg abl, //
+laule    laul+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Klaverimuusika    klaveri_muusika+0 //_S_ sg n, //
+pole    ole+0 //_V_ neg o, //
+kummagi    kumbki+gi //_P_ sg g, //
+esimene    esimene+0 //_O_ sg n, //
+eelistus    eelistus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sellele    see+le //_P_ sg all, //
+vaatamata    vaatamata+0 //_K_ //
+sisaldasid    sisalda+sid //_V_ sid, //
+need    see+d //_P_ pl n, //
+rahvamuusikal    rahva_muusikal+0 //_S_ sg n, //
+põhinevad    põhine+vad //_V_ vad, //
+,    , //_Z_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1927" comment="sem võiks olla umbmärasem">
+kolmveerand    kolm_veerand+0 //_S_ sg n, //
+sajandi    sajand+0 //_S_ sg g, //
+tagused    tagune+d //_A_ pl n, //
+</TIMEX>
+lühikesed    lühike+d //_A_ pl n, //
+lood    lood+0 //_S_ sg n, //    lood+d //_S_ pl n, //    loog+d //_S_ pl n, //    lugu+d //_S_ pl n, //
+suurt    suur+t //_A_ sg p, //
+sisemist    sisemine+t //_A_ sg p, //
+jõudu    jõud+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Hea    hea+0 //_A_ sg n, //
+meeldetuletus    meelde_tuletus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>

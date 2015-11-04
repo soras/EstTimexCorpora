@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Oht lennuväljadel püsib kõrgeimal tasemel 
+Krister Paris 
+ Lennujaamades tuleb reisijail varuda rohkelt ooteaega ja ennekõike kannatust . 
+ Suurbritannias avalikustati <TIMEX3 tid="t134" type="DATE" value="2006-08-11" anchorTimeID="t0">eile</TIMEX3> 19 inimese nimed neist 24-st oletatavast terroristist , kes arreteeriti seoses väidetava plaaniga lasta õhku kümme USA-sse suunduvat lennukit . 
+ Ehkki politsei kinnitusel on nad kõik vajalikud inimesed tabanud , otsustas valitsus jätta ohuhinnangu kõrgeimale tasemele . 
+ Ohuhinnang " kriitiline " viitab sellele , et rünnakut on oodata <TIMEX3 tid="t135" type="SET" value="XXXX-XX-XXTXX:XX" >iga hetk</TIMEX3> . 
+ USA telekanali ABC News andmetel on viis kahtlusalust siiani jooksus . 
+ <TIMEX3 tid="t136" type="TIME" value="2006-08-10TNI" anchorTimeID="t0">Neljapäeva öösel</TIMEX3> välja kuulutatud häire põhjustas Briti lennujaamades kaose , sest reisijatel keelati võtta pardale käsipagasit ning eriti rangelt kontrolliti joogipudeleid . 
+ Väidetavalt plaanisid suitsiiditerroristid lasta end koos lennukitega õhku karastusjookideks maskeeritud pommide abil , kasutades nende detoneerimiseks ümberehitatud olmeelektroonikat . 
+</TimeML>

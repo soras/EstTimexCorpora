@@ -1,0 +1,723 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2002-06-25TXX:XX" />
+<ignoreeri>
+|
+autor:
+Epl
+|
+ajalehenumber:
+Eesti
+Päevaleht
+25.06.2002
+|
+rubriik:
+Välismaa
+|
+artikkel:
+Iisrael
+laiendab
+haaret
+,
+Bush
+tahab
+Arafati
+välja
+vahetada
+|
+</ignoreeri>
+<s>
+Bush    Bush+0 //_H_ sg n, //
+kutsus    kutsu+s //_V_ s, //
+üles    üles+0 //_D_ //
+vahetama    vaheta+ma //_V_ ma, //
+välja    välja+0 //_D_ //
+Arafat    Arafat+0 //_H_ sg n, //
+,    , //_Z_ //
+lõpetama    lõp+tama //_V_ tama, //    lõpeta+ma //_V_ ma, //    lõppe+tama //_V_ tama, //
+okupatsiooni    okupatsioon+0 //_S_ sg g, //
+</s>
+<s>
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Reuters    Reuters+0 //_H_ sg n, //
+</s>
+<s>
+Iisraeli    Iisrael+0 //_H_ sg g, //
+väed    vägi+d //_S_ pl n, //
+laiendasid    laienda+sid //_V_ sid, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2002-06-25" >
+teisipäeval    teisi_päev+l //_S_ sg ad, //
+</TIMEX>
+oma    oma+0 //_P_ sg g, //
+haaret    haare+t //_S_ sg p, //
+Läänekaldal    lääne_kallas+l //_S_ sg ad, //
+,    , //_Z_ //
+tappes    tape+s //_S_ sg in, //
+neli    neli+0 //_N_ sg n, //
+palestiinlasest    palestiinlane+st //_S_ sg el, //
+politseinikku    politseinik+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+seda    see+da //_P_ sg p, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="PT2H" mod="APPROX">
+mõni    mõni+0 //_P_ sg n, //
+tund    tund+0 //_S_ sg n, //
+</TIMEX>
+pärast    pärast+0 //_K_ //
+seda    see+da //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+USA    USA+0 //_Y_ ?, //
+president    president+0 //_S_ sg n, //
+George    Georg+e //_H_ pl p, //
+Walker    Walker+0 //_H_ sg n, //
+Bush    Bush+0 //_H_ sg n, //
+kutsus    kutsu+s //_V_ s, //
+üles    üles+0 //_D_ //
+vahetama    vaheta+ma //_V_ ma, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+juhtkonda    juhtkond+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Iisraeli    Iisrael+0 //_H_ sg g, //
+kaitsejõud    kaitse_jõud+0 //_S_ sg n, //    kaitse_jõud+d //_S_ pl n, //
+<kiil>
+(    ( //_Z_ //
+IDF    IDF+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+ründasid    ründa+sid //_V_ sid, //
+Hebroni    Hebron+0 //_H_ sg g, //    Hebroni+0 //_H_ sg g, //
+linna    linn+0 //_S_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="true" value="P1W" beginPoint="t3" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+nädala    nädal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2002-W25" />
+</TIMEX>
+juba    juba+0 //_D_ //
+seitsmes    seitsmes+0 //_O_ sg n, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+linn    linn+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+IDF    IDF+0 //_Y_ ?, //
+siseneb    sisene+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+vahendas    vahenda+s //_V_ s, //
+Reuters    Reuters+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Hebronis    Hebronis+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+kümneid    kümme+id //_N_ pl p, //
+IDFi    IDF+0 //_H_ sg g, //    IDFi+0 //_H_ sg g, //
+tanke    tank+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+Palestiina    Palestiina+0 //_H_ sg g, //
+allikate    allikas+te //_S_ pl g, //
+teatel    teade+l //_S_ sg ad, //
+said    saa+id //_V_ sid, //
+tulevahetuses    tule_vahetus+s //_S_ sg in, //
+surma    surm+0 //_S_ sg g, //
+neli    neli+0 //_N_ sg n, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+politseinikku    politseinik+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Iisrael    Iisrael+0 //_H_ sg n, //
+kehtestas    kehtesta+s //_V_ s, //
+linnas    linn+s //_S_ sg in, //
+komandanditunni    komandandi_tund+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+võttis    võt+is //_V_ s, //
+vahi    vaht+0 //_S_ sg g, //
+alla    alla+0 //_K_ //
+150    150+0 //_N_ ?, //
+palestiinlast    palestiinlane+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+nende    see+de //_P_ pl g, //
+seas    seas+0 //_K_ //
+tagaotsitavaid    taga_otsitav+id //_A_ pl p, //
+võitlejaid    võitleja+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+leidsid    leid+sid //_V_ sid, //
+sõdurid    sõdur+d //_S_ pl n, //
+suure    suur+0 //_A_ sg g, //
+pommitehase    pommi_tehas+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+valmistati    valmista+ti //_V_ ti, //
+lõhkevaid    lõhkev+id //_A_ pl p, //
+vöösid    vöö+sid //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+kasutavad    kasuta+vad //_V_ vad, //
+enesetaputerroristid    enese_tapu_terrorist+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="2002-W25" >
+Eelmise    eelmine+0 //_A_ sg g, //
+nädalaga    nädal+ga //_S_ sg kom, //
+</TIMEX>
+okupeerisid    okupeeri+sid //_V_ sid, //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+väed    vägi+d //_S_ pl n, //
+taas    taas+0 //_D_ //
+Betlehemi    Betlehem+0 //_H_ sg g, //    Betlehemi+0 //_H_ sg g, //
+,    , //_Z_ //
+Ramallah'    Ramallah+0 //_H_ sg g, //
+,    , //_Z_ //
+Jenini    Jenin+0 //_H_ sg g, //    Jenini+0 //_H_ sg g, //
+,    , //_Z_ //
+Nabluse    Nablus+0 //_H_ sg g, //
+,    , //_Z_ //
+Tulkarmi    Tulkarm+0 //_H_ sg g, //    Tulkarmi+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Qalqilya    Qalqilya+0 //_H_ sg g, //
+linnad    linn+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+seda    see+da //_P_ sg p, //
+vastuseks    vastus+ks //_S_ sg tr, //
+terroriaktidele    terrori_akt+dele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+enesetaputerroristi    enese_tapu_terrorist+0 //_S_ adt, //
+mõrvasid    mõrva+sid //_V_ sid, //
+26    26+0 //_N_ ?, //
+juuti    juut+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Iisraeli    Iisrael+0 //_H_ sg g, //
+peaminister    pea_minister+0 //_S_ sg n, //
+Ariel    Ariel+0 //_H_ sg n, //
+Sharon    Sharon+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vandunud    vandu+nud //_V_ nud, //    vandu=nud+0 //_A_ //    vandu=nud+0 //_A_ sg n, //    vandu=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+väed    vägi+d //_S_ pl n, //
+jätkavad    jätka+vad //_V_ vad, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+alade    ala+de //_S_ pl g, //
+okupeerimist    okupeeri=mine+t //_S_ sg p, //
+niiakau    niiakau+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuni    kuni+0 //_J_ //
+rünnakud    rünnak+d //_S_ pl n, //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+lõpevad    lõp+vad //_V_ vad, //    lõppe+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Bush    Bush+0 //_H_ sg n, //
+teatas    teata+s //_V_ s, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="2002-06-24" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+USA    USA+0 //_Y_ ?, //
+toetab    toeta+b //_V_ b, //
+iseseisva    ise_seisev+0 //_A_ sg g, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+loomist    loomine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+palestiinlased    palestiinlane+d //_S_ pl n, //
+valivad    vali+vad //_V_ vad, //
+omale    oma+le //_P_ sg all, //
+uued    uus+d //_A_ pl n, //
+juhid    juht+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+pea    pida+0 //_V_ o, //
+terrorit    terror+t //_S_ sg p, //
+kompromissiks    kompromiss+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Humaansuse    humaansus+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+peavad    pida+vad //_V_ vad, //
+asjad    asi+d //_S_ pl n, //
+Lähis-Idas    Lähis-Idas+0 //_H_ sg n, //
+muutuma    muutu+ma //_V_ ma, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+Bush    Bush+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+kodanikud    kodanik+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+elada    ela+da //_V_ da, //
+terroris    terror+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Palestiinlased    palestiinlane+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+elada    ela+da //_V_ da, //
+okupatsiooni    okupatsioon+0 //_S_ sg g, //
+all    all+0 //_K_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+rääkis    rääki+s //_V_ s, //
+Bush    Bush+0 //_H_ sg n, //
+<TIMEX  tid="t7" type="DURATION" temporalFunction="false" value="PT16M" >
+16minutilises    16_minutiline+s //_A_ sg in, //
+</TIMEX>
+kõnes    kõne+s //_S_ sg in, //
+Rose    Rose+0 //_H_ sg n, //
+Gardenis    Gardenis+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegune    praegune+0 //_A_ sg n, //
+</TIMEX>
+olukord    olu_kord+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+anna    and+0 //_V_ o, //
+mingit    mingi+t //_P_ sg p, //
+märki    märk+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+elu    elu+0 //_S_ sg n, //
+seal    seal+0 //_D_ //
+paraneks    parane+ks //_V_ ks, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Bush    Bush+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+nimetanud    nimeta+nud //_V_ nud, //    nimeta=nud+0 //_A_ //    nimeta=nud+0 //_A_ sg n, //    nimeta=nud+d //_A_ pl n, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+presidenti    president+0 //_S_ sg p, //
+Yasser    Yasser+0 //_H_ sg n, //
+Arafati    Arafati+0 //_H_ sg n, //
+nimepidi    nime_pidi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+tegi    tege+i //_V_ s, //
+selgeks    selge+ks //_A_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegune    praegune+0 //_A_ sg n, //
+</TIMEX>
+Palestiina    Palestiina+0 //_H_ sg g, //
+valitsus    valitsus+0 //_S_ sg n, //
+suhtub    suhtu+b //_V_ b, //
+terrorismi    terrorism+0 //_S_ sg p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kompromissi    kompromiss+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+seega    seega+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+need    see+d //_P_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+reformiplaani    reformi_plaan+0 //_S_ sg g, //
+ellu    elu+0 //_S_ adt, //
+viia    vii+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0">
+Täna    täna+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+võimud    võim+d //_S_ pl n, //
+terrori    terror+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+,    , //_Z_ //
+mitte    mitte+0 //_D_ //
+vastu    vastu+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+USA    USA+0 //_Y_ ?, //
+ei    ei+0 //_V_ neg, //
+toeta    toeta+0 //_V_ o, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+loomist    loomine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+niikaua    nii_kaua+0 //_D_ //
+kuni    kuni+0 //_J_ //
+Palestiina    Palestiina+0 //_H_ sg g, //
+liidrid    liider+d //_S_ pl n, //
+alustavad    alusta+vad //_V_ vad, //
+võitlust    võitlus+t //_S_ sg p, //
+terrorigruppidega    terrori_grupp+dega //_S_ pl kom, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+purustavad    purusta+vad //_V_ vad, //
+terroristide    terrorist+de //_S_ pl g, //
+infrastruktuurid    infra_struktuur+d //_S_ pl n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sõnas    sõna+s //_V_ s, //
+president    president+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Bushi    Bush+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olukorra    olu_kord+0 //_S_ sg g, //
+lahendamiseks    lahendamine+ks //_S_ sg tr, //
+vaja    vaja+0 //_D_ //
+luua    loo+a //_V_ da, //
+töötav    töötav+0 //_A_ sg n, //
+demokraatia    demo_kraatia+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+põhineb    põhine+b //_V_ b, //
+sallivusel    sallivus+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+vabadusel    vabadus+l //_S_ sg ad, //
+,    , //_Z_ //
+uute    uus+te //_A_ pl g, //
+liidrite    liider+te //_S_ pl g, //
+,    , //_Z_ //
+uue    uus+0 //_A_ sg g, //
+põhiseaduse    põhi_seadus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+majandusliku    majanduslik+0 //_A_ sg g, //
+ning    ning+0 //_J_ //
+õigusliku    õiguslik+0 //_A_ sg g, //
+reformiga    reform+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+see    see+0 //_P_ sg n, //
+saab    saa+b //_V_ b, //
+teoks    tegu+ks //_S_ sg tr, //    tigu+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+lubas    luba+s //_V_ s, //
+Bush    Bush+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t11" type="DURATION" temporalFunction="false" value="P35Y" >
+35aastane    35_aastane+0 //_A_ sg n, //
+</TIMEX>
+Iisraeli    Iisrael+0 //_H_ sg g, //
+okupatsioon    okupatsioon+0 //_S_ sg n, //
+Läänekaldal    Lääne_kallas+l //_H_ sg ad, //
+ja    ja+0 //_J_ //
+Gazas    Gaza+s //_H_ sg in, //
+lõpeb    lõp+b //_V_ b, //    lõppe+b //_V_ b, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+luuakse    loo+akse //_V_ takse, //
+uus    uus+0 //_A_ sg n, //
+riik    riik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Uue    uus+0 //_A_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+lõplikud    lõplik+d //_A_ pl n, //
+piirid    piir+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+pealinna    pea_linn+0 //_S_ sg g, //
+asukoht    asu_koht+0 //_S_ sg n, //
+pannakse    pane+akse //_V_ takse, //
+paika    paik+0 //_S_ adt, //
+läbirääkimiste    läbi_rääkimine+te //_S_ pl g, //
+teel    teel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+peaksid    pida+ksid //_V_ ksid, //
+Bushi    Bush+0 //_H_ sg g, //
+hinnangul    hinnang+l //_S_ sg ad, //
+lõppema    lõppe+ma //_V_ ma, //
+<TIMEX  tid="t12" type="DURATION" temporalFunction="false" value="P3Y" >
+kolme    kolm+0 //_N_ sg g, //
+aastaga    aasta+ga //_S_ sg kom, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Bush    Bush+0 //_H_ sg n, //
+kutsus    kutsu+s //_V_ s, //
+üles    üles+0 //_D_ //
+korraldama    korralda+ma //_V_ ma, //
+Palestiinas    Palestiina+s //_H_ sg in, //
+mitmeparteililisi    mitmeparteili=line+i //_A_ pl p, //
+kohalike    kohalik+e //_A_ pl g, //
+omavalitsuste    oma_valitsus+te //_S_ pl g, //
+valimisi    valimine+i //_S_ pl p, //
+<TIMEX  tid="t13" type="DURATION" temporalFunction="false" value="P1Y" >
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+peaksid    pida+ksid //_V_ ksid, //
+järgnema    järgne+ma //_V_ ma, //
+parlamendivalimised    parlamendi_valimine+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Vahepeal    vahe_peal+0 //_D_ //
+peavad    pida+vad //_V_ vad, //
+Iisraeli    Iisrael+0 //_H_ sg g, //
+väed    vägi+d //_S_ pl n, //
+Bushi    Bush+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+tõmbuma    tõmbu+ma //_V_ ma, //
+tagasi    tagasi+0 //_D_ //
+Palestiina    Palestiina+0 //_H_ sg g, //
+aladelt    ala+delt //_S_ pl abl, //
+,    , //_Z_ //
+lõpetama    lõp+tama //_V_ tama, //    lõpeta+ma //_V_ ma, //    lõppe+tama //_V_ tama, //
+uute    uus+te //_A_ pl g, //
+asunduste    asundus+te //_S_ pl g, //
+ehitamise    ehitamine+0 //_S_ sg g, //
+Läänekaldale    lääne_kallas+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+Gazasse    Gaza+sse //_H_ sg ill, //
+,    , //_Z_ //
+taastama    taasta+ma //_V_ ma, //
+palestiinlaste    palestiinlane+te //_S_ pl g, //
+vabadusliikumise    vabadus_liikumine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lubama    luba+ma //_V_ ma, //
+neil    tema+l //_P_ pl ad, //
+arendada    arenda+da //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+majandust    majandus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+President    president+0 //_S_ sg n, //
+lubas    luba+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+USA    USA+0 //_Y_ ?, //
+,    , //_Z_ //
+Euroopa    Euroopa+0 //_H_ sg n, //
+Liit    Liit+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Araabiamaad    Araabia_maa+d //_H_ pl n, //
+aitavad    aita+vad //_V_ vad, //
+palestiinlastel    palestiinlane+tel //_S_ pl ad, //
+parandada    paranda+da //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+poliitilist    poliitiline+t //_A_ sg p, //
+ja    ja+0 //_J_ //
+majanduslikku    majanduslik+0 //_A_ sg p, //
+süsteemi    süsteem+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Bushi    Bush+0 //_H_ sg g, //
+kõnest    kõne+st //_S_ sg el, //
+leidsid    leid+sid //_V_ sid, //
+endale    ise+le //_P_ sg all, //
+meeldivaid    meeldiv+id //_A_ pl p, //
+aspekte    aspekt+e //_S_ pl p, //
+nii    nii+0 //_D_ //
+Arafat    Arafat+0 //_H_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Sharon    Sharon+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Arafat    Arafat+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Bushi    Bush+0 //_H_ sg g, //
+kõne    kõne+0 //_S_ sg n, //
+näitas    näita+s //_V_ s, //
+tõsist    tõsine+t //_A_ sg p, //
+jõupingutust    jõu_pingutus+t //_S_ sg p, //
+edendada    edenda+da //_V_ da, //
+regioonis    regioon+s //_S_ sg in, //
+rahu    rahu+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+Sharoni    Sharon+0 //_H_ sg g, //    Sharoni+0 //_H_ sg g, //
+büroo    büroo+0 //_S_ sg n, //
+teatas    teata+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+"    " //_Z_ //
+ehtsad    ehtne+d //_A_ pl n, //
+reformid    reform+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+uus    uus+0 //_A_ sg n, //
+liider    liider+0 //_S_ sg n, //
+"    " //_Z_ //
+teevad    tege+vad //_V_ vad, //
+tee    tee+0 //_S_ sg n, //
+vabaks    vaba+ks //_A_ sg tr, //
+diplomaatilistele    diplomaatiline+tele //_A_ pl all, //
+kokkulepetele    kokku_lepe+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+teatas    teata+s //_V_ s, //
+palestiinlaste    palestiinlane+te //_S_ pl g, //
+pealäbirääkija    pea_läbi_rääkija+0 //_S_ sg n, //
+Saeb    Saeb+0 //_H_ sg n, //
+Erakat    Erakat+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+"    " //_Z_ //
+Palestiina    Palestiina+0 //_H_ sg g, //
+juhid    juht+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+tule    tule+0 //_V_ o, //
+Washingtonist    Washington+st //_H_ sg el, //
+langevarjudega    lange_vari+dega //_S_ pl kom, //
+"    " //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Palestiina    Palestiina+0 //_H_ sg g, //
+juhid    juht+d //_S_ pl n, //
+valitakse    vali+takse //_V_ takse, //
+otse    otse+0 //_D_ //
+palestiinlaste    palestiinlane+te //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sõnas    sõna+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+CNNile    CNNile+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Bush    Bush+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esimene    esimene+0 //_O_ sg n, //
+USA    USA+0 //_Y_ ?, //
+president    president+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+käib    käi+b //_V_ b, //
+avalikult    avalikult+0 //_D_ //
+välja    välja+0 //_D_ //
+iseseisva    ise_seisev+0 //_A_ sg g, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+idee    idee+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Alates    alates+0 //_K_ //
+<TIMEX  tid="t14" type="DATE" temporalFunction="false" value="2000-09" >
+2000.    2000.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+septembrist    september+st //_S_ sg el, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+viimane    viimane+0 //_A_ sg n, //
+Palestiina    Palestiina+0 //_H_ sg g, //
+ülestõus    üles_tõus+0 //_S_ sg n, //
+algas    alga+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lahingutes    lahing+tes //_S_ pl in, //
+ja    ja+0 //_J_ //
+rünnakutes    rünnak+tes //_S_ pl in, //
+hukkunud    hukku+nud //_V_ nud, //    hukkunud+0 //_A_ //    hukkunud+0 //_A_ sg n, //    hukkunud+d //_A_ pl n, //
+1422    1422+0 //_N_ ?, //
+palestiinlast    palestiinlane+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+548    548+0 //_N_ ?, //
+juuti    juut+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Umbes    umbes+0 //_D_ //
+70    70+0 //_N_ ?, //
+hukkunud    hukku+nud //_V_ nud, //    hukkunud+0 //_A_ //    hukkunud+0 //_A_ sg n, //    hukkunud+d //_A_ pl n, //
+palestiinlast    palestiinlane+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tapnud    tap+nud //_V_ nud, //    tap=nud+0 //_A_ //    tap=nud+0 //_A_ sg n, //    tap=nud+d //_A_ pl n, //
+end    ise+0 //_P_ sg p, //
+enesetapurünnakutes    enese_tapu_rünnak+tes //_S_ pl in, //
+ise    ise+0 //_D_ //
+.    . //_Z_ //
+</s>

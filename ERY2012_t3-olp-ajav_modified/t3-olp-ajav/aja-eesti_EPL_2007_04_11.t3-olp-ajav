@@ -1,0 +1,181 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2007-04-11TXX:XX" />
+<ignoreeri>
+|
+autor:
+Toimetaja
+:
+Maria-Elisa
+Rannajõe
+|
+ajalehenumber:
+Eesti
+Päevaleht
+11.04.2007
+|
+rubriik:
+Eesti
+|
+artikkel:
+Ivangorodis
+leitud
+mürsk
+peatas
+rongiliikluse
+Eesti-Vene
+piiril
+|
+</ignoreeri>
+<s>
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Priit    Priit+0 //_H_ sg n, //
+Simson    Simson+0 //_H_ sg n, //
+</s>
+<s>
+Ivangorodi    Ivangorod+0 //_H_ sg g, //    Ivangorodi+0 //_H_ sg g, //
+vaksali    vaksal+0 //_S_ sg g, //
+territooriumilt    territoorium+lt //_S_ sg abl, //
+leiti    leid+ti //_V_ ti, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2007-04-11" >
+täna    täna+0 //_D_ //
+</TIMEX>
+kaevetööde    kaeve_töö+de //_S_ pl g, //
+käigus    käigus+0 //_K_ //
+mürsk    mürsk+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mistõttu    mis_tõttu+0 //_D_ //
+oli    ole+i //_V_ s, //
+rongiliiklus    rongi_liiklus+0 //_S_ sg n, //
+Narva    Narva+0 //_H_ sg g, //
+raudteepiiripunktis    raud_tee_piiri_punkt+s //_S_ sg in, //
+häiritud    häiri+tud //_V_ tud, //    häiri=tud+0 //_A_ //    häiri=tud+0 //_A_ sg n, //    häiri=tud+d //_A_ pl n, //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="true" value="PT2H" mod="APPROX" >
+ligi    ligi+0 //_K_ //
+2    2+0 //_N_ ?, //
+tundi    tund+0 //_S_ sg p, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Narva    Narva+0 //_H_ sg g, //
+raudteepiiripunkti    raud_tee_piiri_punkt+0 //_S_ sg g, //
+ülema    ülem+0 //_S_ sg g, //
+asetäitja    ase_täitja+0 //_S_ sg g, //
+kapten    kapten+0 //_S_ sg n, //
+Aivar    Aivar+0 //_H_ sg n, //
+Lepa    Lepa+0 //_H_ sg n, //
+teatas    teata+s //_V_ s, //
+<TIMEX text="täna kell 19. 08"  tid="t3" type="TIME" temporalFunction="true" value="2007-04-11T19:08" >
+täna    täna+0 //_D_ //
+kell    kell+0 //_S_ sg n, //
+19.08    19.08+0 //_N_ ?, //
+</TIMEX>
+Kirde    kirre+0 //_S_ sg g, //
+piirivalvepiirkonna    piiri_valve_piirkond+0 //_S_ sg g, //
+staabile    staap+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Vene    Vene+0 //_H_ sg g, //
+Föderatsiooni    Föderatsioon+0 //_H_ sg g, //    Föderatsiooni+0 //_H_ sg g, //
+piirivalve    piiri_valve+0 //_S_ sg g, //
+andmetel    andmed+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Ivangorodi    Ivangorod+0 //_H_ sg g, //    Ivangorodi+0 //_H_ sg g, //
+vaksali    vaksal+0 //_S_ sg g, //
+territooriumilt    territoorium+lt //_S_ sg abl, //
+kaevetööde    kaeve_töö+de //_S_ pl g, //
+käigus    käigus+0 //_K_ //
+leitud    leid+tud //_V_ tud, //    leitud+0 //_A_ //    leitud+0 //_A_ sg n, //    leitud+d //_A_ pl n, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+mürsk    mürsk+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kohale    koha+le //_S_ sg all, //    koht+le //_S_ sg all, //
+telliti    telli+ti //_V_ ti, //
+demineerijad    de_mineerija+d //_S_ pl n, //
+Vene    Vene+0 //_H_ sg g, //
+Föderatsiooni    Föderatsioon+0 //_H_ sg g, //    Föderatsiooni+0 //_H_ sg g, //
+poolelt    pool+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+Narva    Narva+0 //_H_ sg g, //
+raudteepiiripunktis    raud_tee_piiri_punkt+s //_S_ sg in, //
+liiklus    liiklus+0 //_S_ sg n, //
+peatati    peata+ti //_V_ ti, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+Tallinn-Peterburi    Tallinn-Peterbur+0 //_H_ sg g, //    Tallinn-Peterburi+0 //_H_ sg g, //
+rong    rong+0 //_S_ sg n, //
+hilines    hiline+s //_V_ s, //
+seetõttu    see_tõttu+0 //_D_ //
+väljumisega    väljumine+ga //_S_ sg kom, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="true" value="PT2H" mod="APPROX" >
+ligi    ligi+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+tundi    tund+0 //_S_ sg p, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Rongliiklus    rong_liiklus+0 //_S_ sg n, //
+taastati    taasta+ti //_V_ ti, //
+<TIMEX text="kell 20. 45."  tid="t5" type="TIME" temporalFunction="true" value="2007-04-11T20:45" anchorTimeID="t3" >
+kell    kell+0 //_S_ sg n, //
+20.45.    20.45.+0 //_N_ ?, //
+</TIMEX>
+</s>
+<s>
+Peterburi    Peterburi+0 //_H_ sg g, //
+rongis    rong+s //_S_ sg in, //
+viibis    viibi+s //_V_ s, //
+AS    AS+0 //_Y_ ?, //
+Go    Go+0 //_Y_ ?, //
+Groupi    Group+0 //_H_ sg g, //    Groupi+0 //_H_ sg g, //
+kommunikatsiooni    kommunikatsioon+0 //_S_ sg g, //
+juhi    juht+0 //_S_ sg g, //
+Silvia    Silvia+0 //_H_ sg n, //
+Pärmanni    Pärm_and+0 //_H_ sg g, //    Pärmann+0 //_H_ sg g, //    Pärmanni+0 //_H_ sg g, //
+andmetel    andmed+tel //_S_ pl ad, //
+45    45+0 //_N_ ?, //
+reisijat    reisija+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="2007-04-11" >
+Tänane    tänane+0 //_A_ sg n, //
+</TIMEX>
+vahejuhtum    vahe_juhtum+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+mõjuta    mõjuta+0 //_V_ o, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="2007-04-12" >
+homset    homne+t //_A_ sg p, //
+</TIMEX>
+Peterburi-Tallinn    Peterburi-Tallinn+0 //_H_ sg n, //
+rongi    rong+0 //_S_ sg g, //
+väljumisaega    väljumis_aeg+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+selleks    see+ks //_P_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+arvestatud    arvesta+tud //_V_ tud, //    arvestatud+0 //_A_ //    arvestatud+0 //_A_ sg n, //    arvestatud+d //_A_ pl n, //
+piisava    piisav+0 //_A_ sg g, //
+ajavaruga    aja_varu+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kinnitas    kinnita+s //_V_ s, //
+Pärmann    Pärmann+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinn-Moskva    Tallinn-Moskva+0 //_H_ sg g, //
+reisirong    reisi_rong+0 //_S_ sg n, //
+püsib    püsi+b //_V_ b, //
+sõidugraafikus    sõidu_graafik+s //_S_ sg in, //
+.    . //_Z_ //
+</s>

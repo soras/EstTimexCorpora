@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Eesti tahab Norra tanke 
+ PM 
+ Eesti tahab Norra tanke 
+ Kaitseministeerium ja kaitsejõudude peastaap , kes lükkasid tagasi Poola pakutud kümme kingitustanki T-55 AM , loodavad Eesti kaitseväele saada Norrast Saksa päritolu tanke Leopard-1 . 
+ <TIMEX3 tid="t162" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> kinnitasid parlamendi riigikaitsekomisjoni ette kutsutud kaitseministeeriumi kantsler Tarmo Mänd ning kaitsejõudude peastaabi ülem Aare Ermus ja eksülem Ants Laaneots , et tankid peavad Eesti kaitseväel olema . 
+ Postimehe andmeil on ka Saksamaa pakkunud Eestile tasuta Leopard-tanke , kuid tingimuseks on , et eestlased maksaksid kinni sõjamasinate remondikulud . 
+ " Ühe tanki kinkimiseelne remont maksab miljon krooni , " kinnitas militaarallikas . 
+ Ekspertide hinnangul peaks Eesti võtma vastu vähemalt 30 tanki , et üksus sõjaliselt mingit jõudu kujutaks . 
+ Väidetavalt on Norra nõus eeltingimusteta kinkima tanke Leopard-1 ja just Osloga ongi Tallinn niinimetatud soomuskonsultatsioone alustanud . 
+</TimeML>

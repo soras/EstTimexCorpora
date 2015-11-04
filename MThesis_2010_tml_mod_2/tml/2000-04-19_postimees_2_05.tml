@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Finaali said Maccabi ja Panathinaikos 
+ PM 
+ Korvpalli Euroliiga finaali jõudsid Ateena Panathinaikos ja Tel Avivi Maccabi , esikohamängus Salonikis on tänu fännidele eelis Kreeka klubil . 
+ <TIMEX3 tid="t63" type="TIME" value="XXXX-XX-XXTXX:XX">Esimestest minutitest</TIMEX3> ohjad haaranud Panathinaikos juhtis Istanbuli Efes Pilseni vastu poolajaks 41 : 33 , teises vaatuses 18 punktiga ja võitis 81 : 71. Efes püüdis maa-alakaitsega Kreeka esinduse söödurohket koostööd lõhkuda , kaotusseis vähenes 69 : 76-le . 
+ Dejan Bodiroga tõi Panathinaikosele 22 punkti . 
+ Ka Maccabi kontrollis mängus Barcelonaga sündmuste käiku ja võitis 65 : 51. Iisraeli meistri liidriks tõusnud 212 cm pikkune ameeriklane Nathaniel Huffman viskas 24 punkti . 
+ " Surusime vastased ebamugavatele viskekohtadele . 
+ <TIMEX3 tid="t64" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">Teisel poolajal</TIMEX3> kasvas agressiivsus veelgi , " ütles Maccabis esinev Huffman . 
+ " Maccabi tegutses kaitses jõulisemalt ja leidis ladusama rünnakurütmi , " ütles Barcelona peatreener Alejandro Garcia Reneses . 
+</TimeML>

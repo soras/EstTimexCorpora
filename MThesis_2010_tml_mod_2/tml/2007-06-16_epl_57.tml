@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Andrus Nilk 
+ Foto : Joosep Martinson 
+ Virgilijus Alekna võitis Oslos kettaheite 70.51-ga , Gerd Kanter alistus nelja meetriga . 
+ Kettaheite valitseja Alekna ja leedulase trooni kõigutava Kanteri <TIMEX3 tid="t252" type="DATE" value="2007" anchorTimeID="t0">tänavune</TIMEX3> esimene vastasseis päädis verevaeselt , sest Eesti rekordiomanik tegi oma selle hooaja ühe lahjema etteaste . 
+ Enne viimast vooru neljandaks langenud Kanter pidi end hoopis kõvasti kokku võtma , et vähemalt teise kohaga hooaja edetabelijuhi mainet hoida . 
+ Sellega tuli <TIMEX3 tid="t253" type="DURATION" value="P28Y">28-aastane</TIMEX3> kettaheitja toime - 66.33. 
+  " Ikka olen pettunud , " tunnistas <TIMEX3 tid="t254" type="DATE" value="2007-05-03" anchorTimeID="t0">3. mail</TIMEX3> USA-s hooaja tipptulemuse 72.02 heitnud Kanter . 
+ " Ma ei suutnud Aleknale mingit vastupanu osutada . 
+ Ka tulemus polnud see , mida võimed lubavad . " 
+ Alekna väge täis 
+ Alekna heitis avavoorus 67.95 ja seejärel oma <TIMEX3 tid="t255" type="DATE" value="2007" anchorTimeID="t0">tänavuse</TIMEX3> parima tulemuse 70.51. 
+ Ka ülejäänud heited 67.16 ja 66.94 andnuksid leedulasele esikoha . 
+</TimeML>

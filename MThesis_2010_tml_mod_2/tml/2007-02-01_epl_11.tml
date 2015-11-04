@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Kadri Masing 
+ Tallinna sotsiaaldemokraatide esimehe Jaak Juske sõnul on leidnud <TIMEX3 tid="t80" type="DATE" value="2007-02-01" anchorTimeID="t0">tänaseks</TIMEX3> tõestamist vähemalt üks fakt , kus Keskerakond seadis sundüürnikule linnakorteri saamise eeltingimuseks võimuparteisse astumise . 
+ " Arvata on , et <TIMEX3 tid="t81" type="DATE" value="2006-SP" anchorTimeID="t0">eelmisel kevadel</TIMEX3> Põhja-Tallinna valitsuselt Keskerakonnaga liitumise eest vähem kui 2000 krooniga korteri saanud Maie Sepa lugu ei ole üksikjuhtum . 
+ On ju Jüri Ratase juhitav linnavalitsus saatnud <TIMEX3 tid="t82" type="DURATION" value="P1Y" beginPoint="t127" endPoint="t0">viimase aasta jooksul</TIMEX3><TIMEX3 tid="t127" type="DATE" value="2006" temporalFunction="true"/> volikokku kinnitamiseks koguni 60 otsutsuskorras müügi otsust , ühes otsuses üldjuhul korraga enam kui üks korter , " märkis Juske . 
+ Ka on selgunud , et mitu <TIMEX3 tid="t83" type="DATE" value="2006" anchorTimeID="t0">eelmisel aastal</TIMEX3> sundüürnikele üliodavalt müüdud munitsipaalkorterit vahetasid juba <TIMEX3 tid="t84" type="DATE" value="FUTURE_REF" anchorTimeID="t83" comment="pole võimalik ilma taustateadmisteta leida" >mõned nädalad hiljem</TIMEX3> peremeest . 
+ " Nende tehingute tagant paistavad alati välja <TIMEX3 tid="t85" type="DATE" value="2007-02-01" anchorTimeID="t0">tänase</TIMEX3> volikogu Keskfraktsiooni esimehe Elmar Sepa räpased sarved , " lisas Juske . 
+ Juske sõnul on enam kui selge , et linnakorteritega sahkerdamine on jätkunud uuel moel ka <TIMEX3 tid="t86" type="DATE" value="PRESENT_REF" anchorTimeID="t0" comment="pigem viide olevikule kui konkreetsele kuupäevale" >tänase</TIMEX3> linnapea valitsemise ajal. " Jüri Ratasel pole vastutust enam kellegi teise kaela lükata . 
+ Ja opositsioon poleks opositsioon , kui ta ilmselget linna varaga susserdamist tuimalt pealt vaataks . 
+ Linnapea Ratast ootab <TIMEX3 tid="t87" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähinädalail</TIMEX3> ees umbusaldushääletus ; " ütles Jaak Juske . 
+</TimeML>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Ahto Lobjakas 
+ Kuigi <TIMEX3 tid="t160" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praegu</TIMEX3> viibib NATO egiidi all Afganistanis 40 000 sõdurit , on alliansi juhid üha enam mures , et välisjõududest üksi riigi rahustamiseks ei piisa . 
+ NATO juhitud rahujõud ( ISAF ) on vajalikud president Hamid Karzai võimupiiride laiendamiseks provintsides ja Talibani mässuliste ohjeshoidmiseks puštude aladel . 
+ Kuid pingete kestmisel kardetakse avaliku arvamuse pöördumist välisvägede vastu . 
+ Põletavaks probleemiks on tõusnud tsiviilelanikest ohvrid , keda NATO ja USA rünnakute tagajärjel on üha rohkem . 
+ <TIMEX3 tid="t161" type="DATE" value="2007-06-15" anchorTimeID="t0">Eile</TIMEX3> Brüsselis lõppenud NATO kaitseministrite kohtumisel püüti leida teed Afganistani julgeolekujõudude jaluleaitamiseks . 
+ Allianss tahab üle võtta USA algatatud Afganistani rahvusarmee ( ANA ) instruktorite programmi ning loodetakse , et <TIMEX3 tid="t162" type="DATE" value="2007" mod="END" anchorTimeID="t0">aasta lõpuks</TIMEX3> on tegevuses enam kui 40 juhendajate üksust , igas 16-20 meest . 
+</TimeML>

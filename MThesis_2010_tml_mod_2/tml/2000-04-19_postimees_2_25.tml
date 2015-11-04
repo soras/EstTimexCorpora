@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Itaalia võimuparteid otsivad uut peaministrit 
+ Opositsioon soovib ennetähtaegseid parlamendivalimisi 
+ REIN KÄRNER , rein.karner@postimees.ee 
+ Vastupidiselt varem teatatule ei võtnud Itaalia president <TIMEX3 tid="t272" type="DATE" value="2000-04-17" anchorTimeID="t0">üleeile</TIMEX3> peaministri lahkumispalvet vastu ning <TIMEX3 tid="t273" type="DATE" value="2000-04-19" anchorTimeID="t0">täna</TIMEX3> peaks peaminister D'Alema esinema parlamendis avaldusega . 
+ <TIMEX3 tid="t274" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> oli enamik vaatlejaid arvamusel , et pärast kõnet parlamendis esitab peaminister Massimo D'Alema presidendile uuesti lahkumisavalduse ja loobub pärast sisulist valimiskaotust enamikus riigi maakondadest oma <TIMEX3 tid="t275" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegusest</TIMEX3> ametist . 
+ Vastupidi varem kavandatule ei korraldata aga <TIMEX3 tid="t276" type="DATE" value="2000-04-19" anchorTimeID="t0">täna</TIMEX3> parlamendis arvatavasti usaldushääletust , vaid peaminister piirdub lühiavaldusega . 
+ Tema võimalike järeltulijate hulgas nimetatakse <TIMEX3 tid="t277" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegust</TIMEX3> rahandusministrit Giuliano Amatot , välisminister Lamberto Dinit ja senati presidenti Nicola Mancinit . 
+ Ülesanne täidetud 
+ Kohalikud valimised võitnud paremtsentristlikud erakonnad ei soovi aga uue valitsuse moodustamist , vaid viivitamatuid parlamendivalimisi . 
+ Meediamagnaadist opositsiooniliider Silvio Berlusconi ütles , et pärast vasakparteide läbikukkumist valimistel pole <TIMEX3 tid="t278" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegusel</TIMEX3> valitsusel enam mingit seaduslikku alust võimule jääda . 
+ " Rahvas peab tagasi saama oma suveräänsuse , ta ei tunne end <TIMEX3 tid="t279" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praeguses</TIMEX3> valitsuses esindatuna , " lisas ta . 
+ D'Alema tegi <TIMEX3 tid="t280" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> üheselt selgeks , et ta soovib enda kiiret vabastamist peaministri ametist . 
+ " Minu ülesanne on täidetud , " oli ta pärast parteide poliitilisi konsultatsioone veendunud . 
+ Ekskommunist Massimo D'Alema oli <TIMEX3 tid="t281" type="DATE" value="1998-FA">1998. aasta sügisest</TIMEX3> juhtinud Itaalia sõjajärgset 57. valitsust . 
+ Pärast <TIMEX3 tid="t282" type="DATE" value="2000-04-16" anchorTimeID="t0">pühapäevast</TIMEX3> valimiskaotust oli D'Alema pakkunud president Carlo Azeglio Ciampile oma tagasiastumist , ent viimane nõudis temalt enne lõpliku otsuse langetamist parlamendi ette astumist . 
+ Referendum tulekul 
+ <TIMEX3 tid="t283" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> sai selgeks , et ka valitsuskoalitsioon soovib peaministri vahetumist . 
+ Vasaktsentristlikule valitsuskoalitsioonile , kuhu kuuluvad erakonnad alates vanameelsetest kommunistidest kuni kristlike demokraatideni , on oluline , et valitsust juhiks valimiskaotusest puutumata liider . 
+ Samas puhkes <TIMEX3 tid="t284" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> äge vaidlus <TIMEX3 tid="t285" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguse</TIMEX3> valitsuse ja opositsiooni vahel valimisseaduse kavandatava muutmise ümber . 
+ D'Alema ja valitsusparteid soovivad , et <TIMEX3 tid="t286" type="DATE" value="2000-05-21" anchorTimeID="t0">21. maile</TIMEX3> plaanitud referendum valimisseaduse muutmise kohta tõepoolest aset leiaks . 
+ See tähendaks , et ennetähtaegseid parlamendivalimisi ei saa korraldada enne <TIMEX3 tid="t287" type="DATE" value="2000-FA" anchorTimeID="t0">sügist</TIMEX3> . 
+ Seevastu nõuavad Berlusconi ja opositsiooniparteid , et parlamendivalimised peetaks enne referendumit . 
+ <TIMEX3 tid="t288" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praeguse</TIMEX3> parlamendi volitused lõpevad <TIMEX3 tid="t289" type="DATE" value="2001-SP" anchorTimeID="t0">järgmise aasta kevadel</TIMEX3> ning vaatlejad on arvamusel , et valitsuskoalitsioon ei soovi ennetähtaegseid valimisi . 
+ Itaalias kavandatav uus valimisseadus peab riigis kehtestama majoritaarse valimissüsteemi ja võimaldama seega stabiilseid valitsusi , mis poleks senisel määral sõltuvad väikeparteide toetusest . 
+</TimeML>

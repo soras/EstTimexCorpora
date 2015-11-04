@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Foto : Joosep Martinson 
+ " Tere ! " hüütakse rõõmsalt kahe punase tugitooli vahel asuvast klaasustest sisenevale ( alati anonüümsele ) Köögi Komandole veel enne , kui oleme jõudnud märgata uue ameerikaliku toidukoha stiilipuhast interjööri . 
+ Suur on igatpidi see sõna , mis kohta iseloomustab . 
+ Suur nagu Ameerika isegi . 
+ Avarust on kahetasandilisel , restorani ja spordibaariga Mackil ka rahvarohkel lõunatunnil piisavalt ( päevasupp 25 , päevapasta 35 ja päevapraad 55 krooni ) . 
+ Akna ääres asuvatest kandilistest laudadest ja diivanitest on palju huvitavamad kergelt Ameerika jäätisekohviku booth-stiili järgivad poolringis nahast diivanid ja ümmargused lauad . 
+ Taladele on kinnitatud eri osariikidest pärit autode numbrimärke ning baari kohal seitse-kaheksa spordikanaleid edastavat ekraani , mille helisid summutab ameerikalikust üldansamblist veidi välja langev kergemuusika . 
+ " Tere , mina olen Maarja . 
+ Mina olen <TIMEX3 tid="t312" type="DATE" value="PRESENT_REF" comment="räägitakse mingist mineviku loost, pole võimalik määrata, mis on täna">täna</TIMEX3> teie teenindaja , " astub meie juurde sõbralik ja viisakas neiu , ulatab menüüd ja toob kõigile alustuseks korraliku klaasi jäävett ( 0 krooni ) ning tõmbab laua alt lahti pisikese sahtli , et võtta meile sealt söögiriistad .  
+
+</TimeML>

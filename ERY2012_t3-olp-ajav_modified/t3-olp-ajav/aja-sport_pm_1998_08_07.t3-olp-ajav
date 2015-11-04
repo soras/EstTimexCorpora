@@ -1,0 +1,254 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-08-07TXX:XX" />
+<ignoreeri>
+|
+autor:
+VALEV
+KRIIS
+,
+RAIMO
+NÕU
+|
+ajalehenumber:
+Postimees
+1998.08.07
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Sport
+|
+artikkel:
+Tõnisted
+seilavad
+keskmike
+seas
+|
+</ignoreeri>
+<s>
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="XXXX" >
+Teist    teine+t //_O_ sg p, //    teine+t //_P_ sg p, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+uues    uus+s //_A_ sg in, //
+jahiklassis    jahi_klass+s //_S_ sg in, //
+49    49+0 //_N_ ?, //
+purjetavad    purjeta+vad //_V_ vad, //
+vennad    vend+d //_S_ pl n, //
+Tõnu    Tõnu+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+Toomas    Toomas+0 //_H_ sg n, //
+Tõniste    Tõnis+te //_H_ pl g, //
+üritavad    ürita+vad //_V_ vad, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+meistrivõistlustel    meistri_võistlus+tel //_S_ pl ad, //
+Helsingis    Helsingi+s //_H_ sg in, //
+kvalifitseeruda    kvalifitseeru+da //_V_ da, //
+25    25+0 //_N_ ?, //
+parema    parem+0 //_C_ sg g, //
+hulka    hulka+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+EMi    EM+i //_Y_ sg g, //
+valiksõite    valik_sõit+e //_S_ pl p, //
+alustas    alusta+s //_V_ s, //
+82    82+0 //_N_ ?, //
+alust    alune+t //_S_ sg p, //    alus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+finaalstaadiumisse    finaal_staadium+sse //_S_ sg ill, //
+jõudmiseks    jõud=mine+ks //_S_ sg tr, //
+peavad    pida+vad //_V_ vad, //
+<TIMEX tid="t1" type="SET" value="P3D" freq="12X" temporalFunction="true">
+kolmel    kolm+l //_N_ sg ad, //
+päeval    päev+l //_S_ sg ad, //
+kokku    kokku+0 //_D_ //
+kaksteist    kaks_teist+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+</TIMEX>
+merel    meri+l //_S_ sg ad, //
+käima    käi+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Vaid    vaid+0 //_D_ //
+veerandsada    veerand_sada+0 //_N_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+neid    see+d //_P_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+medali    medal+0 //_S_ sg g, //
+jagamisel    jagamine+l //_S_ sg ad, //
+kaasa    kaasa+0 //_D_ //
+rääkima    rääki+ma //_V_ ma, //
+lubatakse    luba+takse //_V_ takse, //
+.    . //_Z_ //
+</s>
+<s>
+Kaksikvennad    kaksik_vend+d //_S_ pl n, //
+pingutasid    pinguta+sid //_V_ sid, //
+sama    sama+0 //_P_ sg g, //
+eesmärgi    ees_märk+0 //_S_ sg g, //
+nimel    nimel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+paraku    paraku+0 //_D_ //
+mõjutab    mõjuta+b //_V_ b, //
+nende    tema+de //_P_ pl g, //
+esinemiskindlust    esinemis_kindlus+t //_S_ sg p, //
+tahes-tahtmata    tahes-tahtmata+0 //_D_ //
+Tõnu    Tõnu+0 //_H_ sg n, //
+Tõniste    Tõnis+te //_H_ pl g, //
+pikka    pikk+0 //_A_ sg p, //
+aega    aeg+0 //_S_ sg p, //
+kestnud    kest+nud //_V_ nud, //    kest=nud+0 //_A_ //    kest=nud+0 //_A_ sg n, //    kest=nud+d //_A_ pl n, //
+peavalu    pea_valu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Tõnul    Tõnu+l //_H_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+otsaesine    otsa_esine+0 //_S_ sg n, //
+tugevasti    tugevasti+0 //_D_ //
+külma    külm+0 //_A_ sg g, //
+ja    ja+0 //_J_ //
+märja    märg+0 //_A_ sg g, //
+eest    eest+0 //_K_ //
+kaitstud    kaits+tud //_V_ tud, //    kaitstud+0 //_A_ //    kaitstud+0 //_A_ sg n, //    kaitstud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+nentis    nenti+s //_V_ s, //
+Tõnistete    Tõnistete+0 //_H_ sg n, //
+treener    treener+0 //_S_ sg n, //
+Rein    Rein+0 //_H_ sg n, //
+Ottoson    Ottoson+0 //_H_ sg n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1998-08-06" >
+eile    eile+0 //_D_ //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+mina    mina+0 //_P_ sg n, //
+oleks    ole+ks //_V_ ks, //
+rahul    rahul+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+kolmekümne    kolm_kümmend+0 //_N_ sg g, //
+parema    parem+0 //_C_ sg g, //
+hulgas    hulgas+0 //_K_ //
+lõpetaks    lõpeta+ks //_V_ ks, //
+.    . //_Z_ //
+</s>
+<s>
+Poisid    poiss+d //_S_ pl n, //
+sõidavad    sõit+vad //_V_ vad, //
+ettevaatlikult    ette_vaatlikult+0 //_D_ //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Pärast    pärast+0 //_K_ //
+valiksõitude    valik_sõit+de //_S_ pl g, //
+esimest    esimene+t //_O_ sg p, //
+kolmandikku    kolmandik+0 //_N_ sg p, //
+olid    ole+id //_V_ sid, //
+eestlased    eestlane+d //_S_ pl n, //
+48.    48.+0 //_O_ ?, //
+kohal    koha+l //_S_ sg ad, //    koht+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1998-08-06" >
+Eilses    eilne+s //_A_ sg in, //
+</TIMEX>
+neljas    neli+s //_N_ sg in, //
+sõidus    sõit+s //_S_ sg in, //
+saadi    saa+di //_V_ ti, //
+kirja    kiri+0 //_S_ sg p, //
+16.    16.+0 //_O_ ?, //
+,    , //_Z_ //
+13.    13.+0 //_O_ ?, //
+,    , //_Z_ //
+19.    19.+0 //_O_ ?, //
+ja    ja+0 //_J_ //
+10.    10.+0 //_O_ ?, //
+koht    koht+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Lõpus    lõpus+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+nõrk    nõrk+0 //_A_ sg n, //
+tuul    tuul+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+Ottoson    Ottoson+0 //_H_ sg n, //
+ilmaga    ilm+ga //_S_ sg kom, //
+rahul    rahul+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kokkuvõttes    kokku_võte+s //_S_ sg in, //
+tõusti    tõus+ti //_V_ ti, //
+enne    enne+0 //_K_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1998-08-07" >
+tänaseid    tänane+id //_A_ pl p, //
+</TIMEX>
+sõite    sõit+e //_S_ pl p, //
+paari    paar+0 //_N_ sg g, //
+koha    koha+0 //_S_ sg g, //    koht+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Et    et+0 //_J_ //
+kuldfinaali    kuld_finaal+0 //_S_ sg p, //
+jõuda    jõud+a //_V_ da, //
+,    , //_Z_ //
+tuleks    tule+ks //_V_ ks, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+sõidud    sõit+d //_S_ pl n, //
+võita    võit+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Ottoson    Ottoson+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+pidades    pida+des //_V_ des, //
+seda    see+da //_P_ sg p, //
+aga    aga+0 //_J_ //
+väheusutavaks    vähe_usutav+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Reaalne    reaalne+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pääs    pääs+0 //_S_ sg n, //
+hõbefinaali    hõbe_finaal+0 //_S_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+selgitatakse    selgita+takse //_V_ takse, //
+kohad    koha+d //_S_ pl n, //    koht+d //_S_ pl n, //
+26.-52.    26.-52.+0 //_O_ ?, //
+”    ” //_Z_ //
+</s>

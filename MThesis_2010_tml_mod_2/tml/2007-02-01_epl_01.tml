@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Madis Taras 
+ Foto : meiekodu.ee 
+ Psühholoog Avo-Rein Tereping küsib : Mis oleks , kui kutsuks eurolaulu valikul žüriisse ekspertideks reklaamispetsialistid ja suhtukski Eurolaulu kui reklaamiprojekti ? 
+ Eurolauludele on avapauk antud . 
+ Eks me kõik soovime <TIMEX3 tid="t1" type="DATE" value="2001" >2001. aasta</TIMEX3> kordumist . 
+ Või vähemalt pääsemist finaali . 
+ Eesti tee Eurovisioonil meenutab siinusvõnkumist . 
+ <TIMEX3 tid="t2" type="DATE" value="1993" >Esimesed aastad 1993</TIMEX3> - <TIMEX3 tid="t3" type="DATE" value="1995" >1995</TIMEX3> <TIMEX3 tid="t4" type="DURATION" value="P2Y" beginPoint="t2" endPoint="t3"/>läksid aia taha , küllap oli see õppimise aeg . 
+ Seejärel - <TIMEX3 tid="t5" type="DATE" value="1996" >1996. aasta</TIMEX3> läbimurre - viies koht , siis pisike langus - otsekui hoovõtt <TIMEX3 tid="t6" type="DATE" value="2001" >2001. aasta</TIMEX3> võidulauluks . 
+ Ja selle järel kiire vajumine kuristiku . 
+ Aeg oleks minna uuele tõusule . 
+ Tundub , et <TIMEX3 tid="t7" type="DURATION" value="PXY" beginPoint="t128" endPoint="t0" >viimased aastate</TIMEX3><TIMEX3 tid="t128" type="DATE" value="XXXX" temporalFunction="true"/> languse taga on kontseptuaalne möödapanek . 
+ Esimene prohmakas oli <TIMEX3 tid="t8" type="DATE" value="2003" >2003. aastal</TIMEX3> , kui erinevalt telefonihääletuse eelistustest valis kõrgetasemelistest ekspertidest koosnev rahvusvaheline žürii Eesti esindama Vaiko Epliku laulu " Eighties coming back " . 
+ Siis ennustati sellele hiilgavat tulevikku . 
+ Ometi läks nagu läks ! 
+ Publikueelistust arvestades ( " Kung Fu Club " ) olnuks tulemus parem , sest kujutagem ette teleri ees istuvat keskmist telefonihääletajat . 
+</TimeML>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ <TIMEX3 tid="t96" type="TIME" value="2007-08-26TEV" anchorTimeID="t0">Eile õhtupoolikul</TIMEX3> juhtus Viljandimaal Karksi eralennuväljal väikelennukiga maandumisel õnnetus , milles inimesed kannatada ei saanud . 
+ Piloot ning Karksi eralennuvälja omanik Hendrik Agur rääkis , et õnnetus juhtus <TIMEX3 tid="t97" type="TIME" value="2007-08-26T16:40" anchorTimeID="t96">kella 16.40 ajal</TIMEX3> maandumist seganud tugeva tuulepuhangu tõttu . 
+ Aguri sõnul ei saanud lennuk piisavalt kiiresti rattaid alla , uuele ringile ei jõutud samuti minna ning lennuk sõitis rajalt välja . 
+ Piloodi sõnul oli lennuki hoog väike ning neli lennukis viibinud inimest viga ei saanud . 
+ Lennuk vajab siiskiremontimist . 
+ Erapiloot Hendrik Agur on Gustav Adolfi Gümnaasiumi direktor , kes sattus <TIMEX3 tid="t98" type="DATE" value="PAST_REF" anchorTimeID="t0">hiljuti</TIMEX3> ajakirjanduse huviorbiiti põhikooli lõpetajate vanemaid šokeerinud alkoholivastase sõnavõtuga . 
+ Ta on tegutsenud hulgas erafirmades , valdavalt reklaami ja meedia valdkonnas , ning kuulub ka Eesti era- ja harrastuspilootide liidu juhatusse . 
+</TimeML>

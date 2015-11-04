@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2008-05-19T15:53" functionInDocument="CREATION_TIME"/>
+
+Liiklussurmade arv on
+<TIMEX3 tid="t1" type="DATE" value="2008" anchorTimeID="t0">
+tänavu
+</TIMEX3>
+aina vähenenud
+
+<TIMEX3 tid="t2" type="DATE" value="2008-04" anchorTimeID="t0">
+Tänavu aprillis 
+</TIMEX3>
+juhtus Eestis 134 liiklusõnnetust, milles kaotas elu viis inimest. Viimati 
+oli hukkunute arv sama väike
+<TIMEX3 tid="t3" type="DATE" value="2005-04" anchorTimeID="t0">
+täpselt kolm aastat tagasi.
+</TIMEX3>
+Surmaga lõppenud õnnetuste arv on pidevalt vähenenud alates 
+<TIMEX3 tid="t4" type="DATE" value="2007-12" anchorTimeID="t0">
+mullu detsembrist
+</TIMEX3>
+ning
+<TIMEX3 tid="t5" type="DATE" value="2008-02" anchorTimeID="t0">
+veebruaris
+</TIMEX3>
+langes üle hulga aja taas alla kümne, selgub maanteeameti statistikast.
+Õnnetusi juhtus
+<TIMEX3 tid="t6" type="DATE" value="2008-04" anchorTimeID="t0">
+aprillis
+</TIMEX3>
+siiski üheksa võrra rohkem kui
+<TIMEX3 tid="t7" type="DATE" value="2008-03" anchorTimeID="t0">
+märtsis.
+</TIMEX3>
+
+Avariides sai
+<TIMEX3 tid="t8" type="DATE" value="2008-04" anchorTimeID="t0">
+aprillis
+</TIMEX3>
+vigastada 171 inimest, mis on taas vähem kui
+<TIMEX3 tid="t9" type="DURATION" value="P3M" beginPoint="t14" endPoint="t15" anchorTimeID="t0" comment="alternatiiv on esitada korduvusena?!">
+tänavu varasematel kuudel.
+</TIMEX3><TIMEX3 tid="t14" type="DATE" value="2008-01"/><TIMEX3 tid="t15" type="DATE" value="2008-03"/>
+
+Joobes juhid olid osalised 34s
+<TIMEX3 tid="t10" type="DATE" value="2008-04" anchorTimeID="t0">
+aprillikuu
+</TIMEX3>
+avariis, neist üks nõudis ka inimelu. Roolijoodikute osalusega õnnetustes
+sai viga 52 inimest.
+Enim on roolijoodikud
+<TIMEX3 tid="t11" type="DATE" value="2008" anchorTimeID="t0">
+tänavu
+</TIMEX3>
+õnnetustesse sattunud Tallinnas - 23. Kokku on Tallinnas
+<TIMEX3 tid="t12" type="DATE" value="2008" anchorTimeID="t0">
+tänavu
+</TIMEX3>
+juhtunud 165 avariid, mis on samuti vabariigi kõrgeim näitaja.
+
+Kokku on
+<TIMEX3 tid="t13" type="DATE" value="2008" anchorTimeID="t0">
+tänavu
+</TIMEX3>
+juhtunud 569 liiklusõnnetust, milles hukkus 38 ja sai
+vigastada 749 inimest. 
+</TimeML>
+

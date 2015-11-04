@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Dannar Leitmaa 
+ Foto : Reuters 
+ Jaapani politsei alustas <TIMEX3 tid="t75" type="DURATION" value="P19Y">19-aastase</TIMEX3> tüdruku süüdistuse uurimist , kelle väitel vägistasid teda neli USA sõdurit . 
+ Neiu väitel vägistasid neli sõdurit teda Hiroshima linnas <TIMEX3 tid="t76" type="TIME" value="2007-10-14TMO" mod="START" anchorTimeID="t0">14. oktoobri varahommikul</TIMEX3> , vahendab Reuters . 
+ Jaapani meediakompanii NHK väiteil vägistasid neli Iwakuni õhuväebaasi sõdurit neiu autopargis olevas autos pärast peol tutvumist . 
+ USA vägede esindajate sõnul on kahtlusalused vahistatud ning USA lubab Jaapani võimudega kriminaalasja uurimisel koostööd teha . 
+ USA ja Jaapani kokkuleppe kohaselt ei pea USA sõjaväelasi jaapanlastele enne ametliku süüdistuse esitamist välja andma . 
+ <TIMEX3 tid="t77" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Hetkel</TIMEX3> on Jaapanis 50 000 USA sõdurit , kuid jaapanlased pole ameerikaste sõjaväebaasidega rahul , sest sageli põhjustavad ameeriklased baaside läheduses õnnetusi , lärmi ning satuvad pahuksisse seadustega . 
+</TimeML>

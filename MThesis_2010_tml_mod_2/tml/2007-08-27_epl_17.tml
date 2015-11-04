@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Oliver Õunmaa 
+ Tee pannakse kinni <TIMEX3 tid="t99" type="TIME" value="2007-08-28T10" anchorTimeID="t0">homme kella kümnest</TIMEX3> , remont peaks valmis saama <TIMEX3 tid="t100" type="DATE" value="2007-11" anchorTimeID="t0">novembriks</TIMEX3> . 
+ Männiku tee ajutine liiklusskeem on valmis ja seetõttu algavad Männiku teel remonditööd juba <TIMEX3 tid="t101" type="DATE" value="2007-08-28" anchorTimeID="t0">homme</TIMEX3> . 
+ <TIMEX3 tid="t102" type="DATE" value="2007-08-28" anchorTimeID="t0">28. augustist</TIMEX3> <TIMEX3 tid="t103" type="DATE" value="2007-11-01" anchorTimeID="t0">1. novembrini</TIMEX3><TIMEX3 tid="t104" type="DURATION" value="P2M4D" beginPoint="t102" endPoint="t103" /> kestva tee-ehituse ajal on Vabaduse puiestee ja Valdeku tänava vaheline Männiku tee lõik liikluseks suletud . 
+ Tee pannakse kinni <TIMEX3 tid="t105" type="DATE" value="2007-08-28" anchorTimeID="t0">homme</TIMEX3> , <TIMEX3 tid="t106" type="TIME" value="2007-08-28T10:00" anchorTimeID="t0">28. augustil kella 10.00-st.</TIMEX3> 
+ Tee-ehituse raames on suletud ka Männiku tee ja Valdeku tänava ristmik . 
+ Ümbersõit toimub Pihlaka tänava , Valdeku tänava ja Vabaduse puiestee kaudu . 
+ Raskeveokid massiga üle kümne tonni peavad sõitma mööda Tallinna ringteed ja Viljandi maanteed . 
+ Ehitus lükkus edasi 
+ Liinide 5 ja 32 bussid sõidavad kesklinna poole Pihlaka tänava , Võidu tänava , Vabaduse puiestee kaudu . 
+ Männiku suunas pääsevad bussid marsruudil Männiku tee , Vabaduse puiestee , Võidu tänav , Valdeku tänav , Kraavi tänav , Pihlaka tänav ja Männiku tee . 
+ Bussid peatuvad Võidu tänaval P. Kerese , Karusmarja ja Värava tänava ristmike lähedastes ajutistes peatustes ning Vabaduse puiestee ja Männiku tee ühinemiskohas asuvas Liiva peatuses . 
+ Teiste sõidukite peatumine on remondi ajal Kraavi , P. Kerese ja Võidu tänaval keelatud . 
+</TimeML>

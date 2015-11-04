@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Mirko Ojakivi 
+ Foto : Aldo Luud 
+ <TIMEX3 tid="t26" type="SET" value="PTXH" comment="TODO!">Tipptundidel</TIMEX3> võib Tartu kesklinnas <TIMEX3 tid="t27" type="DURATION" value="PT30M">pooleks tunniks</TIMEX3> liiklusummikusse toppama jääda . 
+ Tartu linnavalitsus on otsustanud <TIMEX3 tid="t28" type="DATE" value="2007-FA" anchorTimeID="t0">sel sügisel</TIMEX3> kõik suuremad sillad korraga remonti panna . 
+ Suletud on ka üks tihedamini kasutatavaid raudteeülesõite ning autoga liiklejaile tähendab kõik see <TIMEX3 tid="t29" type="SET" value="PTXH" comment="TODO!">tipptunnil</TIMEX3> närveldamist liiklusummikus . 
+ " <TIMEX3 tid="t30" type="DATE" value="2007-10-15" anchorTimeID="t0">Esmaspäeval</TIMEX3> oli , ma arvan , halvim päev Tartu liikluskorralduses , sest Sõpruse silla osaline sulgemine halvas täielikult Tartu liikluse . 
+ Bussid sõitsid vaba ajagraafiku alusel . 
+ Bussijuhte ja dispetšerit sõimati valimatult , " rääkis Tartus ühistransporti pakkuva bussifirma GoBus Lõuna-Eesti regioonijuht Valter Keis . 
+ <TIMEX3 tid="t31" type="DURATION" value="PXD" beginPoint="t79" endPoint="t0">Viimastel päevadel</TIMEX3><TIMEX3 tid="t79" type="DATE" value="XXXX-XX-XX" temporalFunction="true"/> säärast kaost , kus sõit Annelinnast kesklinna võttis aega pea <TIMEX3 tid="t32" type="DURATION" value="PT1H">tunni</TIMEX3> tavapärase <TIMEX3 tid="t33" type="DURATION" value="PT10M">10</TIMEX3>-<TIMEX3 tid="t34" type="DURATION" value="PT15M">15 minuti</TIMEX3> asemel , pole olnud . 
+ Liikluskorraldusteenistuse peaspetsialisti Toomas Henno sõnul ei saa <TIMEX3 tid="t35" type="TIME" value="TMO">hommikust</TIMEX3> aeglaselt liikuvat autorivi veel nimetada ummikuks . 
+ " Ummik on ikka siis , kui autod seisavad paigal . 
+ Ka <TIMEX3 tid="t36" type="DATE" value="2007-10-15" anchorTimeID="t0">esmaspäeval</TIMEX3> polnud paigalseisu , " lisas Henno . 
+</TimeML>

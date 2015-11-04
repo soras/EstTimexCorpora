@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: JUHTKIRI : Õhk saab õnneks puhtamaks 
+<TIMEX3 tid="t36" type="DATE" value="2006-08-12" anchorTimeID="t0">Täna</TIMEX3> koguneb Saaremaal Rahvaliidu juhatus ja <TIMEX3 tid="t37" type="DATE" value="2006-08-13" anchorTimeID="t0">homme</TIMEX3> Tallinnas Keskerakonna volikogu . 
+ Kui mõlemad koostöölepingu heaks kiidavad , võib presidendi valimise riigikogus läbikukkunuks lugeda . 
+ Sellest on kahju , sest sellise käiguga saadetakse ühiskonnale sõnum , et Eesti parteid ei suuda omavahel endiselt kokku leppida ja meie poliitiline kultuur on endiselt liivakastimängude tasemel . 
+ Kuid pole halba heata . 
+ Koostöölepingu allakirjutamine on selles mõttes hea , et <TIMEX3 tid="t38" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegune</TIMEX3> salatsemisest , kahepalgelisusest ja tüssamisest tiine õhk saab hulga puhtamaks . 
+ Kujunevad välja kaks selget leeri ja kaks sümboolset teed Eestile , mida üks või teine valik endaga kaasa toob . 
+ Keskerakonna kahepalgeline käitumine ja nelja parlamendipartei tüssamine tagavad neile lühemas perspektiivis edu - olgugi et Keskerakonnal pole oma kandidaati , saab ta näidata , et just neist sõltub uue presidendi valik , et <TIMEX3 tid="t39" type="DURATION" value="PXY" >aastaid</TIMEX3> Eesti poliitika otsuste tegemisest eemal hoitud erakond on <TIMEX3 tid="t40" type="DATE" value="PRESENT_REF" anchorTimeID="t0">hetkel</TIMEX3> kõige kõvem tegija . 
+</TimeML>

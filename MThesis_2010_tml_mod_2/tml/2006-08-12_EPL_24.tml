@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Neli tõsist vahejuhtumit pronksmehe valvamisel 
+Holger Roonemaa 
+ Foto : A.A. 
+ Pronkssõdurit valvavad politseinikud on vaprad inimesed - on vägitegu olla järjest <TIMEX3 tid="t102" type="DURATION" value="PT12H" >12 tundi</TIMEX3> valves , ilma et midagi juhtuks . 
+ Mina väsisin ära juba <TIMEX3 tid="t103" type="DURATION" value="PT4H" >nelja tunniga</TIMEX3> . 
+ <TIMEX3 tid="t104" type="TIME" value="T11:44" >11.44</TIMEX3> Saabun Tõnismäele ning asun vaatluspostile rahvusraamatukogu treppidel . 
+ Olukord paistab rahulik . 
+ Pronkssõdurit ümbritsev plats on politseilintidega piiratud , platsil viibib neli politseinikku . 
+ Patrullimine paistab käivat kahes kaheliikmelises grupis . 
+ Kaks heledapäist naispolitseinikku sammuvad väga rahulikult pronksmehe eest põiki möödaminevat rada pidi , kaks tumedapäist naispolitseinikku istuvad varjus pingi peal ja vestlevad omavahel . 
+ <TIMEX3 tid="t105" type="TIME" value="T12:00" >12.00</TIMEX3> Heledapäised politseinikud lahkuvad sõduri juurest ning nende asemele tulevad raamatukogu ääres seisvast politseibussist üks mees- ja üks naispolitseinik . 
+ Uued valvurid istuvad pingile ning varem seal istunud tõusevad püsti ja sammuvad natuke eemale . 
+</TimeML>

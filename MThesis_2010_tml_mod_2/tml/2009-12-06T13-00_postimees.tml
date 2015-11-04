@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-06T13:00" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+
+USA ja Venemaa pikendasid ajutiselt START-lepingut
+
+<TIMEX3 tid="t1" type="TIME" value="2009-12-06T13:00">06.12.2009 13:00</TIMEX3>
+
+Läbirääkimised Washingtoni ja Moskva vahel kahe riigi tuumarelvaarsenali vähendamise üle pole andnud lõpptulemust, mistõttu otsustasid pooled ajutiselt pikendada <TIMEX3 tid="t2" type="DATE" value="2009-12-05" anchorTimeID="t0">eile</TIMEX3> aegunud START-1 lepingut.
+REKLAAM 
+
+Venemaa Föderatsiooni president Dmitri Medvedev ja Ühendriikide riigipea Barack Obama on varem korduvalt avaldanud lootust, et uus tuumarelvastuse piiramise lepe õnnestub sõlmida juba <TIMEX3 tid="t3" type="DATE" value="2009" anchorTimeID="t0">selle aasta jooksul,</TIMEX3> vahendas Reuters.
+
+Uue tuumarelvastuse piiramise leppega tahetakse tuumalõhkepeade hulka vähendada allapoole <TIMEX3 tid="t4" type="DATE" value="2002">2002. aastal</TIMEX3> määratud arvust.
+
+Selle oluliseks eelduseks on aga <TIMEX3 tid="t5" type="DATE" value="1991">1991. aastal</TIMEX3> Ühendriikide <TIMEX3 tid="t6" type="DATE" value="PAST_REF" anchorTimeID="t0">toonase</TIMEX3> riigipea George Bushi ja laguneva kommunistliku impeeriumi esindaja Mihhail Gorbatšovi vahel sõlmitud, kuid <TIMEX3 tid="t7" type="DATE" value="2009-12-05" anchorTimeID="t0">eile</TIMEX3> aegunud USA-NSV Liidu strateegiliste relvade vähendamise lepingu (START) uuendamine.
+
+Viimast on muu hulgas nimetatud ka kõige ulatuslikumaks relvastuskontrolli alaseks kokkuleppeks ajaloos, kuid pooltel pole õnnestunud seda uuendada. Leppe pikendamise üle peetavad läbirääkimised on jõudnud väidetavalt lõppfaasi, samas lepingut pooltelt lauale panna pole.
+
+<TIMEX3 tid="t8" type="DATE" value="2002">2002. aastal</TIMEX3> leppisid USA ja Venemaa pärast pikka aega kestnud kõnelusi kokku, et <TIMEX3 tid="t9" type="DURATION" value="P10Y" >kümne aasta jooksul</TIMEX3> vähendatakse tuumarelvalõhkepäid 1700 kuni 2200ni, kuid <TIMEX3 tid="t10" type="DATE" value="2008-01">2008. aasta jaanuaris</TIMEX3> oli Ühendriikidel üle 5000 ja Venemaal üle 8000 lõhkepea.
+
+Kumbi riik pole seni veel vihjanud, kui suures ulatuses võidakse lõhkepäid vähendada, kuid Moskva ja Washington näevad uues lepingus võimalust ilmutada koostöövalmidust hoolimata teravatest lahkhelidest NATO laienemise ja USA raketikilbiplaanide asjus.
+</TimeML>
+

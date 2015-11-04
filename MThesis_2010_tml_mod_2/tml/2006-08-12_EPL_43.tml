@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Loeb ja Sordo jätkavad kindlalt 
+Foto : Reuters 
+ Sebastien Loeb ( Citroen ) alustas Saksamaa MM-ralli <TIMEX3 tid="t188" type="DATE" value="XXXX-XX-XX" comment="spetsiifiline">teist võistluspäeva</TIMEX3> küll kolmanda ja teise kohaga , kuid tema edu tiimikaaslase Danile Sordo ees on endiselt turvalised <TIMEX3 tid="t189" type="DURATION" value="PT27.4S" >27,4 sekundit</TIMEX3> . 
+ Kolmandat ja neljandat kohta hoiavad soomlased - Toni Gardemeister ( Citroen ) kaotab liidrile 2.18 , 0 ja Marcus Grönholm ( Ford ) 2.38 , 2-ga . 
+ Esimese , 22,06 km pikkuse Rosenbergi kiiruskatse võitis üllatuslikult t?ehh Jan Kopecky ( ?koda ) Sordo ja Loebi ees . 
+ 29,57 km pikkuse Panzerplatte katse esimesel läbimisel olid kolm kiiremat Sordo , Loeb ja Mikko Hirvonen ( Ford ) . 
+ <TIMEX3 tid="t192" type="DATE" value="XXXX-XX-XX" anchorTimeID="t188">Päeva</TIMEX3> esimesel kiiruskatsel jättis ralli pooleli eksmaailmameister Petter Solberg ( Subaru ) , kirjutab sportnet.ee. 
+</TimeML>

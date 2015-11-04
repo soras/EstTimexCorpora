@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Madis Taras 
+ <TIMEX3 tid="t5" type="DATE" value="2007-10-17" anchorTimeID="t0">Kolmapäeval</TIMEX3> lükkas naine Sillamäel kooli territooriumil pikali <TIMEX3 tid="t6" type="DURATION" value="P10Y">kümneaastase</TIMEX3> poisi ja andis jalahoobi teisele <TIMEX3 tid="t7" type="DURATION" value="P10Y">kümneaastasele</TIMEX3> poisile . 
+ " Sillamäel Geoloogia tänaval asuvas Kannuka koolis koolis ( endine Sillamäe 5. keskkool - toim. ) tõukas tundmatu naine <TIMEX3 tid="t8" type="DURATION" value="P10Y">kümneaastast</TIMEX3> poissi , mille tagajärjel laps kukkus , samuti lõi naine jalaga teist <TIMEX3 tid="t9" type="DURATION" value="P10Y">kümneaastast</TIMEX3> poissi , " ütles Päevaleht Online'ile Ida politsei pressiesindaja Kirstina Kostina . 
+ Kannuka kool ei lükanud ümber intsidendi toimumist , kuid keeldus Päevaleht Online'ile juhtumiga seonduvaid asjaolusid täpsustamast . 
+ Kooli sekretär Lidia Sergejeva ütles , et " selliseid asju " kommenteerib ainult direktor Juri Nikitin , kes on <TIMEX3 tid="t10" type="DATE" value="2007-10-19" anchorTimeID="t0">täna</TIMEX3> aga koolitusel . 
+ Ida politsei pressiesindaja lisas , et asjaolud on selgitamisel ja <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >hetkel</TIMEX3> rünnakust rohkem teada ei ole . 
+ Politsei alustas menetlust mõlema poisi vanemate poolt tehtud avalduste alusel . 
+</TimeML>

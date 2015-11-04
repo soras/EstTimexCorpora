@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2010-01-11T10:14" functionInDocument="CREATION_TIME"/>
+
+<TIMEX3 tid="t1" type="DATE" value="2009-12" anchorTimeID="t0">Detsembris</TIMEX3> oli töötuna arvel 92 221 inimest (3)
+<TIMEX3 tid="t2" type="TIME" value="2010-01-11T10:14" >11.01.2010 10:14</TIMEX3>
+
+<TIMEX3 tid="t3" type="DATE" value="2009-12" anchorTimeID="t0">Detsembri jooksul</TIMEX3> oli töötuna arvel 92 221 inimest ehk ligi kolm korda rohkem kui <TIMEX3 tid="t4" type="DATE" value="2008-12" anchorTimeID="t3">2008. aasta samal kuul.</TIMEX3>
+
+Registreeritud töötuid oli <TIMEX3 tid="t5" type="DATE" value="2009-12" mod="END" anchorTimeID="t0">detsembri lõpus</TIMEX3> 87 282 ehk 13,3 protsenti tööjõust vanuses <TIMEX3 tid="t6" type="DURATION" value="P16Y" >16. eluaastast</TIMEX3><TIMEX3 tid="t7" type="DURATION" comment="valdkonnaspetsiifiline" value="PXXY"> pensionieani,</TIMEX3> teatas töötukassa.
+
+<TIMEX3 tid="t8" type="DATE" value="2009-12" anchorTimeID="t0">Detsembris</TIMEX3> registreerus 9 341 uut töötut ja arvelolek lõppes 5 598 töötul. Uute registreeritud töötute arv oli <TIMEX3 tid="t9" type="DATE" value="2009-12" anchorTimeID="t0">detsembris</TIMEX3> väiksem <TIMEX3 tid="t10" type="DURATION" value="PXM" beginPoint="t17" endPoint="t9">eelmiste kuude</TIMEX3><TIMEX3 tid="t17" type="DATE" value="XXXX-XX" temporalFunction="true"/> tasemest, samas langes ka arveloleku lõpetamiste arv. Registreeritud töötute arv kasvas <TIMEX3 tid="t11" type="DATE" value="2009-12" anchorTimeID="t0">detsembris</TIMEX3> siiski vähem kui <TIMEX3 tid="t12" type="DATE" value="2009-FA" anchorTimeID="t11">sügiskuudel.</TIMEX3>
+
+Kõrgeim oli registreeritud töötus Ida-Virumaal (19,3 protsenti) ja madalaim Jõgevamaal (10 protsenti).
+
+Tööpakkumisi lisandus töötukassasse <TIMEX3 tid="t13" type="DATE" value="2009-12" anchorTimeID="t0">detsembris</TIMEX3> 1419 ehk ligi kaks korda rohkem kui <TIMEX3 tid="t14" type="DATE" value="2009-11" anchorTimeID="t13">novembris.</TIMEX3> Viimati lisandus <TIMEX3 tid="t15" type="DURATION" value="P1M" >kuu jooksul</TIMEX3> nii palju tööpakkumisi <TIMEX3 tid="t16" type="DATE" value="2008-06" anchorTimeID="t0">poolteist aastat tagasi.</TIMEX3>
+
+Toimetas: Laura Raus 
+
+</TimeML>
+

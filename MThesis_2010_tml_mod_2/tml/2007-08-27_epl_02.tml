@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Kadri Masing 
+ Foto : www.econ.au.dk 
+ Ilmajaama nädalaprognoosi kohaselt jätkub jõudsalt ilma jahenemine , mis toob endaga <TIMEX3 tid="t4" type="TIME" value="2007-09-01TNI" anchorTimeID="t0">ööl vastu laupäeva</TIMEX3> kaasa öökülma . 
+ Hoovihmad või lausvihmad on <TIMEX3 tid="t5" type="DATE" value="2007-W35" anchorTimeID="t0">sel nädalal</TIMEX3> sagedased ning mõnel pool võib sajuhulk olla suur ( 15 mm <TIMEX3 tid="t6" type="DURATION" value="PT12H" >12 tunni</TIMEX3> kohta ja enam ) . 
+ Samuti võib <TIMEX3 tid="t7" type="DURATION" value="P1W" comment="mõõde - millimeetrit nädalas? pigem kestvus" >nädala</TIMEX3> sajuhulk ulatuda 30-40 millimeetrini , mis on ligikaudu pool <TIMEX3 tid="t8" type="DATE" value="2007-08" anchorTimeID="t0" comment="ka korduvusena">augustikuu</TIMEX3> keskmisest sademete summast , teatas Eesti meteoroloogia ja hüdroloogia instituut . 
+ <TIMEX3 tid="t9" type="DATE" value="2007-08-28" anchorTimeID="t0">Teisipäeval</TIMEX3> sajab aeg-ajalt vihma ja on võimalik äike . 
+ <TIMEX3 tid="t10" type="TIME" value="2007-08-28TNI" anchorTimeID="t9">öösel</TIMEX3> puhub lõunakaarte tuul , <TIMEX3 tid="t11" type="TIME" value="2007-08-28TDT" anchorTimeID="t10" >päeval</TIMEX3> pöördub läände ja loodesse ning tugevneb 8-13 , iiliti 17 m/s . 
+ <TIMEX3 tid="t12" type="TIME" value="2007-08-28TNI" anchorTimeID="t11">öösel</TIMEX3> on sooja 7 kuni 15 , <TIMEX3 tid="t13" type="TIME" value="2007-08-28TDT" anchorTimeID="t12">päeval</TIMEX3> 10 kuni 16 kraadi . 
+ <TIMEX3 tid="t14" type="DATE" value="2007-08-29" anchorTimeID="t0">Kolmapäeval</TIMEX3> ja <TIMEX3 tid="t15" type="DATE" value="2007-08-30" anchorTimeID="t0">neljapäeval</TIMEX3> sajab hoovihma ning merel ja rannikul võib olla äikest . 
+ Puhub läänekaarte tuul 6-11 , rannikul kuni 15 m/s . 
+ <TIMEX3 tid="t16" type="TIME" value="TNI" comment="nii K kui N öösel???">öösel</TIMEX3> on sooja 4 kuni 11 ning <TIMEX3 tid="t17" type="TIME" value="TDT" comment="nii K kui N päeval???" >päeval</TIMEX3> 9 kuni 14 kraadi . 
+</TimeML>

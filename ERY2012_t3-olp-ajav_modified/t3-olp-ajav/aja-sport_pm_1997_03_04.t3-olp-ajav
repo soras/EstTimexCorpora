@@ -1,0 +1,133 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-03-04TXX:XX" />
+<ignoreeri>
+|
+autor:
+SIIM
+SUKLES
+|
+ajalehenumber:
+Postimees
+1997.03.04
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Sport
+|
+artikkel:
+EOK
+esimene
+miljonitehing
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1997-02-28">
+Veebruari    veebruar+0 //_S_ sg g, //
+viimasel    viimane+l //_A_ sg ad, //
+päeval    päev+l //_S_ sg ad, //
+</TIMEX>
+allkirjastasid    all_kirjasta+sid //_V_ sid, //
+Eesti    Eesti+0 //_H_ sg g, //
+Merelaevanduse    mere_laevandus+0 //_S_ sg g, //
+peadirektor    pea_direktor+0 //_S_ sg n, //
+Toivo    Toivo+0 //_H_ sg n, //
+Ninnas    Ninnas+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Olümpiakomitee    olümpia_komitee+0 //_S_ sg g, //
+president    president+0 //_S_ sg n, //
+Arnold    Arnold+0 //_H_ sg n, //
+Green    Green+0 //_H_ sg n, //
+koostöölepingu    koos_töö_leping+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+Eesti    Eesti+0 //_H_ sg g, //
+Merelaevandus    mere_laevandus+0 //_S_ sg n, //
+toetab    toeta+b //_V_ b, //
+kuni    kuni+0 //_K_ //
+Sydney    Sydney+0 //_H_ sg g, //
+olümpiamängudeni    olümpia_mängud+deni //_S_ pl ter, //
+Eesti    Eesti+0 //_H_ sg g, //
+olümpialiikumist    olümpia_liikumine+t //_S_ sg p, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+miljoni    miljon+0 //_N_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+krooniga    kroon+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Lepingu    leping+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+saab    saa+b //_V_ b, //
+Eesti    Eesti+0 //_H_ sg g, //
+Merelaevandus    mere_laevandus+0 //_S_ sg n, //
+kasutada    kasuta+da //_V_ da, //
+olümpiasümboolikat    olümpia_sümboolika+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+nimetust    nimetus+t //_S_ sg p, //
+Eesti    Eesti+0 //_H_ sg g, //
+Olümpiakomitee    olümpia_komitee+0 //_S_ sg g, //
+Peasponsor    pea_sponsor+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+EOK    EOK+0 //_Y_ ?, //
+asepresidendi    ase_president+0 //_S_ sg g, //
+Tiit    Tiit+0 //_H_ sg n, //
+Nuudi    Nuud+0 //_H_ sg g, //    Nuudi+0 //_H_ sg g, //    Nuut+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+leping    leping+0 //_S_ sg n, //
+avastart    ava_start+0 //_S_ sg n, //
+EOK    EOK+0 //_Y_ ?, //
+uuele    uus+le //_A_ sg all, //
+toetusprogrammile    toetus_programm+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+liitub    liitu+b //_V_ b, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+lähiajal    lähi_aeg+l //_S_ sg ad, //
+</TIMEX>
+veel    veel+0 //_D_ //
+neli    neli+0 //_N_ sg n, //
+peasponsorit    pea_sponsor+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+miljon    miljon+0 //_N_ sg n, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+15    15+0 //_N_ ?, //
+kuldsponsorit    kuld_sponsor+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+400    400+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+EOK    EOK+0 //_Y_ ?, //
+eelmise    eelmine+0 //_A_ sg g, //
+,    , //_Z_ //
+Atlanta    Atlanta+0 //_H_ sg g, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="1996" anchorTimeID="t0" >
+'96    96+0 //_N_ ?, //
+</TIMEX>
+sponsorprojekti    sponsor_projekt+0 //_S_ sg g, //
+kaudu    kaudu+0 //_K_ //
+toetati    toeta+ti //_V_ ti, //
+tippatleete    tipp_atleet+e //_S_ pl p, //
+ligikaudu    ligi_kaudu+0 //_D_ //
+kuue    kuus+0 //_N_ sg g, //
+miljoni    miljon+0 //_N_ sg g, //
+krooniga    kroon+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>

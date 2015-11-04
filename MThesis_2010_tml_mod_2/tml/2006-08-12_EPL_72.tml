@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Aatriumi sisustussalong pakub uut kodumaist disainmööblit 
+Ave Randviir 
+ <TIMEX3 tid="t348" type="TIME" value="2006-08-12T10" anchorTimeID="t0">Täna kell 10</TIMEX3> avatakse Aatriumi sisustussalongis Tallinnas eestimaise mööblikollektsiooni Fellin müügisalong . 
+ Fellini kollektsiooni on loonud Eesti disainerite liitu kuuluvad noored disainerid Sixten Heidmets ja Sirli Põllumäe , kes ise ütlevad oma töö kohta : " Fellin kannab endas mõtet , et asjad meie ümber peaksid aitama elada , mitte dikteerima elu . 
+ Sellest tiivustatuna on disainis kasutatud elemente , mis võimaldavad toodete väljanägemist kergesti muuta ja tooteid ruumis hõlpsasti ümber paigutada . 
+ Nii kannabki Fellin endas nooruslikku funktsionalistlikku sõnumit . 
+ Lisaks loob naturaalsete materjalide kasutamine ausa ja tugeva mulje . 
+ Meie esemete eripäraks on selge idee ja vorm arusaadavas ja inimsõbralikus teostuses . 
+ Fellin sobib kodudesse , kus asjad ei domineeri inimese üle , vaid võimaldavad oma noorehingelisel omanikul vabalt ja huvitavalt elada . " 
+ <TIMEX3 tid="t349" type="DATE" value="2005" anchorTimeID="t0">Eelmisel aastal</TIMEX3> Eesti parimaks noordisaineriks valitud Heidmetsaga on võimalik <TIMEX3 tid="t350" type="DATE" value="2006-08-12" anchorTimeID="t0">laupäeval</TIMEX3> <TIMEX3 tid="t351" type="TIME" value="2006-08-12T10" anchorTimeID="t350">kella 10</TIMEX3>-<TIMEX3 tid="t352" type="TIME" value="2006-08-12T16" anchorTimeID="t351">16</TIMEX3> <TIMEX3 tid="t353" type="DURATION" value="PT6H" beginPoint="t351" endPoint="t352"/>Aatriumi sisustussalongis kohtuda . 
+</TimeML>

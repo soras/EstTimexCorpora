@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Vanalinnas püüti roolijoodikuid 
+Foto : www.pol.ee 
+ <TIMEX3 tid="t60" type="DURATION" value="PT1H30M" >Pooleteise tunni jooksul</TIMEX3> tabati Tallinna südalinnast 13 napsitanud sõidukijuhti . 
+ Neli olid tugevas joobes , üheksal purjutamisjärgsed jääknähud . 
+ <TIMEX3 tid="t500" type="TIME" value="2006-08-10T20:30" anchorTimeID="t0">Üleeile õhtul kella poole üheksast</TIMEX3> <TIMEX3 tid="t501" type="TIME" value="2006-08-10T23:00" anchorTimeID="t0">kuni üheteistkümneni</TIMEX3> <TIMEX3 tid="t61" type="DURATION" value="PT2H30M" beginPoint="t500" endPoint="t501"/>kontrollis julgestuspolitsei liiklusüksus Tallinna südalinnas 608 sõidukijuhti , suleti kümme vanalinna teeotsa , kirjutab SL Õhtuleht . 
+ Julgestuspolitsei pressiesindaja Martin Luige sõnul oli operatsioon õnnestunud mitte ainult selle poolest , et tabati liiklushuligaane . 
+ Ühtlasi saadi väga hea ülevaade südalinna agressiivsest liiklusest , <TIMEX3 tid="t62" type="DURATION" value="PT1H30M" >pooleteise tunniga</TIMEX3> kontrolliti 608 sohvrit - teiste seas ka 26 mootorratturit ja nelja jalgratturit . 
+ 13 juhti olid tarvitanud alkoholi , tabatute seas oli ka üks joobes rollerijuht . 
+ Pressiesindaja sõnul nad sellise rõõmutu tulemusega ka arvestasid . 
+</TimeML>

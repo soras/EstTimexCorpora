@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-14T15:50" functionInDocument="CREATION_TIME"/>
+
+Uuring: tipp-pankurid on ühiskonnale kahjulikud (7)
+<TIMEX3 tid="t1" type="TIME" value="2009-12-14T15:50" >14.12.2009 15:50</TIMEX3>
+Tipp-pankurid peaksid olema õnnelikud, et nende boonustele vaid 50-protsendine lisamaks peale pannakse, kuna nende mõju ühiskonnale on negatiivne, selgub <TIMEX3 tid="t2" type="DATE" value="2009-12-14" anchorTimeID="t0">täna</TIMEX3> avaldatud raportist.
+
+Oma vaadetelt kergelt vasakpoolsusele kalduva uuringufirma New Economics Foundationi (NEF) sõnul on näiteks haiglate koristajate ja paljude teiste vähemtasustatud tööinimeste ühiskondlik panus seevastu kaugelt suurem, mis peaks kajastuma ka nende palganumbrites.
+
+Kuigi NEF ei ole kaugeltki ortodoksne majandusuuringute firma, põhineb nende raport, mis kannab pealkirja «Rikkavõitu» (ingl. k. A Bit Rich) siiski täiesti standardsel rahvamajandusteoorial, et valitsus peaks sekkuma juhtudel, kus inimeste poolt ühiskonnale pakutav väärtus erineb märkimisväärselt nende poolt tööandjale pakutavast väärtusest.
+
+Seda valitsus juba teebki, kogudes kõikidelt maksuraha selleks, et tagada teenustepakkumine mitmetes ühiskondlikult ülivajalikes töölõikudes, kus seda vastasel juhul lihtsale ei tehtaks.
+
+Nii näiteks saab BBC peadirektor Mark Thompson pidada oma ametit tänu sellele, et valitsuse meelest on avalik-õiguslik ringhääling ühiskonnale kasulik ning turg ei võimaldaks tal seda tööd teha, kui telekanalite omanikele ei oleks kehtestatud vastavat maksu. Samas olukorras on nii politsei kui relvajõud.
+
+Samal kombel on valitsused juba <TIMEX3 tid="t3" type="DURATION" value="P100Y" mod="MORE_THAN" >üle 100 aasta</TIMEX3> jõuliselt seadusi rakendanud, et seista vastu ühiskondlikult kahjulike ametite ja ettevõtmiste levikule. Nii näiteks kuulutati <TIMEX3 tid="t4" type="DATE" value="1878" >1878. aastal</TIMEX3> seadusevastaseks <TIMEX3 tid="t5" type="DURATION" value="P10Y" mod="LESS_THAN">alla 10-aastaste</TIMEX3> laste tööjõu kasutamine.
+
+Nii ongi NEF <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> edasi arendanud Briti finantsinspektsiooni juhi Adair Turneri <TIMEX3 tid="t7" type="DATE" value="2008-SU" anchorTimeID="t0">mullusuvist</TIMEX3> kommentaari, et osad ametid Londoni Citys on ühiskondlikus mõttes mõttetud. Niisiis võeti käsile panganduseliidi ühiskondliku väärsuse hindamine.
+
+Autorid lähtusid eeldusest, et nii finantskriis kui majanduslangus oleksid jäänud olemata, kui City pankurid poleks ette võtnud riskantseid, läbipaistmatuid ja keerukaid tehinguid. Nad arvutasid välja, kui palju majanduslangus ülejäänud ühiskonnale hinnanguliselt maksma läks ning jõudsid järeldusele, et iga teenitud naelsterlingi kohta tekitavad City tipp-pankurid ühiskonnale 7 naelsterlingi eest kahju.
+
+Kui need numbrid vähegi tõele vastavad, paneks mõistlik valitsus City üldse kinni. Loomulikult ei ole sellega nõus ei City ise ega ka rahandusministeerium, kelle meelest finantskeskusest ikka kasu tuleb, kui seda korralikult reguleerida.
+
+Raport väidab, et head sanitarid hoiavad ära nakkuste leviku, päästavad inimelusid ning seisavad seega laiemas mõttes rahvatervise eest. Arvutuste kohaselt pakuvad nad iga teenitud naelsterlingi eest 10 naela lisaväärtust.
+
+NEFi analüütiku Eilis Lawlori sõnul ei kajasta palgatasemed sageli toodetava lisaväärtuse tegelikku suurust. «Ideaalne oleks tasustamisstruktuur, mis väärtustaks selliseid töökohti, millest ühiskonnale kõige enam kasu on - mitte selliseid, kus ühiskonna ja keskkonna arvelt endale kasumit teenitakse.»
+
+Ilmselt on mitmed analüütikud nõus, et tegemist on päris julgete kalkulatsioonide ja argumentidega.
+
+Paljude meelest on ülalmainitud arvutused ja ehk mõned raportis sisalduvad väitedki küllap üsna heroilised.
+Näiteks järeldavad autorid, et lasteaiatöötajate ühiskondliik väärtus ületab märkimisväärselt nende palganumbri, kuna nad võimaldavad teistel inimestel palgatööl käia.
+
+Majandusteaduse standardmõtlemise järgi poleks see päris nii, kuna tulu tõuseb sellest vaid lapse emale või isale, kes selle vajaliku teenuse eest ka maksab.
+
+Copyright The Financial Times Limited <TIMEX3 tid="t8" type="DATE" value="2009" >2009.</TIMEX3>  
+
+
+Chris Giles, FT 
+</TimeML>
+

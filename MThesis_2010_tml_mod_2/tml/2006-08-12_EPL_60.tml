@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Vene Draamateater tuledesäras 
+Andris Feldmanis 
+ <TIMEX3 tid="t280" type="TIME" value="2006-08-10T00:00" anchorTimeID="t0">Neljapäeva südaööl</TIMEX3> süttis hoone katusel kohalviibinud prominentide ja muidu kultuurihuviliste aplausi saatel esmakordselt ajaloos valguskiri " Vene teater " - see tähistas Vene Draamateatri oodatust pikemaks veninud remondi lõppu . 
+ 138 miljonit krooni maksma läinud remondi käigus on teatri vana ajalooline maja saanud uhkelt kuldse välimuse ning valminud ka maja õuel asuv juurdeehitis koos umbes 150-kohalise blackbox-tüüpi saaliga , mis teatrirahvale endale teeb kõige enam head meelt . 
+ Ametlikule avamisele , mis esialgse kava kohaselt pidi toimuma <TIMEX3 tid="t281" type="DATE" value="2006-03-27" anchorTimeID="t0">27. märtsil</TIMEX3> - rahvusvahelisel teatripäeval - , olid <TIMEX3 tid="t282" type="TIME" value="2006-08-10TEV" anchorTimeID="t0">neljapäeva õhtul</TIMEX3> kogunenud kõik kultuurilembesed inimesed alates ajalehe KesKus vene kultuuri huvilisest peatoimetajast Juku-Kalle Raidist kuni Eesti Vabariigi presidendi Arnold Rüütlini ning avaürituseks sai värske teatrimaja rahvast paksult täis . 
+ Sündmusele kohaselt voolasid viinajoad ning kõrgusid kalamarjamäed . 
+</TimeML>

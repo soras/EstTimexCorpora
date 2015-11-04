@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Valgjärve : Kaika suveülikool <TIMEX3 tid="t147" type="DATE" value="2006-W32-WE" anchorTimeID="t0">sellel nädalavahetusel</TIMEX3> 
+<TIMEX3 tid="t148" type="DATE" value="2006-08-11" anchorTimeID="t0">Eile</TIMEX3> alustas Põlva maakonnas Valgjärvel mitmesaja osavõtjaga võrukeste suveülikool . 
+ <TIMEX3 tid="t149" type="DATE" value="2006" anchorTimeID="t0">Tänavuse</TIMEX3> loenguprogrammi teeb eriliseks koostöö raadiosaatega " Ööülikool " - mitmed loengud lindistatakse " Ööülikooli " tarbeks . 
+ Kaika suveülikooli " Ööülikooli " programmis räägivad Mati Hint , Jaan Kaplinski , Peeter Laurits ja Hasso Krull - inimesed , keda ollakse harjunud kuulama ikka põhjaeesti keeles , peavad oma loengud seekord erinevaid lõunaeesti keelepruuke kasutades . 
+ Triinu Ojar 
+</TimeML>

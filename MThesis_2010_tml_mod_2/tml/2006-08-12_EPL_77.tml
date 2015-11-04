@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Martin Jürman - krooniline kitarrist 
+Erinavalt kodumaise poproki keskealistest igiteismelistest on Smilersi kitarrist Martin Jürman ka tegelikult noor . 
+ <TIMEX3 tid="t369" type="DURATION" value="P3Y" beginPoint="t409" endPoint="t0">Viimased kolm aastat</TIMEX3><TIMEX3 tid="t409" type="DATE" value="2003" temporalFunction="true" /> Hendrik Sal-Salleri kõrval lugematutel lavadel rokkinud noormehel on vanust küll tagasihoidlikud <TIMEX3 tid="t370" type="DURATION" value="P24Y" >24 eluaastat</TIMEX3> , kuid mängukogemust soliidsed <TIMEX3 tid="t371" type="DURATION" value="P13Y" >13 aastat</TIMEX3> , kirjutab Mart Niineste . 
+ Martinit käesoleva loo jaoks intervjeerima minnes ei oska ma midagi oodata . 
+ Fännifoorumi ninnu-nännu ja pikad juuksed on fassaad . 
+ Aga mis on selle taga ? 
+ Lauljad ja kitarristid käivad alati paarikaupa komplektis nagu Batman ja Robin . 
+ Ilma üheta jääks teine tihtipeale hätta . 
+ Jutu hakuks uurin Martinilt , kuidas tema sellesse mõttekäiku suhtub . 
+ " Meil see päris nii ei ole . 
+ Ma mängin küll , aga mina pole see Robin , " sõnab ta ning märgib , et paljudes n-ö põlisbändides ongi just laulja ja kitarrist need põhilised tegijad . 
+ Erandid kinnitavad reegleid . 
+ Varajases nooruses kümnetes tundmatuks jäänud koosseisudes mänginud kitarristi sõnul oli tema sattumine ühte Eesti tippbändi puhas juhus : " <TIMEX3 tid="t372" type="DATE" value="PAST_REF" anchorTimeID="t0">Ühel päeval</TIMEX3> tuli telefonikõne Hendrikult , siis tegime veidike proovi ja nii see läks . 
+ See oli üllatus nii mulle kui ka teistele . " 
+ Seda , et ta oleks kellelegi varem mingil moel silma-kõrva jäänud , Martin ei mäleta . 
+ Kitarristina oli ta omas ringkonnas küll tuntud , kuid <TIMEX3 tid="t373" type="DATE" value="PRESENT_REF" anchorTimeID="t372">tol hetkel</TIMEX3> polnud see määrav . 
+</TimeML>

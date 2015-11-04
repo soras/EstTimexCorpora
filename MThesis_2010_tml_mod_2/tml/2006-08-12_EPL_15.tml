@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Eesti kaitseväelased said Afganistanis haavata 
+Foto : Eesti kaitsevägi 
+ <TIMEX3 tid="t63" type="TIME" value="2006-08-11TEV" mod="END" anchorTimeID="t0">11. augusti hilisõhtul</TIMEX3> Helmandi provintsis Afganistanis haavata saanud kolmest Eesti jalaväerühma Estcoy-2 kaitseväelasest on kaks tagasi üksuse juures , üks on paranemas . 
+ Helmandi provintsi keskosas Garmseris rajoonikeskuses laagris asunud kaitseväe jalaväerühma rünnati <TIMEX3 tid="t64" type="TIME" value="2006-08-11T23" comment="kohalik aeg, pandud märgend ei pruugi olla täpne!" anchorTimeID="t0">eile kella 23 paiku kohaliku aja järgi</TIMEX3> tõenäoliselt 23-mm õhutõrjekahurist . 
+ Täpne rünnakus kasutatud relv ja rünnaku taktika on väljaselgitamisel . 
+ Kaks viga saanud kaitseväelast evakueeriti helikopteriga Briti lahingugrupi baasis Camp Bastion asuvasse haiglasse . 
+ Üks neist naasis pärast esmaabi saamist rühma juurde , teise võitleja jätsid arstid <TIMEX3 tid="t65" type="DURATION" value="P2D" mod="APPROX">paariks päevaks</TIMEX3> haiglasse järelvalve alla . 
+ Kolmandale haavata saanud kaitseväelasele anti esmaabi jalaväerühma oma jõududega ning ta jätkab üksuse juures teenistusülesannete täitmist . 
+</TimeML>

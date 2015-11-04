@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Võimalik , et üks Ida- ja Kesk-Euroopa kunsti peamisi kohtumispaiku annab veidi aimu sellest , milline näeb välja <TIMEX3 tid="t271" type="DATE" value="XXXX-FA">sügisene</TIMEX3> noorte kunstnike biennaal Tallinnas . 
+ Prahas nähtu üle mõtiskleb Ave Randviir . 
+ Poppi ja ambitsioonikat pealkirja " Glokaalne ja autsaiderid : Kesk-Euroopa kultuure ühendades " kandva biennaali fookusse on tõstetud maal ( ja nagu <TIMEX3 tid="t272" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >tänapäeval</TIMEX3> ikka , eriti muidugi selle piiride kompamine ) ning sotsiaalne kunst ( samuti mitte midagi üllatavat ) . 
+ Kuid nagu kirjutavad Politi ja Kontova : " On oluline Tšehhi , Slovaki , Rumeenia , Ungari ja Balti piirkonna nüüdiskunsti skenet ka sügavuti uurida . " 
+ Selles , et Ida- ja Kesk-Euroopa <TIMEX3 tid="t273" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >tänapäeva</TIMEX3> kunsti maastikku on Prahas väga sügavuti uuritud , julgeksin küll kahelda . 
+ Tegelikult ei saagi eriti hästi aru , mis kriteeriumide järgi biennaalil osalejad on valitud . 
+ Tegemist on nooremapoolse seltskonnaga , kellest paljud on sündinud <TIMEX3 tid="t274" type="DATE" value="198">1980-ndatel</TIMEX3> ja <TIMEX3 tid="t275" type="DATE" value="197">1970-ndatel.</TIMEX3> 
+ Lisaks tegeletakse tõepoolest glokaalsusega , s.t näidatakse globaalseid probleeme lokaalses kastmes , kuid kuna biennaali keskmine tase tundub kuidagi mittemidagiütlev , siis jääb uuristama kahtluseuss : äkki on Böömimaa pealinna lihtsalt aetud kokku kõik ümberkaudsed , kes kuidagi kätteantud teemade alla mahtusid ? 
+</TimeML>

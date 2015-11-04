@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Suverulli võitsid Södergren ja ?migun 
+Saku Suverull <TIMEX3 tid="t170" type="DATE" value="2006" >2006</TIMEX3> pakkus Tehvandi spordikeskusesse kogunenud enam kui 4000 pealtvaatajale seda , mida nad ootasid . 
+ Naiste sõidus võimutses Torino OM-i kahekordne kuldmedalist Kristina ?migun ja meeste võistlus püsis pingeline lõpuni - <TIMEX3 tid="t171" type="DURATION" value="PT10S" >10 sekundi</TIMEX3> sisse mahtunud seitsmeliikmelise juhtgrupi fini?iheitlusest väljus võitjana rootslane Anders Södergren . 
+ Meeste 20 km rullsuusatamise eel oli jooksu järel liidrisärgi hankinud Vassili Rot?ev avaldanud kartust , et tema ja teisena rajale läinud Luka? Bauer püütakse tagumise grupi poolt kinni ja nii ka läks . 
+ Teise 4 km ringi lõpuks oli moodustunud kuueliikmeline juhtgrupp , kuhu lisaks Rot?evile ja Bauerile kuulusid Sergei Dolidovit? ( Valgevene ) , Nikolai Pankratov ( Venemaa ) , Indrek Tobreluts ( Eesti ) ja Anders Södergren . 
+ Neist jäi <TIMEX3 tid="t172" type="DURATION" value="PT15S" >15 sekundiga</TIMEX3> maha Tobias Angerer , kes seda vahet aga jõudsalt vähendas ja ring hiljem juba samuti juhtgruppi kuulus . 
+ 12 km peal oli ka selge , et nende seitsme seast võitja selgub , sest teised suusatajad kaotasid juba <TIMEX3 tid="t173" type="DURATION" value="PT1M" mod="MORE_THAN">enam kui minutiga</TIMEX3> . 
+ Otsustavad sündmused hakkasid sündima umbes üks kilomeeter enne lõppu , kui Södergren tegi raja järseimal lõigul spurdi , mis talle <TIMEX3 tid="t174" type="DURATION" value="PT2S" mod="APPROX">paarisekundilise</TIMEX3> edu andis . 
+ Seda hoidis rootslane lõpuni ja võttis oma teise Suverulli võidu - esimene tuli <TIMEX3 tid="t175" type="DATE" value="2004" anchorTimeID="t0">kahe aasta eest</TIMEX3> . 
+</TimeML>

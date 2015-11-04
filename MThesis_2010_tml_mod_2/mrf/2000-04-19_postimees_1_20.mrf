@@ -1,0 +1,612 @@
+ARTIKKEL:    Artikkel+0 //_H_ sg n, //
+Katuse    Katus+0 //_H_ sg g, //
+remont    remont+0 //_S_ sg n, //
+haridust    haridus+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+päästa    pääst+0 //_V_ o, //
+Hariduse    haridus+0 //_S_ sg g, //
+kvaliteet    kvaliteet+0 //_S_ sg n, //
+hakkab    hakka+b //_V_ b, //
+peale    peale+0 //_D_ //
+õpetajast    õpetaja+st //_S_ sg el, //
+ENN    Enn+0 //_H_ sg n, //
+VESKIMÄGI    Veski_mägi+0 //_H_ sg n, //    veskimägi+0 //_H_ sg n, //
+,    , //_Z_ //
+Standardi    Standard+0 //_H_ sg g, //    Standardi+0 //_H_ sg g, //    Standart+0 //_H_ sg g, //
+juhatuse    juhatus+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Oleme    ole+me //_V_ me, //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+oma    oma+0 //_P_ sg g, //
+hariduselus    haridus_elu+s //_S_ sg in, //
+ajajärku    aja_järk+0 //_S_ adt, //
+,    , //_Z_ //
+kus    kus+0 //_D_ //
+vanad    vana+d //_A_ pl n, //
+mudelid    mudel+d //_S_ pl n, //
+enam    enam+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+tööta    tööta+0 //_V_ o, //
+ja    ja+0 //_J_ //
+uusi    uus+i //_A_ pl p, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+veel    veel+0 //_D_ //
+jõutud    jõu=tud+0 //_A_ //    jõu=tud+0 //_A_ sg n, //    jõu=tud+d //_A_ pl n, //    jõud+tud //_V_ tud, //
+välja    välja+0 //_D_ //
+töötada    tööta+da //_V_ da, //
+.    . //_Z_ //
+Ainult    ainult+0 //_D_ //
+nn    nn+0 //_Y_ ?, //
+katuseremondiga    katuse_remont+ga //_S_ sg kom, //
+olukorda    olu_kord+0 //_S_ sg p, //
+enam    enam+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+paranda    paranda+0 //_V_ o, //
+,    , //_Z_ //
+vaja    vaja+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põhjalikku    põhjalik+0 //_A_ sg p, //
+remonti    remont+0 //_S_ sg p, //
+kogu    kogu+0 //_A_ //
+süsteemis    süsteem+s //_S_ sg in, //
+.    . //_Z_ //
+Kõige    kõige+0 //_D_ //
+suuremaks    suurem+ks //_C_ sg tr, //
+probleemiks    probleem+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+ettevõtted    ette_võte+d //_S_ pl n, //
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+tulevikus    tulevik+s //_S_ sg in, //
+peaksid    pida+ksid //_V_ ksid, //
+koolitatavaid    koolitatav+id //_A_ pl p, //
+hakkama    hakka+ma //_V_ ma, //
+tööle    töö+le //_S_ sg all, //
+võtma    võt+ma //_V_ ma, //
+,    , //_Z_ //
+pole    ole+0 //_V_ neg o, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+selles    see+s //_P_ sg in, //
+"    " //_Z_ //
+riigi    riik+0 //_S_ sg g, //
+tellimisprotsessis    tellimis_protsess+s //_S_ sg in, //
+"    " //_Z_ //
+oma    oma+0 //_P_ sg g, //
+sõna    sõna+0 //_S_ sg p, //
+kaasa    kaasa+0 //_D_ //
+öelda    ütle+da //_V_ da, //
+.    . //_Z_ //
+Riiklikku    riiklik+0 //_A_ sg p, //
+tellimust    tellimus+t //_S_ sg p, //
+ülikoolidele    üli_kool+dele //_S_ pl all, //
+ja    ja+0 //_J_ //
+ametikoolidele    ameti_kool+dele //_S_ pl all, //
+panevad    pane+vad //_V_ vad, //
+praegu    praegu+0 //_D_ //
+kokku    kokku+0 //_D_ //
+ametnikud    ametnik+d //_S_ pl n, //
+,    , //_Z_ //
+kuid    kuid+0 //_J_ //
+tegelikkuses    tegelikkus+s //_S_ sg in, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+seda    see+da //_P_ sg p, //
+pelgalt    pelgalt+0 //_D_ //
+kabinetivaikuses    kabineti_vaikus+s //_S_ sg in, //
+teha    tege+a //_V_ da, //
+.    . //_Z_ //
+Selle    see+0 //_P_ sg g, //
+protsessi    protsess+0 //_S_ sg g, //
+eel    eel+0 //_K_ //
+peab    pida+b //_V_ b, //
+käima    käi+ma //_V_ ma, //
+põhjalik    põhjalik+0 //_A_ sg n, //
+analüüs    analüüs+0 //_S_ sg n, //
+,    , //_Z_ //
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+peaks    pida+ks //_V_ ks, //
+riik    riik+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+tööandjad    töö_andja+d //_S_ pl n, //
+koos    koos+0 //_D_ //
+tegema    tege+ma //_V_ ma, //
+.    . //_Z_ //
+Analüüsi    analüüs+0 //_S_ sg g, //
+tulemusena    tulemus+na //_S_ sg es, //
+tuleb    tule+b //_V_ b, //
+prognoosida    prognoosi+da //_V_ da, //
+vajadusi    vajadus+i //_S_ pl p, //
+kolmeks    kolm+ks //_N_ sg tr, //
+kuni    kuni+0 //_K_ //
+kümneks    kümme+ks //_N_ sg tr, //
+aastaks    aasta+ks //_S_ sg tr, //
+.    . //_Z_ //
+Vesteldes    vestle+des //_V_ des, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+kõrgkooli    kõrg_kool+0 //_S_ sg g, //
+juhiga    juht+ga //_S_ sg kom, //
+,    , //_Z_ //
+tuli    tule+i //_V_ s, //
+jutuks    jutt+ks //_S_ sg tr, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+eelmisel    eelmine+l //_A_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+registreeris    registreeri+s //_V_ s, //
+ennast    ise+t //_P_ sg p, //
+pärast    pärast+0 //_K_ //
+kooli    kool+0 //_S_ sg g, //
+lõpetamist    lõpetamine+t //_S_ sg p, //
+töötuks    töötu+ks //_S_ sg tr, //
+kokku    kokku+0 //_D_ //
+ligi    ligi+0 //_K_ //
+180    180+0 //_N_ ?, //
+ülikoolilõpetajat    üli_kooli_lõpetaja+t //_S_ sg p, //
+kõikidest    kõik+dest //_P_ pl el, //
+Eesti    Eesti+0 //_H_ sg g, //
+kõrgkoolidest    kõrg_kool+dest //_S_ pl el, //
+.    . //_Z_ //
+Siia    siia+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lisamata    lisa+mata //_V_ mata, //
+veel    veel+0 //_D_ //
+need    see+d //_P_ pl n, //
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+end    ise+0 //_P_ sg p, //
+töötuna    töötu+na //_A_ sg es, //
+üles    üles+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+andnud    and+nud //_V_ nud, //    and=nud+0 //_A_ //    and=nud+0 //_A_ sg n, //    and=nud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+iseseisvalt    ise_seisvalt+0 //_D_ //
+tööd    töö+d //_S_ sg p, //
+üritasid    ürita+sid //_V_ sid, //
+leida    leid+a //_V_ da, //
+.    . //_Z_ //
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ohtlik    ohtlik+0 //_A_ sg n, //
+tendents    tendents+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+näitab    näita+b //_V_ b, //
+selgelt    selgelt+0 //_D_ //
+riikliku    riiklik+0 //_A_ sg g, //
+tellimuse    tellimus+0 //_S_ sg g, //
+tähtsust    tähtsus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+olukorra    olu_kord+0 //_S_ sg g, //
+täpsema    täpsem+0 //_C_ sg g, //
+planeerimise    planeerimine+0 //_S_ sg g, //
+vajalikkust    vajalikkus+t //_S_ sg p, //
+,    , //_Z_ //
+sest    sest+0 //_J_ //
+pea    pida+0 //_V_ o, //
+igasse    iga+sse //_P_ sg ill, //
+tudengisse    tudeng+sse //_S_ sg ill, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+riik    riik+0 //_S_ sg n, //
+investeerinud    investeeri+nud //_V_ nud, //    investeeri=nud+0 //_A_ //    investeeri=nud+0 //_A_ sg n, //    investeeri=nud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nende    see+de //_P_ pl g, //
+inimeste    inimene+te //_S_ pl g, //
+tööpanus    töö_panus+0 //_S_ sg n, //
+jääb    jää+b //_V_ b, //
+olematuks    olematu+ks //_A_ sg tr, //
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+investeering    investeering+0 //_S_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+pigem    pigem+0 //_D_ //
+raiskamine    raiskamine+0 //_S_ sg n, //
+.    . //_Z_ //
+Üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+endine    endine+0 //_A_ sg n, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Tehnikaülikooli    tehnika_üli_kool+0 //_S_ sg g, //
+(    ( //_Z_ //
+TTÜ    TTÜ+0 //_Y_ ?, //
+)    ) //_Z_ //
+rektor    rektor+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+propageerinud    propageeri+nud //_V_ nud, //    propageeri=nud+0 //_A_ //    propageeri=nud+0 //_A_ sg n, //    propageeri=nud+d //_A_ pl n, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+seal    seal+0 //_D_ //
+koolitatakse    koolita+takse //_V_ takse, //
+euroinsenere    euro_insener+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+toimub    toimu+b //_V_ b, //
+ühinemine    ühinemine+0 //_S_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liiduga    Liidu+ga //_H_ sg kom, //    Liidud+ga //_H_ sg kom, //    Liit+ga //_H_ sg kom, //
+(    ( //_Z_ //
+EL    EL+0 //_Y_ ?, //
+)    ) //_Z_ //
+,    , //_Z_ //
+siis    siis+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+spetsialistid    spetsialist+d //_S_ pl n, //
+seal    seal+0 //_D_ //
+konkurentsivõimelised    konkurentsi_võimeline+d //_A_ pl n, //
+.    . //_Z_ //
+Tegelik    tegelik+0 //_A_ sg n, //
+elu    elu+0 //_S_ sg n, //
+Eestis    Eesti+s //_H_ sg in, //
+näitab    näita+b //_V_ b, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+tänased    tänane+d //_A_ pl n, //
+lõpetanud    lõpeta+nud //_V_ nud, //    lõpetanud+0 //_A_ //    lõpetanud+0 //_A_ sg n, //    lõpetanud+d //_A_ pl n, //
+-    - //_Z_ //
+tehnilise    tehniline+0 //_A_ sg g, //
+hariduse    haridus+0 //_S_ sg g, //
+insenerid    insener+d //_S_ pl n, //
+-    - //_Z_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+Eestiski    Eesti+ski //_H_ sg in, //
+konkurentsivõimelised    konkurentsi_võimeline+d //_A_ pl n, //
+,    , //_Z_ //
+rääkimata    rääkimata+0 //_D_ //
+Euroopast    Euroopa+st //_H_ sg el, //
+.    . //_Z_ //
+Ja    ja+0 //_J_ //
+miks    miks+0 //_D_ //
+?    ? //_Z_ //
+Sellepärast    selle_pärast+0 //_D_ //
+,    , //_Z_ //
+et    et+0 //_J_ //
+neil    tema+l //_P_ pl ad, //
+puudub    puudu+b //_V_ b, //
+praktiline    praktiline+0 //_A_ sg n, //
+kokkupuude    kokku_puu+de //_S_ pl g, //
+tulevase    tulevane+0 //_A_ sg g, //
+tööga    töö+ga //_S_ sg kom, //
+.    . //_Z_ //
+Ja    ja+0 //_J_ //
+ka    ka+0 //_D_ //
+õppimis-aeg    õppimis-aeg+0 //_S_ sg n, //
+ülikoolis    üli_kool+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vähenenud    vähene+nud //_V_ nud, //    vähene=nud+0 //_A_ //    vähene=nud+0 //_A_ sg n, //    vähene=nud+d //_A_ pl n, //
+viielt    viis+lt //_N_ sg abl, //
+aastalt    aasta+lt //_S_ sg abl, //
+neljale    neli+le //_N_ sg all, //
+.    . //_Z_ //
+Seega    seega+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+tööandja    töö_andja+0 //_S_ sg n, //
+endale    ise+le //_P_ sg all, //
+"    " //_Z_ //
+valmis    valmis+0 //_A_ //
+spetsialisti    spetsialist+0 //_S_ sg g, //
+"    " //_Z_ //
+,    , //_Z_ //
+kel    kes+l //_P_ sg ad, //
+oleks    ole+ks //_V_ ks, //
+lisaks    lisa+ks //_S_ sg tr, //
+ülikoolitarkusele    üli_kooli_tarkus+le //_S_ sg all, //
+ka    ka+0 //_D_ //
+reaalse    reaalne+0 //_A_ sg g, //
+töö    töö+0 //_S_ sg g, //
+kogemus    kogemus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+teadmised    teadmine+d //_S_ pl n, //
+sellest    see+st //_P_ sg el, //
+.    . //_Z_ //
+Praegu    praegu+0 //_D_ //
+tuleb    tule+b //_V_ b, //
+ülikoolist    üli_kool+st //_S_ sg el, //
+tulnud    tul=nud+0 //_A_ //    tul=nud+0 //_A_ sg n, //    tul=nud+d //_A_ pl n, //    tule+nud //_V_ nud, //
+noori    noor+i //_S_ pl p, //
+alles    alles+0 //_D_ //
+hakata    hakka+ta //_V_ da, //
+välja    välja+0 //_D_ //
+õpetama    õpeta+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ettevõttele    ette_võte+le //_S_ sg all, //
+lisakulu    lisa_kulu+0 //_S_ sg p, //
+-    - //_Z_ //
+esimesed    esimene+d //_O_ pl n, //
+kaks    kaks+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+ta    tema+0 //_P_ sg n, //
+reaalset    reaalne+t //_A_ sg p, //
+panust    panus+t //_S_ sg p, //
+ettevõttesse    ette_võte+sse //_S_ sg ill, //
+ei    ei+0 //_V_ neg, //
+anna    and+0 //_V_ o, //
+.    . //_Z_ //
+Tööandja    töö_andja+0 //_S_ sg n, //
+näeb    näge+b //_V_ b, //
+hädavajadust    häda_vajadus+t //_S_ sg p, //
+korraliku    korralik+0 //_A_ sg g, //
+praktikasüsteemi    praktika_süsteem+0 //_S_ sg g, //
+loomiseks    loomine+ks //_S_ sg tr, //
+ja    ja+0 //_J_ //
+koolis    kool+s //_S_ sg in, //
+ettevalmistatavate    ette_valmistatav+te //_A_ pl g, //
+tulevaste    tulevane+te //_A_ pl g, //
+spetsialistide    spetsialist+de //_S_ pl g, //
+planeerimist    planeerimine+t //_S_ sg p, //
+,    , //_Z_ //
+seda    see+da //_P_ sg p, //
+ikka    ikka+0 //_D_ //
+reaalsetest    reaalne+test //_A_ pl el, //
+vajadustest    vajadus+test //_S_ pl el, //
+lähtuvalt    lähtuvalt+0 //_D_ //
+.    . //_Z_ //
+Praegu    praegu+0 //_D_ //
+seda    see+da //_P_ sg p, //
+ei    ei+0 //_V_ neg, //
+tehta    tege+ta //_V_ ta, //
+.    . //_Z_ //
+Tahan    taht+n //_V_ n, //
+siinkohal    siin_kohal+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+kõrgestiharitud    kõrgesti_hari=tu+d //_S_ pl n, //
+noortele    noor+tele //_A_ pl all, //
+ja    ja+0 //_J_ //
+nende    tema+de //_P_ pl g, //
+õpetajatele    õpetaja+tele //_S_ pl all, //
+meelde    meel+de //_S_ adt, //
+tuletada    tuleta+da //_V_ da, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+tööjõuturul    töö_jõu_turg+l //_S_ sg ad, //
+nõutakse    nõud+takse //_V_ takse, //
+tegelikult    tegelikult+0 //_D_ //
+kogemust    kogemus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+haridust    haridus+t //_S_ sg p, //
+koos    koos+0 //_D_ //
+,    , //_Z_ //
+mitte    mitte+0 //_D_ //
+haridust    haridus+t //_S_ sg p, //
+üksi    üksi+0 //_D_ //
+.    . //_Z_ //
+Väljapakutud    välja_pakutu+d //_S_ pl n, //
+kõrgkoolide    kõrg_kool+de //_S_ pl g, //
+ühendamise    ühendamine+0 //_S_ sg g, //
+ideed    idee+d //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+peaks    pida+ks //_V_ ks, //
+asjaosalised    asja_osaline+d //_A_ pl n, //
+nii    nii+0 //_D_ //
+valuliselt    valulise=lt+0 //_D_ //
+võtma    võt+ma //_V_ ma, //
+.    . //_Z_ //
+Selle    see+0 //_P_ sg g, //
+protsessiga    protsess+ga //_S_ sg kom, //
+me    mina+0 //_P_ pl n, //
+ju    ju+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+kaota    kaota+0 //_V_ o, //
+noorte    noor+te //_S_ pl g, //
+võimalusi    võimalus+i //_S_ pl p, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+kasutame    kasuta+me //_V_ me, //
+lihtsalt    lihtsalt+0 //_D_ //
+võimalusi    võimalus+i //_S_ pl p, //
+ratsionaalsemalt    ratsionaalse=malt+0 //_D_ //
+.    . //_Z_ //
+Praegu    praegu+0 //_D_ //
+killustame    killusta+me //_V_ me, //
+neid    tema+d //_P_ pl p, //
+üsna    üsna+0 //_D_ //
+tugevasti    tugevasti+0 //_D_ //
+-    - //_Z_ //
+pole    ole+0 //_V_ neg o, //
+harvad    harv+d //_A_ pl n, //
+juhud    juht+d //_S_ pl n, //
+,    , //_Z_ //
+kus    kus+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+õppejõud    õppe_jõud+0 //_S_ sg n, //    õppe_jõud+d //_S_ pl n, //
+õpetab    õpeta+b //_V_ b, //
+kolmes    kolm+s //_N_ sg in, //
+ülikoolis    üli_kool+s //_S_ sg in, //
+ühte    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+ja    ja+0 //_J_ //
+sama    sama+0 //_P_ sg p, //
+asja    asi+0 //_S_ sg p, //
+.    . //_Z_ //
+Miks    miks+0 //_D_ //
+mitte    mitte+0 //_D_ //
+osa    osa+0 //_S_ sg n, //
+aineid    aine+id //_S_ pl p, //
+ühendada    ühenda+da //_V_ da, //
+.    . //_Z_ //
+Ja    ja+0 //_J_ //
+kas    kas+0 //_D_ //
+põllumajandusülikool    põllu_majandus_üli_kool+0 //_S_ sg n, //
+ikka    ikka+0 //_D_ //
+tõesti    tõesti+0 //_D_ //
+peab    pida+b //_V_ b, //
+raamatupidajaid    raamatu_pidaja+id //_S_ pl p, //
+koolitama    koolita+ma //_V_ ma, //
+.    . //_Z_ //
+Samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+aga    aga+0 //_J_ //
+pööratakse    pööra+takse //_V_ takse, //
+häbematult    häbematult+0 //_D_ //
+vähe    vähe+0 //_D_ //
+tähelepanu    tähele_panu+0 //_S_ sg p, //
+hariduse    haridus+0 //_S_ sg g, //
+kvaliteedile    kvaliteet+le //_S_ sg all, //
+.    . //_Z_ //
+Hariduse    haridus+0 //_S_ sg g, //
+kvaliteediga    kvaliteet+ga //_S_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tihedalt    tihedalt+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+õppejõudude    õppe_jõud+de //_S_ pl g, //
+probleem    probleem+0 //_S_ sg n, //
+-    - //_Z_ //
+enamik    enamik+0 //_S_ sg n, //
+vanemaid    vanem+id //_C_ pl p, //
+õppejõude    õppe_jõud+e //_S_ pl p, //
+loeb    luge+b //_V_ b, //
+ikka    ikka+0 //_D_ //
+20    20+0 //_N_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+vanustest    vanune+test //_A_ pl el, //
+konspektidest    konspekt+dest //_S_ pl el, //
+.    . //_Z_ //
+Samas    samas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+õppejõudude    õppe_jõud+de //_S_ pl g, //
+enesetäiendamise    enese_täiendamine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+õppimise    õppimine+0 //_S_ sg g, //
+võimalused    võimalus+d //_S_ pl n, //
+üsna    üsna+0 //_D_ //
+kasinad    kasin+d //_A_ pl n, //
+.    . //_Z_ //
+Tean    tead+n //_V_ n, //
+mitut    mitu+t //_P_ sg p, //
+nooremat    noorem+t //_C_ sg p, //
+õppejõudu    õppe_jõud+0 //_S_ sg p, //
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+oma    oma+0 //_P_ sg g, //
+raha    raha+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+rahvusvahelistel    rahvus_vaheline+tel //_A_ pl ad, //
+seminaridel    seminar+del //_S_ pl ad, //
+ja    ja+0 //_J_ //
+sümpoosionidel    sümpoosion+del //_S_ pl ad, //
+käivad    käi+vad //_V_ vad, //
+ja    ja+0 //_J_ //
+raha    raha+0 //_S_ sg p, //
+selleks    see+ks //_P_ sg tr, //
+ei    ei+0 //_V_ neg, //
+teeni    teeni+0 //_V_ o, //
+nad    tema+d //_P_ pl n, //
+mitte    mitte+0 //_D_ //
+ülikoolis    üli_kool+s //_S_ sg in, //
+õpetamisega    õpetamine+ga //_S_ sg kom, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+ettevõttes    ette_võte+s //_S_ sg in, //
+töötades    tööta+des //_V_ des, //
+.    . //_Z_ //
+Miks    miks+0 //_D_ //
+puudub    puudu+b //_V_ b, //
+Eesti    Eesti+0 //_H_ sg g, //
+riigis    riik+s //_S_ sg in, //
+riiklik    riiklik+0 //_A_ sg n, //
+noorte    noor+te //_A_ pl g, //
+õppejõudude    õppe_jõud+de //_S_ pl g, //
+toetamise    toetamine+0 //_S_ sg g, //
+poliitika    poliitika+0 //_S_ sg n, //
+?    ? //_Z_ //
+Miks    miks+0 //_D_ //
+laseme    lask+me //_V_ me, //
+oma    oma+0 //_P_ sg g, //
+parematel    parem+tel //_C_ pl ad, //
+peadel    pea+del //_S_ pl ad, //
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+saaksid    saa+ksid //_V_ ksid, //
+kaasa    kaasa+0 //_D_ //
+aidata    aita+ta //_V_ da, //
+elu    elu+0 //_S_ sg g, //
+edenemisele    edenemine+le //_S_ sg all, //
+Eestis    Eesti+s //_H_ sg in, //
+,    , //_Z_ //
+ära    ära+0 //_D_ //
+minna    mine+a //_V_ da, //
+sinna    sinna+0 //_D_ //
+,    , //_Z_ //
+kus    kus+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+makstakse    maks+takse //_V_ takse, //
+?    ? //_Z_ //
+Selge    selge+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+hariduse    haridus+0 //_S_ sg g, //
+kvaliteet    kvaliteet+0 //_S_ sg n, //
+algab    alga+b //_V_ b, //
+õpetajast    õpetaja+st //_S_ sg el, //
+.    . //_Z_ //
+Head    hea+d //_A_ sg p, //
+tulemust    tulemus+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+,    , //_Z_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+õpetaja    õpetaja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nigel    nigel+0 //_A_ sg n, //
+.    . //_Z_ //
+Kusagilt    kusagilt+0 //_D_ //
+tuleb    tule+b //_V_ b, //
+vabastada    vabasta+da //_V_ da, //
+vahendeid    vahend+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+need    see+d //_P_ pl n, //
+ümber    ümber+0 //_D_ //
+planeerida    planeeri+da //_V_ da, //
+.    . //_Z_ //
+Kas    kas+0 //_D_ //
+peab    pida+b //_V_ b, //
+ülal    ülal+0 //_D_ //
+pidama    pida+ma //_V_ ma, //
+hulka    hulk+0 //_S_ sg p, //
+,    , //_Z_ //
+ehk    ehk+0 //_D_ //
+võiks    või+ks //_V_ ks, //
+ülal    ülal+0 //_D_ //
+hoida    hoid+a //_V_ da, //
+hoopis    hoopis+0 //_D_ //
+kvaliteeti    kvaliteet+0 //_S_ sg p, //
+?    ? //_Z_ //
+On    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+viimane    viimane+0 //_A_ sg n, //
+aeg    aeg+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+haridussüsteem    haridus_süsteem+0 //_S_ sg n, //
+konkurentsivõimest    konkurentsi_võime+st //_S_ sg el, //
+lähtuvalt    lähtuvalt+0 //_D_ //
+ümber    ümber+0 //_D_ //
+vaadata    vaata+ta //_V_ da, //
+.    . //_Z_ //
+Seejuures    see_juures+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hädavajalik    häda_vajalik+0 //_A_ sg n, //
+hakata    hakka+ta //_V_ da, //
+arendama    arenda+ma //_V_ ma, //
+ka    ka+0 //_D_ //
+riiklikku    riiklik+0 //_A_ sg p, //
+poliitikat    poliitika+t //_S_ sg p, //
+insenerihariduse    inseneri_haridus+0 //_S_ sg g, //
+andmisel    andmine+l //_S_ sg ad, //
+,    , //_Z_ //
+sest    sest+0 //_J_ //
+nii    nii+0 //_D_ //
+saame    saa+me //_V_ me, //
+luua    loo+a //_V_ da, //
+riigile    riik+le //_S_ sg all, //
+lisaväärtust    lisa_väärtus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+tõsta    tõst+a //_V_ da, //
+konkurentsivõimet    konkurentsi_võime+t //_S_ sg p, //
+.    . //_Z_ //

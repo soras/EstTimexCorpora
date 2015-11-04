@@ -1,0 +1,714 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2003-02-19TXX:XX" />
+<ignoreeri>
+|
+autor:
+Jaan
+Jürine
+|
+ajalehenumber:
+Eesti
+Päevaleht
+19.02.2003
+|
+rubriik:
+Sport
+|
+artikkel:
+Pärnu
+Võrkpalliklubi
+ihkab
+Meistrite
+liigasse
+|
+</ignoreeri>
+<s>
+Meeskonna    meeskond+0 //_S_ sg g, //
+eelarvet    eel_arve+t //_S_ sg p, //
+tuleks    tule+ks //_V_ ks, //
+suurendada    suurenda+da //_V_ da, //
+12    12+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+kroonini    kroon+ni //_S_ sg ter, //
+</s>
+<s>
+ESS    Ess+0 //_H_ sg n, //
+Pärnu    Pärnu+0 //_H_ sg g, //
+võrkpalliklubi    võrk_palli_klubi+0 //_S_ sg g, //
+president    president+0 //_S_ sg n, //
+Aivar    Aivar+0 //_H_ sg n, //
+Pärna    Pärn+0 //_H_ sg g, //    Pärna+0 //_H_ sg g, //
+tunnistab    tunnista+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sponsorite    sponsor+te //_S_ pl g, //
+kitsamas    kitsam+s //_C_ sg in, //
+ringis    ring+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vastu    vastu+0 //_D_ //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+otsus    otsus+0 //_S_ sg n, //
+toetada    toeta+da //_V_ da, //
+meeskonna    meeskond+0 //_S_ sg g, //
+püüdlusi    püüdlus+i //_S_ pl p, //
+mängida    mängi+da //_V_ da, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2004" >
+järgmisel    järgmine+l //_A_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Meistrite    meister+te //_S_ pl g, //
+liigas    liiga+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+võrkpalli    võrk_pall+0 //_S_ sg g, //
+tipmisse    tipmine+se //_A_ adt, //
+sarja    sari+0 //_S_ sg g, //
+kuulub    kuulu+b //_V_ b, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2003" >
+tänavu    tänavu+0 //_D_ //
+</TIMEX>
+20    20+0 //_N_ ?, //
+klubi    klubi+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+sihid    siht+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+teoks    tegu+ks //_S_ sg tr, //    tigu+ks //_S_ sg tr, //
+saavad    saa+vad //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+selgub    selgu+b //_V_ b, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2003-02-19" >
+tänasest    tänane+st //_A_ sg el, //
+</TIMEX>
+korduskohtumisest    kordus_kohtumine+st //_S_ sg el, //
+Top    Top+0 //_H_ sg n, //
+Teams    Teams+0 //_H_ sg n, //
+sarja    sari+0 //_S_ sg g, //
+veerandfinaalis    veerand_finaal+s //_S_ sg in, //
+Apeldoorni    Apeldoorni+0 //_H_ sg n, //
+Piet    Piet+0 //_H_ sg n, //
+Zoomersiga    Zoomers+ga //_H_ sg kom, //    Zoomersi+ga //_H_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2003-W07" >
+eelmisel    eelmine+l //_A_ sg ad, //
+nädalal    nädal+l //_S_ sg ad, //
+</TIMEX>
+Pärnus    Pärnu+s //_H_ sg in, //
+võideti    võit+ti //_V_ ti, //
+3    3+0 //_N_ ?, //
+:    : //_Z_ //
+2.    2.+0 //_O_ ?, //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+pallimänguvõistkondadest    palli_mängu_võistkond+dest //_S_ pl el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Vana    vana+0 //_A_ sg g, //
+Maailma    maa_ilm+0 //_S_ sg g, //
+oma    oma+0 //_P_ sg g, //
+ala    ala+0 //_S_ sg g, //
+tippliigas    tipp_liiga+s //_S_ sg in, //
+esinenud    esine+nud //_V_ nud, //    esine=nud+0 //_A_ //    esine=nud+0 //_A_ sg n, //    esine=nud+d //_A_ pl n, //
+varem    varem+0 //_D_ //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Kalevi    Kalev+0 //_H_ sg g, //
+korvpallimeeskond    korv_palli_meeskond+0 //_S_ sg n, //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+1991/92    1991/92+0 //_N_ ?, //
+.    . //_Z_ //
+</s>
+<s>
+Top    Top+0 //_H_ sg n, //
+Teams    Teams+0 //_H_ sg n, //
+sarjas    sari+s //_S_ sg in, //
+nelja    neli+0 //_N_ sg g, //
+parema    parem+0 //_C_ sg g, //
+hulka    hulka+0 //_K_ //
+pääsenud    pääse+nud //_V_ nud, //    pääsenud+0 //_A_ //    pääsenud+0 //_A_ sg n, //    pääsenud+d //_A_ pl n, //
+meeskond    meeskond+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+pea    pida+0 //_V_ o, //
+Meistrite    meister+te //_S_ pl g, //
+liigasse    liiga+sse //_S_ sg ill, //
+siirduma    siirdu+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+võib    või+b //_V_ b, //
+seda    see+da //_P_ sg p, //
+soovi    soov+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+teha    tege+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Soovi    Soov+0 //_H_ sg g, //    Soovi+0 //_H_ sg g, //
+Pärnu    Pärnu+0 //_H_ sg g, //
+meeskonna    meeskond+0 //_S_ sg g, //
+toetajad    toetaja+d //_S_ pl n, //
+kinnitasid    kinnita+sid //_V_ sid, //
+.    . //_Z_ //
+</s>
+<s>
+Eliitseltskonnaga    eliit_seltskond+ga //_S_ sg kom, //
+liitumine    liitumine+0 //_S_ sg n, //
+toob    too+b //_V_ b, //
+kaasa    kaasa+0 //_D_ //
+mitmeid    mitu+id //_P_ pl p, //
+muresid    mure+sid //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+esmane    esmane+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meeskonna    meeskond+0 //_S_ sg g, //
+eelarve    eel_arve+0 //_S_ sg g, //
+suurendamine    suurendamine+0 //_S_ sg n, //
+kuni    kuni+0 //_K_ //
+12    12+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+kroonini    kroon+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+rabahall    raba_hall+0 //_S_ sg n, //
+vahetuks    vahetu+ks //_A_ sg tr, //
+Saku    Saku+0 //_H_ sg n, //
+suurhalli    suur_hall+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+</s>
+<s>
+Top    Top+0 //_H_ sg n, //
+Teams    Teams+0 //_H_ sg n, //
+sarjas    sari+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+koduliigas    kodu_liiga+s //_S_ sg in, //
+saavad    saa+vad //_V_ vad, //
+pärnakad    pärnakas+d //_S_ pl n, //
+hakkama    hakka+ma //_V_ ma, //
+4-5    4-5+0 //_N_ ?, //
+miljoniga    miljon+ga //_N_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Meistrite    meister+te //_S_ pl g, //
+liigas    liiga+s //_S_ sg in, //
+suureneb    suurene+b //_V_ b, //
+eelkõige    eel_kõige+0 //_D_ //
+palgafond    palga_fond+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+saada    saa+da //_V_ da, //
+kokku    kokku+0 //_D_ //
+konkurentsivõimeline    konkurentsi_võimeline+0 //_A_ sg n, //
+mängijaskond    mängi=jaskond+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Võrreldes    võrdle+des //_V_ des, //
+Eesti    Eesti+0 //_H_ sg g, //
+meistriliigaga    meistri_liiga+ga //_S_ sg kom, //
+korvpallis    korv_pall+s //_S_ sg in, //
+teenivad    teeni+vad //_V_ vad, //
+võrkpallurid    võrk_pallur+d //_S_ pl n, //
+vähe    vähe+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+Tartu    Tartu+0 //_H_ sg g, //
+Rock    rock+0 //_S_ sg n, //
+maksab    maks+b //_V_ b, //
+Tanel    Tanel+0 //_H_ sg n, //
+Teinile    Teinile+0 //_H_ sg n, //
+väidetavalt    väidetavalt+0 //_D_ //
+kuni    kuni+0 //_K_ //
+70    70+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+<TIMEX tid="t1_10" type="SET" temporalFunction="true" value="P1M" >
+kuus    kuu+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+saavad    saa+vad //_V_ vad, //
+Pärnu    Pärnu+0 //_H_ sg g, //
+juhtivad    juhtiv+d //_A_ pl n, //
+mängijad    mängija+d //_S_ pl n, //
+kolm-neli    kolm-neli+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+vähem    vähem+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Võimalik    võimalik+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Meistrite    Meistrite+0 //_H_ sg n, //
+liiga    liiga+0 //_D_ //
+ihaluses    ihalus+s //_S_ sg in, //
+ei    ei+0 //_V_ neg, //
+müü    müü+0 //_V_ o, //
+ESS    Ess+0 //_H_ sg n, //
+Pärnu    Pärnu+0 //_H_ sg g, //
+pärast    pärast+0 //_K_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="2003" >
+tänavust    tänavune+t //_A_ sg p, //
+</TIMEX>
+hooaega    hoo_aeg+0 //_S_ sg p, //
+oma    oma+0 //_P_ sg g, //
+mängijate    mängija+te //_S_ pl g, //
+paremikku    paremik+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Sel    see+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+tuleb    tule+b //_V_ b, //
+neile    tema+le //_P_ pl all, //
+koju    kodu+0 //_S_ adt, //
+jäämiseks    jää=mine+ks //_S_ sg tr, //
+rohkem    rohkem+0 //_D_ //
+maksta    maks+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+tuleb    tule+b //_V_ b, //
+muretseda    muretse+da //_V_ da, //
+tasemel    tase+l //_S_ sg ad, //
+võõrtööjõudu    võõr_töö_jõud+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+Rabahall    raba_hall+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+vasta    vasta+0 //_V_ o, //
+lae    laad+0 //_S_ sg g, //    lagi+0 //_S_ sg g, //
+kõrguse    kõrgus+0 //_S_ sg g, //
+ega    ega+0 //_J_ //
+põrandapinna    põranda_pind+0 //_S_ sg g, //
+poolest    poolest+0 //_K_ //
+Meistrite    meister+te //_S_ pl g, //
+liiga    liiga+0 //_D_ //
+nõudmistele    nõudmine+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Tõenäoliselt    tõe_näoliselt+0 //_D_ //
+tuleb    tule+b //_V_ b, //
+kodumängudeks    kodu_mäng+deks //_S_ pl tr, //
+kolida    koli+da //_V_ da, //
+Saku    Saku+0 //_H_ sg n, //
+suurhalli    suur_hall+0 //_S_ sg p, //
+Tallinnas    Tallinn+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõistagi    mõistagi+0 //_D_ //
+kallis    kallis+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Euroopa    Euroopa+0 //_H_ sg g, //
+Võrkpalliliit    võrk_palli_liit+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+CEV    CEV+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+tahab    taht+b //_V_ b, //
+endale    ise+le //_P_ sg all, //
+arvatavasti    arvatavasti+0 //_D_ //
+teleülekannete    tele_üle_kanne+te //_S_ pl g, //
+õigusi    õigus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+läheb    mine+b //_V_ b, //
+samuti    samuti+0 //_D_ //
+kalliks    kallis+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+näitab    näita+b //_V_ b, //
+pärnakate    pärnakas+te //_S_ pl g, //
+euromänge    euro_mäng+e //_S_ pl p, //
+Kanal    kanal+0 //_S_ sg n, //
+2.    2.+0 //_O_ ?, //
+</s>
+<s>
+Pärna    Pärn+0 //_H_ sg g, //    Pärna+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Pärnu    Pärnu+0 //_H_ sg g, //
+meeskonna    meeskond+0 //_S_ sg g, //
+mänedžer    mänedžer+0 //_S_ sg n, //
+Avo    Avo+0 //_H_ sg n, //
+Keel    keel+0 //_S_ sg n, //
+kinnitavad    kinnita+vad //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+eelarve    eel_arve+0 //_S_ sg g, //
+kindlustamiseks    kindlustamine+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaja    vaja+0 //_D_ //
+laiendada    laienda+da //_V_ da, //
+sponsorite    sponsor+te //_S_ pl g, //
+ringi    ring+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kuni    kuni+0 //_K_ //
+12    12+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+kokku    kokku+0 //_D_ //
+saada    saa+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Muud    muu+d //_P_ pl n, //
+arenguteed    arengu_tee+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+veel    veel+0 //_D_ //
+otsustamata    otsustamata+0 //_A_ //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+enne    enne+0 //_K_ //
+tuleb    tule+b //_V_ b, //
+nelja    neli+0 //_N_ sg g, //
+parema    parem+0 //_C_ sg g, //
+hulka    hulka+0 //_K_ //
+pääseda    pääse+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Tingimata    tingimata+0 //_D_ //
+vajalik    vajalik+0 //_A_ sg n, //
+see    see+0 //_P_ sg n, //
+küll    küll+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+:    : //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="2002" >
+mullu    mullu+0 //_D_ //
+</TIMEX>
+arvas    arva+s //_V_ s, //
+CEV    CEV+0 //_Y_ ?, //
+Meistrite    meister+te //_S_ pl g, //
+liigasse    liiga+sse //_S_ sg ill, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+Jugoslaavia    Jugo_slaavia+0 //_H_ sg g, //
+meeskonna    meeskond+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+sinna    sinna+0 //_D_ //
+end    ise+0 //_P_ sg p, //
+ei    ei+0 //_V_ neg, //
+mänginud    mängi+nud //_V_ nud, //    mängi=nud+0 //_A_ //    mängi=nud+0 //_A_ sg n, //    mängi=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Sensitiiv    sensitiiv+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Pärnu    Pärnu+0 //_H_ sg n, //
+kaotab    kaota+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+pääseb    pääse+b //_V_ b, //
+edasi    edasi+0 //_D_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg n, //
+jõuab    jõud+b //_V_ b, //
+Final    Final+0 //_H_ sg n, //
+Fouri    Fouri+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Piet    Piet+0 //_H_ sg n, //
+Zoomers    Zoomers+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+võida    võit+0 //_V_ o, //
+ülekaalukamalt    üle_kaaluka=malt+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+3    3+0 //_N_ ?, //
+:    : //_Z_ //
+2    2+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+mitte    mitte+0 //_D_ //
+üle    üle+0 //_D_ //
+seitsmepunktise    seitsme_punktine+0 //_A_ sg g, //
+koguvahega    kogu_vahe+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Naissensitiiv    nais_sensitiiv+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+ennustuse    ennustus+0 //_S_ sg g, //
+Keel    keel+0 //_S_ sg n, //
+igaks    iga+ks //_P_ sg tr, //
+juhuks    juht+ks //_S_ sg tr, //
+välja    välja+0 //_D_ //
+uurib    uuri+b //_V_ b, //
+,    , //_Z_ //
+</kiil>
+kinnitab    kinnita+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Pärnu    Pärnu+0 //_H_ sg n, //
+kaotab    kaota+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+pääseb    pääse+b //_V_ b, //
+edasi    edasi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Treener    treener+0 //_S_ sg n, //
+Pasi    Pasi+0 //_H_ sg n, //
+Rautio    Rautio+0 //_H_ sg n, //
+tahab    taht+b //_V_ b, //
+mitmekesistada    mitme_kesista+da //_V_ da, //
+esimese    esimene+0 //_O_ sg g, //
+tempo    tempo+0 //_S_ sg g, //
+rünnakut    rünnak+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Pean    pida+n //_V_ n, //
+tõstma    tõst+ma //_V_ ma, //
+nii    nii+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Pajusalu    Paju_salu+0 //_H_ sg g, //    Pajusalu+0 //_H_ sg g, //
+või    või+0 //_J_ //
+Balodis    Balodis+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+löö    löö+0 //_V_ o, //
+tõusvat    tõusev+t //_A_ sg p, //
+palli    pall+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+neist    tema+st //_P_ pl el, //
+saab    saa+b //_V_ b, //
+terava    terav+0 //_A_ sg g, //
+söödu    söödu+0 //_S_ sg g, //    sööt+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Sel    see+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lootust    lootus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vastase    vastane+0 //_S_ sg g, //
+blokk    blokk+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+jõua    jõud+0 //_V_ o, //
+jaole    jaole+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Teiseks    teine+ks //_O_ sg tr, //    teine+ks //_P_ sg tr, //
+peab    pida+b //_V_ b, //
+Eida    Eida+0 //_H_ sg n, //
+olema    ole+ma //_V_ ma, //
+äärel    äär+l //_S_ sg ad, //
+palju    palju+0 //_D_ //
+parem    parem+0 //_C_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+Pärnus    Pärnu+s //_H_ sg in, //
+oli    ole+i //_V_ s, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+märgib    märki+b //_V_ b, //
+sidemängija    side_mängija+0 //_S_ sg g, //
+Keel    keel+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Väga    väga+0 //_D_ //
+tähtsaks    tähtis+ks //_A_ sg tr, //
+elemendiks    element+ks //_S_ sg tr, //
+saab    saa+b //_V_ b, //
+servi    serv+0 //_S_ sg g, //
+vastuvõtt    vastu_võtt+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+Apeldoorni    Apeldoorn+0 //_H_ sg g, //    Apeldoorni+0 //_H_ sg g, //
+saali    saal+0 //_S_ sg g, //
+lagi    lagi+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kaks    kaks+0 //_N_ sg n, //
+meetrit    meeter+t //_S_ sg p, //
+madalam    madalam+0 //_C_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Pärnu    Pärnu+0 //_H_ sg g, //
+Rabahallis    Raba_hall+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Keele    keel+0 //_S_ sg g, //
+arvates    arva+tes //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tema    tema+0 //_P_ sg g, //
+meeskonnal    meeskond+l //_S_ sg ad, //
+mängu    mäng+0 //_S_ sg g, //
+parandamiseks    parandamine+ks //_S_ sg tr, //
+rohkem    rohkem+0 //_D_ //
+võimalusi    võimalus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Pärnus    Pärnu+s //_H_ sg in, //
+pidin    pida+in //_V_ sin, //
+ma    mina+0 //_P_ sg n, //
+jalga    jalga+0 //_D_ //
+hoidma    hoid+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+Pajusalu    paju_salu+0 //_S_ sg n, //
+mängis    mängi+s //_V_ s, //
+haige    haige+0 //_A_ sg g, //
+seljaga    selg+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Nüüd    nüüd+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõlema    mõlema+0 //_P_ sg g, //
+tervis    tervis+0 //_S_ sg n, //
+parem    parem+0 //_C_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eida    Eida+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+ka    ka+0 //_D_ //
+Meresaare    mere_saar+0 //_S_ sg g, //
+vormitõus    vormi_tõus+0 //_S_ sg n, //
+annaks    and+ks //_V_ ks, //
+lisavõimalusi    lisa_võimalus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+peame    pida+me //_V_ me, //
+edasi    edasi+0 //_D_ //
+pääsema    pääse+ma //_V_ ma, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+arutleb    arutle+b //_V_ b, //
+Keel    keel+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Piet    Piet+0 //_H_ sg n, //
+Zoomersi    Zoomers+0 //_H_ sg g, //    Zoomersi+0 //_H_ sg g, //
+treener    treener+0 //_S_ sg n, //
+Toon    too+n //_V_ n, //
+Gerbrands    Gerbrands+0 //_H_ sg n, //
+usub    usku+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+õnnetähte    õnne_täht+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Me    mina+0 //_P_ pl n, //
+pole    ole+0 //_V_ neg o, //
+sel    see+l //_P_ sg ad, //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+kodusaalis    kodu_saal+s //_S_ sg in, //
+ühtki    üks+ki //_N_ sg p, //    üks+ki //_P_ sg p, //
+euromängu    euro_mäng+0 //_S_ sg p, //
+kaotanud    kaota+nud //_V_ nud, //    kaota=nud+0 //_A_ //    kaota=nud+0 //_A_ sg n, //    kaota=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg n, //
+tegutses    tegutse+s //_V_ s, //
+kodumängus    kodu_mäng+s //_S_ sg in, //
+võimete    võime+te //_S_ pl g, //
+piiril    piir+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Nüüd    nüüd+0 //_D_ //
+</TIMEX>
+Apeldoornis    Apeldoorn+s //_H_ sg in, //    Apeldoorni+s //_H_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meie    mina+0 //_P_ pl g, //
+kord    kord+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+raiub    raiu+b //_V_ b, //
+Gerbrands    Gerbrands+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+ka    ka+0 //_D_ //
+Hollandi    Holland+0 //_H_ sg g, //
+koondise    koondis+0 //_S_ sg g, //
+treener    treener+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Otseülekanne    otse_üle_kanne+0 //_S_ sg n, //
+:    : //_Z_ //
+</s>
+<s>
+Hollandist    Holland+st //_H_ sg el, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="2003-02-19" >
+täna    täna+0 //_D_ //
+</TIMEX>
+Vikerraadios    viker_raadio+s //_S_ sg in, //
+k    k+0 //_Y_ ?, //
+21.05    21.05+0 //_N_ ?, //
+</s>

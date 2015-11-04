@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Baltimaade automüük kasvas viiendiku võrra 
+ HARLI ULJAS , harli.uljas@postimees.ee 
+ <TIMEX3 tid="t287" type="DATE" value="2000-Q1" anchorTimeID="t0">Tänavu esimeses kvartalis</TIMEX3> läks Baltimaades kaubaks üle kuue tuhande sõidu- ja veoauto , mis on <TIMEX3 tid="t288" type="DATE" value="1999" anchorTimeID="t0">eelmisest aastast</TIMEX3> pea tuhande auto võrra rohkem . 
+ <TIMEX3 tid="t289" type="DATE" value="1999" anchorTimeID="t0">Eelmise aastaga</TIMEX3> võrreldes on müük kõige enam suurenenud Eestis , ka Leedus näitab suurenemist , Lätis aga langust . 
+ Erinevate riikide numbrid ei ole omavahel aga kõige paremini võrreldavad . 
+ Nii võib Eesti puhul näha küll pea 50-protsendilist kasvu , tegelikult on aga väga suur osa kasvust pärit Kommest Auto eksporditehingutest , sest Autode Müügi- ja Teenindusettevõtete Liidu müügiaruande järgi on Eestist välja liikunud üle 300 Peugeot' auto . 
+ Kokku moodustavad eksporditud sõidukid 3126 autost 567. 
+ Läti autoregister võib arvestada uute autode hulka ka varasema aastanumbriga riiki toodud sõidukid . 
+ Nii näiteks müüdi Mercedeseid Lätis<TIMEX3 tid="t290" type="DATE" value="2000-01"/> <TIMEX3 tid="t291" type="DURATION" value="P3M" beginPoint="t290" endPoint="t292" anchorTimeID="t0">esimesel kolmel kuul</TIMEX3> <TIMEX3 tid="t292" type="DATE" value="2000-03"/>kokku 62 autot , Eesti Mercedese esindaja AS Silberauto andmetel aga 27. 
+ Vaatamata erisustele arvestamise aluses annavad tulemused ülevaate muutustest , mis on toimunud <TIMEX3 tid="t293" type="DATE" value="1999" anchorTimeID="t0">eelmise aastaga</TIMEX3> võrreldes . 
+ Nii on Eesti endiselt Baltimaade suurim autoturg , kus ostetakse pooled piirkonna müüdud autodest , ehkki veel <TIMEX3 tid="t294" type="DATE" value="1999-SU" anchorTimeID="t0">eelmise aasta suvel</TIMEX3> ähvardas Läti tõusta suurimaks . 
+ Eesti eksport on aidanud Peugeot'l tõusta Baltimaade kõige suuremaks automüüjaks , tõrjudes tahapoole senised liidrid Volkswageni , Toyota ja Honda . 
+ Suuremate tootjate puhul on nende müügimahud Baltikumis suurenenud , 12-kordne kasv müügimahtudes on Suurbritannia Roveril , suurem osa kasvust tuleb Leedust . 
+</TimeML>

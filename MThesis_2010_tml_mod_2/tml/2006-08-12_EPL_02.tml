@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tiia Tulviste : lapse löömine on primitiivne kasvatamisviis 
+Külli-Riin Tigasson 
+ Laste löömist ei tule üksnes keelata , vaid ka karistada neid vanemaid , kes oma lapsi löövad , leiab arengupsühholoogia professor Tiia Tulviste . 
+ Näib , et <TIMEX3 tid="t3" type="DATE" value="19" >20. sajandil</TIMEX3> toimusid laste kasvatamises suured muutused . 
+ Näiteks kui kuni <TIMEX3 tid="t4" type="DATE" value="19" mod="MID" anchorTimeID="t0">eelmise sajandi keskpaigani</TIMEX3> peeti laste kehalist karistamist normaalseks ja veel <TIMEX3 tid="t5" type="DATE" value="197" >1970. aastatel</TIMEX3> õpetati noori emasid , et nutvaid lapsi ei tohi sülle võtta ning tuleb kinni pidada rangetest söögi- ja uneaegadest , siis <TIMEX3 tid="t6" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> tundub , et kõik need vanad õpetussõnad on üle parda heidetud . 
+ Psühholoogilised arusaamad sellest , kuidas lapsi kasvatada , on tõesti oluliselt muutunud . 
+ Aga muutunud ei ole ainult see , mida psühholoogia õigeks peab , vaid seoses suurte ühiskondlike muutustega on muutunud lapsed ja inimesed üldse . 
+ Näiteks Benjamin Spocki raamatud , mis said Ameerikas populaarseks <TIMEX3 tid="t7" type="DATE" value="194" anchorTimeID="t0">40-ndatel</TIMEX3> ja <TIMEX3 tid="t8" type="DATE" value="195" anchorTimeID="t0">50-ndatel</TIMEX3> ning Eestis <TIMEX3 tid="t9" type="DATE" value="197" anchorTimeID="t0">70-ndatel</TIMEX3> , olid väga liberaalsed võrreldes sellega , mida peeti õigeks <TIMEX3 tid="t10" type="DATE" value="192" anchorTimeID="t0">20</TIMEX3>-<TIMEX3 tid="t11" type="DATE" value="195" anchorTimeID="t0">50-ndatel</TIMEX3> <TIMEX3 tid="t12" type="DURATION" value="P40Y" beginPoint="t10" endPoint="t11"/>. 
+ <TIMEX3 tid="t13" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Tänapäeval</TIMEX3> tundub Spock aga range kasvatuse pooldajana . 
+</TimeML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Kristiine Keskus nõuab pommiähvardajalt 74 000 krooni kahjutasu 
+ HINDREK RIIKOJA , hindrek.riikoja@postimees.ee 
+ Tallinna Kristiine Keskuse omanik OÜ Hermelin nõuab <TIMEX3 tid="t229" type="DATE" value="1999-11" anchorTimeID="t0">mullu novembris</TIMEX3> keskusele pommiähvarduse teinud <TIMEX3 tid="t230" type="DURATION" value="P12Y" >12-aastase</TIMEX3> poisi vanemate käest kohtu kaudu ligi 74 000 krooni ähvardusega tekitatud kahju hüvitamiseks . 
+ Keskust esindav advokaat Aivar Pihlak ütles , et hagi Tallinna linnakohtusse anti sisse <TIMEX3 tid="t231" type="DATE" value="2000-03" mod="END" anchorTimeID="t0">märtsi lõpus</TIMEX3> ja esimene kohtuistung toimub <TIMEX3 tid="t232" type="DATE" value="2000-10-21" anchorTimeID="t0">21. oktoobril</TIMEX3> . 
+ " <TIMEX3 tid="t233" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >Praeguseks</TIMEX3> on meieni jõudnud ka poisi vanemate vastulause , kus nad kinnitavad , et pole süüdi , " lisas Pihlak . 
+ Kaubanduskeskuse direktori Allan Remmelkoore väitel pole hagi eesmärk raha saamine , vaid teiste võimalike pommiähvardajate hoiatamine . 
+ " Tegelikku kahjusummat polegi võimalik kindlaks teha , sest ei saa mõõta kahju , mida kannatasid ähvarduse tõttu majast lahkuma pidanud ostjad , " lisas ta . 
+ Tallinna noorsoopolitseiniku Erika Kaskla sõnul oli <TIMEX3 tid="t234" type="DATE" value="1999-11" anchorTimeID="t0">novembris</TIMEX3> kahtlus , et tabatud poisi hingel võib olla veel mõni keskusele tehtud pommiähvardus , kuid seda ei suudetud tõestada . 
+ Georgi vanematele määras politsei toona haldusõiguserikkumiste seadustiku järgi 4100 krooni trahvi lapse kasvatamise ja õpetamise kohustuste täitmatajätmise pärast , ka tuli vanematel tasuda päästeameti põhjendamatu väljakutsega kaasnenud kulud . 
+</TimeML>

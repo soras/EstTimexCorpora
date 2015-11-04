@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Reps tahab ühiselamute remondiks raha lisaeelarvest 
+Haridus- ja teadusminister Mailis Reps peab Tallinna ülikoolide ühiselamute kiiret kordategemist üheks tähtsamaks <TIMEX3 tid="t47" type="DATE" value="FUTURE_REF" anchorTimeID="t0">lähiaegade</TIMEX3> ülesandeks , taotledes selleks <TIMEX3 tid="t48" type="DATE" value="2006" anchorTimeID="t0">tänavusest</TIMEX3> lisaeelarvest 160 miljonit krooni . 
+ Ministri hinnangul on parim lahendus alustada ühiselamute kordategemist kohe . 
+ " Taotleme lisaeelarvest sellist summat , mis võimaldaks renoveerimisega täiskiirusel pihta hakata , " ütles Mailis Reps . 
+ " Tallinna ühiselamute küsimus on <TIMEX3 tid="t49" type="DATE" value="2006" anchorTimeID="t0">tänavuses</TIMEX3> lisaeelarves meie jaoks üks tähtsamaid teemasid , sest nende seisukord nõuab viivitamatuid otsuseid . " 
+ Probleemi tõsidust on tutvustatud valitsusele <TIMEX3 tid="t50" type="DATE" value="2006-SP" anchorTimeID="t0">kevadest</TIMEX3> saadik pidevalt . 
+ Minister Reps osutas , et kui varem on riik andnud oma toetuse ühiselamuprobleemi lahendamisele Tartus , siis <TIMEX3 tid="t51" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> on viimane aeg teha seda ka Tallinnas .  
+ " Kuna Tallinna saabuvad tudengid üle Eesti , siis on elupinna küsimus ka hariduse kättesaadavuse küsimus , " ütles Mailis Reps 
+</TimeML>

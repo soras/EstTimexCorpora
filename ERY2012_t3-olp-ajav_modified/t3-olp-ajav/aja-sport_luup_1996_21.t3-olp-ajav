@@ -1,0 +1,1461 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1996-08-05TXX:XX" />
+<ignoreeri>
+|
+autor:
+tekst
+:
+Valeri
+Maksimov
+,
+“
+Postimees
+”
+,
+Atlanta
+|
+ajakirjanumber:
+Luup
+Nr
+.
+16
+(
+21
+)
+,
+5.
+august
+1996
+|
+rubriik:
+SPORT
+|
+artikkel:
+Ameeriklastel
+mängud
+mängitud
+|
+</ignoreeri>
+<s>
+“    “ //_Z_ //
+No    no+0 //_I_ //
+nii    nii+0 //_D_ //
+sõbrad    sõber+d //_S_ pl n, //
+,    , //_Z_ //
+mina    mina+0 //_P_ sg n, //
+olen    ole+n //_V_ n, //
+Arkansasest    Arkansas+st //_H_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+hakkame    hakka+me //_V_ me, //
+liikuma    liiku+ma //_V_ ma, //
+!    ! //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+tervitab    tervita+b //_V_ b, //
+bussijuht    bussi_juht+0 //_S_ sg n, //
+olümpiaajakirjanikke    olümpia_aja_kirjanik+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+end    ise+0 //_P_ sg p, //
+sisse    sisse+0 //_D_ //
+seadnud    sead+nud //_V_ nud, //    sead=nud+0 //_A_ //    sead=nud+0 //_A_ sg n, //    sead=nud+d //_A_ pl n, //
+sõiduks    sõit+ks //_S_ sg tr, //
+järgmisse    järgmine+se //_A_ adt, //
+võistluspaika    võistlus_paik+0 //_S_ adt, //
+.    . //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+teab    tead+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+sinna    sinna+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ta    tema+0 //_P_ sg n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="??" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+ongi    ole+gi //_V_ b, //    ole+gi //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+Stone    Stone+0 //_H_ sg n, //
+Mountain    Mountain+0 //_H_ sg n, //
+Park'i    Park+0 //_H_ sg g, //
+saab    saa+b //_V_ b, //
+?    ? //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Sellest    see+st //_P_ sg el, //
+piisab    piisa+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+Buss    buss+0 //_S_ sg n, //
+tühjeneb    tühjene+b //_V_ b, //
+kiirkorras    kiir_korras+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ajakirjanikel    aja_kirjanik+el //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teed    tee+d //_S_ sg p, //
+mitte    mitte+0 //_D_ //
+tundvatest    tundev+test //_A_ pl el, //
+olümpiabussijuhtidest    olümpia_bussi_juht+dest //_S_ pl el, //
+villand    villand+0 //_D_ //
+,    , //_Z_ //
+parem    parem+0 //_D_ //
+juba    juba+0 //_D_ //
+minna    mine+a //_V_ da, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+bussi    buss+0 //_S_ sg g, //
+peale    peale+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ameeriklase    ameeriklane+0 //_S_ sg g, //
+kaardilugejaks    kaardi_lugeja+ks //_S_ sg tr, //
+hakata    hakka+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+näide    näide+0 //_S_ sg n, //
+veel    veel+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="TIME" temporalFunction="true" value="TEV" >
+Hilisõhtu    hilis_õhtu+0 //_S_ sg n, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Buss    buss+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tühjavõitu    tühja_võitu+0 //_A_ //
+.    . //_Z_ //
+</s>
+<s>
+Juht    juht+0 //_S_ sg n, //
+peatab    peata+b //_V_ b, //
+masina    masin+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ütleb    ütle+b //_V_ b, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+hetk    hetk+0 //_S_ sg n, //
+!    ! //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+käin    käi+n //_V_ n, //
+ruttu    ruttu+0 //_D_ //
+söömas    söö+mas //_V_ mas, //
+ära    ära+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+baar    baar+0 //_S_ sg n, //
+pannakse    pane+akse //_V_ takse, //
+kohe    kohe+0 //_D_ //
+kinni    kinni+0 //_D_ //
+.    . //_Z_ //
+Okay    Okay+0 //_H_ sg n, //
+?    ? //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+nad    tema+d //_P_ pl n, //
+Atlantas    Atlanta+s //_H_ sg in, //
+olümpiat    olümpia+t //_S_ sg p, //
+mängisid    mängi+sid //_V_ sid, //
+.    . //_Z_ //
+</s>
+<s>
+Laialt    laid+lt //_S_ sg abl, //
+ette    ette+0 //_D_ //
+võttes    võt+es //_V_ des, //
+,    , //_Z_ //
+suurejooneliselt    suure_jooneliselt+0 //_D_ //
+kulutades    kuluta+des //_V_ des, //
+,    , //_Z_ //
+massiliselt    massiliselt+0 //_D_ //
+asjatundmatuid    asja_tundmatu+id //_A_ pl p, //
+vabatahtlikke    vaba_tahtlik+e //_A_ pl p, //
+kaasa    kaasa+0 //_D_ //
+haarates    haara+tes //_V_ des, //
+<kiil>
+(    ( //_Z_ //
+Arkansasest    Arkansas+st //_H_ sg el, //
+ja    ja+0 //_J_ //
+paljudest    palju+dest //_P_ pl el, //
+muudest    muu+dest //_P_ pl el, //
+osariikidest    osa_riik+dest //_S_ pl el, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+kõigile    kõik+le //_P_ pl all, //
+säravalt    säravalt+0 //_D_ //
+naeratades    naerata+des //_V_ des, //
+ja    ja+0 //_J_ //
+lauskriitikat    laus_kriitika+t //_S_ sg p, //
+enesestmõistetava    enesest_mõistetav+0 //_A_ sg g, //
+kergusega    kergus+ga //_S_ sg kom, //
+tõrjudes    tõrju+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Oli    ole+i //_V_ s, //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+võistlused    võistlus+d //_S_ pl n, //
+said    saa+id //_V_ sid, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+.    . //_Z_ //
+</s>
+<s>
+Lõpuks    lõpuks+0 //_D_ //
+aga    aga+0 //_J_ //
+peaks    pida+ks //_V_ ks, //
+olema    ole+ma //_V_ ma, //
+väga    väga+0 //_D_ //
+paljudele    palju+dele //_P_ pl all, //
+selge    selge+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Atlanta    Atlanta+0 //_H_ sg g, //
+eelistamine    eelistamine+0 //_S_ sg n, //
+Ateenale    Ateena+le //_H_ sg all, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+kaasaegsete    kaas_aegne+te //_A_ pl g, //
+</TIMEX>
+olümpiamängude    olümpia_mängud+de //_S_ pl g, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P100Y" >
+saja-aastase    saja-aastane+0 //_A_ sg g, //
+</TIMEX>
+juubeli    juubel+0 //_S_ sg g, //
+tähistamiseks    tähistamine+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+viga    viga+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="19" anchorTimeID="t0" >
+Sajandi    sajand+0 //_S_ sg g, //
+</TIMEX>
+suurima    suurim+0 //_U_ sg g, //
+spordipeo    spordi_peo+0 //_S_ sg g, //    spordi_pidu+0 //_S_ sg g, //
+korraldada    korralda+da //_V_ da, //
+lubanud    luba+nud //_V_ nud, //    luba=nud+0 //_A_ //    luba=nud+0 //_A_ sg n, //    luba=nud+d //_A_ pl n, //
+Atlanta    Atlanta+0 //_H_ sg g, //
+kinnisvaraärimees    kinnis_vara_äri_mees+0 //_S_ sg n, //
+Billy    Billy+0 //_H_ sg n, //
+Payne    Payne+0 //_H_ sg n, //
+,    , //_Z_ //
+mängude    mäng+de //_S_ pl g, //
+üldjuht    üld_juht+0 //_S_ sg n, //
+,    , //_Z_ //
+ei    ei+0 //_V_ neg, //
+pidanud    pida+nud //_V_ nud, //    pida=nud+0 //_A_ //    pida=nud+0 //_A_ sg n, //    pida=nud+d //_A_ pl n, //
+sõna    sõna+0 //_S_ sg n, //
+-    - //_Z_ //
+<kindel_piir/>
+ameeriklased    ameeriklane+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+suutnud    suut+nud //_V_ nud, //    suut=nud+0 //_A_ //    suut=nud+0 //_A_ sg n, //    suut=nud+d //_A_ pl n, //
+tagada    taga+da //_V_ da, //
+organisatsioonilist    organisatsiooni=line+t //_A_ sg p, //
+tipptaset    tipp_tase+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+jätame    jät+me //_V_ me, //
+terrorismi-teema    terrorismi-teema+0 //_S_ sg g, //
+kõrvale    kõrvale+0 //_K_ //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+vohas    voha+s //_V_ s, //
+läbimõtlematus    läbi_mõtlematus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+pealiskaudsus    pealis_kaudsus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ajakirjanikke    aja_kirjanik+e //_S_ pl p, //
+täiesti    täiesti+0 //_D_ //
+ootamatult    ootamatult+0 //_D_ //
+rabas    raba+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+oli    ole+i //_V_ s, //
+kõrgtehnoloogilise    kõrg_tehnoloogiline+0 //_A_ sg g, //
+suurriigi    suur_riik+0 //_S_ sg g, //
+võime    võime+0 //_S_ sg n, //
+töödelda    töötle+da //_V_ da, //
+infot    info+t //_S_ sg p, //
+nii    nii+0 //_D_ //
+aeglaselt    aeglaselt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+pani    pane+i //_V_ s, //
+imestama    imesta+ma //_V_ ma, //
+isegi    isegi+0 //_D_ //
+arengumaade    arengu_maa+de //_S_ pl g, //
+ajakirjanikke    aja_kirjanik+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Kehv    kehv+0 //_A_ sg n, //
+transporditeenus    transpordi_teenus+0 //_S_ sg n, //
+ajas    aja+s //_V_ s, //
+kogu    kogu+0 //_A_ //
+aeg    aeg+0 //_S_ sg n, //
+kiirustavad    kiirusta+vad //_V_ vad, //
+meediaesindajad    meedia_esindaja+d //_S_ pl n, //
+ajuti    ajuti+0 //_D_ //
+lausa    lausa+0 //_D_ //
+endast    ise+st //_P_ sg el, //
+valja    valja+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuid    kuid+0 //_J_ //
+ega's    ega+s //_S_ sg in, //
+midagi    miski+dagi //_P_ sg p, //
+,    , //_Z_ //
+inimene    inimene+0 //_S_ sg n, //
+harjub    harju+b //_V_ b, //
+paljuga    palju+ga //_P_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+algul    algul+0 //_D_ //
+oli    ole+i //_V_ s, //
+raskesti    raskesti+0 //_D_ //
+talutav    talutav+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+tegi    tege+i //_V_ s, //
+külalised    külaline+d //_S_ pl n, //
+tasapisi    tasa_pisi+0 //_D_ //
+leplikumaks    lep=likum+ks //_C_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+ka    ka+0 //_D_ //
+lõunaosariiklased    lõuna_osa_riiklane+d //_S_ pl n, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+tõmbasid    tõmba+sid //_V_ sid, //
+ohjad    ohi+d //_S_ pl n, //
+pingumale    pingumale+0 //_D_ //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Valeri
+Maksimov
+,
+“
+Postimees
+”
+,
+Atlanta
+|
+ajakirjanumber:
+Luup
+Nr
+.
+16
+(
+21
+)
+,
+5.
+august
+1996
+|
+rubriik:
+SPORT
+|
+artikkel:
+Ameeriklastel
+mängud
+mängitud
+|
+alaosa:
+Miks
+Atlanta
+?
+|
+</ignoreeri>
+<s>
+Miks    miks+0 //_D_ //
+Atlanta    Atlanta+0 //_H_ sg g, //
+ikkagi    ikkagi+0 //_D_ //
+sai    saa+i //_V_ s, //
+olümpiamängude    olümpia_mängud+de //_S_ pl g, //
+korraldamise    korraldamine+0 //_S_ sg g, //
+õiguse    õigus+0 //_S_ sg g, //
+?    ? //_Z_ //
+</s>
+<s>
+Võeti    võt+ti //_V_ ti, //
+ju    ju+0 //_D_ //
+Atlanta    Atlanta+0 //_H_ sg g, //
+kandidatuuri    kandidatuur+0 //_S_ sg g, //
+esialgu    esi_algu+0 //_D_ //
+USA-ski    USA-ski+0 //_S_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+naljanumbrit    nalja_number+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Atlanta    Atlanta+0 //_H_ sg g, //
+!    ! //_Z_ //
+</s>
+<s>
+Miks    miks+0 //_D_ //
+mitte    mitte+0 //_D_ //
+New York    New York+0 //_H_ sg n, //
+või    või+0 //_J_ //
+Washington    Washington+0 //_H_ sg n, //
+või    või+0 //_J_ //
+mõni    mõni+0 //_P_ sg n, //
+muu    muu+0 //_P_ sg n, //
+uhke    uhke+0 //_A_ sg n, //
+linn    linn+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Olgu    ole+gu //_V_ gu, //
+pealegi    pealegi+0 //_D_ //
+Atlantas    Atlanta+s //_H_ sg in, //
+Coca    Coca+0 //_H_ sg g, //
+Cola    Cola+0 //_H_ sg g, //
+peakorter    pea_korter+0 //_S_ sg n, //
+,    , //_Z_ //
+CNN    CNN+0 //_Y_ ?, //
+,    , //_Z_ //
+Ted    Ted+0 //_H_ sg n, //
+Turner    Turner+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Gwen    Gwen+0 //_H_ sg n, //
+Torrence    Torrence+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Esiteks    esiteks+0 //_D_ //
+sellepärast    selle_pärast+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+peale    peale+0 //_K_ //
+mõningast    mõningane+t //_P_ sg p, //
+sisevõitlust    sise_võitlus+t //_S_ sg p, //
+sai    saa+i //_V_ s, //
+just    just+0 //_D_ //    just+0 //_I_ //
+lõunaosariigi    lõuna_osa_riik+0 //_S_ sg g, //
+Georgia    Georgia+0 //_H_ sg g, //
+pealinnast    pea_linn+st //_S_ sg el, //
+USA    USA+0 //_Y_ ?, //
+esindaja    esindaja+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+suurriigi    suur_riik+0 //_S_ sg g, //
+prestiizh    prestiizh+0 //_S_ sg n, //
+läks    mine+s //_V_ s, //
+mängu    mäng+0 //_S_ sg p, //
+-    - //_Z_ //
+<kindel_piir/>
+kaotust    kaotus+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+lubada    luba+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="TIME" temporalFunction="true" value="XXXX-XX-XXTXX:XX" comment="võib tõlgendada ka viitena minevikku">
+Ühel    üks+l //_N_ sg ad, //    üks+l //_P_ sg ad, //
+hetkel    hetk+l //_S_ sg ad, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+lugenud    luge+nud //_V_ nud, //    luge=nud+0 //_A_ //    luge=nud+0 //_A_ sg n, //    luge=nud+d //_A_ pl n, //
+enamikule    enamik+le //_S_ sg all, //
+otsustajaist    otsustaja+ist //_S_ pl el, //
+mitte    mitte+0 //_D_ //
+midagi    miski+dagi //_P_ sg p, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ameeriklased    ameeriklane+d //_S_ pl n, //
+olid    ole+id //_V_ sid, //
+alles    alles+0 //_D_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+äsja    äsja+0 //_D_ //
+</TIMEX>
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+olümpia    olümpia+0 //_S_ sg g, //
+endale    ise+le //_P_ sg all, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+<kiil>
+(    ( //_Z_ //
+Los Angeles    Los Angeles+0 //_H_ sg n, //
+,    , //_Z_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1994" >
+1994    1994+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Teiseks    teine+ks //_O_ sg tr, //    teine+ks //_P_ sg tr, //
+otsustavaks    otsustav+ks //_A_ sg tr, //
+teguriks    tegur+ks //_S_ sg tr, //
+kujunes    kujune+s //_V_ s, //
+mõjusamalt    mõjusamalt+0 //_D_ //
+läbi    läbi+0 //_D_ //
+viidud    vii+dud //_V_ tud, //    vii=dud+0 //_A_ //    vii=dud+0 //_A_ sg n, //    vii=dud+d //_A_ pl n, //
+veenmiskampaania    veenmis_kampaania+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Valijaid    valija+id //_S_ pl p, //
+-    - //_Z_ //
+Rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+Olümpiakomitee    olümpia_komitee+0 //_S_ sg g, //
+liikmeid    liige+id //_S_ pl p, //
+-    - //_Z_ //
+külastati    külasta+ti //_V_ ti, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kutsuti    kutsu+ti //_V_ ti, //
+neid    tema+d //_P_ pl p, //
+endale    ise+le //_P_ sg all, //
+külla    küla+0 //_S_ adt, //    küll+0 //_S_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+hääletajaid    hääletaja+id //_S_ pl p, //
+ümbritseti    ümbritse+ti //_V_ ti, //
+ülima    ülim+0 //_U_ sg g, //
+tähelepanuga    tähele_panu+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Igaühega    iga_üks+ga //_P_ sg kom, //
+kohtuti    kohtu+ti //_V_ ti, //
+palju    palju+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+kord    kord+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rahvusvaheline    rahvus_vaheline+0 //_A_ sg n, //
+lobby    lobby+0 //_S_ sg n, //
+läks    mine+s //_V_ s, //
+maksma    maks+ma //_V_ ma, //
+ligemale    ligemale+0 //_D_ //
+paarkümmend    paar_kümmend+0 //_N_ sg n, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Korruptsioon    korruptsioon+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Täiesti    täiesti+0 //_D_ //
+võimalik    võimalik+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Isegi    isegi+0 //_D_ //
+tõenäoline    tõe_näoline+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+keegi    keegi+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+enda    ise+0 //_P_ sg g, //
+peale    peale+0 //_K_ //
+selle    see+0 //_P_ sg g, //
+tõestamist    tõestamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kaotus    kaotus+0 //_S_ sg n, //
+olnuks    ole+nuks //_V_ nuks, //
+ette    ette+0 //_D_ //
+teada    tead+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Pärast    pärast+0 //_K_ //
+Atlantat    Atlanta+t //_H_ sg p, //
+tuleb    tule+b //_V_ b, //
+aadetest    aade+test //_S_ pl el, //
+lugupidajaile    lugu_pidaja+ile //_S_ pl all, //
+jälle    jälle+0 //_D_ //
+meelde    meel+de //_S_ adt, //
+ammune    ammune+0 //_A_ sg n, //
+küsimus    küsimus+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+edasi    edasi+0 //_D_ //
+,    , //_Z_ //
+olümpia    olümpia+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+rahajõud    raha_jõud+0 //_S_ sg n, //    raha_jõud+d //_S_ pl n, //
+jääbki    jää+bki //_V_ b, //
+kõike    kõik+0 //_P_ sg p, //
+määrama    määra+ma //_V_ ma, //
+?    ? //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+üle    üle+0 //_K_ //
+mõtlema    mõtle+ma //_V_ ma, //
+seatud    sead+tud //_V_ tud, //    seatud+0 //_A_ //    seatud+0 //_A_ sg n, //    seatud+d //_A_ pl n, //
+mehed    mees+d //_S_ pl n, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+pead    pea+d //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+vaeva    vaev+0 //_S_ sg p, //
+,    , //_Z_ //
+nad    tema+d //_P_ pl n, //
+tahavad    taht+vad //_V_ vad, //
+kuumadest    kuum+dest //_A_ pl el, //
+läbielamustest    läbi_elamus+test //_S_ pl el, //
+ja    ja+0 //_J_ //
+kriitikast    kriitika+st //_S_ sg el, //
+puhata    puhka+ta //_V_ da, //
+-    - //_Z_ //
+abikaasa    abi_kaasa+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lastega    laps+tega //_S_ pl kom, //
+kuhugi    kuhugi+0 //_D_ //
+vaiksemasse    vaiksem+sse //_C_ sg ill, //
+kohta    koht+0 //_S_ adt, //
+puhkama    puhka+ma //_V_ ma, //
+sõita    sõit+a //_V_ da, //
+,    , //_Z_ //
+mobiiltelefoni    mobiil_telefon+0 //_S_ sg g, //
+vöölt    vöö+lt //_S_ sg abl, //
+võtta    võt+a //_V_ da, //
+ja    ja+0 //_J_ //
+toimunu    toimunu+0 //_S_ sg n, //
+natukeseks    natukeseks+0 //_D_ //
+ajaks    aeg+ks //_S_ sg tr, //
+unustada    unusta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+William    William+0 //_H_ sg n, //
+Porter    Porter+0 //_H_ sg n, //
+Payne    Payne+0 //_H_ sg n, //
+,    , //_Z_ //
+tundmatu    tundmatu+0 //_A_ sg n, //
+ärimees    äri_mees+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kellest    kes+st //_P_ pl el, //    kes+st //_P_ sg el, //
+sai    saa+i //_V_ s, //
+olümpiamängudega    olümpia_mängud+dega //_S_ pl kom, //
+seotult    seotult+0 //_D_ //
+maailmakuulsus    maa_ilma_kuulsus+0 //_S_ sg n, //
+,    , //_Z_ //
+riigijuhtide    riigi_juht+de //_S_ pl g, //
+kõrval    kõrval+0 //_K_ //
+seisja    seisja+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+ütleb    ütle+b //_V_ b, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+<kiil>
+(    ( //_Z_ //
+vähemalt    vähemalt+0 //_D_ //
+)    ) //_Z_ //
+</kiil>
+endale    ise+le //_P_ sg all, //
+:    : //_Z_ //
+<kindel_piir/>
+Bill    Bill+0 //_H_ sg n, //
+,    , //_Z_ //
+me    mina+0 //_P_ pl n, //
+tegime    tege+ime //_V_ sime, //
+selle    see+0 //_P_ sg g, //
+ikkagi    ikkagi+0 //_D_ //
+ära    ära+0 //_D_ //
+...    ... //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Valeri
+Maksimov
+,
+“
+Postimees
+”
+,
+Atlanta
+|
+ajakirjanumber:
+Luup
+Nr
+.
+16
+(
+21
+)
+,
+5.
+august
+1996
+|
+rubriik:
+SPORT
+|
+artikkel:
+Ameeriklastel
+mängud
+mängitud
+|
+alaosa:
+Eestlane
+on
+tagasihoidlik
+|
+</ignoreeri>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Olümpiakomitee    olümpia_komitee+0 //_S_ sg n, //
+lähetas    läheta+s //_V_ s, //
+Atlantasse    Atlanta+sse //_H_ sg ill, //
+45    45+0 //_N_ ?, //
+sportlast    sportlane+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kellest    kes+st //_P_ pl el, //    kes+st //_P_ sg el, //
+43    43+0 //_N_ ?, //
+võistles    võistle+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+<kiil>
+(    ( //_Z_ //
+vehkleja    vehkleja+0 //_S_ sg n, //
+Merle    Merle+0 //_H_ sg n, //
+Esken    Esken+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+jäigi    jää+igi //_V_ s, //
+varusse    varu+sse //_S_ sg ill, //
+,    , //_Z_ //
+<kindel_piir/>
+kuulitõukaja    kuuli_tõuka=ja+0 //_S_ sg n, //
+Ants    Ants+0 //_H_ sg n, //
+Kiisa    Kiisa+0 //_H_ sg n, //
+viidi    vii+di //_V_ ti, //
+treeningul    treening+l //_S_ sg ad, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+trauma    trauma+0 //_S_ sg g, //
+tagajarjel    tagajarje+l //_S_ sg ad, //
+haiglasse    haigla+sse //_S_ sg ill, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+talle    tema+lle //_P_ sg all, //
+tehti    tege+ti //_V_ ti, //
+küllaltki    küllaltki+0 //_D_ //
+keeruline    keeruline+0 //_A_ sg n, //
+operatsioon    operatsioon+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Viievõistleja    viie_võistleja+0 //_S_ sg g, //
+Imre    Imre+0 //_H_ sg n, //
+Tiidemanni    Tiidemann+0 //_H_ sg g, //    Tiidemanni+0 //_H_ sg g, //
+treener    treener+0 //_S_ sg n, //
+Johannes    Johannes+0 //_H_ sg n, //
+Peets    Peets+0 //_H_ sg n, //
+sai    saa+i //_V_ s, //
+Atlantas    Atlanta+s //_H_ sg in, //
+südamerabanduse    südame_rabandus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+sportlast    sportlane+t //_S_ sg p, //
+saatis    saat+is //_V_ s, //
+temale    tema+le //_P_ sg all, //
+kokkuvõttes    kokku_võte+s //_S_ sg in, //
+edukaks    edukas+ks //_A_ sg tr, //
+osutunud    osutu+nud //_V_ nud, //    osutu=nud+0 //_A_ //    osutu=nud+0 //_A_ sg n, //    osutu=nud+d //_A_ pl n, //
+võistluspäeval    võistlus_päev+l //_S_ sg ad, //
+Eesti    Eesti+0 //_H_ sg g, //
+olümpiadelegatsiooni    olümpia_delegatsioon+0 //_S_ sg g, //
+juht    juht+0 //_S_ sg n, //
+Tiit    Tiit+0 //_H_ sg n, //
+Nuudi    Nuudi+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Olümpiamängude    olümpia_mängud+de //_S_ pl g, //
+lõpusirgele    lõpu_sirge+le //_S_ sg all, //
+jõudnuna    jõud=nu+na //_S_ sg es, //
+polnud    ole+nud //_V_ neg nud, //
+ühelgi    üks+lgi //_N_ sg ad, //    üks+lgi //_P_ sg ad, //
+Balti    Balt+0 //_H_ sg g, //    Balti+0 //_H_ sg g, //
+riigil    riik+l //_S_ sg ad, //
+ette    ette+0 //_D_ //
+näidata    näita+ta //_V_ da, //
+tõeliselt    tõeliselt+0 //_D_ //
+rõõmustavat    rõõmusta+vat //_V_ vat, //
+saavutust    saavutus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+kolm    kolm+0 //_N_ sg n, //
+sammusid    sammu+sid //_V_ sid, //
+finishi    finish+0 //_S_ sg g, //
+poole    poole+0 //_K_ //
+medalist    medal+st //_S_ sg el, //
+küll    küll+0 //_D_ //
+unistades    unista+des //_V_ des, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+mitte    mitte+0 //_D_ //
+sellest    see+st //_P_ sg el, //
+valjult    valjult+0 //_D_ //
+rääkides    rääki+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Leedulased    leedulane+d //_S_ pl n, //
+sidusid    sidu+sid //_V_ sid, //
+oma    oma+0 //_P_ sg g, //
+lootused    lootus+d //_S_ pl n, //
+nelja    neli+0 //_N_ sg g, //
+parema    parem+0 //_C_ sg g, //
+hulka    hulka+0 //_K_ //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+korvpallimeeskonnaga    korv_palli_meeskond+ga //_S_ sg kom, //
+ja    ja+0 //_J_ //
+kahe    kaks+0 //_N_ sg g, //
+finalistist    finalist+st //_S_ sg el, //
+meeskettaheitjaga    mees_ketta_heitja+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Lätlastel    lätlane+tel //_S_ pl ad, //
+polnud    ole+nud //_V_ neg nud, //
+peale    peale+0 //_K_ //
+aerutaja    aerutaja+0 //_S_ sg n, //
+Ivan    Ivan+0 //_H_ sg n, //
+Klementjevi    Klementjev+0 //_H_ sg g, //
+enam    enam+0 //_D_ //
+kelleltki    keegi+ltki //_P_ sg abl, //
+medalit    medal+t //_S_ sg p, //
+loota    loot+a //_V_ da, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="??">
+seni    seni+0 //_D_ //
+</TIMEX>
+parim    parim+0 //_U_ sg n, //
+koht    koht+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+viies    viies+0 //_O_ sg n, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+meie    mina+0 //_P_ pl n, //
+jäime    jää+ime //_V_ sime, //
+ootama    oota+ma //_V_ ma, //
+Noole    nool+0 //_S_ sg g, //
+õnnestumist    õnnestumine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+enneolematult    enne_olematult+0 //_D_ //
+suure    suur+0 //_A_ sg g, //
+olümpiadelegatsiooni    olümpia_delegatsioon+0 //_S_ sg g, //
+etteaste    ette_aste+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+argipäevane    argi_päevane+0 //_A_ sg n, //
+-    - //_Z_ //
+püüdlik    püüdlik+0 //_A_ sg n, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+särata    sära+ta //_S_ sg ab, //
+.    . //_Z_ //
+</s>
+<s>
+Saak    saak+0 //_S_ sg n, //
+kippus    kippu+s //_V_ s, //
+kehvapoolseks    kehva_poolne+ks //_A_ sg tr, //
+-    - //_Z_ //
+vaid    vaid+0 //_D_ //
+mõned    mõni+d //_P_ pl n, //
+kohad    koha+d //_S_ pl n, //    koht+d //_S_ pl n, //
+viiendast    viies+st //_O_ sg el, //
+kaheksandani    kaheksas+ni //_O_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Otseselt    otseselt+0 //_D_ //
+läbi    läbi+0 //_D_ //
+põles    põle+s //_V_ s, //
+mõni    mõni+0 //_P_ sg n, //
+üksik    üksik+0 //_A_ sg n, //
+<kiil>
+(    ( //_Z_ //
+Eesti    Eesti+0 //_H_ sg g, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="1995" >
+mullune    mullune+0 //_A_ sg n, //
+</TIMEX>
+parim    parim+0 //_U_ sg n, //
+sportlane    sportlane+0 //_S_ sg n, //
+Jüri    Jüri+0 //_H_ sg n, //
+Jaanson    Jaanson+0 //_H_ sg n, //
+kõigepealt    kõige_pealt+0 //_D_ //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+palju    palju+0 //_D_ //
+enam    enam+0 //_D_ //
+oli    ole+i //_V_ s, //
+keskpäraselt    kesk_pärase=lt+0 //_D_ //
+,    , //_Z_ //
+oma    oma+0 //_P_ sg g, //
+võimete    võime+te //_S_ pl g, //
+tipust    tipp+st //_S_ sg el, //
+tükk    tükk+0 //_S_ sg n, //
+maad    maa+d //_S_ sg p, //
+madalamal    madalam+l //_C_ sg ad, //
+tasemel    tase+l //_S_ sg ad, //
+esinenud    esine+nud //_V_ nud, //    esine=nud+0 //_A_ //    esine=nud+0 //_A_ sg n, //    esine=nud+d //_A_ pl n, //
+võistlejaid    võistleja+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Eneseületamist    enese_ületamine+t //_S_ sg p, //
+annab    and+b //_V_ b, //
+meelde    meel+de //_S_ adt, //
+tuletada    tuleta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+ilmnes    ilmne+s //_V_ s, //
+mõjusamalt    mõjusamalt+0 //_D_ //
+alles    alles+0 //_D_ //
+viievõistluses    viie_võistlus+s //_S_ sg in, //
+kõrget    kõrge+t //_A_ sg p, //
+kohta    koht+0 //_S_ sg p, //
+jahtival    jahtiv+l //_A_ sg ad, //
+Tiidemannil    Tiidemann+l //_H_ sg ad, //    Tiidemanni+l //_H_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+polnud    ole+nud //_V_ neg nud, //
+õnne    õnn+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+jälle    jälle+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+omadust    omadus+t //_S_ sg p, //
+õnne    õnn+0 //_S_ sg p, //
+oma    oma+0 //_P_ sg g, //
+õuele    õu+le //_S_ sg all, //
+tuua    too+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Olemegi    ole+megi //_V_ me, //
+just    just+0 //_D_ //    just+0 //_I_ //
+niisugused    nii_sugune+d //_P_ pl n, //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+olümpial    olümpia+l //_S_ sg ad, //
+välja    välja+0 //_D_ //
+nägime    näge+ime //_V_ sime, //
+.    . //_Z_ //
+</s>
+<s>
+Paremaid    Parem+id //_H_ pl p, //
+pole    ole+0 //_V_ neg o, //
+kusagilt    kusagilt+0 //_D_ //
+võtta    võt+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Veel    veel+0 //_D_ //
+hullem    hullem+0 //_C_ sg n, //
+võib    või+b //_V_ b, //
+aga    aga+0 //_J_ //
+ees    ees+0 //_D_ //
+oodata    oota+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+senised    senine+d //_A_ pl n, //
+staazhikamad    staazhika=m+d //_C_ pl n, //
+liidrid    liider+d //_S_ pl n, //
+<kiil>
+(    ( //_Z_ //
+Salumäe    Salumäe+0 //_H_ sg n, //
+,    , //_Z_ //
+Bukrejev    Bukrejev+0 //_H_ sg n, //
+,    , //_Z_ //
+Rünne    Rünne+0 //_H_ sg n, //
+,    , //_Z_ //
+Tamm    Tamm+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+loobuvad    loobu+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Kahekordne    kahe_kordne+0 //_A_ sg n, //
+olümpiavõitja    olümpia_võitja+0 //_S_ sg n, //
+Erika    Erika+0 //_H_ sg n, //
+Salumäe    Salumäe+0 //_H_ sg n, //
+kaotas    kaota+s //_V_ s, //
+veerandfinaalis    veerand_finaal+s //_S_ sg in, //
+Felicia    Felicia+0 //_H_ sg n, //
+Ballangerile    Ballangerile+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+prantslannast    prantslanna+st //_S_ sg el, //
+sai    saa+i //_V_ s, //
+Atlantas    Atlanta+s //_H_ sg in, //
+sprindi    sprint+0 //_S_ sg g, //
+olümpiavõitja    olümpia_võitja+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Salumäe    Salumäe+0 //_H_ sg n, //
+kaotas    kaota+s //_V_ s, //
+tugevaimale    tugevaim+le //_U_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+olles    ole+es //_V_ des, //
+lõpuks    lõpuks+0 //_D_ //
+kuues    kuus+s //_N_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Ette    ette+0 //_D_ //
+heita    heit+a //_V_ da, //
+pole    ole+0 //_V_ neg o, //
+midagi    miski+dagi //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t12" type="DURATION" temporalFunction="false" value="P34Y" >
+34-aastast    34_aastane+t //_A_ sg p, //
+</TIMEX>
+suursportlast    suur_sportlane+t //_S_ sg p, //
+tuleb    tule+b //_V_ b, //
+tehtu    tehtu+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+austada    austa+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+temast    tema+st //_P_ sg el, //
+saab    saa+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+tea    tead+0 //_V_ o, //
+ta    tema+0 //_P_ sg n, //
+veel    veel+0 //_D_ //
+isegi    isegi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+On    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pakkumisi    pakkumine+i //_S_ pl p, //
+rattal    ratas+l //_S_ sg ad, //
+raha    raha+0 //_S_ sg p, //
+edasi    edasi+0 //_D_ //
+teenida    teeni+da //_V_ da, //
+<kiil>
+(    ( //_Z_ //
+kommertsvõistlustel    kommerts_võistlus+tel //_S_ pl ad, //
+lääneriikides    lääne_riik+des //_S_ pl in, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+treeneriks    treener+ks //_S_ sg tr, //
+kutsutud    kutsu+tud //_V_ tud, //    kutsutud+0 //_A_ //    kutsutud+0 //_A_ sg n, //    kutsutud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kellena    kes+na //_P_ pl es, //    kes+na //_P_ sg es, //
+me    mina+0 //_P_ pl n, //
+veel    veel+0 //_D_ //
+Salumäed    salu_mägi+d //_S_ pl n, //
+ette    ette+0 //_D_ //
+kujutaksime    kujuta+ksime //_V_ ksime, //
+?    ? //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_2" type="DURATION" temporalFunction="true" value="P15Y" mod="APPROX">
+Poolteist    pool_teist+0 //_N_ sg n, //
+aastakümmet    aasta_kümme+t //_S_ sg p, //
+</TIMEX>
+ratta    ratas+0 //_S_ sg g, //
+peal    peal+0 //_K_ //
+,    , //_Z_ //
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="PRESENT_REF" comment="ebatäielik" >
+siiani    siiani+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tema    tema+0 //_P_ sg g, //
+töö    töö+0 //_S_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+vaid    vaid+0 //_D_ //
+sadulas    sadul+s //_S_ sg in, //
+higi    higi+0 //_S_ sg p, //
+valamine    valamine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Vehklemisliidu    vehklemis_liit+0 //_S_ sg g, //
+presidenti    president+0 //_S_ sg p, //
+Ants    Ants+0 //_H_ sg n, //
+Veetõusmet    Veetõusme+t //_H_ sg p, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+kuidagi    kuidagi+0 //_D_ //
+valetamises    valetamine+s //_S_ sg in, //
+süüdistada    süüdista+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+väidab    väit+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+kuus    kuus+0 //_N_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+vehklejat    vehkleja+t //_S_ sg p, //
+pääsesid    pääse+sid //_V_ sid, //
+olümpiamängudel    olümpia_mängud+del //_S_ pl ad, //
+viie    viis+0 //_N_ sg g, //
+parema    parem+0 //_C_ sg g, //
+hulka    hulka+0 //_K_ //
+-    - //_Z_ //
+<kindel_piir/>
+tehtagu    tege+tagu //_V_ tagu, //
+järele    järele+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Tõesti    tõesti+0 //_D_ //
+:    : //_Z_ //
+<kindel_piir/>
+naiskond    naiskond+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+viies    viies+0 //_O_ sg n, //
+ja    ja+0 //_J_ //
+meeskond    meeskond+0 //_S_ sg n, //
+ka    ka+0 //_D_ //
+,    , //_Z_ //
+kummaski    kumbki+ski //_P_ sg in, //
+kolm    kolm+0 //_N_ sg n, //
+vehklejat    vehkleja+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Üksikarvestuses    üksik_arvestus+s //_S_ sg in, //
+Kaido    Kaido+0 //_H_ sg n, //
+Kaaberma    Kaaberma+0 //_H_ sg n, //
+seitsmes    seitsmes+0 //_O_ sg n, //
+,    , //_Z_ //
+Oksana    Oksana+0 //_H_ sg n, //
+Jermakova    Jermakova+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Andrus    Andrus+0 //_H_ sg n, //
+Kajak    Kajak+0 //_H_ sg n, //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+kümnes    kümme+s //_N_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Küsid    küsi+d //_V_ d, //
+aga    aga+0 //_J_ //
+sportlaste    sportlane+te //_S_ pl g, //
+käest    käest+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+saad    saa+d //_V_ d, //
+vastuse    vastus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tahtnud    taht+nud //_V_ nud, //    taht=nud+0 //_A_ //    taht=nud+0 //_A_ sg n, //    taht=nud+d //_A_ pl n, //
+oleks    ole+ks //_V_ ks, //
+palju    palju+0 //_D_ //
+enamat    enam+t //_C_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Halvasti    halvasti+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+väga    väga+0 //_D_ //
+hästi    hästi+0 //_D_ //
+ka    ka+0 //_D_ //
+mitte    mitte+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Siinkirjutaja    siin_kirjutaja+0 //_S_ sg g, //
+meelest    meelest+0 //_K_ //
+saadi    saa+di //_V_ ti, //
+kohad    koha+d //_S_ pl n, //    koht+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+vääriti    vääriti+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Oli    ole+i //_V_ s, //
+nappe    napp+e //_A_ pl p, //
+võite    võit+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+valusaid    valus+id //_A_ pl p, //
+kaotusi    kaotus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kokkuvõttes    kokku_võte+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+saatus    saatus+0 //_S_ sg n, //
+meie    mina+0 //_P_ pl g, //
+epeevehklejate    epee_vehkleja+te //_S_ pl g, //
+vastu    vastu+0 //_K_ //
+ikkagi    ikkagi+0 //_D_ //
+õiglane    õiglane+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+tippsportlastest    tipp_sportlane+test //_S_ pl el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+maailma    maa_ilm+0 //_S_ sg g, //
+absoluutse    absoluutne+0 //_A_ sg g, //
+tipptaseme    tipp_tase+0 //_S_ sg g, //
+nõuetele    nõue+tele //_S_ pl all, //
+kõige    kõige+0 //_D_ //
+lähemal    lähemal+0 //_D_ //
+Erki    Erki+0 //_H_ sg n, //
+Nool    Nool+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Teist    teine+t //_O_ sg p, //    teine+t //_P_ sg p, //
+meest    mees+t //_S_ sg p, //
+või    või+0 //_J_ //
+naist    naine+t //_S_ sg p, //
+<kiil>
+,    , //_Z_ //
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+füüsilised    füüsiline+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+psüühilised    psüühiline+d //_A_ pl n, //
+parameetrid    parameeter+d //_S_ pl n, //
+närvesööva    närve_sööv+0 //_A_ sg g, //
+õhkonna    õhkond+0 //_S_ sg g, //
+tingmustes    tingmus+tes //_S_ pl in, //    tingmuste+s //_S_ sg in, //
+olukorra    olu_kord+0 //_S_ sg g, //
+peremeheks    pere_mees+ks //_S_ sg tr, //
+lubavad    luba+vad //_V_ vad, //
+jääda    jää+da //_V_ da, //
+,    , //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+raske    raske+0 //_A_ sg n, //
+nimetada    nimeta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ikka    ikka+0 //_D_ //
+jääb    jää+b //_V_ b, //
+midagi    miski+dagi //_P_ sg p, //
+puudu    puudu+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Nool    Nool+0 //_H_ sg n, //
+peaks    pida+ks //_V_ ks, //
+säilitama    säili+tama //_V_ tama, //    säilita+ma //_V_ ma, //
+külma    külm+0 //_A_ sg g, //
+vere    veri+0 //_S_ sg g, //
+ka    ka+0 //_D_ //
+seal    seal+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+kahvatuvad    kahvatu+vad //_V_ vad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+teeb    tege+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+parima    parim+0 //_U_ sg g, //
+tulemuse    tulemus+0 //_S_ sg g, //
+sageli    sageli+0 //_D_ //
+<TIMEX tid="t14" type="TIME" temporalFunction="true" value="TXX:XX:XX">
+viimasel    viimane+l //_A_ sg ad, //
+,    , //_Z_ //
+kõige    kõige+0 //_D_ //
+enam    enam+0 //_D_ //
+keskendumisoskust    keskendumis_oskus+t //_S_ sg p, //
+nõudval    nõudev+l //_A_ sg ad, //
+hetkel    hetk+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Niisugustele    nii_sugune+tele //_P_ pl all, //
+omadustele    omadus+tele //_S_ pl all, //
+vastas    vasta+s //_V_ s, //
+kümnevõistlejatest    kümne_võistleja+test //_S_ pl el, //
+viimati    viimati+0 //_D_ //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="196" >
+60-ndatel    60=s+tel //_O_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+Rein    Rein+0 //_H_ sg n, //
+Aun    Aun+0 //_H_ sg n, //
+,    , //_Z_ //
+Tokyo    Tokyo+0 //_H_ sg g, //
+mängude    mäng+de //_S_ pl g, //
+hõbe    hõbe+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kahjuks    kahjuks+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+suutnud    suut+nud //_V_ nud, //    suut=nud+0 //_A_ //    suut=nud+0 //_A_ sg n, //    suut=nud+d //_A_ pl n, //
+Nool    Nool+0 //_H_ sg n, //
+seekord    see_kord+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+kuulsa    kuulus+0 //_A_ sg g, //
+eelkäija    eel_käija+0 //_S_ sg n, //
+jälgedesse    jälg+desse //_S_ pl ill, //
+veel    veel+0 //_D_ //
+astuda    astu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Mitte    mitte+0 //_D_ //
+kordagi    kord+gi //_S_ sg p, //
+<TIMEX  tid="t16" type="DURATION" temporalFunction="false" value="P100Y" >
+saja    sada+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+pole    ole+0 //_V_ neg o, //
+olümpiamängudel    olümpia_mängud+del //_S_ pl ad, //
+võistelnud    võistel=nud+0 //_A_ //    võistel=nud+0 //_A_ sg n, //    võistel=nud+d //_A_ pl n, //    võistle+nud //_V_ nud, //
+Eesti    Eesti+0 //_H_ sg g, //
+delegatsioon    delegatsioon+0 //_S_ sg n, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+medalita    medal+ta //_S_ sg ab, //
+-    - //_Z_ //
+ei    ei+0 //_V_ neg, //
+enne    enne+0 //_K_ //
+ega    ega+0 //_J_ //
+pärast    pärast+0 //_K_ //
+maailmasõda    maa_ilma_sõda+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Midagi    miski+dagi //_P_ sg p, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+teha    tege+a //_V_ da, //
+-    - //_Z_ //
+<kindel_piir/>
+õigus    õigus+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+Eesti    Eesti+0 //_H_ sg g, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+esimehel    esi_mees+l //_S_ sg ad, //
+Toomas    Toomas+0 //_H_ sg n, //
+Savil    Savil+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kuuldavasti    kuuldavasti+0 //_D_ //
+ennustanud    ennusta+nud //_V_ nud, //    ennusta=nud+0 //_A_ //    ennusta=nud+0 //_A_ sg n, //    ennusta=nud+d //_A_ pl n, //
+enne    enne+0 //_K_ //
+olümpiamängude    olümpia_mängud+de //_S_ pl g, //
+algust    algus+t //_S_ sg p, //
+:    : //_Z_ //
+<kindel_piir/>
+Eesti    Eesti+0 //_H_ sg g, //
+sportlased    sportlane+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+võida    võit+0 //_V_ o, //
+Atlantas    Atlanta+s //_H_ sg in, //
+ühtegi    üks+gi //_N_ sg p, //    üks+gi //_P_ sg p, //
+medalit    medal+t //_S_ sg p, //
+.    . //_Z_ //
+</s>

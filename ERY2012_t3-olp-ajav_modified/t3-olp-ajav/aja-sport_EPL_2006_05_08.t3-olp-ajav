@@ -1,0 +1,671 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2006-05-08TXX:XX" />
+<ignoreeri>
+|
+autor:
+Kristi
+Vahemaa
+|
+ajalehenumber:
+Eesti
+Päevaleht
+08.05.2006
+|
+rubriik:
+Spordileht
+|
+artikkel:
+KÄSIPALL
+:
+Šokolaadipoisid
+ei
+lubanud
+finaalseeriat
+lõpetada
+|
+</ignoreeri>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+käsipalli    käsi_pall+0 //_S_ sg g, //
+meistrivõistluste    meistri_võistlus+te //_S_ pl g, //
+neljas    neljas+0 //_O_ sg n, //
+finaalmäng    finaal_mäng+0 //_S_ sg n, //
+võis    või+s //_V_ s, //
+otsustada    otsusta+da //_V_ da, //
+tiitliomaniku    tiitli_omanik+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Ent    ent+0 //_J_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2006-05-07" >
+eilseni    eilne+ni //_A_ sg ter, //
+</TIMEX>
+kolm    kolm+0 //_N_ sg n, //
+võitu    võit+0 //_S_ sg p, //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+HC    HC+0 //_Y_ ?, //
+Kehra    Kehra+0 //_H_ sg n, //
+kaotas    kaota+s //_V_ s, //
+HC    HC+0 //_Y_ ?, //
+Chocolate    Chocolate+0 //_H_ sg n, //
+Boysile    Boysile+0 //_H_ sg g, //
+23    23+0 //_N_ ?, //
+:    : //_Z_ //
+24    24+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+peab    pida+b //_V_ b, //
+kauni    kaunis+0 //_A_ sg g, //
+karika    karikas+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+edasi    edasi+0 //_D_ //
+võitlema    võitle+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Mäng    mäng+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+närviline    närviline+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ehk    ehk+0 //_D_ //
+siis    siis+0 //_D_ //
+selline    selline+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+finaal    finaal+0 //_S_ sg n, //
+olema    ole+ma //_V_ ma, //
+peab    pida+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+Chocolate    Chocolate+0 //_H_ sg n, //
+Boys    Boys+0 //_H_ sg n, //
+sai    saa+i //_V_ s, //
+suure    suur+0 //_A_ sg g, //
+algedu    alg_edu+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+juhtides    juhti+des //_V_ des, //
+7    7+0 //_N_ ?, //
+:    : //_Z_ //
+1    1+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+8    8+0 //_N_ ?, //
+:    : //_Z_ //
+2.    2.+0 //_O_ ?, //
+Ometi    ometi+0 //_D_ //
+õnnestus    õnnestu+s //_V_ s, //
+Kehral    Kehra+l //_H_ sg ad, //
+järgi    järgi+0 //_D_ //
+võtta    võt+a //_V_ da, //
+ning    ning+0 //_J_ //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="PT23M" >
+23    23+0 //_N_ ?, //
+minutiks    minut+ks //_S_ sg tr, //
+</TIMEX>
+vähendada    vähenda+da //_V_ da, //
+vahe    vahe+0 //_S_ sg g, //
+minimaalseks    minimaalne+ks //_A_ sg tr, //
+-    - //_Z_ //
+10    10+0 //_N_ ?, //
+:    : //_Z_ //
+11.    11.+0 //_O_ ?, //
+</s>
+<s>
+"    " //_Z_ //
+Alguses    algus+s //_S_ sg in, //
+eksisime    eksi+sime //_V_ sime, //
+palju    palju+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kehvasti    kehvasti+0 //_D_ //
+mängisid    mängi+sid //_V_ sid, //
+nii    nii+0 //_D_ //
+kaitse    kaitse+0 //_S_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+väravavaht    värava_vaht+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+nad    tema+d //_P_ pl n, //
+said    saa+id //_V_ sid, //
+liiga    liiga+0 //_D_ //
+lihtsaid    lihtne+id //_A_ pl p, //
+väravaid    värav+id //_S_ pl p, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+arvas    arva+s //_V_ s, //
+Kehra    Kehra+0 //_H_ sg n, //
+peatreener    pea_treener+0 //_S_ sg n, //
+Jüri    Jüri+0 //_H_ sg n, //
+Lepp    Lepp+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Nimesid    nimi+sid //_S_ pl p, //
+nimetamata    nimeta=mata+0 //_A_ //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+osa    osa+0 //_S_ sg n, //
+meie    mina+0 //_P_ pl g, //
+mehi    mees+0 //_S_ pl p, //
+polnud    ole+nud //_V_ neg nud, //
+võitluseks    võitlus+ks //_S_ sg tr, //
+valmis    valmis+0 //_D_ //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Meeskond    meeskond+0 //_S_ sg n, //
+mängis    mängi+s //_V_ s, //
+hästi    hästi+0 //_D_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sõnas    sõna+s //_V_ s, //
+seevastu    see_vastu+0 //_D_ //
+võitjate    võitja+te //_S_ pl g, //
+juhendaja    juhendaja+0 //_S_ sg n, //
+Tarmo    Tarmo+0 //_H_ sg n, //
+Volt    Volt+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Näitasime    Näitasime+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+tavapärast    tava_pärane+t //_A_ sg p, //
+mängu    mäng+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Ehk    ehk+0 //_D_ //
+siis    siis+0 //_D_ //
+võime    või+me //_V_ me, //
+väita    väit+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Riho    Riho+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+Bramanise    Bramanis+0 //_H_ sg g, //
+-    - //_Z_ //
+toim    toim+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+osakaal    osa_kaal+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ikkagi    ikkagi+0 //_D_ //
+nii    nii+0 //_D_ //
+suur    suur+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+tagasitulek    tagasi_tulek+0 //_S_ sg n, //
+muutis    muut+is //_V_ s, //
+oluliselt    oluliselt+0 //_D_ //
+olukorda    olu_kord+0 //_S_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+Volt    Volt+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Poolaja    pool_aeg+0 //_S_ sg g, //
+võitsid    võit+sid //_V_ sid, //
+šokolaadipoisid    šokolaadi_poiss+d //_S_ pl n, //
+kuue    kuus+0 //_N_ sg g, //
+väravaga    värav+ga //_S_ sg kom, //
+16    16+0 //_N_ ?, //
+:    : //_Z_ //
+10.    10.+0 //_O_ ?, //
+</s>
+<s>
+Kohtunikud    kohtunik+d //_S_ pl n, //
+kõneaineks    kõne_aine+ks //_S_ sg tr, //
+Teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+poolaja    pool_aeg+0 //_S_ sg g, //
+alguses    algus+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+juhtvõistkond    juht_võistkond+0 //_S_ sg n, //
+hädas    häda+s //_S_ sg in, //
+-    - //_Z_ //
+<kindel_piir/>
+esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+pidi    pida+i //_V_ s, //
+Kehra    Kehra+0 //_H_ sg g, //
+väravavaht    värava_vaht+0 //_S_ sg n, //
+Marius    Marius+0 //_H_ sg n, //
+Aleksejev    Aleksejev+0 //_H_ sg n, //
+palli    pall+0 //_S_ sg g, //
+selja    selg+0 //_S_ sg g, //
+tagant    tagant+0 //_K_ //
+välja    välja+0 //_D_ //
+võtma    võt+ma //_V_ ma, //
+alles    alles+0 //_D_ //
+<TIMEX  tid="t3" type="TIME" temporalFunction="true" value="XXXX-XX-XXTXX:XX" >
+kuuendal    kuues+l //_O_ sg ad, //
+minutil    minut+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kehra    Kehra+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+<TIMEX tid="t2_3" type="TIME" temporalFunction="true" value="XXXX-XX-XXTXX:XX" anchorTimeID="t3" >
+selleks    see+ks //_P_ sg tr, //
+ajaks    aeg+ks //_S_ sg tr, //
+</TIMEX>
+tabanud    taba+nud //_V_ nud, //    taba=nud+0 //_A_ //    taba=nud+0 //_A_ sg n, //    taba=nud+d //_A_ pl n, //
+neli    neli+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Nii    Nii+0 //_H_ sg g, //    Nii+0 //_H_ sg n, //    nii+0 //_D_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+järele    järele+0 //_D_ //
+jõudsime    jõud+sime //_V_ sime, //
+,    , //_Z_ //
+<kindel_piir/>
+hakkasime    hakka+sime //_V_ sime, //
+kiirustama    kiirusta+ma //_V_ ma, //
+,    , //_Z_ //
+"    " //_Z_ //
+analüüsis    analüüs+s //_S_ sg in, //
+Lepp    Lepp+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="PT2M" >
+Kaheminutiline    kahe_minutiline+0 //_A_ sg n, //
+</TIMEX>
+karistus    karistus+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+meile    mina+le //_P_ pl all, //
+anti    and+ti //_V_ ti, //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="true" value="PT2M30S">
+kaks    kaks+0 //_N_ sg n, //
+ja    ja+0 //_J_ //
+pool    pool+0 //_N_ sg n, //
+minutit    minut+t //_S_ sg p, //
+</TIMEX>
+enne    enne+0 //_K_ //
+mängu    mäng+0 //_S_ sg g, //
+lõppu    lõpp+0 //_S_ sg p, //
+,    , //_Z_ //
+</kiil>
+oli    ole+i //_V_ s, //
+otsustav    otsustav+0 //_A_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sõnas    sõna+s //_V_ s, //
+Lepp    Lepp+0 //_H_ sg n, //
+veendunult    veendunult+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Bramanis    Bramanis+0 //_H_ sg n, //
+lükkab    lükka+b //_V_ b, //
+vastast    vastast+0 //_D_ //
+kolm    kolm+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+talle    tema+lle //_P_ sg all, //
+ei    ei+0 //_V_ neg, //
+tehta    tege+ta //_V_ ta, //
+midagi    miski+dagi //_P_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+sarjas    sari+s //_S_ sg in, //
+Kehra    Kehra+0 //_H_ sg g, //
+juhendaja    juhendaja+0 //_S_ sg g, //
+kohtunikke    kohtunik+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Bramanis    Bramanis+0 //_H_ sg n, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+leidis    leid+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vilemehed    vile_mees+d //_S_ pl n, //
+tegid    tege+id //_V_ sid, //
+kummalisi    kummaline+i //_A_ pl p, //
+otsusesid    otsus+sid //_S_ pl p, //
+hoopiski    hoopiski+0 //_D_ //
+nende    see+de //_P_ pl g, //
+kahjuks    kahi+ks //_S_ sg tr, //    kahju+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+vähem    vähem+0 //_D_ //
+kohtunike    kohtunik+e //_S_ pl g, //
+tegevust    tegevus+t //_S_ sg p, //
+märkab    märka+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+mängu    mäng+0 //_S_ sg p, //
+võidab    võit+b //_V_ b, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+rahulikult    rahulikult+0 //_D_ //
+Volt    volt+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Loomulikult    loomulikult+0 //_D_ //
+vaatab    vaata+b //_V_ b, //
+igaüks    iga_üks+0 //_P_ sg n, //
+enda    ise+0 //_P_ sg g, //
+mätta    mätas+0 //_S_ sg g, //
+otsast    otsast+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+fakt    fakt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nii    nii+0 //_D_ //
+rasket    raske+t //_A_ sg p, //
+mängu    mäng+0 //_S_ sg p, //
+ongi    ole+gi //_V_ b, //    ole+gi //_V_ vad, //
+keeruline    keeruline+0 //_A_ sg n, //
+vilistada    vilista+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+vähem    vähem+0 //_D_ //
+otsuseid    otsus+id //_S_ pl p, //
+kommenteerida    kommenteeri+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+seda    see+da //_P_ sg p, //
+enam    enam+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aega    aeg+0 //_S_ sg p, //
+mängida    mängi+da //_V_ da, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Kohtumise    kohtumine+0 //_S_ sg g, //
+lõppfaas    lõpp_faas+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+pealtvaatajatele    pealt_vaataja+tele //_S_ pl all, //
+ülipõnev    üli_põnev+0 //_A_ sg n, //
+,    , //_Z_ //
+mängijatele    mängija+tele //_S_ pl all, //
+aga    aga+0 //_J_ //
+põrgulikult    põrgulikult+0 //_D_ //
+raske    raske+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="TIME" temporalFunction="true" value="PTXX:XX" comment="pigem TIME kui DURATION">
+57    57+0 //_N_ ?, //
+minutil    minut+l //_S_ sg ad, //
+</TIMEX>
+tegi    tege+i //_V_ s, //
+Indrek    Indrek+0 //_H_ sg n, //
+Lillsoo    lill_soo+0 //_S_ sg g, //    lill_sugu+0 //_S_ sg g, //
+seisuks    seis+ks //_S_ sg tr, //
+23    23+0 //_N_ ?, //
+:    : //_Z_ //
+24.    24.+0 //_O_ ?, //
+See    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+ka    ka+0 //_D_ //
+mängu    mäng+0 //_S_ sg g, //
+viimane    viimane+0 //_A_ sg n, //
+värav    värav+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Resultatiivsemad    Resultatiivsem+d //_H_ pl n, //
+olid    ole+id //_V_ sid, //
+Kehra    Kehra+0 //_H_ sg g, //
+poolelt    pool+lt //_S_ sg abl, //
+Lillsoo    lill_soo+0 //_S_ sg g, //    lill_sugu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Risto    Risto+0 //_H_ sg n, //
+Lepp    Lepp+0 //_H_ sg n, //
+viie    viis+0 //_N_ sg g, //
+ning    ning+0 //_J_ //
+võitjatest    võitja+test //_S_ pl el, //
+Bramanis    Braman+s //_H_ sg in, //    Bramani+s //_H_ sg in, //
+seitsme    seitse+0 //_N_ sg g, //
+väravaga    värav+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="2006-05-07" >
+Eilsel    eilne+l //_A_ sg ad, //
+</TIMEX>
+mängul    mäng+l //_S_ sg ad, //
+oli    ole+i //_V_ s, //
+täismaja    täis_maja+0 //_S_ sg n, //
+publikut    publik+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+mõlemale    mõlema+le //_P_ sg all, //
+poolele    pool+le //_S_ sg all, //
+häälekalt    häälekalt+0 //_D_ //
+kaasa    kaasa+0 //_D_ //
+elas    ela+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Paraku    paraku+0 //_D_ //
+,    , //_Z_ //
+tribüünidelt    tribüün+delt //_S_ pl abl, //
+kostus    kostu+s //_V_ s, //
+pahatihti    paha_tihti+0 //_D_ //
+sõimu    sõim+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+iroonilisi    irooniline+i //_A_ pl p, //
+märkusi    märkus+i //_S_ pl p, //
+vastasvõistkonna    vastas_võistkond+0 //_S_ sg g, //
+mängija    mängija+0 //_S_ sg n, //
+aadressil    aadress+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Minule    mina+le //_P_ sg all, //
+käis    käi+s //_V_ s, //
+publik    publik+0 //_S_ sg n, //
+närvidele    närv+dele //_S_ pl all, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+tunnistas    tunnista+s //_V_ s, //
+Volt    Volt+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Nii    Nii+0 //_H_ sg g, //    Nii+0 //_H_ sg n, //    nii+0 //_D_ //
+ropult    ropult+0 //_D_ //
+ja    ja+0 //_J_ //
+ebainimlikult    eba_inimlikult+0 //_D_ //
+teisi    teine+0 //_O_ pl p, //    teine+0 //_P_ pl p, //
+sõimata    sõima+ta //_V_ da, //
+-    - //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+mingi    mingi+0 //_P_ sg n, //
+spordifänlus    spordifän=lus+0 //_S_ sg n, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Lepp    Lepp+0 //_H_ sg n, //
+sõnas    sõna+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+temal    tema+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mängus    mäng+s //_S_ sg in, //
+oma    oma+0 //_P_ sg g, //
+ülesanded    üles_anne+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+pealtvaatajate    pealt_vaataja+te //_S_ pl g, //
+jutu    jutt+0 //_S_ sg g, //
+kuulamine    kuulamine+0 //_S_ sg n, //
+nende    see+de //_P_ pl g, //
+hulka    hulka+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+kuulu    kuulu+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+igas    iga+s //_P_ sg in, //
+mängus    mäng+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+keegi    keegi+0 //_P_ sg n, //
+šokolaadipoistest    šokolaadi_poiss+test //_S_ pl el, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+tugevama    tugevam+0 //_C_ sg g, //
+hoobi    hoop+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+seekord    see_kord+0 //_D_ //
+lahkus    lahku+s //_V_ s, //
+lühiajaliselt    lühi_ajaliselt+0 //_D_ //
+platsilt    plats+lt //_S_ sg abl, //
+rinnapiirkonda    rinna_piirkond+0 //_S_ sg p, //
+pihta    pihta+0 //_D_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+Valdar    Valdar+0 //_H_ sg n, //
+Noodla    Noodla+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Valdaril    Valdar+l //_H_ sg ad, //    Valdari+l //_H_ sg ad, //
+oli    ole+i //_V_ s, //
+hing    hing+0 //_S_ sg n, //
+kinni    kinni+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+tuli    tule+i //_V_ s, //
+selga    selg+0 //_S_ adt, //
+taguda    tagu+da //_V_ da, //
+ja    ja+0 //_J_ //
+nuuskpiiritust    nuusk_piiritus+t //_S_ sg p, //
+anda    and+a //_V_ da, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sõnas    sõna+s //_V_ s, //
+meeskonna    meeskond+0 //_S_ sg g, //
+arst    arst+0 //_S_ sg n, //
+Svetlana    Svetlana+0 //_H_ sg n, //
+Karbus    Karbus+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kel    kes+l //_P_ sg ad, //
+finaalseerias    finaal_seeria+s //_S_ sg in, //
+tööst    töö+st //_S_ sg el, //
+puudust    puudus+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+tule    tule+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Järgmine    järgmine+0 //_A_ sg n, //
+kohtumine    kohtumine+0 //_S_ sg n, //
+peetakse    pida+takse //_V_ takse, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="2006-05-10" >
+kolmapäeval    kolma_päev+l //_S_ sg ad, //
+</TIMEX>
+Kehras    Kehra+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Eelis    eelis+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Kehral    Kehra+l //_H_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+neil    see+l //_P_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kolm    kolm+0 //_N_ sg n, //
+võitu    võit+0 //_S_ sg p, //
+,    , //_Z_ //
+meil    mina+l //_P_ pl ad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+Tarmo    Tarmo+0 //_H_ sg n, //
+Volt    Volt+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Loodame    loot+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+meie    mina+0 //_P_ pl g, //
+viimane    viimane+0 //_A_ sg n, //
+kaotus    kaotus+0 //_S_ sg n, //
+sel    see+l //_P_ sg ad, //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+HC    HC+0 //_Y_ ?, //
+Chocolate    Chocola+te //_H_ pl g, //    Chocolate+0 //_H_ sg g, //
+Boysi    Boys+0 //_H_ sg g, //    Boysi+0 //_H_ sg g, //    Boyss+0 //_H_ sg g, //
+vastu    vastu+0 //_K_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+Jüri    Jüri+0 //_H_ sg n, //
+Lepp    Lepp+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>

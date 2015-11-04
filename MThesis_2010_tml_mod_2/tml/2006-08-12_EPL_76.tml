@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Peatus Amanda puhvetis : rabarberilehesupp ja kilusalat 
+Saaremaalt tulija või Matsallu sõitja võib teha söögipeatuse Amanda puhvetis ( Läänemaa , Kullamaa vald , Üdruma , u 80 km Tallinnast ) , mis on tegutsenud <TIMEX3 tid="t366" type="DATE" value="2005-06" anchorTimeID="t0">eelmise aasta juunikuust</TIMEX3> . 
+ Maja torkab juba eemalt silma oma värviliste laudade ja kümnemeetrise torniga . 
+ Söömas käis Köögi Komando . 
+ Süüa saab nii õues kui ka toas , mis on sisustatud vanade laudade , toolide ja diivaniga . 
+ Seintel ja laes on kasutatud <TIMEX3 tid="t367" type="DURATION" value="PXXY" >aastakümneid</TIMEX3> seisnud palke ja laudu . 
+ Igal juhul pidid ümmargused söögilauad , mida saab vaheplaatide abil suurendada , <TIMEX3 tid="t368" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> uute kodude sisustajate seas väga nõutav kaup olema . 
+ Amanda puhvetis võib neid täies ilus näha . 
+ Istekohad on ka üleval tornis , kust kodumaa kaunidus kaugele paistab . 
+ Lisades kohad õueterrassil ( mille rohelised plastmassist toolid ja lauad rikuvad kõik ilusa ) , saab Amanda puhvetis süüa 50 inimest . 
+ Kui Köögi Komando puhvetis käis , täitis seda soome- ja hispaaniakeelne kõne . 
+ Toitu mitte puutuvatest asjadest võiks märkida tasuta levivat WiFit ja käsitöökoda , kust saab osta armsaid klaasist , puidust ja savist asju või valmistada endale sobiva purgi ( minge ise vaatama , mida see tähendab ) . 
+</TimeML>

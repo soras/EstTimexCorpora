@@ -1,0 +1,1151 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1995-11-29TXX:XX" />
+<ignoreeri>
+|
+autor:
+URMAS
+PAET
+|
+ajalehenumber:
+Postimees
+1995.11.29
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Uudised
+|
+artikkel:
+Moonikasvatus
+on
+Eestis
+endiselt
+reguleerimata
+|
+</ignoreeri>
+<s>
+Ravimiameti    ravimi_amet+0 //_S_ sg g, //
+peadirektor    pea_direktor+0 //_S_ sg n, //
+Lembit    Lembit+0 //_H_ sg n, //
+Rägo    Rägo+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+“    “ //_Z_ //
+Postimehele    Posti_mees+le //_H_ sg all, //    Postimehe+le //_H_ sg all, //
+”    ” //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eestis    Eesti+s //_H_ sg in, //
+puudub    puudu+b //_V_ b, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+senini    senini+0 //_D_ //
+</TIMEX>
+uimastiseadus    uimasti_seadus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Kuivõrd    kui_võrd+0 //_D_ //
+uimastiseadust    uimasti_seadus+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+valdkond    valdkond+0 //_S_ sg n, //
+üldse    üldse+0 //_D_ //
+õrnalt    õrnalt+0 //_D_ //
+reguleeritud    reguleeri+tud //_V_ tud, //    reguleeri=tud+0 //_A_ //    reguleeri=tud+0 //_A_ sg n, //    reguleeri=tud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+rääkis    rääki+s //_V_ s, //
+Rägo    Rägo+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Uimastiseaduse    uimasti_seadus+0 //_S_ sg g, //
+projekt    projekt+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+valmis    valmis+0 //_A_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+peaks    pida+ks //_V_ ks, //
+<TIMEX tid="t1_10" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+varsti    varsti+0 //_D_ //
+</TIMEX>
+minema    mine+ma //_V_ ma, //
+ministeeriumidesse    ministeerium+desse //_S_ pl ill, //
+kooskõlastusringile    koos_kõlastus_ring+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Põllumajandusministeerium    põllu_majandus_ministeerium+0 //_S_ sg n, //
+soovib    soovi+b //_V_ b, //
+moonikasvatuseks    mooni_kasvatus+ks //_S_ sg tr, //
+suhteliselt    suhteliselt+0 //_D_ //
+liberaalset    liberaalne+t //_A_ sg p, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+näiteks    näide+ks //_S_ sg tr, //
+rahvusvahelised    rahvus_vaheline+d //_A_ pl n, //
+eksperdid    ekspert+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+soovitanud    soovita+nud //_V_ nud, //    soovita=nud+0 //_A_ //    soovita=nud+0 //_A_ sg n, //    soovita=nud+d //_A_ pl n, //
+Eestis    Eesti+s //_H_ sg in, //
+moonikasvatuse    mooni_kasvatus+0 //_S_ sg g, //
+keelustada    keelusta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Valitsus    valitsus+0 //_S_ sg n, //
+tegi    tege+i //_V_ s, //
+kunagi    kunagi+0 //_D_ //
+litsentside    litsents+de //_S_ pl g, //
+andmise    andmine+0 //_S_ sg g, //
+ülesande    üles_anne+0 //_S_ sg g, //
+sotsiaalministeeriumile    sotsiaal_ministeerium+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+ülesande    üles_anne+0 //_S_ sg g, //
+andmisest    andmine+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üksi    üksi+0 //_D_ //
+vähe    vähe+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+reglement    reglement+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+litsentse    litsents+e //_S_ pl p, //
+anda    and+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kuivõrd    kui_võrd+0 //_D_ //
+reglementi    reglement+0 //_S_ sg p, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+pole    ole+0 //_V_ neg o, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+polegi    ole+gi //_V_ neg o, //
+midagi    miski+dagi //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+arutles    arutle+s //_V_ s, //
+Lembit    Lembit+0 //_H_ sg n, //
+Rägo    Rägo+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rägo    Rägo+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+võiks    või+ks //_V_ ks, //
+siis    siis+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+moonikasvatuslitsentside    mooni_kasvatus_litsents+de //_S_ pl g, //
+väljaandmine    välja_andmine+0 //_S_ sg n, //
+oleks    ole+ks //_V_ ks, //
+seadusandlikult    seadus_andlikult+0 //_D_ //
+paika    paik+0 //_S_ adt, //
+pandud    pan=dud+0 //_A_ //    pan=dud+0 //_A_ sg n, //    pan=dud+d //_A_ pl n, //    pane+dud //_V_ tud, //
+,    , //_Z_ //
+<kindel_piir/>
+litsentse    litsents+e //_S_ pl p, //
+välja    välja+0 //_D_ //
+anda    and+a //_V_ da, //
+riiklik    riiklik+0 //_A_ sg n, //
+tegevuslitsentsi    tegevus_litsents+0 //_S_ sg g, //
+ekspertkomisjon    ekspert_komisjon+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+töötab    tööta+b //_V_ b, //
+sotsiaalministeeriumi    sotsiaal_ministeerium+0 //_S_ sg g, //
+juures    juures+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+annab    and+b //_V_ b, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+välja    välja+0 //_D_ //
+ravimitega    ravim+tega //_S_ pl kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+litsentse    litsents+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+lähtuda    lähtu+da //_V_ da, //
+sellest    see+st //_P_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+moonikasvatus    mooni_kasvatus+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+olla    ole+a //_V_ da, //
+ka    ka+0 //_D_ //
+toorme    toore+0 //_S_ sg g, //
+tootmine    tootmine+0 //_S_ sg n, //
+näiteks    näide+ks //_S_ sg tr, //
+farmaatsiatööstusele    farmaatsia_tööstus+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+milleks    mis+ks //_P_ pl tr, //    mis+ks //_P_ sg tr, //
+küll    küll+0 //_D_ //
+Eestis    Eesti+s //_H_ sg in, //
+mingit    mingi+t //_P_ sg p, //
+vajadust    vajadus+t //_S_ sg p, //
+pole    ole+0 //_V_ neg o, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+Eestis    Eesti+s //_H_ sg in, //
+ühtki    üks+ki //_N_ sg p, //    üks+ki //_P_ sg p, //
+sellist    selline+t //_P_ sg p, //
+valmistajat    valmistaja+t //_S_ sg p, //
+pole    ole+0 //_V_ neg o, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+võiks    või+ks //_V_ ks, //
+ka    ka+0 //_D_ //
+moonikasvatus    mooni_kasvatus+0 //_S_ sg n, //
+selle    see+0 //_P_ sg g, //
+komisjoni    komisjon+0 //_S_ sg g, //
+pädevuses    pädevus+s //_S_ sg in, //
+olla    ole+a //_V_ da, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0">
+Seni    seni+0 //_D_ //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+aga    aga+0 //_J_ //
+Rägo    Rägo+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+sellele    see+le //_P_ sg all, //
+litsentsikomisjonile    litsentsi_komisjon+le //_S_ sg all, //
+vastavat    vastav+t //_A_ sg p, //
+käsku    käsk+0 //_S_ sg p, //
+tulnud    tul=nud+0 //_A_ //    tul=nud+0 //_A_ sg n, //    tul=nud+d //_A_ pl n, //    tule+nud //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Rägo    Rägo+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+oska    oska+0 //_V_ o, //
+öelda    ütle+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+peaks    pida+ks //_V_ ks, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+tegema    tege+ma //_V_ ma, //
+talunik    talunik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tahab    taht+b //_V_ b, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1995-SP" >
+kevadel    kevad+l //_S_ sg ad, //    kevade+l //_S_ sg ad, //
+</TIMEX>
+mooni    moon+0 //_S_ sg p, //    moon+i //_S_ pl p, //
+külvata    külva+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Selleks    see+ks //_P_ sg tr, //
+pole    ole+0 //_V_ neg o, //
+keegi    keegi+0 //_P_ sg n, //
+mingit    mingi+t //_P_ sg p, //
+reglementi    reglement+0 //_S_ sg p, //
+kehtestanud    kehtesta+nud //_V_ nud, //    kehtesta=nud+0 //_A_ //    kehtesta=nud+0 //_A_ sg n, //    kehtesta=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+On    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seadusandlik    seadus_andlik+0 //_A_ sg n, //
+auk    auk+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+kehtib    kehti+b //_V_ b, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="1990" >
+1990.    1990.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+valitsuse    valitsus+0 //_S_ sg g, //
+määrus    määrus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+paneb    pane+b //_V_ b, //
+litsentside    litsents+de //_S_ pl g, //
+andmise    andmine+0 //_S_ sg g, //
+kohustuse    kohustus+0 //_S_ sg g, //
+sotsiaalministeeriumile    sotsiaal_ministeerium+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Kuna    kuna+0 //_J_ //
+sotsiaalministeerium    sotsiaal_ministeerium+0 //_S_ sg n, //
+pole    ole+0 //_V_ neg o, //
+aga    aga+0 //_J_ //
+litsentside    litsents+de //_S_ pl g, //
+väljaandmise    välja_andmine+0 //_S_ sg g, //
+korda    kord+0 //_S_ sg p, //
+kehtestanud    kehtesta+nud //_V_ nud, //    kehtesta=nud+0 //_A_ //    kehtesta=nud+0 //_A_ sg n, //    kehtesta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+pole    ole+0 //_V_ neg o, //
+seda    see+da //_P_ sg p, //
+olemas    ole+mas //_V_ mas, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+rääkis    rääki+s //_V_ s, //
+Rägo    Rägo+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Moon    moon+0 //_S_ sg n, //
+nõuab    nõud+b //_V_ b, //
+okastraati    okas_traat+0 //_S_ sg p, //
+</s>
+<s>
+“    “ //_Z_ //
+Ka    ka+0 //_D_ //
+endises    endine+s //_A_ sg in, //
+NSV    NSV+0 //_Y_ ?, //
+Liidus    Liidu+s //_H_ sg in, //    Liidud+s //_H_ sg in, //    Liit+s //_H_ sg in, //
+olid    ole+id //_V_ sid, //
+reeglid    reegel+d //_S_ pl n, //
+olemas    ole+mas //_V_ mas, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+moonipõldu    mooni_põld+0 //_S_ sg p, //
+pidada    pida+da //_V_ da, //
+,    , //_Z_ //
+milline    milline+0 //_P_ sg n, //
+valve    valve+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nõutud    nõu=tud+0 //_A_ //    nõu=tud+0 //_A_ sg n, //    nõu=tud+d //_A_ pl n, //    nõud+tud //_V_ tud, //    nõutu+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+hävitada    hävita+da //_V_ da, //
+neid    see+d //_P_ pl p, //
+mooni    moon+0 //_S_ sg g, //
+osi    osa+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+töötlemisest    töötlemine+st //_S_ sg el, //
+üle    üle+0 //_D_ //
+jäävad    jää+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+olemas    ole+mas //_V_ mas, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+nii    nii+0 //_D_ //
+karm    karm+0 //_A_ sg n, //
+värk    värk+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+panna    pane+a //_V_ da, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+endise    endine+0 //_A_ sg g, //
+NSV    NSV+0 //_Y_ ?, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+seadus    seadus+0 //_S_ sg n, //
+kehtima    kehti+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+taha    taht+0 //_V_ o, //
+ükski    üks+ki //_N_ sg n, //    üks+ki //_P_ sg n, //
+talumees    talu_mees+0 //_S_ sg n, //
+moone    moon+e //_S_ pl p, //
+kasvatada    kasvata+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Moonikasvatuseks    mooni_kasvatus+ks //_S_ sg tr, //
+nõuti    nõud+ti //_V_ ti, //
+okastraataeda    okas_traat_aed+0 //_S_ sg p, //
+,    , //_Z_ //
+koeri    koer+i //_S_ pl p, //
+,    , //_Z_ //
+prozhektoreid    prozhektor+id //_S_ pl p, //
+,    , //_Z_ //
+relvastatud    relvasta+tud //_V_ tud, //    relvastatud+0 //_A_ //    relvastatud+0 //_A_ sg n, //    relvastatud+d //_A_ pl n, //
+valvet    valve+t //_S_ sg p, //
+jne    jne+0 //_Y_ ?, //
+,    , //_Z_ //
+”    ” //_Z_ //
+lisas    lisa+s //_V_ s, //
+Rägo    Rägo+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Mulle    mina+lle //_P_ sg all, //
+sattus    sattu+s //_V_ s, //
+kätte    käsi+tte //_S_ adt, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+kandidaaditöö    kandidaadi_töö+0 //_S_ sg g, //
+moonidest    moon+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Seal    seal+0 //_D_ //
+väideti    väit+ti //_V_ ti, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+eesti    eesti+0 //_G_ //
+moon    moon+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väga    väga+0 //_D_ //
+hea    hea+0 //_A_ sg n, //
+moon    moon+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sobiks    Sobiks+0 //_H_ sg n, //
+suurepäraselt    suure_päraselt+0 //_D_ //
+narkootiliseks    narkootiline+ks //_A_ sg tr, //
+toormeks    toore+ks //_S_ sg tr, //
+,    , //_Z_ //
+”    ” //_Z_ //
+lisas    lisa+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rägo    Rägo+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+rahvusvaheliste    rahvus_vaheline+te //_A_ pl g, //
+uimastipoliitika    uimasti_poliitika+0 //_S_ sg g, //
+ekspertide    ekspert+de //_S_ pl g, //
+arvamus    arvamus+0 //_S_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Eestil    Eesti+l //_H_ sg ad, //
+tasuks    tasu+ks //_V_ ks, //
+igasugusest    iga_sugune+st //_P_ sg el, //
+moonikasvatusest    mooni_kasvatus+st //_S_ sg el, //
+hoiduda    hoidu+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+meil    mina+l //_P_ pl ad, //
+pole    ole+0 //_V_ neg o, //
+sellist    selline+t //_P_ sg p, //
+kontrollmehhanismi    kontroll_mehhanism+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+ressurssi    ressurss+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+seda    see+da //_P_ sg p, //
+ammendavalt    ammendavalt+0 //_D_ //
+reguleerida    reguleeri+da //_V_ da, //
+ja    ja+0 //_J_ //
+kontrollida    kontrolli+da //_V_ da, //
+ning    ning+0 //_J_ //
+tagada    taga+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+midagi    miski+dagi //_P_ sg p, //
+ei    ei+0 //_V_ neg, //
+juhtuks    juhtu+ks //_V_ ks, //
+.    . //_Z_ //
+</s>
+<s>
+Rägo    Rägo+0 //_H_ sg n, //
+lisas    lisa+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Skandinaavias    Skandinaavia+s //_H_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mõnel    mõni+l //_P_ sg ad, //
+pool    pool+0 //_K_ //
+siiski    siiski+0 //_D_ //
+ka    ka+0 //_D_ //
+mooni    moon+0 //_S_ adt, //
+kasvatatud    kasvata+tud //_V_ tud, //    kasvatatud+0 //_A_ //    kasvatatud+0 //_A_ sg n, //    kasvatatud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+väidetavalt    väidetavalt+0 //_D_ //
+väga    väga+0 //_D_ //
+väikese    väike+0 //_A_ sg g, //    väikene+0 //_A_ sg g, //
+alkaloididesisaldusega    alkaloidi+de_sisaldus+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+moonid    moon+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nii    nii+0 //_D_ //
+arendatatud    arendata=tud+0 //_A_ //    arendata=tud+0 //_A_ sg n, //    arendata=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Aga    Aga+0 //_H_ sg g, //    Aga+0 //_H_ sg n, //    aga+0 //_J_ //
+neil    tema+l //_P_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+ka    ka+0 //_D_ //
+väga    väga+0 //_D_ //
+kõva    kõva+0 //_A_ sg g, //
+kontrolli    kontroll+0 //_S_ sg g, //
+all    all+0 //_K_ //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Rägo    Rägo+0 //_H_ sg n, //
+arvab    arva+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+moonikasvatuse    mooni_kasvatus+0 //_S_ sg g, //
+ümber    ümber+0 //_K_ //
+toimuv    toimuv+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meil    mina+l //_P_ pl ad, //
+paljus    palju+s //_P_ sg in, //
+pseudoprobleem    pseudo_probleem+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Moonikasvatus    mooni_kasvatus+0 //_S_ sg n, //
+pole    ole+0 //_V_ neg o, //
+Eestis    Eesti+s //_H_ sg in, //
+perspektiivne    perspektiivne+0 //_A_ sg n, //
+majandusharu    majandus_haru+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+kaotamisest    kaotamine+st //_S_ sg el, //
+või    või+0 //_J_ //
+mittearendamisest    mitte_arendamine+st //_S_ sg el, //
+Eesti    Eesti+0 //_H_ sg g, //
+inimeste    inimene+te //_S_ pl g, //
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+tulevik    tulevik+0 //_S_ sg n, //
+</TIMEX>
+sõltuks    sõltu+ks //_V_ ks, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+leiab    leid+b //_V_ b, //
+ravimi-ameti    ravimi-amet+0 //_S_ sg g, //
+peadirektor    pea_direktor+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rägo    Rägo+0 //_H_ sg g, //
+arvates    arva+tes //_V_ des, //
+polnud    ole+nud //_V_ neg nud, //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1995-SU" >
+suvine    suvine+0 //_A_ sg n, //
+</TIMEX>
+moonipõllu    mooni_põld+0 //_S_ sg g, //
+hävitamine    hävitamine+0 //_S_ sg n, //
+Viljandimaal    Viljandi_maa+l //_H_ sg ad, //
+põhimõtteliselt    põhi_mõtteliselt+0 //_D_ //
+iseeneset    iseeneset+0 //_S_ sg n, //
+vale    vale+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+vale    vale+0 //_A_ sg n, //
+oli    ole+i //_V_ s, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+seda    see+da //_P_ sg p, //
+tehti    tege+ti //_V_ ti, //
+.    . //_Z_ //
+</s>
+<s>
+Alternatiivne    alternatiivne+0 //_A_ sg n, //
+põllumajandus    põllu_majandus+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+sotsiaalministeeriumi    sotsiaal_ministeerium+0 //_S_ sg g, //
+spetsialist    spetsialist+0 //_S_ sg n, //
+Tarmo    Tarmo+0 //_H_ sg n, //
+Kariis    Kariis+0 //_H_ sg n, //
+nentis    nenti+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+moonikasvatuse    mooni_kasvatus+0 //_S_ sg g, //
+reguleerimisel    reguleerimine+l //_S_ sg ad, //
+võrreldes    võrdle+des //_V_ des, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1995-SU" >
+suvega    suvi+ga //_S_ sg kom, //
+</TIMEX>
+midagi    miski+dagi //_P_ sg p, //
+targemaks    targem+ks //_C_ sg tr, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Moonikasvatuse    mooni_kasvatus+0 //_S_ sg g, //
+reguleerimisel    reguleerimine+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Kariisi    Kariis+0 //_H_ sg g, //    Kariisi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+põhimõtteline    põhi_mõtteline+0 //_A_ sg n, //
+vastuolu    vastu_olu+0 //_S_ sg n, //
+ühelt    üks+lt //_N_ sg abl, //    üks+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+sotsiaal-    sotsiaal+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+sise-    sise //_S_ ?, //
+ning    ning+0 //_J_ //
+teiselt    teine+lt //_O_ sg abl, //    teine+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+põllumajandusministeeriumi    põllu_majandus_ministeerium+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Põllumajandusministeerium    põllu_majandus_ministeerium+0 //_S_ sg n, //
+tahab    taht+b //_V_ b, //
+Kariisi    Kariis+0 //_H_ sg g, //    Kariisi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+võrdlemisi    võrdlemisi+0 //_D_ //
+liberaalset    liberaalne+t //_A_ sg p, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+oleks    ole+ks //_V_ ks, //
+võimalik    võimalik+0 //_A_ sg n, //
+alternatiivset    alternatiivne+t //_A_ sg p, //
+põllumajandust    põllu_majandus+t //_S_ sg p, //
+edendada    edenda+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kariis    Kariis+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+keegi    keegi+0 //_P_ sg n, //
+peaks    pida+ks //_V_ ks, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+taotlema    taotle+ma //_V_ ma, //
+moonikasvatuseks    mooni_kasvatus+ks //_S_ sg tr, //
+litsentsi    litsents+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+eks    eks+0 //_D_ //
+midagi    miski+dagi //_P_ sg p, //
+tehakse    tege+akse //_V_ takse, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+Seni    seni+0 //_D_ //
+</TIMEX>
+pole    ole+0 //_V_ neg o, //
+ühtki    üks+ki //_N_ sg p, //    üks+ki //_P_ sg p, //
+litsentsi    litsents+0 //_S_ sg p, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+keegi    keegi+0 //_P_ sg n, //
+pole    ole+0 //_V_ neg o, //
+seda    see+da //_P_ sg p, //
+taotlenudki    taotle+nudki //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Kariisi    Kariis+0 //_H_ sg g, //    Kariisi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+soovib    soovi+b //_V_ b, //
+põllumajandusministeerium    põllu_majandus_ministeerium+0 //_S_ sg n, //
+moonikasvatust    mooni_kasvatus+t //_S_ sg p, //
+reguleerivas    reguleeriv+s //_A_ sg in, //
+seaduses    seadus+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+moone    moone+0 //_S_ sg n, //
+eristataks    erista+taks //_V_ taks, //
+liikide    liik+de //_S_ pl g, //
+kaupa    kaupa+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+milliseid    milline+id //_P_ pl p, //
+võib    või+b //_V_ b, //
+kasvatada    kasvata+da //_V_ da, //
+igasuguste    iga_sugune+te //_P_ pl g, //
+piiranguteta    piirang+teta //_S_ pl ab, //
+ja    ja+0 //_J_ //
+järelevalveta    järele_valve+ta //_S_ sg ab, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+milliseid    milline+id //_P_ pl p, //
+ei    ei+0 //_V_ neg, //
+tohi    tohti+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+See    see+0 //_P_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lubatud    luba+tud //_V_ tud, //    lubatu+d //_A_ pl n, //    lubatud+0 //_A_ //    lubatud+0 //_A_ sg n, //    lubatud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+väidetavalt    väidetavalt+0 //_D_ //
+ohutuid    ohutu+id //_A_ pl p, //
+liike    liik+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+keegi    keegi+0 //_P_ sg n, //
+peaks    pida+ks //_V_ ks, //
+olema    ole+ma //_V_ ma, //
+võimaline    võima=line+0 //_A_ sg n, //
+käima    käi+ma //_V_ ma, //
+regulaarselt    regulaarselt+0 //_D_ //
+kontrollimas    kontrolli+mas //_V_ mas, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+tegu    tegu+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tõepoolest    tõe_poolest+0 //_D_ //
+väidetud    väide=tud+0 //_A_ //    väide=tud+0 //_A_ sg n, //    väide=tud+d //_A_ pl n, //    väit+tud //_V_ tud, //
+ohutu    ohutu+0 //_A_ sg g, //
+liigi    liik+0 //_S_ sg g, //
+kasvatamisega    kasvatamine+ga //_S_ sg kom, //
+millegi    miski+gi //_P_ sg g, //
+muuga    muu+ga //_P_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+rääkis    rääki+s //_V_ s, //
+Kariis    Kariis+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sotsiaal-    sotsiaal+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+siseministeeriumi    sise_ministeerium+0 //_S_ sg g, //
+arvamus    arvamus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+liike    liik+e //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+tasu    tasu+0 //_V_ o, //
+eristada    erista+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kontrolli    kontroll+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+kõigile    kõik+le //_P_ pl all, //
+ühtne    ühtne+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sarnane    sarnane+0 //_A_ sg n, //
+nõukogudeaegse    nõu_kogude_aegne+0 //_A_ sg g, //
+korraga    kord+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+moonipõlde    mooni_põld+e //_S_ pl p, //
+peaaegu    pea_aegu+0 //_D_ //
+polnud    ole+nud //_V_ neg nud, //
+,    , //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+Kariis    Kariis+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Uimastiseaduse    uimasti_seadus+0 //_S_ sg g, //
+projektis    projekt+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Kariisi    Kariis+0 //_H_ sg g, //    Kariisi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+kirjas    kirjas+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+moone    moone+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+erandkorras    erand_kord+s //_S_ sg in, //
+kasvatada    kasvata+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+üldjuhul    üld_juht+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+keelatud    keela+tud //_V_ tud, //    keelatud+0 //_A_ //    keelatud+0 //_A_ sg n, //    keelatud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+karmilt    karmilt+0 //_D_ //
+kontrollitud    kontrolli+tud //_V_ tud, //    kontrolli=tud+0 //_A_ //    kontrolli=tud+0 //_A_ sg n, //    kontrolli=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Erandkord    Erand_kord+0 //_H_ sg n, //    Erandkord+0 //_H_ sg n, //
+tähendabki    tähenda+bki //_V_ b, //
+Kariisi    Kariis+0 //_H_ sg g, //    Kariisi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+litsentse    litsents+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+eritingimuste    eri_tingimus+te //_S_ pl g, //
+täitmist    täitmine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Litsentsi    litsents+0 //_S_ sg g, //
+saamise    saamine+0 //_S_ sg g, //
+võimalikud    võimalik+d //_A_ pl n, //
+tingimused    tingimus+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+näiteks    näiteks+0 //_D_ //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+moonide    moon+de //_S_ pl g, //
+kogu    kogu+0 //_A_ //
+kasvuperioodi    kasvu_periood+0 //_S_ sg g, //
+vältel    vältel+0 //_K_ //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+tagatud    taga+tud //_V_ tud, //    taga=tud+0 //_A_ //    taga=tud+0 //_A_ sg n, //    taga=tud+d //_A_ pl n, //
+põllu    põld+0 //_S_ sg g, //
+järelevalve    järele_valve+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+pärast    pärast+0 //_K_ //
+saagi    saak+0 //_S_ sg g, //
+koristamist    koristamine+t //_S_ sg p, //
+peavad    pida+vad //_V_ vad, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+jäägid    jääk+d //_S_ pl n, //
+olema    ole+ma //_V_ ma, //
+hävitatud    hävita+tud //_V_ tud, //    hävita=tud+0 //_A_ //    hävita=tud+0 //_A_ sg n, //    hävita=tud+d //_A_ pl n, //
+vastavate    vastav+te //_A_ pl g, //
+tingimuste    tingimus+te //_S_ pl g, //
+järgi    järgi+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+töötlemise    töötlemine+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+peavad    pida+vad //_V_ vad, //
+varud    varu+d //_S_ pl n, //
+olema    ole+ma //_V_ ma, //
+valvatud    valva+tud //_V_ tud, //    valva=tud+0 //_A_ //    valva=tud+0 //_A_ sg n, //    valva=tud+d //_A_ pl n, //
+jne.    jne+0 //_Y_ ?, //
+</s>
+<s>
+Kariis    Kariis+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="1996-SP" >
+tuleval    tulev+l //_A_ sg ad, //
+kevadel    kevad+l //_S_ sg ad, //    kevade+l //_S_ sg ad, //
+</TIMEX>
+moonipõldu    mooni_põld+0 //_S_ sg p, //
+rajada    raja+da //_V_ da, //
+sooviv    sooviv+0 //_A_ sg n, //
+talunik    talunik+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+saama    saa+ma //_V_ ma, //
+litsentsi    litsents+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_5" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0">
+Seni    seni+0 //_D_ //
+</TIMEX>
+pole    ole+0 //_V_ neg o, //
+küll    küll+0 //_D_ //
+ühtki    üks+ki //_N_ sg p, //    üks+ki //_P_ sg p, //
+litsentsi    litsents+0 //_S_ sg p, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+tähenda    tähenda+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+seda    see+da //_P_ sg p, //
+poleks    ole+ks //_V_ neg ks, //
+võimalik    võimalik+0 //_A_ sg n, //
+teha    tege+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Kuigi    Kuig+0 //_H_ adt, //    Kuig+0 //_H_ sg g, //    Kuig+0 //_H_ sg p, //    Kuigi+0 //_H_ sg g, //    Kuigi+0 //_H_ sg n, //    Kuik+0 //_H_ sg g, //    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+meil    mina+l //_P_ pl ad, //
+ühtki    üks+ki //_N_ sg p, //    üks+ki //_P_ sg p, //
+järelevalveorganisatsiooni    järele_valve_organisatsioon+0 //_S_ sg p, //
+pole    ole+0 //_V_ neg o, //
+.    . //_Z_ //
+</s>
+<s>
+Meil    mina+l //_P_ pl ad, //
+peaks    pida+ks //_V_ ks, //
+olema    ole+ma //_V_ ma, //
+struktuur    struktuur+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+asja    asi+0 //_S_ sg p, //
+jagaks    jaga+ks //_V_ ks, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+oleks    ole+ks //_V_ ks, //
+võimeline    võimeline+0 //_A_ sg n, //
+litsentse    litsents+e //_S_ pl p, //
+välja    välja+0 //_D_ //
+andma    and+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praeguse    praegune+0 //_A_ sg g, //
+</TIMEX>
+litsentsikomisjoni    litsentsi_komisjon+0 //_S_ sg g, //
+tegevust    tegevus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+volitusi    volitus+i //_S_ pl p, //
+tuleks    tule+ks //_V_ ks, //
+laiendada    laienda+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+tal    tema+l //_P_ sg ad, //
+pole    ole+0 //_V_ neg o, //
+selliseid    selline+id //_P_ pl p, //
+volitusi    volitus+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+materiaalseid    materiaalne+id //_A_ pl p, //
+võimalusi    võimalus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+lisas    lisa+s //_V_ s, //
+Kariis    Kariis+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kariisi    Kariis+0 //_H_ sg g, //    Kariisi+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+kehtib    kehti+b //_V_ b, //
+<TIMEX  tid="t14" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+valitsuse    valitsus+0 //_S_ sg g, //
+määrus    määrus+0 //_S_ sg n, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="false" value="1990" >
+1990.    1990.+0 //_O_ ?, //
+aastast    aasta+st //_S_ sg el, //
+</TIMEX>
+tegevuslitsentside    tegevus_litsents+de //_S_ pl g, //
+väljastamisest    väljastamine+st //_S_ sg el, //
+erinevates    erinev+tes //_A_ pl in, //
+tegevusvaldkondades    tegevus_valdkond+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Seal    seal+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+öeldud    öeldud+0 //_A_ //    öeldud+0 //_A_ sg n, //    öeldud+d //_A_ pl n, //    ütle+dud //_V_ tud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+narkootilisi    narkootiline+i //_A_ pl p, //
+,    , //_Z_ //
+psühhotroopseid    psühho_troopne+id //_A_ pl p, //
+või    või+0 //_J_ //
+mürgiseid    mürgine+id //_A_ pl p, //
+aineid    aine+id //_S_ pl p, //
+sisaldavate    sisaldav+te //_A_ pl g, //
+taimede    taim+de //_S_ pl g, //
+kasvatamine    kasvatamine+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+litsentseeritud    litsentseeri+tud //_V_ tud, //    litsentseeri=tud+0 //_A_ //    litsentseeri=tud+0 //_A_ sg n, //    litsentseeri=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Hilisem    hilisem+0 //_C_ sg n, //
+majandusministeeriumi    majandus_ministeerium+0 //_S_ sg g, //
+määrus    määrus+0 //_S_ sg n, //
+paneb    pane+b //_V_ b, //
+selle    see+0 //_P_ sg g, //
+kohustuse    kohustus+0 //_S_ sg g, //
+sotsiaalministeeriumile    sotsiaal_ministeerium+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX tid="t1_6" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0">
+seni    seni+0 //_D_ //
+</TIMEX>
+näiteks    näide+ks //_S_ sg tr, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+ravimite    ravim+te //_S_ pl g, //
+müük    müük+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+valmistamine    valmistamine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+rääkis    rääki+s //_V_ s, //
+Kariis    Kariis+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Kuna    kuna+0 //_J_ //
+<TIMEX tid="t1_7" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0">
+seni    seni+0 //_D_ //
+</TIMEX>
+polnud    ole+nud //_V_ neg nud, //
+moonidega    moon+dega //_S_ pl kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+küsimused    küsimus+d //_S_ pl n, //
+aktuaalsed    aktuaalne+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+keegi    keegi+0 //_P_ sg n, //
+litsentsi    litsents+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+taotlenud    taotle+nud //_V_ nud, //    taotle=nud+0 //_A_ //    taotle=nud+0 //_A_ sg n, //    taotle=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+praktikas    praktika+s //_S_ sg in, //
+mingit    mingi+t //_P_ sg p, //
+litsentseerimise    litsentseeri=mine+0 //_S_ sg g, //
+korda    kord+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Teoorias    teooria+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+litsentsi    litsents+0 //_S_ sg p, //
+saamiseks    saamine+ks //_S_ sg tr, //
+kord    kord+0 //_D_ //
+olemas    ole+mas //_V_ mas, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+praktikas    praktika+s //_S_ sg in, //
+seda    see+da //_P_ sg p, //
+pole    ole+0 //_V_ neg o, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Tarmo    Tarmo+0 //_H_ sg n, //
+Kariis    Kariis+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>

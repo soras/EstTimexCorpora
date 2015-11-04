@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Tuuli Aug 
+ Foto : Rene Suurkaev 
+ Briti ajaleht The Guardian ülistab " tillukesest " Tallinnast kirjutades kohvikuid ning mainib ära hotellitoa tasuta interneti . 
+ " The New York Times kutsub Tallinna Balti riikide Las Vegaseks . 
+ Poissmeestepidude korraldajad nimetavad seda Metsikuks Idaks , kuid sellest ei tohi lasta end segada Tallinna tõeliste võlude leidmisel , " kirjutab The Guardian. 
+ Ajalehe hinnangul on Tallinna vanalinn sügispäikeses ilus ja siia tasuvat tulla just <TIMEX3 tid="t69" type="DATE" value="XXXX-FA">sügisel</TIMEX3> ka seepärast , et poissmeestepidude kõrghooaeg on läbi . 
+ Leht möönab , et pidutsejaid voolab Inglismaalt Tallinna ka <TIMEX3 tid="t70" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> , kuid " neid on lihtne vältida isegi nii tillukeses linnas kui Tallinn . " 
+ The Guardiani hinnangul jäävad poissmeestepidude pidajad Karja tänava ümbrusse pidama ja nende eest pagemiseks piisab Harju tänavale minekust . 
+ " Harju piirkonnas on fantastiline trio kokteilibaare : lõõgastunud Pegasus , ülikülluslik Moskva ja Stereo , mis näeb välja nagu futuristlik uusversioon Stanley Kubricki " Kellavärgiga apelsini " Korona Milk Bar'ist , " õhkab The Guardian . 
+</TimeML>

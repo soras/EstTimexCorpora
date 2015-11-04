@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+  ARTIKKEL: Sprindivõistlus lükkas Suverullile hoo sisse 
+Proloogi nobedaimad olid venelasest üllataja Ilja T?ernoussov ja soomlanna Pirjo Manninen . 
+ " Peasüüdlasi " pole keeruline leida - loomulikult Torino talimängude kangelased Kristina ?migun ja Andrus Veerpalu . 
+ Hoolimata kodupubliku ennastsalgavast ergutuskisast neljanda kohaga leppima pidanud ?migun kaotas naiste sprindi võitjale Pirjo Manninenile vaid <TIMEX3 tid="t193" type="DURATION" value="PT1.3S" >1,3 sekundiga</TIMEX3> - nii tihedaks kujunes ässade <TIMEX3 tid="t194" type="DATE" value="2006-SU" anchorTimeID="t0">suvine</TIMEX3> heitlus . 
+ Kuid ärgem mingem ka liiga tõsiseks , sest suusatippude <TIMEX3 tid="t195" type="DATE" value="XXXX-SU" >suvisele</TIMEX3> ettevalmistusele hinnangu andev Suverull pole kunagi olnud nii tõsine spordivõistlus kui <TIMEX3 tid="t196" type="DATE" value="XXXX-WI" >talvised</TIMEX3> heitlused . 
+ Siin kuulub " kohustuslikku " kavasse ka konkurentidega suhtlemine ning mõnusa õhkkonna nautimine . 
+ Enda sõnul ebaõnneaastad selja taha jätnud Mannineni kõrval vallutasid poodiumi vaid soomlannad : teise koha omanikuna Riitta-Lii Roponen , kolmandaks tuli Aino-Kaisa Saarinen . 
+</TimeML>

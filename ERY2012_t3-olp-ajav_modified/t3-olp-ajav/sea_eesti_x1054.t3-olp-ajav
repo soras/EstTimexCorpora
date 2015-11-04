@@ -1,0 +1,1004 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-XX-XXTXX:XX" />
+<ignoreeri>
+|
+seadus:
+Arstiabi
+esimese
+etapi
+korraldamine
+(
+Consensus
+1998
+II
+köide
+)
+|
+</ignoreeri>
+<s>
+Arstiabi    arsti_abi+0 //_S_ sg g, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+korraldamine    korraldamine+0 //_S_ sg n, //
+</s>
+<s>
+Sotsiaalministri    sotsiaal_minister+0 //_S_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="1997-04-03" >
+3.    3.+0 //_O_ ?, //
+aprilli    aprill+0 //_S_ sg g, //
+1997.    1997.+0 //_O_ ?, //
+a    a+0 //_Y_ ?, //
+</TIMEX>
+määrus    määrus+0 //_S_ sg n, //
+nr    nr+0 //_Y_ ?, //
+17    17+0 //_N_ ?, //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+RTL    RTL+0 //_Y_ ?, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="false" value="1997" >
+1997    1997+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+75    75+0 //_N_ ?, //
+,    , //_Z_ //
+430    430+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+Lähtudes    lähtu+des //_V_ des, //
+tervishoiukorralduse    tervis_hoiu_korraldus+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+RT    RT+0 //_Y_ ?, //
+I    I+0 //_O_ ?, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="1994" >
+1994    1994+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+10    10+0 //_N_ ?, //
+,    , //_Z_ //
+133    133+0 //_N_ ?, //
+;    ; //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t4" type="DATE" temporalFunction="false" value="1995" >
+1995    1995+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+57    57+0 //_N_ ?, //
+,    , //_Z_ //
+978    978+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+paragrahvi    paragrahv+0 //_S_ sg g, //
+7    7+0 //_N_ ?, //
+lõikest    lõige+st //_S_ sg el, //
+2    2+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+riigi    riik+0 //_S_ sg g, //
+tervishoiu    tervis_hoid+0 //_S_ sg g, //
+arengukavast    arengu_kava+st //_S_ sg el, //
+määran    määra+n //_V_ n, //
+:    : //_Z_ //
+</s>
+<s>
+1.    1.+0 //_O_ ?, //
+</s>
+<s>
+Kehtestada    kehtesta+da //_V_ da, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+korralduses    korraldus+s //_S_ sg in, //
+üleminek    üle_minek+0 //_S_ sg n, //
+jaoskonnaarsti    jaoskonna_arst+0 //_S_ sg g, //
+põhimõttelt    põhi_mõte+lt //_S_ sg abl, //
+perearsti    pere_arst+0 //_S_ sg g, //
+põhimõttele    põhi_mõte+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+2.    2.+0 //_O_ ?, //
+</s>
+<s>
+Kehtestada    kehtesta+da //_V_ da, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andmise    andmine+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+juurde    juurde+0 //_D_ //
+lisatud    lisa+tud //_V_ tud, //    lisa=tud+0 //_A_ //    lisa=tud+0 //_A_ sg n, //    lisa=tud+d //_A_ pl n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+3.    3.+0 //_O_ ?, //
+</s>
+<s>
+Maakonnaarstidel    maakonna_arst+del //_S_ pl ad, //
+koostöös    koos_töö+s //_S_ sg in, //
+kohalike    kohalik+e //_A_ pl g, //
+omavalitsuste    oma_valitsus+te //_S_ pl g, //
+ning    ning+0 //_J_ //
+valla-    vald+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+linnaarstidega    linna_arst+dega //_S_ pl kom, //
+:    : //_Z_ //
+</s>
+<s>
+1    1+0 //_N_ ?, //
+)    ) //_Z_ //
+määrata    määra+ta //_V_ da, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andvate    andev+te //_A_ pl g, //
+arstide    arst+de //_S_ pl g, //
+arv    arv+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+perspektiivpaigutus    perspektiiv_paigutus+0 //_S_ sg n, //
+oma    oma+0 //_P_ sg g, //
+haldusterritooriumil    haldus_territoorium+l //_S_ sg ad, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="1997-07-01" >
+1.    1.+0 //_O_ ?, //
+juuliks    juuli+ks //_S_ sg tr, //
+1997.    1997.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+;    ; //_Z_ //
+</s>
+<s>
+2    2+0 //_N_ ?, //
+)    ) //_Z_ //
+korraldada    korralda+da //_V_ da, //
+omavalitsuse    oma_valitsus+0 //_S_ sg g, //
+territooriumil    territoorium+l //_S_ sg ad, //
+elavate    elav+te //_A_ pl g, //
+isikute    isik+te //_S_ pl g, //
+registreerimine    registreerimine+0 //_S_ sg n, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andvate    andev+te //_A_ pl g, //
+arstide    arst+de //_S_ pl g, //
+nimistutesse    nimistu+tesse //_S_ pl ill, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="1997-11-01" >
+1.    1.+0 //_O_ ?, //
+novembriks    november+ks //_S_ sg tr, //
+1997.    1997.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+;    ; //_Z_ //
+</s>
+<s>
+3    3+0 //_N_ ?, //
+)    ) //_Z_ //
+valmistada    valmista+da //_V_ da, //
+ette    ette+0 //_D_ //
+kohaliku    kohalik+0 //_A_ sg g, //
+omavalitsuse    oma_valitsus+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andva    andev+0 //_A_ sg g, //
+arsti    arst+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+tervishoiuasutuse    tervis_hoiu_asutus+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+sõlmitava    sõlmitav+0 //_A_ sg g, //
+lepingu    leping+0 //_S_ sg g, //
+vormid    vorm+d //_S_ pl n, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+määrusega    määrus+ga //_S_ sg kom, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+korra    kord+0 //_S_ sg g, //
+punktide    punkt+de //_S_ pl g, //
+20    20+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+21    21+0 //_N_ ?, //
+kohaselt    kohaselt+0 //_D_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="false" value="1997-10-01" >
+1.    1.+0 //_O_ ?, //
+oktoobriks    oktoober+ks //_S_ sg tr, //
+1997.    1997.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+4.    4.+0 //_O_ ?, //
+</s>
+<s>
+Maakonnaarstil    maakonna_arst+l //_S_ sg ad, //
+kinnitada    kinnita+da //_V_ da, //
+arsti    arst+0 //_S_ sg g, //
+nimistu    nimistu+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+korraldada    korralda+da //_V_ da, //
+selle    see+0 //_P_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+arstipraksis    arsti_praksis+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+5.    5.+0 //_O_ ?, //
+</s>
+<s>
+Keskhaigekassal    kesk_haige_kassa+l //_S_ sg ad, //
+koostöös    koos_töö+s //_S_ sg in, //
+Sotsiaalministeeriumi    sotsiaal_ministeerium+0 //_S_ sg g, //
+tervishoiuosakonnaga    tervis_hoiu_osakond+ga //_S_ sg kom, //
+valmistada    valmista+da //_V_ da, //
+ette    ette+0 //_D_ //
+haigekassa    haige_kassa+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+arstipraksisega    arsti_praksis+ga //_S_ sg kom, //
+tegeleva    tegelev+0 //_A_ sg g, //
+arsti    arst+0 //_S_ sg g, //
+,    , //_Z_ //
+tervishoiuasutuse    tervis_hoiu_asutus+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+sõlmitava    sõlmitav+0 //_A_ sg g, //
+lepingu    leping+0 //_S_ sg g, //
+vormid    vorm+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+esitada    esita+da //_V_ da, //
+ministrile    minister+le //_S_ sg all, //
+kinnitamiseks    kinnitamine+ks //_S_ sg tr, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="false" value="1997-10-01" >
+1.    1.+0 //_O_ ?, //
+oktoobriks    oktoober+ks //_S_ sg tr, //
+1997.    1997.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+6.    6.+0 //_O_ ?, //
+</s>
+<s>
+Kehtestada    kehtesta+da //_V_ da, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstipraksise    arsti_praksis+0 //_S_ sg g, //
+rahastamine    rahastamine+0 //_S_ sg n, //
+valdavalt    valdavalt+0 //_D_ //
+pearaha    pea_raha+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+alates    alates+0 //_K_ //
+<TIMEX  tid="t9" type="DATE" temporalFunction="false" value="1998-01-01" >
+1.    1.+0 //_O_ ?, //
+jaanuarist    jaanuar+st //_S_ sg el, //
+1998.    1998.+0 //_O_ ?, //
+a.    a+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+Pearaha    pea_raha+0 //_S_ sg g, //
+arvutamise    arvutamine+0 //_S_ sg g, //
+metoodika    metoodika+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+valemi    valem+0 //_S_ sg g, //
+kinnitab    kinnita+b //_V_ b, //
+sotsiaalminister    sotsiaal_minister+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+7.    7.+0 //_O_ ?, //
+</s>
+<s>
+Piirkondlikel    piirkondlik+el //_A_ pl ad, //
+haigekassadel    haige_kassa+del //_S_ pl ad, //
+võtta    võt+a //_V_ da, //
+uute    uus+te //_A_ pl g, //
+lepingute    leping+te //_S_ pl g, //
+sõlmimisel    sõlmimine+l //_S_ sg ad, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andvale    andev+le //_A_ sg all, //
+arstile    arst+le //_S_ sg all, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+nimistus    nimistu+s //_S_ sg in, //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+isikute    isik+te //_S_ pl g, //
+arv    arv+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andmise    andmine+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+</s>
+<s>
+I    I+0 //_Y_ ?, //
+</s>
+<s>
+Üldosa    üld_osa+0 //_S_ sg g, //
+</s>
+<s>
+1.    1.+0 //_O_ ?, //
+</s>
+<s>
+Arstiabi    arsti_abi+0 //_S_ sg g, //
+esimesel    esimene+l //_O_ sg ad, //
+etapil    etapp+l //_S_ sg ad, //
+korraldatakse    korralda+takse //_V_ takse, //
+piirkondlikul    piirkondlik+l //_A_ sg ad, //
+põhimõttel    põhi_mõte+l //_S_ sg ad, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+arsti    arst+0 //_S_ sg g, //
+nimistu    nimistu+0 //_S_ sg n, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+<kiil>
+(    ( //_Z_ //
+edaspidi    edas_pidi+0 //_D_ //
+nimistu    nimistu+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+2.    2.+0 //_O_ ?, //
+</s>
+<s>
+Esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ambulatoorne    ambulatoorne+0 //_A_ sg n, //
+arstiabi    arsti_abi+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+annavad    and+vad //_V_ vad, //
+perearst    pere_arst+0 //_S_ sg n, //
+,    , //_Z_ //
+üldarst    üld_arst+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+lastearst    laste_arst+0 //_S_ sg n, //
+koos    koos+0 //_K_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+neid    tema+d //_P_ pl p, //
+abistavate    abistav+te //_A_ pl g, //
+meditsiinitöötajatega    meditsiini_töötaja+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+3.    3.+0 //_O_ ?, //
+</s>
+<s>
+Esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andva    andev+0 //_A_ sg g, //
+arsti    arst+0 //_S_ sg g, //
+põhiülesandeks    põhi_üles_anne+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nimistusse    nimistu+sse //_S_ sg ill, //
+registreeritud    registreeri+tud //_V_ tud, //    registreeritud+0 //_A_ //    registreeritud+0 //_A_ sg n, //    registreeritud+d //_A_ pl n, //
+isikute    isik+te //_S_ pl g, //
+tervise    tervis+0 //_S_ sg g, //
+edendamine    edendamine+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+haiguste    haigus+te //_S_ pl g, //
+,    , //_Z_ //
+vigastuste    vigastus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+mürgistuste    mürgistus+te //_S_ pl g, //
+ennetamine    ennetamine+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+tervisehäiretega    tervise_häire+tega //_S_ pl kom, //
+isikutele    isik+tele //_S_ pl all, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andmine    andmine+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+nende    see+de //_P_ pl g, //
+tervise    tervis+0 //_S_ sg g, //
+taastamine    taastamine+0 //_S_ sg n, //
+,    , //_Z_ //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+järjepidevuse    järje_pidevus+0 //_S_ sg g, //
+tagamine    tagamine+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+arsti    arst+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+patsiendi    patsient+0 //_S_ sg g, //
+vahelise    vaheline+0 //_A_ sg g, //
+kontakti    kontakt+0 //_S_ sg g, //
+tihendamine    tihendamine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+4.    4.+0 //_O_ ?, //
+</s>
+<s>
+Perearstipraksis    pere_arsti_praksis+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohaliku    kohalik+0 //_A_ sg g, //
+omavalitsusüksuse    oma_valitsus_üksus+0 //_S_ sg g, //
+tervishoiualaste    tervis_hoiu_alane+te //_A_ pl g, //
+kohustuste    kohustus+te //_S_ pl g, //
+täitmist    täitmine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andmist    andmine+t //_S_ sg p, //
+hõlmav    hõlmav+0 //_A_ sg n, //
+perearsti    pere_arst+0 //_S_ sg g, //
+erialane    eri_alane+0 //_A_ sg n, //
+tegevus    tegevus+0 //_S_ sg n, //
+maakonnaarsti    maakonna_arst+0 //_S_ sg g, //
+poolt    poolt+0 //_K_ //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+piirkonnas    piirkond+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+nimistu    nimistu+0 //_S_ sg n, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Perearstipraksise    pere_arsti_praksis+0 //_S_ sg g, //
+aluseks    alune+ks //_S_ sg tr, //    alus+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohaliku    kohalik+0 //_A_ sg g, //
+omavalitsuse    oma_valitsus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+perearsti    pere_arst+0 //_S_ sg g, //
+vaheline    vaheline+0 //_A_ sg n, //
+leping    leping+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+5.    5.+0 //_O_ ?, //
+</s>
+<s>
+Perearstipraksisele    pere_arsti_praksis+le //_S_ sg all, //
+korraldab    korralda+b //_V_ b, //
+vajadusel    vajadus+l //_S_ sg ad, //
+konkursi    konkurss+0 //_S_ sg g, //
+maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kusjuures    kus_juures+0 //_D_ //
+üld-    üld //_S_ ?, //
+ja    ja+0 //_J_ //
+lastearstipraksis    laste_arsti_praksis+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võrdsustatud    võrdsusta+tud //_V_ tud, //    võrdsusta=tud+0 //_A_ //    võrdsusta=tud+0 //_A_ sg n, //    võrdsusta=tud+d //_A_ pl n, //
+perearstipraksisega    pere_arsti_praksis+ga //_S_ sg kom, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+korra    kord+0 //_S_ sg g, //
+punktis    punkt+s //_S_ sg in, //
+6    6+0 //_N_ ?, //
+sätestatud    sätesta+tud //_V_ tud, //    sätesta=tud+0 //_A_ //    sätesta=tud+0 //_A_ sg n, //    sätesta=tud+d //_A_ pl n, //
+tingimustel    tingimus+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+6.    6.+0 //_O_ ?, //
+</s>
+<s>
+Perearstipraksise    pere_arsti_praksis+0 //_S_ sg g, //
+põhimõttel    põhi_mõte+l //_S_ sg ad, //
+võivad    või+vad //_V_ vad, //
+tegutseda    tegutse+da //_V_ da, //
+ka    ka+0 //_D_ //
+üldarstid    üld_arst+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+lastearstid    laste_arst+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t10" type="DURATION" temporalFunction="true" value="P2Y" mod="EQUAL_OR_LESS" >
+hiljemalt    hiljemalt+0 //_D_ //
+kahe    kaks+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+käesoleva    käes_olev+0 //_A_ sg g, //
+määruse    määrus+0 //_S_ sg g, //
+jõustumisest    jõustumine+st //_S_ sg el, //
+astunud    astu+nud //_V_ nud, //    astu=nud+0 //_A_ //    astu=nud+0 //_A_ sg n, //    astu=nud+d //_A_ pl n, //
+perearsti    pere_arst+0 //_S_ sg g, //
+tööalase    töö_alane+0 //_A_ sg g, //
+koolituse    koolitus+0 //_S_ sg g, //
+kursusele    kursus+le //_S_ sg all, //
+Tartu    Tartu+0 //_H_ sg g, //
+Ülikoolis    Üli_kool+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+7.    7.+0 //_O_ ?, //
+</s>
+<s>
+Haigekassa    haige_kassa+0 //_S_ sg g, //
+perearst    pere_arst+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+füüsilisest    füüsiline+st //_A_ sg el, //
+isikust    isik+st //_S_ sg el, //
+ettevõtja    ette_võtja+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+perearstipraksis    pere_arsti_praksis+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+leping    leping+0 //_S_ sg n, //
+piirkondliku    piirkondlik+0 //_A_ sg g, //
+haigekassaga    haige_kassa+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+8.    8.+0 //_O_ ?, //
+</s>
+<s>
+Haigekassa    haige_kassa+0 //_S_ sg g, //
+perearst    pere_arst+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+moodustada    moodusta+da //_V_ da, //
+perearstikeskuse    pere_arsti_keskus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+töötavad    tööta+vad //_V_ vad, //
+töölepinguseaduse    töö_lepingu_seadus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+tööle    töö+le //_S_ sg all, //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+arstid    arst+d //_S_ pl n, //
+,    , //_Z_ //
+õendusalatöötajad    õendusalatööta=ja+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+abipersonal    abi_personal+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+9.    9.+0 //_O_ ?, //
+</s>
+<s>
+Perearst    pere_arst+0 //_S_ sg n, //
+lähtub    lähtu+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+tegevuses    tegevus+s //_S_ sg in, //
+sotsiaalministri    sotsiaal_minister+0 //_S_ sg g, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+perearsti    pere_arst+0 //_S_ sg g, //
+ametijuhendist    ameti_juhend+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+II    II+0 //_O_ ?, //
+</s>
+<s>
+Nimistute    nimistu+te //_S_ pl g, //
+moodustamine    moodustamine+0 //_S_ sg n, //
+,    , //_Z_ //
+kinnitamine    kinnitamine+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+muutmine    muutmine+0 //_S_ sg n, //
+</s>
+<s>
+10.    10.+0 //_O_ ?, //
+</s>
+<s>
+Nimistute    nimistu+te //_S_ pl g, //
+arvu    arv+0 //_S_ sg g, //
+maakonnas    maakond+s //_S_ sg in, //
+määrab    määra+b //_V_ b, //
+maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+11.    11.+0 //_O_ ?, //
+</s>
+<s>
+Nimistu    nimistu+0 //_S_ sg g, //
+keskmine    keskmine+0 //_A_ sg n, //
+suurus    suurus+0 //_S_ sg n, //
+esmatasandi    esma_tasand+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg n, //
+andva    andev+0 //_A_ sg g, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+arsti    arst+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+1900    1900+0 //_N_ ?, //
+isikut    isik+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+lubada    luba+da //_V_ da, //
+kõrvalekaldeid    kõrvale_kalle+id //_S_ pl p, //
+±400    ±400+0 //_Y_ ?, //
+isikut    isik+t //_S_ sg p, //
+,    , //_Z_ //
+sõltuvalt    sõltuvalt+0 //_D_ //
+piirkonna    piirkond+0 //_S_ sg g, //
+eripärast    eri_pära+st //_S_ sg el, //
+<kiil>
+(    ( //_Z_ //
+saared    saar+d //_S_ pl n, //
+,    , //_Z_ //
+ääremaa    ääre_maa+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+12.    12.+0 //_O_ ?, //
+</s>
+<s>
+Maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+nimistu    nimistu+0 //_S_ sg n, //
+sulgeda    sulge+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+nimistusse    nimistu+sse //_S_ sg ill, //
+registreerunud    registreeru+nud //_V_ nud, //    registreerunud+0 //_A_ //    registreerunud+0 //_A_ sg n, //    registreerunud+d //_A_ pl n, //
+isikute    isik+te //_S_ pl g, //
+arv    arv+0 //_S_ sg n, //
+ületab    ületa+b //_V_ b, //
+2300    2300+0 //_N_ ?, //
+piiri    piir+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+13.    13.+0 //_O_ ?, //
+</s>
+<s>
+Nimistutesse    nimistu+tesse //_S_ pl ill, //
+registreerumise    registreeru=mine+0 //_S_ sg g, //
+kuulutab    kuuluta+b //_V_ b, //
+välja    välja+0 //_D_ //
+kohalik    kohalik+0 //_A_ sg n, //
+omavalitsusüksus    oma_valitsus_üksus+0 //_S_ sg n, //
+ajakirjanduse    aja_kirjandus+0 //_S_ sg g, //
+kaudu    kaudu+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+näidates    näita+tes //_V_ des, //
+ära    ära+0 //_D_ //
+pere-    pere+0 //_S_ sg g, //
+,    , //_Z_ //
+üld-    üld //_S_ ?, //
+ja    ja+0 //_J_ //
+lastearsti    laste_arst+0 //_S_ sg g, //
+nime    nimi+0 //_S_ sg g, //
+,    , //_Z_ //
+registreerumise    registreeru=mine+0 //_S_ sg g, //
+alguse    algus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lõpu    lõpp+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+registreerumise    registreeru=mine+0 //_S_ sg g, //
+koha    koha+0 //_S_ sg g, //    koht+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+viisi    viis+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+14.    14.+0 //_O_ ?, //
+</s>
+<s>
+Nimistusse    nimistu+sse //_S_ sg ill, //
+registreerumisel    registreeru=mine+l //_S_ sg ad, //
+tuleb    tule+b //_V_ b, //
+esitada    esita+da //_V_ da, //
+järgmised    järgmine+d //_A_ pl n, //
+isikuandmed    isiku_andmed+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+14.1.    14.1.+0 //_N_ ?, //
+perekonnanimi    perekonna_nimi+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+14.2.    14.2.+0 //_N_ ?, //
+eesnimi    ees_nimi+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+14.3.    14.3.+0 //_N_ ?, //
+isikukood    isiku_kood+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+sünniaeg    sünni_aeg+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+</s>
+<s>
+14.4.    14.4.+0 //_N_ ?, //
+sissekirjutus    sisse_kirjutus+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+14.5.    14.5.+0 //_N_ ?, //
+tegelik    tegelik+0 //_A_ sg n, //
+elukoht    elu_koht+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+14.6.    14.6.+0 //_N_ ?, //
+haigekassakaardi    haige_kassa_kaart+0 //_S_ sg g, //
+või    või+0 //_J_ //
+pensionitunnistuse    pensioni_tunnistus+0 //_S_ sg g, //
+number    number+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+15.    15.+0 //_O_ ?, //
+</s>
+<s>
+Mitteregistreerunud    mitte_registreerunud+0 //_A_ //    mitte_registreerunud+0 //_A_ sg n, //    mitte_registreerunud+d //_A_ pl n, //
+isikud    isik+d //_S_ pl n, //
+lülitab    lülita+b //_V_ b, //
+nimistusse    nimistu+sse //_S_ sg ill, //
+maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+kohaliku    kohalik+0 //_A_ sg g, //
+omavalitsusüksuse    oma_valitsus_üksus+0 //_S_ sg g, //
+ettepanekul    ette_panek+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+16.    16.+0 //_O_ ?, //
+</s>
+<s>
+Nimistute    nimistu+te //_S_ pl g, //
+võrdlemise    võrdlemine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+korrastamise    korrastamine+0 //_S_ sg g, //
+korraldab    korralda+b //_V_ b, //
+maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+Sotsiaalministeeriumi    sotsiaal_ministeerium+0 //_S_ sg g, //
+kehtestatud    kehtesta+tud //_V_ tud, //    kehtesta=tud+0 //_A_ //    kehtesta=tud+0 //_A_ sg n, //    kehtesta=tud+d //_A_ pl n, //
+metoodika    metoodika+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+17.    17.+0 //_O_ ?, //
+</s>
+<s>
+Nimistud    nimistu+d //_S_ pl n, //
+kinnitab    kinnita+b //_V_ b, //
+maakonnaarst    maakonna_arst+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+esitab    esita+b //_V_ b, //
+need    see+d //_P_ pl n, //
+piirkondlikule    piirkondlik+le //_A_ sg all, //
+haigekassale    haige_kassa+le //_S_ sg all, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="XXXX-12-01" >
+1.    1.+0 //_O_ ?, //
+detsembriks    detsember+ks //_S_ sg tr, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+18.    18.+0 //_O_ ?, //
+</s>
+<s>
+Kõigil    kõik+l //_P_ pl ad, //
+registreerunud    registreeru+nud //_V_ nud, //    registreerunud+0 //_A_ //    registreerunud+0 //_A_ sg n, //    registreerunud+d //_A_ pl n, //
+isikutel    isik+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+õigus    õigus+0 //_S_ sg n, //
+ennast    ise+t //_P_ sg p, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+nimistusse    nimistu+sse //_S_ sg ill, //
+ümber    ümber+0 //_D_ //
+registreerida    registreeri+da //_V_ da, //
+<TIMEX  tid="t13" type="SET" temporalFunction="true" value="P1Y" quant="EVERY" >
+iga    iga+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+<TIMEX  tid="t14" type="DATE" temporalFunction="true" value="XXXX-10" anchorTimeID="t13">
+oktoobrikuu    oktoobri_kuu+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Ümberregistreerumise    ümber_registreeru=mine+0 //_S_ sg g, //
+koha    koha+0 //_S_ sg g, //    koht+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+korra    kord+0 //_S_ sg g, //
+määrab    määra+b //_V_ b, //
+kohalik    kohalik+0 //_A_ sg n, //
+omavalitsusüksus    oma_valitsus_üksus+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+teatab    teata+b //_V_ b, //
+sellest    see+st //_P_ sg el, //
+ajakirjanduse    aja_kirjandus+0 //_S_ sg g, //
+kaudu    kaudu+0 //_K_ //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="XXXX-09-01" mod="ON_OR_BEFORE">
+hiljemalt    hiljemalt+0 //_D_ //
+1.    1.+0 //_O_ ?, //
+septembriks    september+ks //_S_ sg tr, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+19.    19.+0 //_O_ ?, //
+</s>
+<s>
+Seoses    seoses+0 //_K_ //
+elukoha    elu_koht+0 //_S_ sg g, //
+muutumisega    muutumine+ga //_S_ sg kom, //
+toimub    toimu+b //_V_ b, //
+ümberregistreerumine    ümber_registreeru=mine+0 //_S_ sg n, //
+isikule    isik+le //_S_ sg all, //
+sobival    sobiv+l //_A_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+käesoleva    käes_olev+0 //_A_ sg g, //
+korra    kord+0 //_S_ sg g, //
+punkti    punkt+0 //_S_ sg g, //
+16    16+0 //_N_ ?, //
+kohaselt    kohaselt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+III    III+0 //_O_ ?, //
+</s>
+<s>
+Lepingud    leping+d //_S_ pl n, //
+</s>
+<s>
+20.    20.+0 //_O_ ?, //
+</s>
+<s>
+Esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andev    andev+0 //_A_ sg n, //
+arst    arst+0 //_S_ sg n, //
+,    , //_Z_ //
+tervishoiuasutus    tervis_hoiu_asutus+0 //_S_ sg n, //
+sõlmib    sõlmi+b //_V_ b, //
+kohaliku    kohalik+0 //_A_ sg g, //
+omavalitsusüksusega    oma_valitsus_üksus+ga //_S_ sg kom, //
+lepingu    leping+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+21.    21.+0 //_O_ ?, //
+</s>
+<s>
+Esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andva    andev+0 //_A_ sg g, //
+raviasutuse    ravi_asutus+0 //_S_ sg g, //
+,    , //_Z_ //
+arsti    arst+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kohaliku    kohalik+0 //_A_ sg g, //
+omavalitsusüksuse    oma_valitsus_üksus+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+sõlmitavas    sõlmitav+s //_A_ sg in, //
+lepingus    leping+s //_S_ sg in, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+näidatud    näida=tud+0 //_A_ //    näida=tud+0 //_A_ sg n, //    näida=tud+d //_A_ pl n, //    näita+tud //_V_ tud, //
+:    : //_Z_ //
+</s>
+<s>
+21.1.    21.1.+0 //_N_ ?, //
+piirkonna    piirkond+0 //_S_ sg g, //
+piirid    piir+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+iseloomustus    ise_loomustus+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+küla    küla+0 //_S_ sg n, //
+,    , //_Z_ //
+tänav    tänav+0 //_S_ sg n, //
+jm.    jm+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+</s>
+<s>
+21.2.    21.2.+0 //_N_ ?, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+nimistus    nimistu+s //_S_ sg in, //
+olevate    olev+te //_A_ pl g, //
+ravikindlustusega    ravi_kindlustus+ga //_S_ sg kom, //
+hõlmamata    hõlma=mata+0 //_A_ //
+isikute    isik+te //_S_ pl g, //
+raviteenuste    ravi_teenus+te //_S_ pl g, //
+maht    maht+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+nende    see+de //_P_ pl g, //
+eest    eest+0 //_K_ //
+tasumise    tasumine+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+;    ; //_Z_ //
+</s>
+<s>
+21.3.    21.3.+0 //_N_ ?, //
+lepingust    leping+st //_S_ sg el, //
+tulenevate    tulenev+te //_A_ pl g, //
+ülesannete    üles_anne+te //_S_ pl g, //
+täitmiseks    täitmine+ks //_S_ sg tr, //
+vajaminevate    vaja_minev+te //_A_ pl g, //
+vahendite    vahend+te //_S_ pl g, //
+<kiil>
+(    ( //_Z_ //
+hooned    hoone+d //_S_ pl n, //
+,    , //_Z_ //
+inventar    inventar+0 //_S_ sg n, //
+,    , //_Z_ //
+kommunaalkulud    kommunaal_kulu+d //_S_ pl n, //
+)    ) //_Z_ //
+</kiil>
+allikad    allikas+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+kasutamise    kasutamine+0 //_S_ sg g, //
+kord    kord+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+22.    22.+0 //_O_ ?, //
+</s>
+<s>
+Piirkondlikud    piirkondlik+d //_A_ pl n, //
+haigekassad    haige_kassa+d //_S_ pl n, //
+sõlmivad    sõlmi+vad //_V_ vad, //
+esimese    esimene+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+arstiabi    arsti_abi+0 //_S_ sg g, //
+andvate    andev+te //_A_ pl g, //
+arstide    arst+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+tervishoiuasutustega    tervis_hoiu_asutus+tega //_S_ pl kom, //
+lepingud    leping+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+lähtudes    lähtu+des //_V_ des, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+nimistusse    nimistu+sse //_S_ sg ill, //
+kantud    kand+tud //_V_ tud, //    kantud+0 //_A_ //    kantud+0 //_A_ sg n, //    kantud+d //_A_ pl n, //
+ravikindlustusega    ravi_kindlustus+ga //_S_ sg kom, //
+hõlmatud    hõlma+tud //_V_ tud, //    hõlmatud+0 //_A_ //    hõlmatud+0 //_A_ sg n, //    hõlmatud+d //_A_ pl n, //
+isikute    isik+te //_S_ pl g, //
+arvust    arv+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+rahastamise    rahastamine+0 //_S_ sg g, //
+muudest    muu+dest //_P_ pl el, //
+alustest    alune+test //_S_ pl el, //    alus+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+23.    23.+0 //_O_ ?, //
+</s>
+<s>
+Lepingu    leping+0 //_S_ sg g, //
+lahutamatuks    lahutamatu+ks //_A_ sg tr, //
+lisaks    lisa+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kinnitatud    kinnita+tud //_V_ tud, //    kinnita=tud+0 //_A_ //    kinnita=tud+0 //_A_ sg n, //    kinnita=tud+d //_A_ pl n, //
+nimistu    nimistu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>

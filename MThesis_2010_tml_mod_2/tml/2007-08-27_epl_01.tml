@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Foto : Marko Mumm 
+ <TIMEX3 tid="t1" type="DATE" value="2007-08-26" anchorTimeID="t0">Eilsest</TIMEX3> lennuõnnetusest toibunud koolidirektor Hendrik Agur käis <TIMEX3 tid="t2" type="DATE" value="2007-08-27" anchorTimeID="t0">täna</TIMEX3> Lennuametis õnnetuse asjaoludest aru andmas . 
+ Aguri kinnitusel ei ole õnnetus temalt lendamise isu röövinud . 
+ <TIMEX3 tid="t3" type="DATE" value="2007-08-26" anchorTimeID="t0">Eilne päev</TIMEX3> jääb lisaks direktorile meelde ka kolmele noormehele , kes lennuki rajalt eksimisele otseselt tunnistajaiks olid . 
+ Pärast õnnetust krabasid nad videokaamera ja jäädvustasid juhtunu , vahendavad Seitsmesed uudised . 
+</TimeML>

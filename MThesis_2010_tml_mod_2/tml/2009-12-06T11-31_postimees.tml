@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-06T11:31" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+
+Eesti kliimamuutuste pärast muret ei tunne
+
+<TIMEX3 tid="t1" type="TIME" value="2009-12-06T11:31">06.12.2009 11:31</TIMEX3>
+
+<TIMEX3 tid="t2" type="DATE" value="PAST_REF" anchorTimeID="t0">Hiljutistest</TIMEX3> arvamusküsitlustest selgub, et mure kliimasoojenemise pärast maailmas on <TIMEX3 tid="t3" type="DURATION" value="P2Y" beginPoint="t11" endPoint="t0">viimasel kahel aastal</TIMEX3><TIMEX3 tid="t11" type="DATE" value="2007" temporalFunction="true"/> kahanenud, kusjuures Eesti elanikud kliimamuutuste pärast väga ei muretse.
+REKLAAM
+
+Uuringufirma Nielseni ja Oxfordi ülikooli uuring näitas, et 37 protsenti enam kui 27 000 internetikasutajast 54 riigis ütlesid, et on kliimasoojenemise pärast «väga mures». <TIMEX3 tid="t4" type="DATE" value="2007" anchorTimeID="t0">Kahe aasta eest</TIMEX3> korraldatud sarnases küsitluses oli «väga mures» 41 protsenti vastanuist, vahendas uudisteagentuur BNS Reutersi teadet.
+
+«Ülemaailmne mure kliimasoojenemise pärast on leigemaks jäänud,» kommenteeris Nielsen <TIMEX3 tid="t5" type="DATE" value="2009-10" anchorTimeID="t0">oktoobris</TIMEX3> korraldatud küsitlust.
+
+Ameerika Ühendriikides, mis on Hiina järel maailma suuruselt teine saastaja ning ainus tööstusriik, mis ei ole ühinenud Kyoto protokolliga, langes väga suurt muret tundvate inimeste arv 34-lt protsendilt 25-le.
+
+President Barack Obama tahab kärpida USA kasvuhoonegaasiemissioone ja võtab osa ka <TIMEX3 tid="t6" type="DATE" value="2009-12-07" anchorTimeID="t0">7.</TIMEX3>-<TIMEX3 tid="t7" type="DATE" value="2009-12-18" anchorTimeID="t0">18. detsembrini</TIMEX3><TIMEX3 tid="t8" type="DURATION" value="P11D" beginPoint="t6" endPoint="t7"/> Kopenhaagenis toimuvast ÜRO kliimakonverentsist. Konverentsile kogunevad 190 riigi esindajad, et leida emissioone reguleeriv leping <TIMEX3 tid="t9" type="DATE" value="2012">2012. aastal</TIMEX3> aeguva Kyoto protokolli asemele.
+
+Hiina oli nende väheste riikide seas, kus on kliimasoojenemise pärast väga mures olevate inimeste arv kasvanud - 30 protsendilt 36-le.
+
+Kõige rohkem muret tuntakse kliimamuutuste pärast Ladina-Ameerikas ja Aasias. Filipiinidel, mida tabas <TIMEX3 tid="t10" type="DATE" value="2009-09"  anchorTimeID="t0">septembris</TIMEX3> taifuun Ketsana, oli kliimamuutuste pärast väga mures koguni 78 protsenti elanikest. Küsitlus ei hõlmanud suuremat osa Aafrika riikidest.
+
+Kõige vähem muret tunnevad kliimamuutuste pärast Ida-Euroopa riigid. Tabeli viimasel kohal oli Eesti, kus vaid 10 protsenti vastanuist ütles, et on kliimamuutuste pärast väga mures.
+
+Nielseni analüütik Jonathan Banks arvas, et teema muutub taas aktuaalseks seoses majandusolukorra paranemise ja Kopenhaageni konverentsiga. Küsitluse kohaselt peetakse kõikjal maailmas kolmeks kõige pakilisemaks keskkonnaprobleemiks õhu- ja veesaastatust ja kliimamuutusi.
+</TimeML>
+

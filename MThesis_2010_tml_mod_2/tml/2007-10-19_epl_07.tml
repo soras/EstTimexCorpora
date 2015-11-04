@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Erik Rand 
+ Foto : Reuters 
+ Tallinna loomaaia direktor Mati Kaal peab utoopiaks <TIMEX3 tid="t19" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> ajakirjanduses levinud plaani rajada Saaremaale eksootiliste loomadega park . 
+ " Tundub , et inimene , kes seda plaanib , ei kujuta endale täpselt ette , mida see tähendab ja kui palju maksab , " lausus Mati Kaal ajalehele Meie Maa . 
+ Ajaleht Oma Saar kirjutas <TIMEX3 tid="t20" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> , et eraettevõtjal Olena Voolul on plaan rajada Kuressaare külje alla Kaarma valda suurejooneline looma- ja linnupark , kus külastajail on juba <TIMEX3 tid="t21" type="DATE" value="2009-SP" anchorTimeID="t0">ületuleva aasta kevadel</TIMEX3> võimalik teiste pudulojuste hulgas uudistada ka kaelkirjakut ja lumeleopardi . 
+ Esimesed asukad , kes plaanitakse tuua Moskva loomaaiast , saabuvad ärinaise hinnangul juba <TIMEX3 tid="t22" type="DATE" value="2007-11" anchorTimeID="t0">novembris</TIMEX3> , kuid Moskva loomaaed sellist ideed ajalehele aga ametlikult ei kinnitanud . 
+ Mati Kaal ütles , et utoopiline on juba see , et Moskvast õnnestuks üldse nimetatud loomi tuua . 
+ " Meil on Moskva loomaaiaga väga head kontaktid ja tundes väga hästi sealset olukorda , võin kinnitada , et enamikku nimetatud loomi pole sealt võimalik kätte saada , sest neil on loomi endalgi tarvis . " 
+</TimeML>

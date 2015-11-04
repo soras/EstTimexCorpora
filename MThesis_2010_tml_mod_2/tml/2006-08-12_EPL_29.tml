@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Poolat häirivad Saksa meenutused <TIMEX3 tid="t124" type="DATE" value="1945" >1945. a</TIMEX3> sundlahkumisest 
+Krister Paris 
+ Näitus <TIMEX3 tid="t125" type="DATE" value="1945" >1945. aastal</TIMEX3> riigist välja tõrjutud sakslaste kannatustest vallandas Poola raevu . 
+ Poola juhtkond mõistis ägedalt hukka Saksamaal avatud näituse , mis pühendati Teise maailmasõja lõpus Poolast välja saadetud miljonitele sakslastele . 
+ " Ma arvan , et me seisame silmitsi väga halva , väga häiriva ning väga kurva sündmusega , " väitis ajakirjanikele peaminister Jaroslaw Kaczynski . 
+ " Tähtis on meeles pidada , kes olid mõrtsukad ning kes ohvrid . " 
+ <TIMEX3 tid="t126" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> Varssavi linnapea kohuseid täitev eelmine peaminister Kazimierz Marcinkiewicz tühistas koguni <TIMEX3 tid="t127" type="DATE" value="2006-08-11" anchorTimeID="t0">eilseks</TIMEX3> plaanitud visiidi Berliini , kus tal oli plaanis tähistada <TIMEX3 tid="t128" type="DURATION" value="P15Y" >15 aasta</TIMEX3> möödumist sõprussuhete sisseseadmisest kahe linna vahel . 
+ Teise maailmasõja järel aeti Euroopas oma kodudest välja 15 miljonit sakslast , kellest tee peal hukkus eri hinnangutel üks kuni kolm miljonit . 
+ Poolast sõja lõpus välja aetud sakslaste hulk ületab 600 000 inimese piiri . 
+</TimeML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Riina Kallas 
+ Foto : Fujitsu Siemens Computers 
+ Fujitsu Siemens Computers toob turule uusima Intel Q35 kiibistikuga varustatud energiasäästlikud Esprimo EPA sarja lauaarvutid , mis tarbivad 45% vähem energiat kui <TIMEX3 tid="t23" type="DATE" value="2005" mod="APPROX" anchorTimeID="t0">paari aasta tagused</TIMEX3> mudelid . 
+ Uues sarjas on <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >hetkel</TIMEX3> kaks arvutit - mikrotornkorpusega Esprimo P5925 EPA ja väikesemõõtmelise korpusega E5925 EPA , teatas Fujitsu Siemens Computers . 
+ Uus energiasäästusüsteem lülitab <TIMEX3 tid="t25" type="DURATION" value="PT10M" >kümme minutit</TIMEX3> pärast arvuti mittekasutamist välja kuvari ning <TIMEX3 tid="t26" type="DURATION" value="PT15M" >15 minuti</TIMEX3> pärast kõvaketta . 
+ <TIMEX3 tid="t27" type="DURATION" value="PT20M" > 20 minuti</TIMEX3> pärast läheb süsteem üle ooterežiimile ning <TIMEX3 tid="t28" type="DURATION" value="PT1H" >tunni</TIMEX3> pärast aktiveerub maksimaalne energiasäästurežiim . 
+ Fujitsu Siemens Computersi müügijuhi Antti Vari sõnul annab ettevõte uute ökonoomsete arvutite loomisega oma panuse rohelise ja energiasäästliku mõtteviisi edendamiseks . 
+ " Fujitsu Siemens Computers on olnud Euroopa juhtiva arvutitootjana juba <TIMEX3 tid="t29" type="DURATION" value="PXY" >aastaid</TIMEX3> keskkonnasäästlike toodete väljatöötamisel esirinnas , tuues esimese " rohelise " arvuti turule juba <TIMEX3 tid="t30" type="DATE" value="1993" >1993. aastal</TIMEX3> . 
+ <TIMEX3 tid="t31" type="DATE" value="2005" anchorTimeID="t0">Kaks aastat tagasi</TIMEX3> valmis esimene Esprimo sarja energiasäästlik arvuti ning <TIMEX3 tid="t32" type="DATE" value="2007" anchorTimeID="t0">sel aastal</TIMEX3> jõudsime oma arendustööga nii kaugele , et sarja lauaarvutid vastavad ka USA keskkonnakaitse agentuuri ( EPA ) programmi Energy Star <TIMEX3 tid="t33" type="DATE" value="2007-07" anchorTimeID="t0">tänavu juulis</TIMEX3> vastuvõetud senisest tunduvalt karmimatele nõuetele , " ütles Vari . 
+</TimeML>

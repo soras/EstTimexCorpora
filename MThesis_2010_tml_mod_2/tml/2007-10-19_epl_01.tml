@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+Ehkki Euroopa komisjon alustas Eesti vastu rikkumismenetluse , pole põhjust suhkrutrahvile sarnanevat hiigeltrahvi Eestil karta . 
+ " Euroopa komisjoni regulaarseks tööks on kontrollida EL õigusaktide täitmist . 
+ <TIMEX3 tid="t1" type="SET" value="P1Y" freq="4X">Neli korda aastas</TIMEX3> antakse teada rikkumismenetluste algatamisest või lõpetamisest ning rikkumismenetluse algatamisega juhitakse liikmesriigi tähelepanu küsimustele , kus komisjon leiab vigu EL õiguse rakendamisel , " teatas valitsuse nõunik Kateriin Leini EPL Online'le . 
+ " Antud juhul algatas komisjon rikkumismenetluse esimese etapi ning saatis Eestile ametliku kirja . " 
+ Eesti vastu algatati rikkumismenetlus , sest <TIMEX3 tid="t2" type="DATE" value="2007-06-30" anchorTimeID="t0">30. juuniks</TIMEX3> pidid kõik Euroopa Liidu riigid vastu võtma riikliku energiatõhususe tegevuskava , kuid Eesti <TIMEX3 tid="t3" type="DATE" value="2007-06-30" anchorTimeID="t2">selleks ajaks</TIMEX3> kava vastu ei võtnud . 
+ Majandus- ja kommunikatsiooniministeerium hakkas kava arutama juba <TIMEX3 tid="t4" type="DATE" value="2007" mod="START" anchorTimeID="t0">selle aasta alguses</TIMEX3> , kuid valitsuste vahetumine tekitas kava menetlemisel seisaku . 
+</TimeML>

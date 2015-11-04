@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Kaagid lammutavad laululava 
+ JÜRI SAAR , jyri.saar@postimees.ee 
+ Noored aktivistid lammutavad ja sodivad järjekindlalt Tartu esindusehitist laululava , mida pole rahapuuduse tõttu võimalik remontida ega videovalve alla panna . 
+ " Paik hakkab üha enam getot meenutama , " nentis Tartu Laululava juhataja Ando Kiviberg laulukaare all , kus noored on pihustivärvide , markerite ja muu käepärasega kõikvõimalikud kohad täis sodinud . 
+ Eriti määritud on laulukaare tagumine osa , kus plätserdajad üsna segamatult tegutseda saavad , sest nägijaid seal pole . 
+ Kurikaelad on ammu puruks tagunud kõik lae- ja seinavalgustid , hävitanud elektrikappe ning asunud laulukaare ripplae kallale . 
+ Seintest on lahti kangutatud torust käsipuud , üks neist oli veel <TIMEX3 tid="t79" type="DATE" value="2000-04-17" anchorTimeID="t0">üleeile</TIMEX3> painutatud kaldteele rulluisutajaid püüdma . 
+ Laululava insener Alari Piispea ütles , et teda hämmastab lammutajate agarus : kus paljaste kätega lõhkuda ei saa , on kasutatud rauasaagi ja mutrivõtmeid . 
+ Varaste saagiks on langenud isegi kettidega laulukaare alla riputatud kõlar . 
+ Piispea lisas , et teravaid elamusi otsivad noored käivad laulukaarel liugu laskmas . 
+ Ilmse vihaga on puruks kangutatud kümneid meetreid publiku istepinke , mille remontimiseks kulus <TIMEX3 tid="t80" type="DATE" value="1999-SP"  anchorTimeID="t0">mullu kevadel</TIMEX3> umbes 50 000 krooni . 
+ Politsei algatas kriminaalasja kriminaalkoodeksi huligaansuse paragrahvi alusel , kui laululava teatas sissemurdmisest ja laastamistööst pealtvaatajate tribüüni alustes kioskites , kus purustatud olid nii aknad ja uksed kui ka sisustus . 
+ Laululava töötajate hinnangul kuluks purustuste ja laga likvideerimiseks sadu tuhandeid kroone , mida pole kusagilt võtta . 
+ <TIMEX3 tid="t81" type="DATE" value="2000" anchorTimeID="t0">Tänavu</TIMEX3> remondiks mõeldud 264 000 krooni kulub põhiliselt lavaaluse elektrisüsteemi ja torustiku lappimiseks . 
+ Aeg-ajalt laululavale sattuvad politseipatrullid ei suuda kurikaelu kuigivõrd takistada , ühtki neist pole tabatud . 
+ Laululava all resideeruvad valvurid ei julge huligaane korrale kutsuda , sest kardavad oma tervise pärast . 
+ Üks laululaval töötanud vapram valvur sai karistuse , kui kaagid lajatasid mitme meetri kõrguselt tema autole kotitäie tühja taarat . 
+</TimeML>

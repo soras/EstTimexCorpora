@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+Lauri Beekmann , Ühendus Alkoholivaba Eesti esimees 
+ Iga seadus peaks olema mingis süsteemis teiste seadustega . 
+ Kui ühe seaduse rakendamine või järelevalve on osutunud raskendatuks , tuleb järelikult võtta kasutusele lisameetmed . 
+ Alkoholimüügipiirangud toetavad olemasolevaid seadusi , milleks on siis näiteks sätted , et joobes isik ei tohiks viibida avalikus kohas ja et joobes isikule ei tohi alkoholi müüa ( Alkoholiseaduses ) . 
+ Viimane punkt on kindlasti oluline , kuid just <TIMEX3 tid="t1" type="SET" value="XXXX-XX-XXTEV">õhtu-</TIMEX3> ja <TIMEX3 tid="t2" type="SET" value="XXXX-XX-XXTNI">öötundidel</TIMEX3> raskendatud . 
+ Lärmava ja alkoholi juurde tahtva isiku kontrollimine ja selgitamine , et talle ei tohi juurde müüa , on poemüüja jaoks vast päris keeruline . 
+ Kui aga alkoholimüük on <TIMEX3 tid="t3" type="SET" value="XXXX-XX-XXTXX" comment="viide eelnevatele ajaväljenditele">nendel aegadel</TIMEX3> täiesti keelustatud , on poemüüjal seda juhist hulga lihtsam järgida . 
+ Siis on aga oht , et janune läheb seda otsima mujalt - taksost või kuskilt keldrist . 
+ Oht on kindlasti ja seda ei tohiks ignoreerida . 
+ Kuid juba rahandusminister tõdes , et sellise ohu kasvamisel tuleks politseile anda suuremad võimalused salaviina vastu võitlemiseks . 
+</TimeML>

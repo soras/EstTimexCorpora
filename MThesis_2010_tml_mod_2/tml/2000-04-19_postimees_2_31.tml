@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ETV , <TIMEX3 tid="t331" type="TIME" value="2000-04-19T21:40" anchorTimeID="t333">kell 21.40</TIMEX3> , " Eurolaul <TIMEX3 tid="t332" type="DATE" value="2000" >2000</TIMEX3> " . 
+ Eurolaulude videod . 
+ ETV pressiesindaja Annaliisa Sisaski teatel on alates <TIMEX3 tid="t333" type="DATE" value="2000-04-19" anchorTimeID="t0">tänasest</TIMEX3> televaatajail <TIMEX3 tid="t334" type="SET" value="XXXX-WXX-3TEV" >kolmapäevaõhtuti</TIMEX3> võimalus näha Eurovisiooni lauluvõistlusel Stockholmis Globeni hallis ( fotol ) <TIMEX3 tid="t335" type="DATE" value="2000-05-13" anchorTimeID="t0">13. mail</TIMEX3> võistlevate laulude videoid . 
+ <TIMEX3 tid="t336" type="DATE" value="2000-04-19" anchorTimeID="t0">Tänases</TIMEX3> saates tutvustatakse lisaks Eesti laulule ka Iisraeli , Hollandi , Suurbritannia , Prantsusmaa , Rumeenia , Malta ja Norra laulu . 
+ Saadet juhib Kirke Ert . 
+ Eesti laulu on videosse võtnud Highstar Productions eesotsas rezhissöör Rando Pettaiga . 
+ ( PM ) 
+</TimeML>

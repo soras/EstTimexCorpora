@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Iisrael ründab hoolimata ÜRO vastuseisust 
+Toimetaja : Kerttu Rannamäe 
+ Foto : BBC 
+ Vähemalt 19 inimest on tapetud või vigastatud Iisraeli laiaulatuslikus rünnakus Hizbollah' vastu , seda ainult mõni tund peale ÜRO otsust sõjategevuse lõpetamise kohta . 
+ Iisraeli sõdurid tungivad sõjalennukite ja tankide kaasabil järjest sügavamale Liibanoni , kirjutab AlJazeera.net. 
+ Sõjategevus jätkub hoolimata ÜRO julgeolekunõukogu üksmeelsest otsusest lõpetada <TIMEX3 tid="t113" type="DURATION" value="P1M" >kuu aega</TIMEX3> kestnud sõda . 
+ Arvatavalt liiguvad Iisraeli jõud strateegiliselt tähtsa Litani jõeni , mis voolab umbes 30 kilomeetri kaugusel piirist . 
+ Iisraeli valitsuse esindaja Avi Pazneri sõnul takistatakse <TIMEX3 tid="t114" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguse</TIMEX3> operatsiooniga Hizbollah'd tulistamast uusi rakette Iisraeli põhjaossa ning rünnak ei ole ajaliselt piiritletud . 
+ Iisrael ründab ka teisi Liibanoni piirkondi , pommitades Süüriasse viivaid teid ning hävitades ühe lõunapoolse suurlinna Sidoni elektrijaama . 
+ Linn on ilmselt elektrita veel <TIMEX3 tid="t115" type="DURATION" value="P10D" mod="EQUAL_OR_MORE">vähemalt 10 päeva</TIMEX3> . 
+</TimeML>

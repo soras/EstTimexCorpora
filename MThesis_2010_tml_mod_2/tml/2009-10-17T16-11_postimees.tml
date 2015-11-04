@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-10-17T16:11" functionInDocument="CREATION_TIME"/>
+
+Kanada kaitseministri sõnul pole nemad Talibanile maksnud
+<TIMEX3 tid="t1" type="TIME" value="2009-10-17T16:11">17.10.2009 16:11</TIMEX3>
+
+Kanada kaitseminister Peter MacKay teatas <TIMEX3 tid="t2" type="DATE" value="2009-10-16" anchorTimeID="t0">eile,</TIMEX3> et nende riik pole Talibanile selle eest, et nood ei ründaks, raha maksnud.
+
+«Me oleme kaotanud 131 sõjaväelast,» vahendas MacKay sõnu uudisteagentuur AFP. «Nii, et kurb reaalsus näitab Talibani väiteid valena.»
+
+«Ma kahtlustan tõsiselt, et see on pigem Talibani propaganda,» lisas MacKay. «Loomulikult neid ei sega sõjapidamise reeglid ja sellised lihtsad asjad nagu tõde.»
+
+Nimelt väitis üks lääneriikide sõjaväeline allikas AFP teatel anonüümselt, et mitte ainult itaallased, vaid ka Lõuna-Afganistanis Kandahari provintsis sõdivad kanadalased ja Põhja-Afganistanis Kunduzi provintsis <TIMEX3 tid="t3" type="DATE" value="2009-SU" anchorTimeID="t0">suvel</TIMEX3> alguse saanud vägivallalaine tõttu samuti mässulistega otsekontakti sattunud sakslased on maksnud Talibanile altkäemaksu selle eest, et terrorstid neid ei ründaks.
+
+Kanadast teenib <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> rahvusvaheliste julgeolekuabijõudude koosseisus 2830 sõdurit. Nad tegutsevad eestlaste teenistuspaigaks oleva Helmandi naaberprovintsis Kandaharis, mida peetakse samuti üheks selle kriisiriigi tulisemaks piirkonnaks.
+
+Viimati hukkus Kanada sõdur Afganistanis <TIMEX3 tid="t5" type="DATE" value="2009-09-17" anchorTimeID="t0">17. septembril.</TIMEX3> See oli <TIMEX3 tid="t6" type="DURATION" value="P23Y">23-aastane</TIMEX3> kapral Jonathan Couturier, kes sai surma mässuliste isevalmistatud pommi otsa sõitnud soomukis Kandahari provintsis Kandahari linna lähedal.
+
+Toimetas Evelyn Kaldoja 
+</TimeML>
+

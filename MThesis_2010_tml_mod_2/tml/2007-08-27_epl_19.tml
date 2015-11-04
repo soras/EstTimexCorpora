@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Internet 
+ Egiptuse võimude sõnul rikkusid Belgia diplomaadid <TIMEX3 tid="t124" type="DURATION" value="P40000000Y" >40-miljoni aastase</TIMEX3> iidse vaala fossiili , millest nad kõrbe kaitsealuses piirkonnas väidetavalt üle sõitsid . 
+ Keskkonnaministeeriumi ametniku Mohamed Ibrahimi sõnul sõitsid diplomaadid <TIMEX3 tid="t125" type="DATE" value="2007-07" anchorTimeID="t0">juulikuus</TIMEX3> neljarattaveolise džiibiga üle fossiili kaela , ignoreerides sõitu keelavaid silte , vahendab International Herald Tribune . 
+ Belgia välisministeerium ja Kairos asuv saatkond eitavad kahju tekitamist . 
+ Välisministeeriumi pressiesindaja Marc Michielseni sõnul asusid piirkonnas kaks diplomaatilise numbrimärgiga autot , kuid nendega ei sõidetud teelt kõrvale . 
+ " Nad ei teadnud , et tegemist on kaitsealuse kohaga , " ütles Michielsen . 
+ " See koht ei paistnud olevat piiratud ala , samuti polnud seal näha ühtegi tähist ega valvurit . " 
+ Nii Egiptuse kui ka Belgia ametnikud kinnitasid , et intsident leidis aset <TIMEX3 tid="t126" type="DATE" value="2007-07" anchorTimeID="t0">juulikuus</TIMEX3> . 
+ Samas on selgusetu , miks ootasid Egiptuse võimud asja avalikustamisega <TIMEX3 tid="t127" type="DATE" value="2007-08" mod="END" anchorTimeID="t0">augusti lõpuni</TIMEX3> . 
+</TimeML>

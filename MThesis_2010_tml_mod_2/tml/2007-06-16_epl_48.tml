@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Eesti meistriliiga 15. vooru keskses mängus alistas valitsev Eesti meister Tallinna FC Levadia Kadrioru staadionil Narva JK Transi 2 : 0 ning tõusis taas liiga ainuliidriks . 
+ Levadial on <TIMEX3 tid="t198" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >nüüd</TIMEX3> 16 mängust 41 punkti , Transil 38. 
+ Skoori avas <TIMEX3 tid="t199" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">teise poolaja viiendal minutil</TIMEX3> Konstantin Vassiljev , <TIMEX3 tid="t200" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">63. minutil</TIMEX3> kinnitas tallinlaste üleolekut Vitali Leitan . 
+ Tabeli kolmas FC TVMK kohtus Tartus Tamme staadionil Maag Tammekaga ja võitis 3 : 1. Mööblimeeste kõik kolm väravat lõi Sergei Terehhov , <TIMEX3 tid="t201" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">25.</TIMEX3> , <TIMEX3 tid="t202" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">52.</TIMEX3> ja <TIMEX3 tid="t203" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">60. minutil.</TIMEX3> 
+ Tartlastest saavutas auvärava <TIMEX3 tid="t204" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">88. minutil</TIMEX3> Nikoiai Lõsanov . 
+ TVMK-l on <TIMEX3 tid="t205" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >nüüd</TIMEX3> 15 mängust 33 punkti . 
+ Neljandal kohal kindlustas end FC Flora , kui Pärnus võideti sealne Vaprus 3 : 0. Alo Bärengrubilt tuli kaks väravat ( <TIMEX3 tid="t206" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">31.</TIMEX3> ja <TIMEX3 tid="t207" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">54. minutil</TIMEX3> ) , Martin Taskalt ( <TIMEX3 tid="t208" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">36. minutil</TIMEX3> ) üks . 
+ Floral on 15 mängust 29 punkti , tartlased jäid endiselt 25 punkti peale . 
+</TimeML>

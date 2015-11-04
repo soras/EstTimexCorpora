@@ -1,0 +1,135 @@
+Kadri    Kadri+0 //_H_ sg n, //
+Masing    Masing+0 //_H_ sg n, //
+Tartumaal    Tartu_maa+l //_H_ sg ad, //
+hukkus    hukku+s //_V_ s, //
+kolm    kolm+0 //_N_ sg n, //
+inimest    inimene+t //_S_ sg p, //
+,    , //_Z_ //
+Tallinna    Tallinn+0 //_H_ sg g, //
+maantee    maan_tee+0 //_S_ sg g, //
+peal    peal+0 //_K_ //
+sai    saa+i //_V_ s, //
+kolm    kolm+0 //_N_ sg n, //
+inimest    inimene+t //_S_ sg p, //
+viga    viga+0 //_S_ sg p, //
+.    . //_Z_ //
+Tartumaal    Tartu_maa+l //_H_ sg ad, //
+juhtus    juhtu+s //_V_ s, //
+laupäeva    lau_päev+0 //_S_ sg g, //
+varahommikul    vara_hommik+l //_S_ sg ad, //
+üliraske    üli_raske+0 //_A_ sg n, //
+liiklusõnnetus    liiklus_õnnetus+0 //_S_ sg n, //
+,    , //_Z_ //
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+hukkus    hukku+s //_V_ s, //
+kolm    kolm+0 //_N_ sg n, //
+ja    ja+0 //_J_ //
+sai    saa+i //_V_ s, //
+vigastada    vigasta+da //_V_ da, //
+kolm    kolm+0 //_N_ sg n, //
+inimest    inimene+t //_S_ sg p, //
+,    , //_Z_ //
+surmaauto    surma_auto+0 //_S_ sg g, //
+roolis    rool+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+varem    varem+0 //_D_ //
+korduvalt    korduvalt+0 //_D_ //
+joobes    joove+s //_S_ sg in, //
+juhtimise    juhtimine+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+karistatud    karista+tud //_V_ tud, //    karistatud+0 //_A_ //    karistatud+0 //_A_ sg n, //    karistatud+d //_A_ pl n, //
+juht    juht+0 //_S_ sg n, //
+.    . //_Z_ //
+Kella    kell+0 //_S_ sg g, //
+6.30    6.30+0 //_N_ ?, //
+ajal    aeg+l //_S_ sg ad, //
+juhtus    juhtu+s //_V_ s, //
+liiklusõnnetus    liiklus_õnnetus+0 //_S_ sg n, //
+Tartu    Tartu+0 //_H_ sg g, //
+vallas    vald+s //_S_ sg in, //
+Jõhvi-Tartu-Valga    Jõhvi-Tartu-Valga+0 //_H_ sg n, //
+mnt    mnt+0 //_Y_ ?, //
+128.    128.+0 //_O_ ?, //
+km-l    km+l //_Y_ sg ad, //
+ringristmiku    ring_ristmik+0 //_S_ sg g, //
+lähedal    lähedal+0 //_K_ //
+,    , //_Z_ //
+kus    kus+0 //_D_ //
+Jõhvi    jõhv+0 //_S_ sg g, //
+suunast    suund+st //_S_ sg el, //
+Tartu    Tartu+0 //_H_ sg g, //
+poole    poole+0 //_K_ //
+suundunud    suundu+nud //_V_ nud, //    suundu=nud+0 //_A_ //    suundu=nud+0 //_A_ sg n, //    suundu=nud+d //_A_ pl n, //
+sõiduauto    sõidu_auto+0 //_S_ sg g, //
+Audi    aut+0 //_S_ sg g, //
+A6    A6+0 //_Y_ ?, //
+,    , //_Z_ //
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+juhtis    juhti+s //_V_ s, //
+Sergei    Sergei+0 //_H_ sg n, //
+(    ( //_Z_ //
+snd    snd+0 //_Y_ ?, //
+1959    1959+0 //_N_ ?, //
+)    ) //_Z_ //
+,    , //_Z_ //
+kaotas    kaota+s //_V_ s, //
+juhitavuse    juhitavus+0 //_S_ sg g, //
+,    , //_Z_ //
+sõitis    sõit+is //_V_ s, //
+teelt    tee+lt //_S_ sg abl, //
+välja    välja+0 //_D_ //
+ja    ja+0 //_J_ //
+rullus    rullu+s //_V_ s, //
+üle    üle+0 //_K_ //
+katuse    katus+0 //_S_ sg g, //
+.    . //_Z_ //
+Sündmuskohal    sündmus_koht+l //_S_ sg ad, //
+viibinud    viibi+nud //_V_ nud, //    viibinud+0 //_A_ //    viibinud+0 //_A_ sg n, //    viibinud+d //_A_ pl n, //
+politseinike    politseinik+e //_S_ pl g, //
+sõnul    sõna+ul //_S_ pl ad, //
+oli    ole+i //_V_ s, //
+auto    auto+0 //_S_ sg n, //
+hakanud    haka=nud+0 //_A_ //    haka=nud+0 //_A_ sg n, //    haka=nud+d //_A_ pl n, //    hakka+nud //_V_ nud, //
+ringristmikult    ring_ristmik+lt //_S_ sg abl, //
+vasakule    vasakule+0 //_D_ //
+Tartu    Tartu+0 //_H_ sg g, //
+poole    poole+0 //_K_ //
+pöörama    pööra+ma //_V_ ma, //
+,    , //_Z_ //
+kuid    kuid+0 //_J_ //
+sõitis    sõit+is //_V_ s, //
+parema    parem+0 //_C_ sg g, //
+küljega    külg+ga //_S_ sg kom, //
+vastu    vastu+0 //_K_ //
+liiklusmärki    liiklus_märk+0 //_S_ sg p, //
+,    , //_Z_ //
+seejärel    see_järel+0 //_D_ //
+vastu    vastu+0 //_K_ //
+teist    teine+t //_O_ sg p, //    teine+t //_P_ sg p, //
+liiklusmärki    liiklus_märk+0 //_S_ sg p, //
+,    , //_Z_ //
+kaldus    kaldu+s //_V_ s, //
+seepeale    see_peale+0 //_D_ //
+kraavi    kraav+0 //_S_ adt, //
+ning    ning+0 //_J_ //
+rullus    rullu+s //_V_ s, //
+umbes    umbes+0 //_D_ //
+40    40+0 //_N_ ?, //
+meetrit    meeter+t //_S_ sg p, //
+teelt    tee+lt //_S_ sg abl, //
+välja    välja+0 //_D_ //
+võssa    võsa+0 //_S_ adt, //
+.    . //_Z_ //
+Pidurdusjälgede    pidurdus_jälg+de //_S_ pl g, //
+põhjal    põhjal+0 //_K_ //
+võib    või+b //_V_ b, //
+öelda    ütle+da //_V_ da, //
+,    , //_Z_ //
+et    et+0 //_J_ //
+auto    auto+0 //_S_ sg g, //
+kiirus    kiirus+0 //_S_ sg n, //
+pidi    pida+i //_V_ s, //
+olema    ole+ma //_V_ ma, //
+väga    väga+0 //_D_ //
+suur    suur+0 //_A_ sg n, //
+.    . //_Z_ //

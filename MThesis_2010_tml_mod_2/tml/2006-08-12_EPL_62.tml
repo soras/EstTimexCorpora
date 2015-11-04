@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Eesti Teater 100 - Palju õnne sünnipäevaks , eesti teater !  
+<TIMEX3 tid="t285" type="DATE" value="1906-08-12" anchorTimeID="t0">Täna sada aastat tagasi</TIMEX3> avati esimene kutseline eesti teater - Vanemuine . 
+ Veel <TIMEX3 tid="t286" type="DATE" value="1901" anchorTimeID="t285">viis aastat varem</TIMEX3> ei olnud Vanemuise seltsi juhtkond toetanud ideed luua seltsi juurde palgaline näitetrupp . 
+ Kuid kui Vanemuise seltsi Jaama tänava maja <TIMEX3 tid="t287" type="DATE" value="1903" >1903. aastal</TIMEX3> maha põles , kaasnes uhke teatrihoone ehitamise otsusega ka mõte luua Eesti esimene kutseline teater . 
+ Uue Vanemuise juhiks valitud Karl Menning saadeti <TIMEX3 tid="t288" type="DATE" value="1904" anchorTimeID="t287">järgmisel aastal</TIMEX3> Saksa teatri tulevase juhi Max Reinhardti juurde end täiendama . 
+ <TIMEX3 tid="t289" type="DATE" value="1904" anchorTimeID="t288">Samal ajal</TIMEX3> Tallinnas : linnavolikogu eraldas Estonia seltsile 450 ruutsülda maad Karjavärava promenaadi ääres , et sinna ehitataks eesti teater - hoone püstitamiseks anti aega <TIMEX3 tid="t290" type="DURATION" value="P10Y" >kümme aastat</TIMEX3> , algas üleriigiline korjandus oma rahvusteatri hoone ehitamiseks . 
+ <TIMEX3 tid="t291" type="DATE" value="1905" >1905. aastal</TIMEX3> alustati ka Vanemuise uue maja ehitamist ning <TIMEX3 tid="t292" type="DATE" value="1906-08-12" >1906. aasta 12. augustil</TIMEX3> avati piduliku kontserdiga uus , juugendstiilis teatrimaja . 
+ <TIMEX3 tid="t293" type="DATE" value="1906-08-13" anchorTimeID="t292">13. augustil</TIMEX3> esietendus kutselise Vanemuise esimene lavastus - August Kitzbergi äsjavalminud näitemäng " Tuulte pöörises " . 
+ Näitlejate Paul Pinna ja Theodor Altermanni algatusel loodud kutseline Estonia avati <TIMEX3 tid="t294" type="DATE" value="1906-09-16">16. septembril 1906</TIMEX3> Mait Metsanurga näidendiga " Päikese tõusul " ( Estonia uus maja valmis <TIMEX3 tid="t295" type="DATE" value="1913" >1913. aastal</TIMEX3> ) . 
+</TimeML>

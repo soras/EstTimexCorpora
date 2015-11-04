@@ -1,0 +1,270 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1995-11-16TXX:XX" />
+<ignoreeri>
+|
+autor:
+Epl
+|
+ajalehenumber:
+Eesti
+Päevaleht
+16.11.1995
+|
+rubriik:
+Kultuur
+|
+artikkel:
+Soomlaste
+lapitööde
+näitus
+rahvusraamatukogus
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1995-12-10" >
+10.    10.+0 //_O_ ?, //
+detsembrini    detsember+ni //_S_ sg ter, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+Rahvusraamatukogus    rahvus_raamatu_kogu+s //_S_ sg in, //
+avatud    ava+tud //_V_ tud, //    avatud+0 //_A_ //    avatud+0 //_A_ sg n, //    avatud+d //_A_ pl n, //
+soomlaste    soomlane+te //_S_ pl g, //
+lapitööde    lapi_töö+de //_S_ pl g, //
+näitus    näitus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+välja    välja+0 //_D_ //
+pandud    pan=dud+0 //_A_ //    pan=dud+0 //_A_ sg n, //    pan=dud+d //_A_ pl n, //    pane+dud //_V_ tud, //
+Soome    Soome+0 //_H_ sg g, //
+Lapiteki    lapi_tekk+0 //_S_ sg g, //
+ühingu    ühing+0 //_S_ sg g, //
+liikmete    liige+te //_S_ pl g, //
+omanäolised    oma_näoline+d //_A_ pl n, //
+tekid    tekk+d //_S_ pl n, //
+,    , //_Z_ //
+kotid    kott+d //_S_ pl n, //
+,    , //_Z_ //
+linikud    linik+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Näitus    näitus+0 //_S_ sg n, //
+sai    saa+i //_V_ s, //
+teoks    tegu+ks //_S_ sg tr, //    tigu+ks //_S_ sg tr, //
+tänu    tänu+0 //_K_ //
+Soome    Soome+0 //_H_ sg g, //
+Instituudile    Instituud+le //_H_ sg all, //    Instituudi+le //_H_ sg all, //    Instituut+le //_H_ sg all, //
+ning    ning+0 //_J_ //
+Ene    Ene+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Anni    Anni+0 //_H_ sg n, //
+lapikojale    lapi_koda+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Viimase    viimane+0 //_A_ sg g, //
+esindajad    esindaja+d //_S_ pl n, //
+Anni    Anni+0 //_H_ sg n, //
+Kreem    Kreem+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Ene    Ene+0 //_H_ sg n, //
+Pars    Pars+0 //_H_ sg n, //
+tõid    too+id //_V_ sid, //
+näituseeksponaadid    näituse_eksponaat+d //_S_ pl n, //
+ise    ise+0 //_D_ //
+Soomest    Soome+st //_H_ sg el, //
+kohale    kohale+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+näitusel    näitus+l //_S_ sg ad, //
+osalejad    osaleja+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+harrastajad    harrastaja+d //_S_ pl n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+seletab    seleta+b //_V_ b, //
+eesti    eesti+0 //_G_ //
+lapitekinduse    lapitekin=dus+0 //_S_ sg g, //
+ema    ema+0 //_S_ sg n, //
+Anni    Anni+0 //_H_ sg n, //
+Kreem    Kreem+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Tase    tase+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ebaühtlane    eba_ühtlane+0 //_A_ sg n, //
+-    - //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+meiegi    mina+gi //_P_ pl n, //
+näitustel    näitus+tel //_S_ pl ad, //
+,    , //_Z_ //
+ent    ent+0 //_J_ //
+põnevat    põnev+t //_A_ sg p, //
+vaatamist    vaatamine+t //_S_ sg p, //
+jätkub    jätku+b //_V_ b, //
+sellegipoolest    sellegi_poolest+0 //_D_ //
+küllaga    küllaga+0 //_D_ //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Näitusel    näitus+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esindatud    esinda+tud //_V_ tud, //    esinda=tud+0 //_A_ //    esinda=tud+0 //_A_ sg n, //    esinda=tud+d //_A_ pl n, //
+erinevad    erinev+d //_A_ pl n, //
+lapitehnikad    lapi_tehnika+d //_S_ pl n, //
+,    , //_Z_ //
+lihtsamatest    lihtsam+test //_C_ pl el, //
+tekkidest    tekk+dest //_S_ pl el, //
+lapimaalini    lapi_maal+ni //_S_ sg ter, //
+välja    välja+0 //_D_ //
+-    - //_Z_ //
+nn    nn+0 //_Y_ ?, //
+kribust    kribu+st //_S_ sg el, //
+tehakse    tege+akse //_V_ takse, //
+pind    pind+0 //_S_ sg n, //
+valmis    valmis+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+kaetakse    kae+takse //_V_ takse, //    kat+takse //_V_ takse, //
+läbipaistva    läbi_paistev+0 //_A_ sg g, //
+materjaliga    materjal+ga //_S_ sg kom, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tikitakse    tikki+takse //_V_ takse, //
+läbi    läbi+0 //_D_ //
+,    , //_Z_ //
+samuti    samuti+0 //_D_ //
+"    " //_Z_ //
+vanaema    vana_ema+0 //_S_ sg g, //
+lilleaeda    lille_aed+0 //_S_ adt, //
+"    " //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Viimase    viimane+0 //_A_ sg g, //
+omapäraseks    oma_pärane+ks //_A_ sg tr, //
+näiteks    näide+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Inga    Inga+0 //_H_ sg n, //
+Kahila    Kahila+0 //_H_ sg g, //
+mahukas    mahukas+0 //_A_ sg n, //
+töö    töö+0 //_S_ sg n, //
+meestelipsudest    mees+te_lips+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Naisefiguuri    naise_figuur+0 //_S_ adt, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lappidest    lapp+dest //_S_ pl el, //
+välja    välja+0 //_D_ //
+võlunud    võlu+nud //_V_ nud, //    võlu=nud+0 //_A_ //    võlu=nud+0 //_A_ sg n, //    võlu=nud+d //_A_ pl n, //
+Seija    Seija+0 //_H_ sg n, //
+Kääriäinen    Kääriäinen+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+huvitava    huvitav+0 //_A_ sg g, //
+värvigammaga    värvi_gamma+ga //_S_ sg kom, //
+esineb    esine+b //_V_ b, //
+Sisko    Sisko+0 //_H_ sg n, //
+Raskunen    Raskunen+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Anni    Anni+0 //_H_ sg n, //
+Kreem    Kreem+0 //_H_ sg n, //
+ütleb    ütle+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+soome    soome+0 //_G_ //
+lapiteki    lapi_tekk+0 //_S_ sg g, //
+harrastajate    harrastaja+te //_S_ pl g, //
+seas    seas+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+moes    mood+s //_S_ sg in, //
+isevärvimine    ise_värvimine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Näituse    näitus+0 //_S_ sg g, //
+avamisel    avamine+l //_S_ sg ad, //
+viibis    viibi+s //_V_ s, //
+Riitta    Riitta+0 //_H_ sg n, //
+Grönroos    Grönroos+0 //_H_ sg n, //
+Soome    Soome+0 //_H_ sg g, //
+lapiteki    lapi_tekk+0 //_S_ sg g, //
+ühingust    ühing+st //_S_ sg el, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+väljapanekut    välja_panek+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+külastanud    külasta+nud //_V_ nud, //    külasta=nud+0 //_A_ //    külasta=nud+0 //_A_ sg n, //    külasta=nud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+nende    see+de //_P_ pl g, //
+ühingu    ühing+0 //_S_ sg g, //
+esinaine    esi_naine+0 //_S_ sg n, //
+Liisa    Liisa+0 //_H_ sg n, //
+Teittinen    Teittinen+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Soome    Soome+0 //_H_ sg g, //
+lapiteki    lapi_tekk+0 //_S_ sg g, //
+ühingusse    ühing+sse //_S_ sg ill, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegutsenud    tegutse+nud //_V_ nud, //    tegutse=nud+0 //_A_ //    tegutse=nud+0 //_A_ sg n, //    tegutse=nud+d //_A_ pl n, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="P5Y" >
+viis    viis+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+,    , //_Z_ //
+</kiil>
+kuulub    kuulu+b //_V_ b, //
+rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+5000    5000+0 //_N_ ?, //
+liiget    liige+t //_S_ sg p, //
+.    . //_Z_ //
+<kindel_piir/>
+ühing    ühing+0 //_S_ sg n, //
+annab    and+b //_V_ b, //
+välja    välja+0 //_D_ //
+ajakirja    aja_kiri+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+korraldab    korralda+b //_V_ b, //
+kursusi    kursus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1996-04" >
+Aprillis    aprill+s //_S_ sg in, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Ene    Ene+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Anni    Anni+0 //_H_ sg n, //
+lapikojal    lapi_koda+l //_S_ sg ad, //
+kavas    kava+s //_S_ sg in, //
+korraldada    korralda+da //_V_ da, //
+eesti    eesti+0 //_G_ //
+naiste    naine+te //_S_ pl g, //
+lapitööde    lapi_töö+de //_S_ pl g, //
+näitus    näitus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,675 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-11-03TXX:XX" />
+<ignoreeri>
+|
+autor:
+Malle
+Pajula
+Narva-Jõesuu
+|
+ajalehenumber:
+Eesti
+Päevaleht
+03.11.1997
+|
+rubriik:
+Majandus
+|
+artikkel:
+Tööandjad
+:
+Kutsekoolid
+õpetavad
+eilseid
+tarkusi
+|
+</ignoreeri>
+<s>
+Haridusfoorum    haridus_foorum+0 //_S_ sg n, //
+kiikas    kiika+s //_V_ s, //
+tööturule    töö_turg+le //_S_ sg all, //
+</s>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1997-W44-WE" >
+Nädalavahetusel    nädala_vahetus+l //_S_ sg ad, //
+</TIMEX>
+Narva-Jõesuus    Narva-Jõe_suu+s //_H_ sg in, //    Narva-Jõesuu+s //_H_ sg in, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+Haridusfoorumil    haridus_foorum+l //_S_ sg ad, //
+väitsid    väit+sid //_V_ sid, //
+tööandjad    töö_andja+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kehv    kehv+0 //_A_ sg n, //
+ametiõpetus    ameti_õpetus+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+kutsekoolides    kutse_kool+des //_S_ pl in, //
+võib    või+b //_V_ b, //
+sundida    sundi+da //_V_ da, //
+neid    see+d //_P_ pl p, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+tulevikus    tulevik+s //_S_ sg in, //
+</TIMEX>
+palkama    palka+ma //_V_ ma, //
+parema    parem+0 //_C_ sg g, //
+ettevalmistuse    ette_valmistus+0 //_S_ sg g, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+võõrtöölisi    võõr_tööline+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Hariduse    haridus+0 //_S_ sg g, //
+kvaliteet    kvaliteet+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+tööturg    töö_turg+0 //_S_ sg n, //
+"    " //_Z_ //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997" >
+tänavuse    tänavune+0 //_A_ sg g, //
+</TIMEX>
+Haridusfoorumi    haridus_foorum+0 //_S_ sg g, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+olulisemaid    olulisem+id //_C_ pl p, //
+teemasid    teema+sid //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+käsitleti    käsitle+ti //_V_ ti, //
+nii    nii+0 //_D_ //
+ettekannetes    ette_kanne+tes //_S_ pl in, //
+,    , //_Z_ //
+paneeldiskussioonidel    paneel_diskussioon+del //_S_ pl ad, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+töörühmades    töö_rühm+des //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Haridusfoorumil    haridus_foorum+l //_S_ sg ad, //
+majandusministeeriumi    majandus_ministeerium+0 //_S_ sg g, //
+esindanud    esinda+nud //_V_ nud, //    esinda=nud+0 //_A_ //    esinda=nud+0 //_A_ sg n, //    esinda=nud+d //_A_ pl n, //
+Anne    Anne+0 //_H_ sg n, //
+Rebase    Rebane+0 //_H_ sg g, //    Rebas+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+näitas    näita+s //_V_ s, //
+maakondade    maakond+de //_S_ pl g, //
+väikeettevõtjate    väike_ette_võtja+te //_S_ pl g, //
+seas    seas+0 //_K_ //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+küsitlus    küsitlus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+neile    tema+le //_P_ pl all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+suurimaks    suurim+ks //_U_ sg tr, //
+probleemiks    probleem+ks //_S_ sg tr, //
+sobiliku    sobilik+0 //_A_ sg g, //
+tööjõu    töö_jõud+0 //_S_ sg g, //
+leidmine    leidmine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+murena    mure+na //_S_ sg es, //
+nimetasid    nimeta+sid //_V_ sid, //
+ettevõtjad    ette_võtja+d //_S_ pl n, //
+juba    juba+0 //_D_ //
+värvatud    värba+tud //_V_ tud, //    värva=tud+0 //_A_ //    värva=tud+0 //_A_ sg n, //    värva=tud+d //_A_ pl n, //
+töömeeste    töö_mees+te //_S_ pl g, //
+kehva    kehv+0 //_A_ sg g, //
+töössesuhtumist    töö+sse_suhtumine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+nõrka    nõrk+0 //_A_ sg p, //
+motivatsiooni    motivatsioon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Rebase    Rebane+0 //_H_ sg g, //    Rebas+0 //_H_ sg g, //
+andmetel    andmed+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="true" value="P6Y" beginPoint="t5" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+kuue    kuus+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1991" />
+</TIMEX>
+kõige    kõige+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+uusi    uus+i //_A_ pl p, //
+töökohti    töö_koht+i //_S_ pl p, //
+tekkinud    tekki+nud //_V_ nud, //    tekki=nud+0 //_A_ //    tekki=nud+0 //_A_ sg n, //    tekki=nud+d //_A_ pl n, //
+kaubanduses    kaubandus+s //_S_ sg in, //
+,    , //_Z_ //
+teeninduses    teenindus+s //_S_ sg in, //
+,    , //_Z_ //
+rahanduses    rahandus+s //_S_ sg in, //
+,    , //_Z_ //
+kindlustuses    kindlustus+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+riigivalitsemisega    riigi_valitsemine+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+aladel    ala+del //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Mitte    mitte+0 //_D_ //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+kutsekoolid    kutse_kool+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+suutnud    suut+nud //_V_ nud, //    suut=nud+0 //_A_ //    suut=nud+0 //_A_ sg n, //    suut=nud+d //_A_ pl n, //
+neid    see+d //_P_ pl p, //
+tööturutrende    töö_turu_trend+e //_S_ pl p, //
+järgida    järgi+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+õpetata    õpeta+ta //_V_ ta, //
+välja    välja+0 //_D_ //
+neid    see+d //_P_ pl p, //
+ametimehi    ameti_mees+0 //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+ühes    üks+s //_N_ sg in, //    üks+s //_P_ sg in, //
+või    või+0 //_J_ //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+piirkonnas    piirkond+s //_S_ sg in, //
+tegelikult    tegelikult+0 //_D_ //
+vajatakse    vaja+takse //_V_ takse, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+nentis    nenti+s //_V_ s, //
+Rebane    Rebane+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Hea    hea+0 //_A_ sg n, //
+kool    kool+0 //_S_ sg n, //
+teenib    teeni+b //_V_ b, //
+tööandjat    töö_andja+t //_S_ sg p, //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Ehitusettevõtjate    Ehitus_ette_võtja+te //_H_ pl g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+tegevdirektori    tegev_direktor+0 //_S_ sg g, //
+Ilmar    Ilmar+0 //_H_ sg n, //
+Lingi    Ling+0 //_H_ sg g, //    Lingi+0 //_H_ sg g, //    Link+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+võtavad    võt+vad //_V_ vad, //
+tööandjad    töö_andja+d //_S_ pl n, //
+viimases    viimane+s //_A_ sg in, //
+hädas    häda+s //_S_ sg in, //
+ametisse    amet+sse //_S_ sg ill, //
+välismaalased    välis_maalane+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+firmajuht    firma_juht+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+leia    leid+0 //_V_ o, //
+Eestist    Eesti+st //_H_ sg el, //
+häid    hea+id //_A_ pl p, //
+oskustöölisi    oskus_tööline+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+tuleb    tule+b //_V_ b, //
+tal    tema+l //_P_ sg ad, //
+paratamatult    paratamatult+0 //_D_ //
+hakata    hakka+ta //_V_ da, //
+võõrtööjõudu    võõr_töö_jõud+0 //_S_ sg p, //
+sisse    sisse+0 //_D_ //
+tooma    too+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Tööandjale    töö_andja+le //_S_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oluline    oluline+0 //_A_ sg n, //
+saada    saa+da //_V_ da, //
+endale    ise+le //_P_ sg all, //
+parimad    parim+d //_U_ pl n, //
+töömehed    töö_mees+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+nende    tema+de //_P_ pl g, //
+töö    töö+0 //_S_ sg g, //
+kvaliteedist    kvaliteet+st //_S_ sg el, //
+sõltuvad    sõltu+vad //_V_ vad, //
+ka    ka+0 //_D_ //
+võimalikud    võimalik+d //_A_ pl n, //
+välisinvesteeringud    välis_investeering+d //_S_ pl n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+seletas    seleta+s //_V_ s, //
+Link    Link+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Lingi    link+0 //_S_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+sõlmi    sõlmi+0 //_V_ o, //
+üksi    üksi+0 //_D_ //
+välisfirma    välis_firma+0 //_S_ sg g, //
+allhanketööde    all_hanke_töö+de //_S_ pl g, //
+lepingut    leping+t //_S_ sg p, //
+ettevõttega    ette_võte+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+palgal    palk+l //_S_ sg ad, //
+madala    madal+0 //_A_ sg g, //
+kvalifikatsiooniga    kvalifikatsioon+ga //_S_ sg kom, //
+tööjõud    töö_jõud+0 //_S_ sg n, //    töö_jõud+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Eesti    Eesti+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+jääda    jää+da //_V_ da, //
+vaid    vaid+0 //_J_ //
+turismi-    turism+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+transiidimaaks    transiidi_maa+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+=    = //_Z_ //
+leidis    leid+is //_V_ s, //
+Link    link+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+lisades    lisa+des //_V_ des, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+muidugi    muidugi+0 //_D_ //
+nõuab    nõud+b //_V_ b, //
+ka    ka+0 //_D_ //
+neis    see+s //_P_ pl in, //
+valdkondades    valdkond+des //_S_ pl in, //
+konkurentsis    konkurents+s //_S_ sg in, //
+püsimine    püsimine+0 //_S_ sg n, //
+eurotaset    euro_tase+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Lingi    link+0 //_S_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+tuleks    tule+ks //_V_ ks, //
+nii    nii+0 //_D_ //
+kutse-    kutse+0 //_S_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kõrgkoolidel    kõrg_kool+del //_S_ pl ad, //
+järjest    järjest+0 //_D_ //
+enam    enam+0 //_D_ //
+silmas    silm+s //_S_ sg in, //
+pidada    pida+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+teenivad    teeni+vad //_V_ vad, //
+tööandjat    töö_andja+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Haridusega    haridus+ga //_S_ sg kom, //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+midagi    miski+dagi //_P_ sg p, //
+peale    peale+0 //_D_ //
+hakata    hakka+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+jääb    jää+b //_V_ b, //
+vahel    vahel+0 //_D_ //
+mulje    mulje+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kutsekoolides    kutse_kool+des //_S_ pl in, //
+õpetatakse    õpeta+takse //_V_ takse, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1997-11-02" >
+eilse    eilne+0 //_A_ sg g, //
+päeva    päev+0 //_S_ sg g, //
+</TIMEX>
+teadmisi-oskusi    teadmis+i-oskus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+millega    mis+ga //_P_ pl kom, //    mis+ga //_P_ sg kom, //
+pole    ole+0 //_V_ neg o, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+kaasaegsetes    kaas_aegne+tes //_A_ pl in, //
+</TIMEX>
+firmades    firma+des //_S_ pl in, //
+midagi    miski+dagi //_P_ sg p, //
+teha    tege+a //_V_ da, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+nentis    nenti+s //_V_ s, //
+Link    Link+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+peaksid    pida+ksid //_V_ ksid, //
+ka    ka+0 //_D_ //
+firmad    firma+d //_S_ pl n, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+end    ise+0 //_P_ sg p, //
+agaramalt    agaramalt+0 //_D_ //
+kutsekoolide    kutse_kool+de //_S_ pl g, //
+õpilastele    õpilane+tele //_S_ pl all, //
+praktikapaikadeks    praktika_paik+deks //_S_ pl tr, //
+pakkuma    pakku+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+õppeasutustel    õppe_asutus+tel //_S_ pl ad, //
+pole    ole+0 //_V_ neg o, //
+võimalik    võimalik+0 //_A_ sg n, //
+kogu    kogu+0 //_A_ //
+aeg    aeg+0 //_S_ sg n, //
+tehnika    tehnika+0 //_S_ sg g, //
+viimase    viimane+0 //_A_ sg g, //
+sõnaga    sõna+ga //_S_ sg kom, //
+kaasas    kaasas+0 //_D_ //
+käia    käi+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kaubandus-tööstuskoja    kaubandus-tööstus_koda+0 //_S_ sg g, //
+projektijuhi    projekti_juht+0 //_S_ sg g, //
+Tiia    Tiia+0 //_H_ sg n, //
+Tali    Tali+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+loomulik    loomulik+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+väga    väga+0 //_D_ //
+spetsiifiliste    spetsiifiline+te //_A_ pl g, //
+kutseoskuste    kutse_oskus+te //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+tuleb    tule+b //_V_ b, //
+teadmiste    teadmine+te //_S_ pl g, //
+vundamendile    vundament+le //_S_ sg all, //
+katus    katus+0 //_S_ sg n, //
+peale    peale+0 //_D_ //
+ehitada    ehita+da //_V_ da, //
+alles    alles+0 //_D_ //
+koolijärgses    kooli_järgne+s //_A_ sg in, //
+tööelus    töö_elu+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegused    praegune+d //_A_ pl n, //
+</TIMEX>
+tööandjadki    töö_andja+dki //_S_ pl n, //
+ootavad    oota+vad //_V_ vad, //
+eelkõige    eel_kõige+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+koolidest    kool+dest //_S_ pl el, //
+väljuksid    välju+ksid //_V_ ksid, //
+küpsed    küps+d //_A_ pl n, //
+isiksused    isiksus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimelised    võimeline+d //_A_ pl n, //
+end    ise+0 //_P_ sg p, //
+pidevalt    pidevalt+0 //_D_ //
+täiendama    täienda+ma //_V_ ma, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+väitis    väit+is //_V_ s, //
+Tali    Tali+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ehitusettevõtja    ehitus_ette_võtja+0 //_S_ sg g, //
+Ilmar    Ilmar+0 //_H_ sg n, //
+Lingi    Ling+0 //_H_ sg g, //    Lingi+0 //_H_ sg g, //    Link+0 //_H_ sg g, //
+hinnangul    hinnang+l //_S_ sg ad, //
+valitseb    valitse+b //_V_ b, //
+aga    aga+0 //_J_ //
+ühiskonnas    ühiskond+s //_S_ sg in, //
+siiski    siiski+0 //_D_ //
+veel    veel+0 //_D_ //
+mõttemall    mõtte_mall+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+haridustee    haridus_tee+0 //_S_ sg n, //
+lõpeb    lõp+b //_V_ b, //    lõppe+b //_V_ b, //
+<TIMEX  tid="t10" type="DURATION" temporalFunction="false" value="P25Y" >
+25-aastaselt    25_aastase=lt+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    Praegu+0 //_H_ sg g, //    Praegu+0 //_H_ sg n, //    praegu+0 //_D_ //
+</TIMEX>
+moodustavad    moodusta+vad //_V_ vad, //
+peamise    peamine+0 //_A_ sg g, //
+tööjõu    töö_jõud+0 //_S_ sg g, //
+nõukogude    nõu_kogu+de //_S_ pl g, //
+ajal    ajal+0 //_K_ //
+hariduse    haridus+0 //_S_ sg g, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Neid    see+d //_P_ pl p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+raskem    raskem+0 //_C_ sg n, //
+koolitada    koolita+da //_V_ da, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+tänapäevaste    täna_päevane+te //_A_ pl g, //
+</TIMEX>
+teadmistega    teadmine+tega //_S_ pl kom, //
+noori    noor+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+vajavad    vaja+vad //_V_ vad, //
+vaid    vaid+0 //_D_ //
+viimast    viimane+t //_A_ sg p, //
+lihvi    lihvi+0 //_V_ o, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Link    Link+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+õmbleja    õmbleja+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+riskima    riski+ma //_V_ ma, //
+</s>
+<s>
+Haridusfoorumi    haridus_foorum+0 //_S_ sg g, //
+töörühma    töö_rühm+0 //_S_ sg g, //
+liikme    liige+0 //_S_ sg g, //
+Linnar    Linnar+0 //_H_ sg n, //
+Viigi    Viig+0 //_H_ sg g, //    Viigi+0 //_H_ sg g, //    Viik+0 //_H_ sg g, //
+väitel    väide+l //_S_ sg ad, //
+saavad    saa+vad //_V_ vad, //
+aga    aga+0 //_J_ //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+kaasaegses    kaas_aegne+s //_A_ sg in, //
+</TIMEX>
+infoühiskonnas    info_ühiskond+s //_S_ sg in, //
+ka    ka+0 //_D_ //
+taksojuhid    takso_juht+d //_S_ pl n, //
+või    või+0 //_J_ //
+õmblejad    õmbleja+d //_S_ pl n, //
+end    ise+0 //_P_ sg p, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+igati    igati+0 //_D_ //
+nõutud    nõu=tud+0 //_A_ //    nõu=tud+0 //_A_ sg n, //    nõu=tud+d //_A_ pl n, //    nõud+tud //_V_ tud, //    nõutu+d //_A_ pl n, //
+oskustöötajaks    oskus_töötaja+ks //_S_ sg tr, //
+koolitada    koolita+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Nad    tema+d //_P_ pl n, //
+peaksid    pida+ksid //_V_ ksid, //
+ainult    ainult+0 //_D_ //
+julgema    julgem+0 //_C_ sg g, //
+raha    raha+0 //_S_ sg g, //
+oma    oma+0 //_P_ sg g, //
+õpingutesse    õping+tesse //_S_ pl ill, //
+investeerida    investeeri+da //_V_ da, //
+-    - //_Z_ //
+<kindel_piir/>
+hilisem    hilisem+0 //_C_ sg n, //
+hea    hea+0 //_A_ sg n, //
+töökoht    töö_koht+0 //_S_ sg n, //
+teeks    tege+ks //_V_ ks, //
+need    see+d //_P_ pl n, //
+kulutused    kulutus+d //_S_ pl n, //
+kuhjaga    kuhi+ga //_S_ sg kom, //
+tasa    tasa+0 //_D_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+kinnitas    kinnita+s //_V_ s, //
+Viik    Viik+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="1997-W44-WE" >
+Nädalavahetusel    nädala_vahetus+l //_S_ sg ad, //
+</TIMEX>
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+haridusfoorumil    haridus_foorum+l //_S_ sg ad, //
+käsitleti    käsitle+ti //_V_ ti, //
+ühtekokku    ühte_kokku+0 //_D_ //
+nelja    neli+0 //_N_ sg p, //
+teemavaldkonda    teema_valdkond+0 //_S_ sg p, //
+-    - //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+võimetekohane    võimete_kohane+0 //_A_ sg n, //
+haridus    haridus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kõigile    kõik+le //_P_ pl all, //
+kättesaadav    kätte_saadav+0 //_A_ sg n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+millised    milline+d //_P_ pl n, //
+regionaalsed    regionaalne+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+sotsiaalsed    sotsiaalne+d //_A_ pl n, //
+asjaolud    asja_olu+d //_S_ pl n, //
+seda    see+da //_P_ sg p, //
+takistavad    takista+vad //_V_ vad, //
+;    ; //_Z_ //
+<kindel_piir/>
+kuivõrd    kui_võrd+0 //_D_ //
+vastab    vasta+b //_V_ b, //
+haridus    haridus+0 //_S_ sg n, //
+tööturu    töö_turg+0 //_S_ sg g, //
+nõuetele    nõue+tele //_S_ pl all, //
+;    ; //_Z_ //
+<kindel_piir/>
+milline    milline+0 //_P_ sg n, //
+tulevik    tulevik+0 //_S_ sg n, //
+ootab    oota+b //_V_ b, //
+muukeelset    muu_keelne+t //_A_ sg p, //
+haridust    haridus+t //_S_ sg p, //
+;    ; //_Z_ //
+<kindel_piir/>
+millised    milline+d //_P_ pl n, //
+peaksid    pida+ksid //_V_ ksid, //
+olema    ole+ma //_V_ ma, //
+lapse    laps+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lapsevanema    lapse_vanem+0 //_S_ sg g, //
+suhted    suhe+d //_S_ pl n, //
+kooliga    kool+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Haridusfoorumist    haridus_foorum+st //_S_ sg el, //
+võttis    võt+is //_V_ s, //
+osa    osa+0 //_S_ sg n, //
+ligi    ligi+0 //_D_ //
+kolmsada    kolm_sada+0 //_N_ sg n, //
+delegaati    delegaat+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Esindatud    esinda=tu+d //_S_ pl n, //
+olid    ole+id //_V_ sid, //
+nii    nii+0 //_D_ //
+pedagoogid    pedagoog+d //_S_ pl n, //
+,    , //_Z_ //
+haridusjuhid    haridus_juht+d //_S_ pl n, //
+,    , //_Z_ //
+õpilased    õpilane+d //_S_ pl n, //
+,    , //_Z_ //
+lapsevanemad    lapse_vanem+d //_S_ pl n, //
+,    , //_Z_ //
+tööandjad    töö_andja+d //_S_ pl n, //
+,    , //_Z_ //
+poliitikud    poliitik+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+haridus-    haridus+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+pereühendusi    pere_ühendus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t14" type="SET" temporalFunction="true" value="P1Y" freq="1X" >
+Kord    kord+0 //_D_ //
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+koos    koos+0 //_D_ //
+käiv    käiv+0 //_A_ sg n, //
+haridusfoorum    haridus_foorum+0 //_S_ sg n, //
+sündis    sündi+s //_V_ s, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="false" value="1995-10" >
+1995.    1995.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+oktoobris    oktoober+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-10-08T13:49" functionInDocument="CREATION_TIME"/>
+
+Tartu Ülikool arvati maailma juhtivate ülikoolide hulka
+<TIMEX3 tid="t1" type="TIME" value="2009-10-08T13:49">08.10.2009 13:49</TIMEX3>
+
+Mainekas maailma ülikoole reastavas edetabelis «Times Higher Education-QS World University Rankings» on viie protsendi maailma edukaimate ülikoolide seas esimest korda märgitud ka Tartu Ülikool. Täielik nimekiri maailma haridusparemikust avaldatakse <TIMEX3 tid="t2" type="DATE" value="2009-10-09" anchorTimeID="t0">homme.</TIMEX3>
+
+
+Tartu Ülikooli pressiesindaja Karin Volmeri kinnitusel anti ülikoolile edetabelisse jõudmisest teada meili teel. Esialgsetel andmetel asub Tartu Ülikool kohal vahemikus 500-600. Esimesed 200 ülikooli avaldati kohtadega juba <TIMEX3 tid="t3" type="DATE" value="2009-10-08" anchorTimeID="t0">täna.</TIMEX3>
+
+«Viie protsendi maailma juhtivate ülikoolide hulgas olemine on tunnustus meie ülikoolile,» rõõmustas Tartu Ülikooli rektor Alar Karis. «Usun, et see aitab kaasa ka noorte inimeste haridustee valikule ning julgustab neid õppima Tartu Ülikoolis,» lisas Karis ülikooli pressitalituse vahendusel.
+
+Edetabelit juhib jätkuvalt Harvardi Ülikool, teisele kohale on tõusnud Cambridge, möödudes <TIMEX3 tid="t4" type="DATE" value="2009" anchorTimeID="t0">sel aastal</TIMEX3> Yale’i Ülikoolist. Ajakirja hinnangul on kõige märkimisväärsem aga fakt, et University College London on tõusnud edetabelis neljandaks, viiendat ja kuuendat kohta jagava Oxfordi Ülikooli ja Imperial College’i ette.
+
+Edetabeli eest vastutava QS Intelligence Unit uuringufirma juhi Ben Sowteri hinnangul näitab University College London’i ja Imperial College’i tõus <TIMEX3 tid="t5" type="DURATION" value="PXY" beginPoint="t11" endPoint="t0" >viimaste aastate</TIMEX3><TIMEX3 tid="t11" type="DATE" value="XXXX" temporalFunction="true"/> edetabelites seda, et just teadusalane koostöö tagab edu üha kasvava konkurentsiga kõrgharidusmaastikul.
+
+Tähelepanuväärne on ka Ameerika ülikoolide arvu vähenemine esisajas (<TIMEX3 tid="t6" type="DATE" value="2008">2008. a</TIMEX3> – 42; <TIMEX3 tid="t7" type="DATE" value="2009">2009. a</TIMEX3> – 36) ning Euroopa ja Aasia ülikoolide esiletõus. Tartu Ülikooli lähinaabritest on esisajas esindatud Lundi (67. koht) ja Uppsala (75. koht) ülikoolid Rootsis ning kaugele ei jää ka Helsingi Ülikool (108. koht) Soomes.
+
+Edetabeli koostamisel on arvestatud akadeemiliste juhtfiguuride ja kõrgkoolide juhtide küsitlust, üliõpilaste ja õppejõudude suhtarvu, teaduspublikatsioonide
+tsiteerimist, välisõppejõudude ja -tudengite osakaalu.
+
+<TIMEX3 tid="t8" type="DATE" value="2009" anchorTimeID="t0">Sel aastal</TIMEX3> osales uuringus 9386 akadeemilise maailma esindajat, mis on 47 protsenti enam kui <TIMEX3 tid="t9" type="DATE" value="2008">2008. aastal</TIMEX3> ning 3281 tööandjat, mis on võrreldes <TIMEX3 tid="t10" type="DATE" value="2008" anchorTimeID="t0">eelmise aastaga</TIMEX3> kasvanud 40 protsenti.
+
+Majandusliku Koostöö ja Arengu Organisatsiooni (OECD) andmeil on maailmas 12 000 ülikooli. Nende põhjal sünnib ka viie protsendi maailma edukaimate ülikoolide edetabel.
+</TimeML>
+

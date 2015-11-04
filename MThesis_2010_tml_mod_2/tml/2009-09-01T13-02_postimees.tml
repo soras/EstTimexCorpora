@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-09-01T13:02" functionInDocument="CREATION_TIME"/>
+
+60 esimest Tallinna reisisaatjat alustab <TIMEX3 tid="t1" type="DATE" value="2009-09-03" anchorTimeID="t0">neljapäeval</TIMEX3> (35)
+<TIMEX3 tid="t2" type="TIME" value="2009-09-01T13:02">01.09.2009 13:02</TIMEX3>
+Alo Raun, vanemtoimetaja
+
+Varem välja kuulutatud <TIMEX3 tid="t3" type="DATE" value="2009-09-01" anchorTimeID="t0">1. septembri</TIMEX3> ehk <TIMEX3 tid="t4" type="DATE" value="2009-09-01" anchorTimeID="t0">tänase</TIMEX3> asemel alustavad esimesed reisisaatjad Tallinna bussides tegutsemist <TIMEX3 tid="t5" type="DATE" value="2009-09-03" anchorTimeID="t0"> neljapäevast,</TIMEX3> sest nad läbivad enne <TIMEX3 tid="t6" type="DURATION" value="P2D">kahepäevase</TIMEX3> koolituse.
+
+Tallinna Autobussikoondise (TAK) pressiesindaja Sirje Roht ütles Postimees.ee'le, et <TIMEX3 tid="t7" type="DATE" value="2009-09-03" anchorTimeID="t0">ülehomme</TIMEX3> läheb liinile ligi 60 reisisaatjat, <TIMEX3 tid="t8" type="DATE" value="2009-09-04" anchorTimeID="t0">reedel</TIMEX3> järgmised 60 ning ülejäänud vastvalt graafikule hiljem.
+
+Esimesi reisisaatjaid võib kohata liinidel, kus sõidavad madalad bussid. «Alustame nende bussidega, mis on madala sisenemisega, sest sinna kontsentreeruvad lapsevankritega emad, ratastooliga sõitjad, liikumisraskustega inimesed ja vanemad reisijad,» rääkis Roht .
+
+Peavad ju reisikorraldajad ühe tööülesandena abistama erilist tähelepanu vajavaid sõitjaid, laskma näiteks alla rambi, mis lihtsustab ratastooliga bussi sisenemist.
+
+Sajad töökohad veel vabad
+
+Kuigi algselt oli plaan pakkuda reisisaatja ametit 540 töötule, siis Tallinna Autobussikoondise (TAK) pressiesindaja Sirje Rohti sõnul on <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF" anchorTimeID="t0"> praeguseks </TIMEX3> tööleping sõlmitud 160 inimesega.
+
+Tema sõnul tuleb huvilisi üha juurde ja see number kasvab <TIMEX3 tid="t10" type="DATE" value="FUTURE_REF" anchorTimeID="t0"> lähiajal </TIMEX3> arvestatavalt. «Reisisaatjate valiku ja töölevormistamise protsess jätkub <TIMEX3 tid="t11" type="DATE" value="2009-09" mod="START" anchorTimeID="t0">septembri alguses</TIMEX3> ja <TIMEX3 tid="t12" type="DURATION" value="PXW"  beginPoint="t23" endPoint="t0">viimased nädalad</TIMEX3><TIMEX3 tid="t23" type="DATE" value="XXXX-WXX" temporalFunction="true"/> on näidanud üsna suurt huvi selle ameti vastu,» rääkis Roht. «Kui <TIMEX3 tid="t13" type="DATE" value="2009-SU" mod="MID" anchorTimeID="t0">kesksuvel</TIMEX3> oli vaiksem periood, siis <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> võtab <TIMEX3 tid="t15" type="SET" value="P1D" quant="EVERY">iga päev</TIMEX3> ühendust kümmekond inimest.»
+
+Tema sõnul kandideeris <TIMEX3 tid="t16" type="DATE" value="2009-05" anchorTimeID="t0"> maikuisel </TIMEX3> tööbörsil TAKi reisisaatjaks 245 inimest. Osa neist ei saanud tööle võtta, kuna nad polnud end töötuna arvele võtnud, teised polnud Tallinna elanike registris. Osa inimesi polnud kunagi tööd teinud inimestega ja kartsid pidevat suhtlemist. Mõni leidis, et tema töötu abiraha ületab pakutava palga.
+
+«24 <TIMEX3 tid="t17" type="DATE" value="2009-SP" anchorTimeID="t0">kevadel</TIMEX3> reisisaatja kohale avalduse andnud inimest on <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF" anchorTimeID="t0"> praeguseks </TIMEX3> leidnud juba erialase töö. Ja üks osa on neid, kes meie hinnangul ei sobi sellisele töökohale, kus on vaja olla sõitjate teenindaja rollis: on juba esimesel kohtumisel konfliktsed või muul viisil mittekorrektsed,» selgitas Roht.
+
+Õpetatakse ka psühholoogiat
+
+<TIMEX3 tid="t19" type="DATE" value="2009-09-01" anchorTimeID="t0"> Täna </TIMEX3> alanud reisisaatjate koolitus kestab <TIMEX3 tid="t20" type="DURATION" value="P2D"> kaks päeva.</TIMEX3>
+
+Esimese koolituspäeva avas TAKi juhatuse esimees Hugo Linholm, kes tutvustas ettevõtet ja sõitjate teenindamise spetsiifikat. Reisisaatjaid käis tervitamas ka abilinnapea Jaanus Mutli.
+
+Esimene koolituspäev on rohkem teooria päralt ja sisaldab <TIMEX3 tid="t21" type="DURATION" value="PT4H">4-tunnist</TIMEX3> teeninduspõhimõtete koolitust psühholoog Helle Kahro juhendamisel, lisaks sõitjateveo seadusandluse, eeskirjade jms selgitamist, samuti liiklusohutusalast juhendamist ning muidugi reisisaatjate töökorralduse põhimõtteid ja otseste töökohustuste tutvustamist.
+
+Lisandub praktiline kogemus
+
+Teine päev on rohkem praktiline, tutvustatakse bussiliine ja nende eripärasid, piletisüsteemi, erinevaid sõiduõiguse kategooriaid.
+
+Saadakse juhtnööre tööohutuse kohta, tutvutakse eeskirjade ja seadustega, räägitakse läbi käitumine ja sõitjate teavitamine erakorraliste olukordade puhul, samuti sõitjate kategooriad, kes vajavad erilist tähelepanu (liikumisraskustega inimesed, väikelastega emad, ratastooliga sõitjad ja nende abistamine), käitumine probleemsete sõitjatega jne. Lõpuks sõidetakse ka liinid päriselus läbi.
+
+Seejärel peaks reisisaatjad Rohti sõnul üksi töötamiseks valmis olema.
+
+Kuna sotsiaalsete töökohtade projekt on TAKi jaoks esmakordne ja reisisaatjate töölerakendamine uus kogemus, käisid firma esindajad <TIMEX3 tid="t22" type="DATE" value="2009-SU" anchorTimeID="t0">suvel</TIMEX3> Saksamaal Düsseldorfis kogemusi uurimas. Sealseid kogemusi ning sõitjate ja ühistranspordifirmade hinnanguid on ka Eesti süsteemi käivitamisel kasutatud.
+</TimeML>
+

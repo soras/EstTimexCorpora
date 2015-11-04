@@ -1,0 +1,693 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-10-29TXX:XX" />
+<ignoreeri>
+|
+autor:
+Mare
+Kirss
+|
+ajalehenumber:
+Eesti
+Päevaleht
+29.10.1997
+|
+rubriik:
+Majandus
+|
+artikkel:
+Börsilangus
+jätkus
+ahelreaktsioonina
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1997-W43" mod="SECOND_HALF" >
+Möödunud    möödu+nud //_V_ nud, //    möödunud+0 //_A_ //    möödunud+0 //_A_ sg n, //    möödunud+d //_A_ pl n, //
+nädala    nädal+0 //_S_ sg g, //
+teisel    teine+l //_O_ sg ad, //    teine+l //_P_ sg ad, //
+poolel    pool+l //_S_ sg ad, //
+</TIMEX>
+alanud    ala=nud+0 //_A_ //    ala=nud+0 //_A_ sg n, //    ala=nud+d //_A_ pl n, //    alga+nud //_V_ nud, //
+kriis    kriis+0 //_S_ sg n, //
+maailma    maa_ilm+0 //_S_ sg g, //
+aktsiaturgudel    aktsia_turg+del //_S_ pl ad, //
+sai    saa+i //_V_ s, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1997-10-28" >
+eile    eile+0 //_D_ //
+</TIMEX>
+hoogu    hoog+0 //_S_ sg p, //
+juurde    juurde+0 //_D_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+analüütikute    analüütik+te //_S_ pl g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+turgude    turg+de //_S_ pl g, //
+kiiret    kiire+t //_A_ sg p, //
+jahtumist    jahtumine+t //_S_ sg p, //
+oodata    oota+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Heidutatuna    heiduta=tu+na //_S_ sg es, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1997-10-27" >
+esmaspäevasest    esmas_päevane+st //_A_ sg el, //
+</TIMEX>
+vabalangusest    vaba_langus+st //_S_ sg el, //
+Wall    Wall+0 //_H_ sg n, //
+Streetil    Streetil+0 //_H_ sg n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+lõppes    lõppe+s //_V_ s, //
+kauplemise    kauplemine+0 //_S_ sg g, //
+peatamisega    peatamine+ga //_S_ sg kom, //
+New Yorgi    New York+0 //_H_ sg g, //
+börsil    börs+l //_S_ sg ad, //
+,    , //_Z_ //
+</kiil>
+tegi    tege+i //_V_ s, //
+Hongkongi    Hongkong+0 //_H_ sg g, //
+aktsiabörs    aktsia_börs+0 //_S_ sg n, //
+läbi    läbi+0 //_K_ //
+oma    oma+0 //_P_ sg g, //
+ajaloo    aja_lugu+0 //_S_ sg g, //
+suurima    suurim+0 //_U_ sg g, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P1D" >
+ühepäevase    ühe_päevane+0 //_A_ sg g, //
+</TIMEX>
+kukkumise    kukkumine+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+vallandades    vallanda+des //_V_ des, //
+terve    terve+0 //_A_ sg g, //
+ahelreaktsiooni    ahel_reaktsioon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Midagi    miski+dagi //_P_ sg p, //
+sarnast    sarnane+t //_A_ sg p, //
+võis    või+s //_V_ s, //
+turgudel    turg+del //_S_ pl ad, //
+näha    näge+a //_V_ da, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="1987" >
+1987.    1987.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kommenteerisid    kommenteeri+sid //_V_ sid, //
+diilerid    diiler+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Diilerite    diiler+te //_S_ pl g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+püstitatud    püstita+tud //_V_ tud, //    püstita=tud+0 //_A_ //    püstita=tud+0 //_A_ sg n, //    püstita=tud+d //_A_ pl n, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1997-10-28" >
+eile    eile+0 //_D_ //
+</TIMEX>
+Aasia    Aasia+0 //_H_ sg g, //
+turgude    turg+de //_S_ pl g, //
+avanedes    avane+des //_V_ des, //
+mitte    mitte+0 //_D_ //
+küsimust    küsimus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+turg    turg+0 //_S_ sg n, //
+kukub    kukku+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+vaid    vaid+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+palju    palju+0 //_D_ //
+ta    tema+0 //_P_ sg n, //
+kukub    kukku+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t7" type="DURATION" temporalFunction="true" value="PT2M" beginPoint="t1_1" endPoint="t1_2" >
+Esimese    esimene+0 //_O_ sg g, //
+kahe    kaks+0 //_N_ sg g, //
+minutiga    minut+ga //_S_ sg kom, //
+<TIMEX  tid="t1_1" type="TIME" temporalFunction="true" value="1997-10-28TXX:XX" comment="täpsustus nõuab taustateadmisi\uurimist" />
+<TIMEX  tid="t1_2" type="TIME" temporalFunction="true" value="1997-10-28TXX:XX" comment="täpsustus nõuab taustateadmisi\uurimist" />
+</TIMEX>
+langes    lange+s //_V_ s, //
+indeks    indeks+0 //_S_ sg n, //
+11,45    11,45+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1997-10-28TXX:XX" anchorTimeID="t1_2" comment="täpsustus nõuab taustateadmisi\uurimist" >
+poolteist    pool_teist+0 //_N_ sg n, //
+tundi    tund+0 //_S_ sg p, //
+hiljem    hiljem+0 //_D_ //
+</TIMEX>
+juba    juba+0 //_D_ //
+13    13+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+9124,54    9124,54+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Hongkongi    Hongkong+0 //_H_ sg g, //
+börs    börs+0 //_S_ sg n, //
+kaotas    kaota+s //_V_ s, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="1997-10-28" >
+eilse    eilne+0 //_A_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+15    15+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+tegi    tege+i //_V_ s, //
+siis    siis+0 //_D_ //
+osa    osa+0 //_S_ sg g, //
+kaotatust    kaotatu+st //_S_ sg el, //
+tagasi    tagasi+0 //_D_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+Hongkongi    Hongkong+0 //_H_ sg g, //
+börsiindeks    börsi_indeks+0 //_S_ sg n, //
+Hang    Hang+0 //_H_ sg n, //
+Seng    Seng+0 //_H_ sg n, //
+lõpetas    lõpeta+s //_V_ s, //
+<TIMEX  tid="t1_3" type="DATE" temporalFunction="true" value="1997-10-28" anchorTimeID="t0">
+päeva    päev+0 //_S_ sg g, //
+</TIMEX>
+13,7    13,7+0 //_N_ ?, //
+-protsendise    protsendine+0 //_A_ sg g, //
+langusega    langus+ga //_S_ sg kom, //
+9059,89    9059,89+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg g, //
+juures    juures+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Hongkongi    Hongkong+0 //_H_ sg g, //
+aktsiaturg    aktsia_turg+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+jätkuvas    jätkuv+s //_A_ sg in, //
+vabalanguses    vaba_langus+s //_S_ sg in, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="XXXX-WXX" comment="ei mõelda konkreetset nädalat, vaid pigem kestvust">
+teist    teine+t //_O_ sg p, //    teine+t //_P_ sg p, //
+nädalat    nädal+t //_S_ sg p, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="1997-10-24" >
+möödunud    möödu+nud //_V_ nud, //    möödunud+0 //_A_ //    möödunud+0 //_A_ sg n, //    möödunud+d //_A_ pl n, //
+nädala    nädal+0 //_S_ sg g, //
+reede    reede+0 //_S_ sg n, //
+</TIMEX>
+välja    välja+0 //_D_ //
+arvata    arva+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+teatas    teata+s //_V_ s, //
+Baltic News Service    Baltic News Service+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Dow    Dow+0 //_H_ sg n, //
+Jones    Jones+0 //_H_ sg n, //
+püstitas    püstita+s //_V_ s, //
+langemisrekordi    langemis_rekord+0 //_S_ sg g, //
+</s>
+<s>
+USA    USA+0 //_Y_ ?, //
+aktsiaturgu    aktsia_turg+0 //_S_ adt, //
+peegeldav    peegelda=v+0 //_A_ sg n, //
+Dow    Dow+0 //_H_ sg n, //
+Jonesi    Jones+0 //_H_ sg g, //
+tööstuslik    tööstuslik+0 //_A_ sg n, //
+keskmine    keskmine+0 //_A_ sg n, //
+alustas    alusta+s //_V_ s, //
+<TIMEX  tid="t1_5" type="DATE" temporalFunction="true" value="1997-W44" anchorTimeID="t0">
+nädalat    nädal+t //_S_ sg p, //
+</TIMEX>
+ajaloo    aja_lugu+0 //_S_ sg g, //
+suurima    suurim+0 //_U_ sg g, //
+<TIMEX  tid="t12" type="DURATION" temporalFunction="false" value="P1D" >
+ühepäevase    ühe_päevane+0 //_A_ sg g, //
+</TIMEX>
+kukkumisega    kukkumine+ga //_S_ sg kom, //
+punktiarvestuses    punkti_arvestus+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+langedes    lange+des //_V_ des, //
+550    550+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+ning    ning+0 //_J_ //
+sundides    sundi+des //_V_ des, //
+börsi    börs+0 //_S_ sg g, //
+kauplemist    kauplemine+t //_S_ sg p, //
+peatama    peata+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Dow    Dow+0 //_H_ sg n, //
+kukkus    kukku+s //_V_ s, //
+<TIMEX  tid="t13" type="DURATION" temporalFunction="false" value="P1W" >
+nädal    nädal+0 //_S_ sg n, //
+aega    aeg+0 //_S_ sg p, //
+</TIMEX>
+pärast    pärast+0 //_K_ //
+ajaloolist    aja_looline+t //_A_ sg p, //
+<TIMEX  tid="t14" type="DATE" temporalFunction="false" value="1987" >
+1987.    1987.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+"    " //_Z_ //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="XXXX-WXX-1" >
+musta    must+0 //_A_ sg g, //
+esmaspäeva    esmas_päev+0 //_S_ sg g, //
+</TIMEX>
+"    " //_Z_ //
+554,26    554,26+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+7161,15    7161,15+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+,    , //_Z_ //
+<kindel_piir/>
+ületades    ületa+des //_V_ des, //
+<TIMEX  tid="t1_10" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t14" >
+tookordset    too_kordne+t //_A_ sg p, //
+</TIMEX>
+508-punktilist    508_punktiline+t //_A_ sg p, //
+kukkumisrekordit    kukkumis_rekord+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kauplemine    Kauplemine+0 //_H_ sg n, //
+New Yorgi    New York+0 //_H_ sg g, //
+börsil    börs+l //_S_ sg ad, //
+peatati    peata+ti //_V_ ti, //
+<TIMEX  tid="t16" type="DATE" temporalFunction="true" value="1997-10-27" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+<TIMEX tid="t1_6" type="SET" temporalFunction="true" value="P1D" freq="2X" anchorTimeID="t16" >
+kaks    kaks+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+</TIMEX>
+:    : //_Z_ //
+<kindel_piir/>
+esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+<TIMEX tid="t1_7" type="DURATION" temporalFunction="true" value="PT30M" >
+pooleks    pooleks+0 //_D_ //
+tunniks    tund+ks //_S_ sg tr, //
+</TIMEX>
+pärast    pärast+0 //_K_ //
+Dow    Dow+0 //_H_ sg n, //
+350-punktilist    350_punktiline+t //_A_ sg p, //
+langust    langus+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+seejärel    see_järel+0 //_D_ //
+<TIMEX tid="t1_8" type="DURATION" temporalFunction="true" value="PTXXH" comment="ülejäänud päevaks: teatud arvuks tundideks">
+kogu    kogu+0 //_A_ //
+ülejäänud    üle_jäänud+0 //_A_ //    üle_jäänud+0 //_A_ sg n, //    üle_jäänud+d //_A_ pl n, //
+päevaks    päev+ks //_S_ sg tr, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Tegemist    tegemine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esmakordse    esma_kordne+0 //_A_ sg g, //
+juhtumiga    juhtum+ga //_S_ sg kom, //
+New Yorgi    New York+0 //_H_ sg g, //
+börsi    börs+0 //_S_ sg g, //
+ajaloos    aja_lugu+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+mil    mil+0 //_D_ //
+kauplemine    kauplemine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t17" type="DURATION" temporalFunction="false" value="P1D" >
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+päeva    päev+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+<TIMEX tid="t1_9" type="SET" temporalFunction="true" value="P1D" freq="2X" anchorTimeID="t17">
+kaks    kaks+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+</TIMEX>
+katkestatud    katkesta+tud //_V_ tud, //    katkesta=tud+0 //_A_ //    katkesta=tud+0 //_A_ sg n, //    katkesta=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+punktiarvestuses    punkti_arvestus+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t18" type="DATE" temporalFunction="true" value="1997-10-27" >
+esmaspäevane    esmas_päevane+0 //_A_ sg n, //
+</TIMEX>
+langus    langus+0 //_S_ sg n, //
+ajaloo    aja_lugu+0 //_S_ sg g, //
+rängim    rängim+0 //_U_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+jäi    jää+i //_V_ s, //
+langus    langus+0 //_S_ sg n, //
+protsendiarvestuses    protsendi_arvestus+s //_S_ sg in, //
+<kiil>
+(    ( //_Z_ //
+7,18    7,18+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+kaugele    kaugele+0 //_D_ //
+maha    maha+0 //_D_ //
+"    " //_Z_ //
+<TIMEX  tid="t19" type="DATE" temporalFunction="true" value="XXXX-WXX-1" >
+musta    must+0 //_A_ sg g, //
+esmaspäeva    esmas_päev+0 //_S_ sg g, //
+</TIMEX>
+"    " //_Z_ //
+22-protsendisele    22_protsendine+le //_A_ sg all, //
+kukkumisele    kukkumine+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Dow    Dow+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t1_11" type="DURATION" temporalFunction="true" value="P4D" beginPoint="t1_12" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+nelja    neli+0 //_N_ sg g, //
+kauplemispäevaga    kauplemis_päev+ga //_S_ sg kom, //
+<TIMEX  tid="t1_12" type="DATE" temporalFunction="true" value="1997-10-26" comment="võib olla ebatäpne" />
+</TIMEX>
+kaotanud    kaota+nud //_V_ nud, //    kaota=nud+0 //_A_ //    kaota=nud+0 //_A_ sg n, //    kaota=nud+d //_A_ pl n, //
+umbes    umbes+0 //_D_ //
+900    900+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+pärast    pärast+0 //_K_ //
+rekordilist    rekordiline+t //_A_ sg p, //
+tõusu    tõus+0 //_S_ sg p, //
+<TIMEX  tid="t20" type="DATE" temporalFunction="true" value="1997-08-06" >
+6.    6.+0 //_O_ ?, //
+augustil    august+l //_S_ sg ad, //
+</TIMEX>
+8259,31    8259,31+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Dow    Dow+0 //_H_ sg n, //
+kaotanud    kaota+nud //_V_ nud, //    kaota=nud+0 //_A_ //    kaota=nud+0 //_A_ sg n, //    kaota=nud+d //_A_ pl n, //
+110    110+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="1997-08" >
+Augustikuise    Augusti_kuine+0 //_H_ sg g, //
+</TIMEX>
+kõrgpunktiga    kõrg_punkt+ga //_S_ sg kom, //
+võrreldes    võrdle+des //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Dow    Dow+0 //_H_ sg n, //
+kukkunud    kukku+nud //_V_ nud, //    kukku=nud+0 //_A_ //    kukku=nud+0 //_A_ sg n, //    kukku=nud+d //_A_ pl n, //
+13,3    13,3+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Tegemist    tegemine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Dow    Dow+0 //_H_ sg n, //
+esimese    esimene+0 //_O_ sg g, //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+10-protsendise    10_protsendine+0 //_A_ sg g, //
+langusega    langus+ga //_S_ sg kom, //
+<TIMEX  tid="t22" type="DURATION" temporalFunction="true" value="P7Y" beginPoint="t23" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+seitsme    seitse+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX  tid="t23" type="DATE" temporalFunction="true" value="1990" />
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Erinevalt    erinevalt+0 //_D_ //
+New Yorgi    New York+0 //_H_ sg g, //
+börsist    börs+st //_S_ sg el, //
+puudub    puudu+b //_V_ b, //
+Hongkongis    Hongkong+s //_H_ sg in, //
+kauplemist    kauplemine+t //_S_ sg p, //
+peatav    peata=v+0 //_A_ sg n, //
+mehhanism    mehhanism+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Hongkongis    Hongkong+s //_H_ sg in, //
+kaotati    kaota+ti //_V_ ti, //
+kauplemise    kauplemine+0 //_S_ sg g, //
+peatamise    peatamine+0 //_S_ sg g, //
+mehhanism    mehhanism+0 //_S_ sg n, //
+pärast    pärast+0 //_K_ //
+<TIMEX  tid="t24" type="DATE" temporalFunction="false" value="1987" >
+1987.    1987.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+börsikrahhi    börsi_krahh+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+mil    mil+0 //_D_ //
+Hongkongi    Hongkong+0 //_H_ sg g, //
+börs    börs+0 //_S_ sg n, //
+jäi    jää+i //_V_ s, //
+<TIMEX  tid="t25" type="DURATION" temporalFunction="false" value="P4D" >
+neljaks    neli+ks //_N_ sg tr, //
+päevaks    päev+ks //_S_ sg tr, //
+</TIMEX>
+suletuks    suletu+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+Aasia    Aasia+0 //_H_ sg g, //
+turud    turg+d //_S_ pl n, //
+tegid    tege+id //_V_ sid, //
+<TIMEX  tid="t26" type="DATE" temporalFunction="true" value="1997-10-28" >
+eile    eile+0 //_D_ //
+</TIMEX>
+läbi    läbi+0 //_K_ //
+suure    suur+0 //_A_ sg g, //
+kukkumise    kukkumine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Baltic    Baltic+0 //_H_ sg n, //
+News    News+0 //_H_ sg n, //
+Service-i    Service+i //_S_ sg g, //
+andmeil    andmed+il //_S_ pl ad, //
+langes    lange+s //_V_ s, //
+Tokyo    Tokyo+0 //_H_ sg g, //
+aktsiaindeks    aktsia_indeks+0 //_S_ sg n, //
+Nikkei    Nikkei+0 //_H_ sg n, //
+4,26    4,26+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+Lõuna-Korea    Lõuna-Korea+0 //_H_ sg g, //
+koondindeks    koond_indeks+0 //_S_ sg n, //
+kukkus    kukku+s //_V_ s, //
+5,8    5,8+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+Singapuri    Singapur+0 //_H_ sg g, //
+Straits    Straits+0 //_H_ sg n, //
+Times    Times+0 //_H_ sg n, //
+tööstuslik    tööstuslik+0 //_A_ sg n, //
+indeks    indeks+0 //_S_ sg n, //
+langes    lange+s //_V_ s, //
+3,6    3,6+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Austraalia    Austraalia+0 //_H_ sg g, //
+aktsiabörs    aktsia_börs+0 //_S_ sg n, //
+kukkus    kukku+s //_V_ s, //
+peaaegu    pea_aegu+0 //_D_ //
+10    10+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+2249    2249+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Müügipaanika    müügi_paanika+0 //_S_ sg n, //
+Euroopas    Euroopa+s //_H_ sg in, //
+</s>
+<s>
+ülemaailmne    üle_maa_ilmne+0 //_A_ sg n, //
+müügipaanika    müügi_paanika+0 //_S_ sg n, //
+kandus    kandu+s //_V_ s, //
+<TIMEX  tid="t27" type="DATE" temporalFunction="true" value="1997-10-28" >
+eile    eile+0 //_D_ //
+</TIMEX>
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+turgudele    turg+dele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+juhtivate    juhtiv+te //_A_ pl g, //
+aktsiate    aktsia+te //_S_ pl g, //
+hinnad    hind+d //_S_ pl n, //
+langesid    lange+sid //_V_ sid, //
+ligikaudu    ligi_kaudu+0 //_D_ //
+kümme    kümme+0 //_N_ sg n, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t28" type="TIME" temporalFunction="true" value="1997-10-28TEV" >
+Eile    eile+0 //_D_ //
+õhtul    õhtu+l //_S_ sg ad, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+suurim    suurim+0 //_U_ sg n, //
+aktsiabörs    aktsia_börs+0 //_S_ sg n, //
+London    London+0 //_H_ sg n, //
+6,86    6,86+0 //_N_ ?, //
+protsendiga    protsent+ga //_S_ sg kom, //
+miinuses    miinus+s //_S_ sg in, //
+4508,7    4508,7+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg g, //
+juures    juures+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Londoni    London+0 //_H_ sg g, //
+FTSE    ftse+0 //_H_ sg n, //
+kaotas    kaota+s //_V_ s, //
+<TIMEX  tid="t1_13" type="DURATION" temporalFunction="true" value="PT30M" comment="esimene kauplemistund: valdkonnaspetsiifiline \ täpsustamine nõuab taustateadmist">
+esimese    esimene+0 //_O_ sg g, //
+poole    pool+0 //_S_ sg g, //
+kauplemistunniga    kauplemis_tund+ga //_S_ sg kom, //
+</TIMEX>
+9,5    9,5+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+langedes    lange+des //_V_ des, //
+4382,8    4382,8+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+ületas    ületa+s //_V_ s, //
+<TIMEX  tid="t29" type="DATE" temporalFunction="true" value="1997-10-28" >
+eilne    eilne+0 //_A_ sg n, //
+</TIMEX>
+kukkumine    kukkumine+0 //_S_ sg n, //
+<TIMEX  tid="t30" type="DATE" temporalFunction="false" value="1987-10-19" >
+1987.    1987.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+19.    19.+0 //_O_ ?, //
+oktoobri    oktoober+0 //_S_ sg g, //
+</TIMEX>
+"    " //_Z_ //
+<TIMEX  tid="t31" type="DATE" temporalFunction="true" value="XXXX-WXX-1" >
+musta    must+0 //_A_ sg p, //
+esmaspäeva    esmas_päev+0 //_S_ sg p, //
+</TIMEX>
+"    " //_Z_ //
+250-punktilise    250_punktiline+0 //_A_ sg g, //
+kukkumise    kukkumine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Protsentides    protsent+des //_S_ pl in, //
+arvestatuna    arvestatud+na //_A_ sg es, //
+oli    ole+i //_V_ s, //
+aga    aga+0 //_J_ //
+<TIMEX  tid="t32" type="DATE" temporalFunction="true" value="1987" >
+kümne    kümme+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+tagune    tagune+0 //_A_ sg n, //
+</TIMEX>
+kukkumine    kukkumine+0 //_S_ sg n, //
+suurem    suurem+0 //_C_ sg n, //
+,    , //_Z_ //
+12,5    12,5+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Frankfurdi    Frankfurt+0 //_H_ sg g, //
+DAX    DAX+0 //_Y_ ?, //
+lõpetas    lõpeta+s //_V_ s, //
+<TIMEX  tid="t33" type="DATE" temporalFunction="true" value="1997-10-28" >
+eilse    eilne+0 //_A_ sg g, //
+päeva    päev+0 //_S_ sg g, //
+</TIMEX>
+8,74    8,74+0 //_N_ ?, //
+-protsendise    protsendine+0 //_A_ sg g, //
+kukkumisega    kukkumine+ga //_S_ sg kom, //
+3567,22    3567,22+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg g, //
+juures    juures+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Stockholmi    Stockholm+0 //_H_ sg g, //
+üldindeks    üld_indeks+0 //_S_ sg n, //
+kukkus    kukku+s //_V_ s, //
+<TIMEX  tid="t34" type="TIME" temporalFunction="true" value="1997-10-28TEV" anchorTimeID="t33" >
+õhtuks    õhtu+ks //_S_ sg tr, //
+</TIMEX>
+8,11    8,11+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+2643,67    2643,67+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Pariisi    Pariis+0 //_H_ sg g, //
+CAC-40    CAC-40+0 //_N_ ?, //
+langes    lange+s //_V_ s, //
+9,02    9,02+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+2519,89    2519,89+0 //_N_ ?, //
+punktini    punkt+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Helsingi    Helsingi+0 //_H_ sg g, //
+HEX    HEX+0 //_Y_ ?, //
+kukkus    kukku+s //_V_ s, //
+<TIMEX  tid="t35" type="TIME" temporalFunction="true" value="1997-10-28TEV" anchorTimeID="t33" >
+õhtuks    õhtu+ks //_S_ sg tr, //
+</TIMEX>
+11,42    11,42+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+3172,69    3172,69+0 //_N_ ?, //
+protsendini    protsent+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>

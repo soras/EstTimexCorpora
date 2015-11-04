@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Erik Rand 
+ Häirekeskusele teatati <TIMEX3 tid="t18" type="TIME" value="2007-10-18T23:13" anchorTimeID="t0">eile kell 23.13</TIMEX3> tulekahjust Võrumaal Varstu alevikus , päästjad leidsid majast ühe inimese surnukeha . 
+ Sündmuskohale sõitis kaks päästeautot Mõniste komandost . 
+ Päästeteenistuse kohale jõudes põles tahutud palkidest saun mõõtmetega 3x5 m. 
+ Hoone katusest ja aknast olid leegid väljas , ära oli põlenud juba sauna külge ehitatud tuulekoda . 
+ Kustutustööde käigus leiti inimese surnukeha . 
+ Tulekahju käigus hävines pool sauna , teine pool sai vee ja suitsukahjustusi . 
+ Tulekahju tekkepõhjus on selgitamisel . 
+ Sündmuskohal käinud päästekeskuse tulekahju menetlemise inspektori hinnangul on tõenäoline , et põleng sai alguse hooletusest voodis suitsetamisel . 
+</TimeML>

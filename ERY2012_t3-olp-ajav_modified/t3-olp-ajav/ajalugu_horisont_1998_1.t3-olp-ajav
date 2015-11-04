@@ -1,0 +1,513 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-XX-XXTXX:XX" />
+<ignoreeri>
+|
+autor:
+arheoloog
+AIVAR
+KRIISKA
+|
+ajakirjanumber:
+Horisont
+05
+,
+1998
+|
+artikkel:
+Kust
+on
+leitud
+maailma
+vanim
+keraamika
+?
+|
+</ignoreeri>
+<s>
+Keraamika    keraamika+0 //_S_ sg n, //
+-    - //_Z_ //
+põletatud    põleta+tud //_V_ tud, //    põleta=tud+0 //_A_ //    põleta=tud+0 //_A_ sg n, //    põleta=tud+d //_A_ pl n, //
+savist    savi+st //_S_ sg el, //
+esemete    ese+te //_S_ pl g, //
+-    - //_Z_ //
+massiline    massiline+0 //_A_ sg n, //
+kasutamine    kasutamine+0 //_S_ sg n, //
+algas    alga+s //_V_ s, //
+savinõudega    savi_nõu+dega //_S_ pl kom, //    savi_nõue+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+leiutatud    leiuta+tud //_V_ tud, //    leiuta=tud+0 //_A_ //    leiuta=tud+0 //_A_ sg n, //    leiuta=tud+d //_A_ pl n, //    leiutatu+d //_A_ pl n, //
+eri    eri+0 //_A_ //
+aegadel    aeg+del //_S_ pl ad, //
+mitmel    mitu+l //_P_ sg ad, //
+pool    pool+0 //_K_ //
+üle    üle+0 //_K_ //
+maakera    maa_kera+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Jaapanis    Jaapan+s //_H_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+asetleidnud    ase+t_leid=nud+0 //_A_ //    ase+t_leid=nud+0 //_A_ sg n, //    ase+t_leid=nud+d //_A_ pl n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="BC12700" mod="APPROX">
+u.    u+0 //_Y_ ?, //
+12    12+0 //_N_ ?, //
+700    700+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+e.Kr.    e.Kr+0 //_Y_ ?, //
+</TIMEX>
+,    , //_Z_ //
+Lõuna-Hiinas    Lõuna-Hiinas+0 //_H_ sg n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="BC9250" mod="APPROX">
+u.    u+0 //_Y_ ?, //
+9250    9250+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+e.Kr.    e.Kr+0 //_Y_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+Lähis-Idas    Lähis-Idas+0 //_H_ sg n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="BC7500" mod="APPROX">
+u.    u+0 //_Y_ ?, //
+7500    7500+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+e.Kr.    e.Kr+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+Lähis-Idast    Lähis-Ida+st //_H_ sg el, //
+lähtub    lähtu+b //_V_ b, //
+arvatavasti    arvatavasti+0 //_D_ //
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+keraamiliste    keraamiline+te //_A_ pl g, //
+nõude    nõu+de //_S_ pl g, //    nõue+0 //_S_ sg g, //
+traditsioon    traditsioon+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Esimesed    esimene+d //_O_ pl n, //
+põletatud    põleta+tud //_V_ tud, //    põleta=tud+0 //_A_ //    põleta=tud+0 //_A_ sg n, //    põleta=tud+d //_A_ pl n, //
+savist    savi+st //_S_ sg el, //
+esemed    ese+d //_S_ pl n, //
+valmistati    valmista+ti //_V_ ti, //
+aga    aga+0 //_J_ //
+juba    juba+0 //_D_ //
+varase    varane+0 //_A_ sg g, //
+kiviaja    kivi_aeg+0 //_S_ sg g, //
+lõpuosas    lõpu_osa+s //_S_ sg in, //
+-    - //_Z_ //
+hilispaleoliitikumis    hilis_paleoliitikum+s //_S_ sg in, //
+-    - //_Z_ //
+ning    ning+0 //_J_ //
+need    see+d //_P_ pl n, //
+polnud    ole+nud //_V_ neg nud, //
+savinõud    savi_nõu+d //_S_ pl n, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+hoopis    hoopis+0 //_D_ //
+savikujud    savi_kuju+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Üksikuid    üksik+id //_A_ pl p, //
+selleaegseid    selle_aegne+id //_A_ pl p, //
+keraamilisi    keraamiline+i //_A_ pl p, //
+skulptuurikesi    skulptuuri=ke+i //_S_ pl p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+leitud    leid+tud //_V_ tud, //    leitud+0 //_A_ //    leitud+0 //_A_ sg n, //    leitud+d //_A_ pl n, //
+mitmelt    mitu+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+Põhja-Aafrikast    Põhja-Aafrika+st //_H_ sg el, //
+,    , //_Z_ //
+Lõuna-Prantsusmaalt    Lõuna-Prantsus_maa+lt //_H_ sg abl, //    Lõuna-Prantsusmaa+lt //_H_ sg abl, //
+,    , //_Z_ //
+Ida-Euroopast    Ida-Eu_roobas+st //_H_ sg el, //    Ida-Euroopa+st //_H_ sg el, //
+,    , //_Z_ //
+Siberist    Siber+st //_H_ sg el, //
+ja    ja+0 //_J_ //
+Jaapanist    Jaapan+st //_H_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Kõige    kõige+0 //_D_ //
+vanemad    vanem+d //_C_ pl n, //
+ja    ja+0 //_J_ //
+arvukamad    arvuka=m+d //_C_ pl n, //
+keraamika    keraamika+0 //_S_ sg n, //
+leiukohad    leiu_koht+d //_S_ pl n, //
+asuvad    asu+vad //_V_ vad, //
+aga    aga+0 //_J_ //
+Tšehhi    Tšehh+0 //_H_ sg g, //    Tšehhi+0 //_H_ sg g, //
+Vabariigis    vaba_riik+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Seal    seal+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+terrakotakunst    terrakota_kunst+0 //_S_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="BC30000" mod="APPROX">
+u.    u+0 //_Y_ ?, //
+30    30+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+e.Kr.    e.Kr+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+Lõuna-Moraavias    Lõuna-Moraavias+0 //_H_ sg n, //
+Brno    Brno+0 //_H_ sg g, //
+lähedal    lähedal+0 //_K_ //
+kõrguva    kõrguv+0 //_A_ sg g, //
+Pavlovo    Pavlovo+0 //_H_ sg g, //
+mäe    mägi+0 //_S_ sg g, //
+põhjanõlvalt    põhja_nõlv+lt //_S_ sg abl, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teada    tead+a //_V_ da, //
+mitmeid    mitu+id //_P_ pl p, //
+hilispaleoliitilisi    hilispaleoliiti=line+i //_A_ pl p, //
+asulakohti    asula_koht+i //_S_ pl p, //
+-    - //_Z_ //
+nii    nii+0 //_D_ //
+Dolní    Dolní+0 //_H_ sg n, //
+Véstonicest    Véstonices+t //_H_ sg p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+lähedal    lähedal+0 //_K_ //
+asuvast    asuv+st //_A_ sg el, //
+Pavlovost    Pavlovo+st //_H_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+piirkond    piirkond+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+tähelepanuväärsemaid    tähele_panu_väärsem+id //_C_ pl p, //
+hilispaleoliitilisi    hilispaleoliiti=line+i //_A_ pl p, //
+leiukomplekse    leiu_kompleks+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kust    kust+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t1_1" type="DURATION" temporalFunction="true" value="PXXY">
+aastakümnete    aasta_kümme+te //_S_ pl g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+välja    välja+0 //_D_ //
+kaevatud    kaeba+tud //_V_ tud, //    kaeva+tud //_V_ tud, //    kaeva=tud+0 //_A_ //    kaeva=tud+0 //_A_ sg n, //    kaeva=tud+d //_A_ pl n, //
+mitmete    mitu+te //_P_ pl g, //
+elamute    elamu+te //_S_ pl g, //
+jäänuseid    jäänus+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+matuseid    matus+id //_S_ pl p, //
+ning    ning+0 //_J_ //
+kogutud    kogu+tud //_V_ tud, //    kogu=tud+0 //_A_ //    kogu=tud+0 //_A_ sg n, //    kogu=tud+d //_A_ pl n, //
+väga    väga+0 //_D_ //
+arvukalt    arvukalt+0 //_D_ //
+muinasesemeid    muinas_ese+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Tšehhi    Tšehhi+0 //_H_ sg n, //
+Vabariik    Vaba_riik+0 //_H_ sg n, //    Vabariik+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+maailma    maa_ilm+0 //_S_ sg g, //
+vanemaid    vanem+id //_C_ pl p, //
+piirkondi    piirkond+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+tunti    tund+ti //_V_ ti, //
+muu    muu+0 //_P_ sg g, //
+hulgas    hulgas+0 //_K_ //
+kivi    kivi+0 //_S_ sg g, //
+lihvimise    lihvimine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lõikamise    lõikamine+0 //_S_ sg g, //
+tehnikat    tehnika+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+töö-    töö+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+tarberiistadele    tarbe_riist+dele //_S_ pl all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sealt    sealt+0 //_D_ //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+väga    väga+0 //_D_ //
+palju    palju+0 //_D_ //
+kunstiesemeid    kunsti_ese+id //_S_ pl p, //
+,    , //_Z_ //
+sh.    sh+0 //_Y_ ?, //
+tõelisi    tõeline+i //_A_ pl p, //
+šedöövreid    šedööver+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+valdavalt    valdavalt+0 //_D_ //
+-    - //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+sellele    see+le //_P_ sg all, //
+ajastule    ajastu+le //_S_ sg all, //
+üldiselt    üldiselt+0 //_D_ //
+kohane    kohane+0 //_A_ sg n, //
+-    - //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kujutised    kujutis+d //_S_ pl n, //
+stiliseeritud    stiliseeri+tud //_V_ tud, //    stiliseeri=tud+0 //_A_ //    stiliseeri=tud+0 //_A_ sg n, //    stiliseeri=tud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+esineb    esine+b //_V_ b, //
+ka    ka+0 //_D_ //
+üksikuid    üksik+id //_A_ pl p, //
+väga    väga+0 //_D_ //
+realistlikke    realistlik+e //_A_ pl p, //
+taieseid    taies+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Pisiplastikat    pisi_plastika+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+erinevatest    erinev+test //_A_ pl el, //
+materjalidest    materjal+dest //_S_ pl el, //
+:    : //_Z_ //
+<kindel_piir/>
+kivist    kivi+st //_S_ sg el, //
+,    , //_Z_ //
+luust    luu+st //_S_ sg el, //
+,    , //_Z_ //
+sarvest    sarv+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+savist    savi+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Dolní    Dolní+0 //_H_ sg n, //
+Véstonicest    Véstonicest+0 //_H_ sg n, //
+I    I+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+Pavlovo    Pavlovo+0 //_H_ sg g, //
+asulast    asula+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kokku    kokku+0 //_D_ //
+leitud    leid+tud //_V_ tud, //    leitud+0 //_A_ //    leitud+0 //_A_ sg n, //    leitud+d //_A_ pl n, //
+peaaegu    pea_aegu+0 //_D_ //
+10    10+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+keraamikapala    keraamika_pala+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Valdav    valdav+0 //_A_ sg n, //
+osa    osa+0 //_S_ sg n, //
+neist    see+st //_P_ pl el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaid    vaid+0 //_D_ //
+väikesed    väike+d //_A_ pl n, //    väikene+d //_A_ pl n, //
+,    , //_Z_ //
+tihti    tihti+0 //_D_ //
+ebaselged    eba_selge+d //_A_ pl n, //
+tükid    tükk+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+loomi    loom+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+harvem    harvem+0 //_D_ //
+inimesi    inimene+i //_S_ pl p, //
+kujutavaid    kujutav+id //_A_ pl p, //
+skulptuurikesi    skulptuuri=ke+i //_S_ pl p, //
+või    või+0 //_J_ //
+nende    see+de //_P_ pl g, //
+fragmente    fragment+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Loomadest    loom+dest //_S_ pl el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+esindatud    esinda+tud //_V_ tud, //    esinda=tud+0 //_A_ //    esinda=tud+0 //_A_ sg n, //    esinda=tud+d //_A_ pl n, //
+mammut    mammut+0 //_S_ sg n, //
+,    , //_Z_ //
+karu    karu+0 //_S_ sg n, //
+,    , //_Z_ //
+lõvi    lõvi+0 //_S_ sg n, //
+,    , //_Z_ //
+rebane    rebane+0 //_S_ sg n, //
+,    , //_Z_ //
+hobune    hobune+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+ninasarvik    nina_sarvik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Antropomorfsete    Antropomorfne+te //_H_ pl g, //
+figuuride    figuur+de //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+domineerivad    domineeriv+d //_A_ pl n, //
+naised    naine+d //_S_ pl n, //
+,    , //_Z_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+hulgas    hulgas+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sealt    sealt+0 //_D_ //
+leitud    leid+tud //_V_ tud, //    leitud+0 //_A_ //    leitud+0 //_A_ sg n, //    leitud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+kuulus    kuulus+0 //_A_ sg n, //
+ja    ja+0 //_J_ //
+sageli    sageli+0 //_D_ //
+publitseeritud    publitseeri+tud //_V_ tud, //    publitseeri=tud+0 //_A_ //    publitseeri=tud+0 //_A_ sg n, //    publitseeri=tud+d //_A_ pl n, //
+nn.    nn+0 //_Y_ ?, //
+Dolní    Dolní+0 //_H_ sg n, //
+Véstonicest    Véstonicest+0 //_H_ sg n, //
+Veenus    Veenus+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Naiskujukestel    nais_kujuke+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võrdlemisi    võrdlemisi+0 //_D_ //
+palju    palju+0 //_D_ //
+sarnaseid    sarnane+id //_A_ pl p, //
+jooni    joon+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mistõttu    mis_tõttu+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oletatud    oleta+tud //_V_ tud, //    oleta=tud+0 //_A_ //    oleta=tud+0 //_A_ sg n, //    oleta=tud+d //_A_ pl n, //
+isegi    isegi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+need    see+d //_P_ pl n, //
+võivad    või+vad //_V_ vad, //
+olla    ole+a //_V_ da, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+meistri    meister+0 //_S_ sg g, //
+kätetöö    käte_töö+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Skulptuurikesed    skulptuuri=ke+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+kohapealsest    koha_pealne+st //_A_ sg el, //
+peeneteralisest    peene_teraline+st //_A_ sg el, //
+settest    sete+st //_S_ sg el, //
+-    - //_Z_ //
+lössist    löss+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Figuuride    figuur+de //_S_ pl g, //
+väiksemad    väiksem+d //_C_ pl n, //
+osad    osa+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vormitud    vormi+tud //_V_ tud, //    vormi=tud+0 //_A_ //    vormi=tud+0 //_A_ sg n, //    vormi=tud+d //_A_ pl n, //    vormitu+d //_A_ pl n, //
+eraldi    eraldi+0 //_D_ //
+ja    ja+0 //_J_ //
+hiljem    hiljem+0 //_D_ //
+liidetud    liide=tud+0 //_A_ //    liide=tud+0 //_A_ sg n, //    liide=tud+d //_A_ pl n, //    liit+tud //_V_ tud, //
+kehadega    keha+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+osutavad    osuta+vad //_V_ vad, //
+mikroskoopilised    mikro_skoopiline+d //_A_ pl n, //
+uuringud    uuring+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vormimisel    vormi=mine+l //_S_ sg ad, //
+kasutatud    kasuta+tud //_V_ tud, //    kasutatud+0 //_A_ //    kasutatud+0 //_A_ sg n, //    kasutatud+d //_A_ pl n, //
+abivahendina    abi_vahend+na //_S_ sg es, //
+erinevaid    erinev+id //_A_ pl p, //
+teravikke    teravik+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+mikroliite    mikro_liit+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Kahest    Kahest+0 //_H_ sg n, //
+kohast    koha+st //_S_ sg el, //    koht+st //_S_ sg el, //
+Dolní    Dolní+0 //_H_ sg n, //
+Véstonicest    Véstonice+st //_H_ sg el, //
+I    I+0 //_Y_ ?, //
+asulast    asula+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+leitud    leid+tud //_V_ tud, //    leitud+0 //_A_ //    leitud+0 //_A_ sg n, //    leitud+d //_A_ pl n, //
+rohkete    rohke+te //_A_ pl g, //
+keraamika    keraamika+0 //_S_ sg n, //
+fragmentidega    fragment+dega //_S_ pl kom, //
+koldeasemed    kolde_ase+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+ilmselt    ilmselt+0 //_D_ //
+kasutati    kasuta+ti //_V_ ti, //
+figuuride    figuur+de //_S_ pl g, //
+põletamiseks    põletamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Ühte    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+kollet    kolle+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+piiranud    piira+nud //_V_ nud, //    piira=nud+0 //_A_ //    piira=nud+0 //_A_ sg n, //    piira=nud+d //_A_ pl n, //
+hoburauakujuline    hobu_raua_kujuline+0 //_A_ sg n, //
+lössist    löss+st //_S_ sg el, //
+vall    vall+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Põletamine    põletamine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+temperatuuril    temperatuur+l //_S_ sg ad, //
+umbes    umbes+0 //_D_ //
+500-800    500-800+0 //_N_ ?, //
+°C    °C+0 //_Y_ ?, //
+.    . //_Z_ //
+</s>
+<s>
+Miks    miks+0 //_D_ //
+aga    aga+0 //_J_ //
+valmistati    valmista+ti //_V_ ti, //
+keraamikat    keraamika+t //_S_ sg p, //
+paleoliitikumis    paleoliitikum+s //_S_ sg in, //
+vaid    vaid+0 //_D_ //
+üksikutes    üksik+tes //_A_ pl in, //
+paikades    paik+des //_S_ pl in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+seejärel    see_järel+0 //_D_ //
+unustati    unusta+ti //_V_ ti, //
+see    see+0 //_P_ sg n, //
+oskus    oskus+0 //_S_ sg n, //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="true" value="PXXXXY" >
+tuhandeteks    tuhat+teks //_N_ pl tr, //
+aastateks    aasta+teks //_S_ pl tr, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+omaette    oma_ette+0 //_D_ //
+küsimus    küsimus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Sõber : Oot , Keil , kas sa lähed Soome ? 
+ Selline dialoog oli või oleks võinud olla . 
+ Saaremaa mehed panid juba <TIMEX3 tid="t262" type="DATE" value="2006" anchorTimeID="t0">möödunud aastal</TIMEX3> Sillamäe ja Kotka vahele laeva käima , aga ega keegi sellest eriti ei tea . 
+ Tegelikult , nagu oma nahal proovitud sai , võiks teada . 
+ Eriti kui päike paistab . 
+ Kunagi JMKE poolt hüpoteetiliselt olemasolevaks lauldud Eesti-Soome toru on saanud <TIMEX3 tid="t263" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >tänapäeval</TIMEX3> peaaegu reaalsuseks - laevad seerivad nagu mööda torujuhet katkematus jorus kahe pealinna vahel . 
+ Peaaegu nagu Tallinna-Tartu bussid . 
+ See ei ole enam ammu mitte merereis , vaid transport ühelt kaldalt teisele . 
+ Või noh , on nagu Saaremaa parvlaev - ega keegi seda merereisina võta . 
+ Ometi on merereisil oma romantika . 
+ Eriti veel , kui laev <TIMEX3 tid="t264" type="TIME" value="T14:00">kell kaks päeval</TIMEX3> välja läheb ja päike paistab-lõõskab tüünel merel <TIMEX3 tid="t265" type="DURATION" value="PT6H">kuus tundi.</TIMEX3>
+ See on mõnus . 
+ Mobiil ei levi ja wifit pole . 
+</TimeML>

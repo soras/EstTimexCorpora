@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ <TIMEX3 tid="t234" type="DATE" value="2007-W24-WE" anchorTimeID="t0">Sel nädalavahetusel</TIMEX3> Bulgaarias Sevlievo rajaljätkuval soolotsiklite krossi MM-sarja MX1 klassi esimesel vabatreeningul näitas Tanel Leok Kawasakil viiendat ringiaega 1.54 , 559 , teisel treeningul aga jäi ajaga 1.54 , 904 kümnendaks . 
+ Kiireim oli Hispaaniat esindav Jonathan Barragan ( KTM ) 1.53 , 930-ga , järgnesid prantslane Sebastien Pourcel ( Kawasaki ) 1.54 , 151 , britt Billy McKenzie ( Kawasaki ) 1.54 , 201 , belglane Steve Ramon ( Suzuki ) 1.54 , 370 ja Leok . 
+ Aigar Leok ( Yamaha ) kaotas treeningu kiireimale <TIMEX3 tid="t241" type="DURATION" value="PT2.039S">2,039 sekundiga</TIMEX3> ning oli paremuselt 17. 
+ MM-sarja liider Joshua Coppins ( Yamaha ) piirdus vaid seitsme ringiga ning oli 1.59 , 705-ga 32 , vahendas Sportnet.ee. 
+  Aigar Leok ( Yamaha ) sõitis välja 15. aja 1.55 , 647. 
+ Ametlik ajasõit algab <TIMEX3 tid="t244" type="TIME" value="2007-06-16T17:30" anchorTimeID="t0">Eesti aja järgi täna kell 17.30.</TIMEX3> 
+</TimeML>

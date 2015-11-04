@@ -1,0 +1,89 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2001-06-02TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+02.06.2001
+|
+rubriik:
+Eesti
+|
+artikkel:
+Eestikeelne
+Ameerika
+Hääl
+sai
+50-aastaseks
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2001-06-02" >
+Laupäeval    lau_päev+l //_S_ sg ad, //
+</TIMEX>
+möödub    möödu+b //_V_ b, //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="P50Y" >
+50    50+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+raadiojaama    raadio_jaam+0 //_S_ sg g, //
+Ameerika    Ameerika+0 //_H_ sg g, //
+Hääl    hääl+0 //_S_ sg n, //
+Eestisse    Eesti+sse //_H_ sg ill, //
+suunatud    suuna+tud //_V_ tud, //    suuna=tud+0 //_A_ //    suuna=tud+0 //_A_ sg n, //    suuna=tud+d //_A_ pl n, //
+saadete    saade+te //_S_ pl g, //
+alustamisest    alustamine+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+esimene    esimene+0 //_O_ sg n, //
+saade    saade+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+eetris    eeter+s //_S_ sg in, //
+<TIMEX  tid="t3" type="TIME" temporalFunction="false" value="1951-06-02TMO" >
+1951.    1951.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+2.    2.+0 //_O_ ?, //
+juuni    juuni+0 //_S_ sg g, //
+hommikul    hommik+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kirjutas    kirjuta+s //_V_ s, //
+Postimees    Posti_mees+0 //_H_ sg n, //    Postimees+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ameerika    Ameerika+0 //_H_ sg g, //
+Hääle    hääl+0 //_S_ sg g, //
+esimeses    esimene+s //_O_ sg in, //
+eestikeelses    eesti_keelne+s //_A_ sg in, //
+saates    saade+s //_S_ sg in, //
+räägiti    rääki+ti //_V_ ti, //
+maailma    maa_ilm+0 //_S_ sg g, //
+sündmustest    sündmus+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+selles    see+s //_P_ sg in, //
+oli    ole+i //_V_ s, //
+ka    ka+0 //_D_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+Ameerika    Ameerika+0 //_H_ sg g, //
+Ühendriikide    ühend_riik+de //_S_ pl g, //
+tollase    tollane+0 //_A_ sg g, //
+tipp-poliitiku    tipp-poliitik+0 //_S_ sg g, //
+läkitus    läkitus+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+kuulajatele    kuulaja+tele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Ühendriigid    ühend_riik+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+tunnusta    tunnusta+0 //_V_ o, //
+kunagi    kunagi+0 //_D_ //
+Nõukogude    Nõu_kogu+de //_H_ pl g, //    Nõukogu+de //_H_ pl g, //    Nõukogude+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+okupatsiooni    okupatsioon+0 //_S_ sg g, //
+Eestis    Eesti+s //_H_ sg in, //
+.    . //_Z_ //
+</s>

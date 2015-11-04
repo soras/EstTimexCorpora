@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Rohke Debelakk , kelle arvates on tema pärisnimi Gaute Kivistik , on sama hull kui ta pseudonüüm . 
+ <TIMEX3 tid="t290" type="DATE" value="2007-06-18" anchorTimeID="t0">Esmaspäeval</TIMEX3> sünni- 
+ päevani jõudev mees on raadios libauudistega " mõtleva inimese " meelt lahutanud juba <TIMEX3 tid="t291" type="DURATION" value="PXY">aastaid.</TIMEX3>
+ Kes ta häält kohe ära ei tunne ( ja neid ei olegi palju ) ja poole pealt kuulama satub , võib tema vilka ettekujutuse ja hea uudistemaneeri matkimise konksu alla neelata ning tõsiselt segadusse sattuda . 
+ Voolava jutuga humoristi maine on teinud Debelaku populaarseks õhtujuhiks ning tihtipeale astub ta lavale koos alter ego'de Miki ja Heino Süggaga . 
+</TimeML>

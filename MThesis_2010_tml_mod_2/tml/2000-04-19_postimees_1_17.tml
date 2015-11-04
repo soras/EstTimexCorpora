@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Karismaatilisest lobast 
+ KRISTI SALVE , Tartu 
+ Ammu pole mind miski nii kurvaks teinud kui <TIMEX3 tid="t191" type="DATE" value="2000-04-15" anchorTimeID="t0">laupäevases</TIMEX3> Arteris ilmunud artikkel " Millest mõtlevad noored intellektuaalid " . 
+ Ma ei loe Postimeest algusest lõpuni ja piltide tõttu ( suurelt poptäht ja all nurgas minu silmamulje järgi lapsajakirjanik ) oleksin selle lehekülje vahele jätnud , kui mind poleks rabanud jõhker alapealkiri " Pumbake karismat juurde , inimesed " . 
+ Selgus , et oletatav , igati pilkupüüdev lapsajakirjanik osutus hoopis selleks , kes end ise " nooreks intellektuaaliks " peab . 
+ Kui ma ei usuks , et meil on olemas tõelised noored intellektuaalid , ei kirjutaks ma <TIMEX3 tid="t192" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> oma kirjagi . 
+ <TIMEX3 tid="t193" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> teen seda kahe palvega kaunile filosoofiaüliõpilasele : esiteks ärgu ta ( vähemalt läbi käimata pikemat õppimis- , lugemis- ja peamiselt järelemõtlemisperioodi - aega selleks peaks <TIMEX3 tid="t194" type="DURATION" value="P20Y" mod="APPROX">umbes 20-aastasel</TIMEX3> loodetavasti jätkuma ) pidagu ja nimetagu ennast intellektuaaliks . 
+ Artiklis avaneb masendavalt moegurude soovitustest sõltuv , manipuleeritud mõttemaailm , mida ennastimetlevalt peetakse avaraks silmaringiks ( see omakorda samastatakse süüdimatult kosmopoliitsusega ) , maitsekuseks jne. 
+ Jah , ja veel leiavad reklaamipinda tolerantsus ( sooviksin selle asemel pigem sooja kaastunnet , kas või vaese Push Up'i vastu ) , originaalne mõtlemine ja " suhtumine " . 
+ Milline ? 
+ Kellesse või millesse ? 
+ Selle maailma keskpunktis seisab teadagi ilmalik Uus Jeruusalemm - New York , kus kirjutaja teades on " Vaba Suhtumisega inimesi hulgem " . 
+ Teine palve on mitte kuritarvitada sõna karisma ( seda teevad ajakirjanikud küll sageli , aga tavalisele ajakirjanikule tohiks eksimuse kergemini andestada ) . 
+ Vaba Suhtumisega Noor intellektuaal võiks siiski teada , mida see sõna tähendab . 
+ Kui jah , siis peaks ta ka teadma - kuid ei tea ilmselt - , et inimesed ei saa karismat " juurde pumbata " . 
+</TimeML>

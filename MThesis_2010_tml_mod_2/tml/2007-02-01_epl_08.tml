@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Kadri Masing 
+ Maksu- ja tolliamet hoidis <TIMEX3 tid="t52" type="DATE" value="2006" >2006. aasta</TIMEX3> jooksul tollikontrolli tegevusega ära üle 52 miljoni krooni suuruse kahju tekkimise riigile , kokku avastati tollikontrolli tulemusel ligi 5,6 miljonit salasigaretti ja 6752 liitrit absoluutalkoholi . 
+ Sigarettide ja alkoholi salakaubaveo trendiks <TIMEX3 tid="t53" type="DATE" value="2006" >2006. aastal</TIMEX3> oli salakauba peitmine sõidukite konstruktsioonidesse . 
+ Maksu- ja tolliameti tollikontrolli osakonna juhataja Urmas Järg ütles , et tavalisemad olid topeltpõhjade , -seinte ja -lagede ning -kütusepaakide ehitamine . 
+ " Samas näitasid salakaubavedajad üles ka ebatavalisemat leidlikkust - näiteks peitis üks naisterahvas salasigaretid oma üleriiete voodrivahele ning leiva sisse , " lisas Järg . 
+ Leidlikud salakaubavedajad 
+ Suuremad juhtumid olid <TIMEX3 tid="t54" type="DATE" value="2006-09" anchorTimeID="t53">septembris</TIMEX3> Valga raudteejaamas tsisternvagunist avastatud 670 000 salasigaretti ja Iklas veoautost , mis saatedokumentide järgi vedas pabertooteid , avastatud 525 000 salasigaretti . 
+</TimeML>

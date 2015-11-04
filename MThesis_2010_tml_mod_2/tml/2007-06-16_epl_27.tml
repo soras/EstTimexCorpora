@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Ulvar Käärt 
+ Väljasuremisohus juttselg-kärnkonni ehk kõresid on meil säilinud alla tuhande . 
+ Konnauurijad päästsid <TIMEX3 tid="t94" type="DATE" value="2007-W23-WE" anchorTimeID="t0">möödunud nädalavahetusel</TIMEX3> Pärnumaa liivakarjäärides kuivavatest haruldaste kõrede kudemislompidest ligemale viissada kullest , kes toimetati sirguma sügavamatesse veekogudesse . 
+ Kõre-ekspert Riinu Rannap nentis , et kuna <TIMEX3 tid="t95" type="DATE" value="2007-SP" anchorTimeID="t0">tänavune kevad</TIMEX3> on olnud hirmus kuum , hakkasid kadumisohus konnadele elutähtsad lombid ka kiiresti kuivama . 
+ " Käisime läbi kõik teadaolevad kõrede leiukohad ning osast veekogudest tuli kullesed kuivamisohust päästmiseks sügavamatesse ümber tõsta , " rääkis Rannap . 
+ Osa Pärnumaal päästetud ja kokkukorjatud konnadest viidi Hiiumaale ja Kablisse ning Lavassaare liivakarjäärist Manilaiule , kus nad spetsiaalsetes kastides loodusesse taasasustamiseks üles kasvatatakse . 
+</TimeML>

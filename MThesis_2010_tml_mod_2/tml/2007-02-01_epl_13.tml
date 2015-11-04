@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Raivo Murde 
+ Mazda uus pikap ja selle Fordi sõsarmudel on konkurentidest 
+ On kolme sorti kastiga maastureid ehk pikapid - tunkedes töötegijad , nõrgukesed eputrillad ja lipsuga töömehed . 
+ Farmeriautode sünnimaalt Ameerikast tulevad enamasti eputrillad - suured , musklis ja kroomitud , kuid nõrga kande- ja veovõimega . 
+ Jaapani suurtootjad panevad rohkem rõhku auto töövõimele , kuid <TIMEX3 tid="t93" type="DURATION" value="PXY" beginPoint="t129" endPoint="t0" >viimastel aastatel</TIMEX3><TIMEX3 tid="t129" type="DATE" value="XXXX" temporalFunction="true"/> on oluliseks pidanud ka välimust ning salongi mugavust . 
+ Sellised lipsuga töömehed on <TIMEX3 tid="t94" type="DATE" value="2006" anchorTimeID="t0">mullu</TIMEX3> uuenenud Nissan Navara , Mitsubishi L200 ja Toyota Hilux . 
+ Neid kolme efektselt disainitud töösõidukit kutsutakse <TIMEX3 tid="t95" type="DATE" value="PRESENT_REF" anchorTimeID="t0" comment="VIIDE_NYYD" >nüüd</TIMEX3> ka elustiiliautodeks , mille ostjateks on näiteks surfi ja motokrossi harrastajad . 
+ Fordiga sõsarmudel 
+ Pikapite hulgas viimasena uuenenud ning <TIMEX3 tid="t96" type="DATE" value="2007-01" anchorTimeID="t0">jaanuaris</TIMEX3> Eestis müügile jõudnud Mazda uus kastiauto BT-50 ja selle kloon Ford Ranger on traditsioonilised töömehed - tunkedes ja heade jalanõudega . 
+ Ei midagi ilutsevat , kuid triigitud ja viigitud ning töötamiseks hästi varustatud . 
+</TimeML>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Suveteater ootab Tome ja Hucke kirjutama 
+ TPM 
+ <TIMEX3 tid="t107" type="DATE" value="2000-04-19" anchorTimeID="t0">Tänasest</TIMEX3> algab Emajõe Suveteatri kirjandivõistlus , mis kestab <TIMEX3 tid="t108" type="DATE" value="2000-05-19" anchorTimeID="t0">19. maini</TIMEX3> . 
+ Kirjandivõistlus on mõeldud 1. 
+ -12. klassi õpilastele . 
+ " Eelkõige ootame kirjutama kõiki Tom Sawyereid ja Huckleberry Finne , " sõnas suveteatri turundusjuht Randel Länts . 
+ " Juhul kui tudeng tahab kirjutada , las kirjutab , aga tema on võistlusväline kirjutaja . " 
+ Kirjandi teemad on valitud seoses etendusega " Huck " , sest need leiavad seal kajastamist : must ja valge - Hucki ja Jimi sõprus ; heidiklus - Hucki päritolu ; vabadus - Jimi orjastaatus . 
+ Suveteater ootab 3-4-leheküljelisi kirjandeid . 
+ Teemad ei pea olema seotud Mark Twaini " Tom Sawyeri seikluste " ega " Huckleberry Finni seiklustega " . 
+ Uudsed mõttearendused on teretulnud . 
+ Võitjad kuulutab suveteater välja <TIMEX3 tid="t109" type="DATE" value="2000-06-01" anchorTimeID="t0">1. juunil</TIMEX3> , neid ootavad etendusega seotud auhinnad . 
+</TimeML>

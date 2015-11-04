@@ -1,0 +1,283 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-09-09TXX:XX" />
+<ignoreeri>
+|
+autor:
+TÕNU
+KEES
+|
+ajalehenumber:
+Postimees
+1999.09.09
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Sport
+|
+artikkel:
+Kirsipuu
+võitis
+etapi
+|
+</ignoreeri>
+<s>
+Profirattur    profi_rattur+0 //_S_ sg n, //
+Jaan    Jaan+0 //_H_ sg n, //
+Kirsipuu    Kirsi_puu+0 //_H_ sg n, //    Kirsipuu+0 //_H_ sg n, //
+võitis    võit+is //_V_ s, //
+Poola    Poola+0 //_H_ sg g, //
+velotuuri    velo_tuur+0 //_S_ sg g, //
+kolmanda    kolmas+0 //_O_ sg g, //
+200    200+0 //_N_ ?, //
+km    km+0 //_Y_ ?, //
+etapi    etapp+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kokku    kokku+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ta    tema+0 //_P_ sg n, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1999" >
+tänavu    tänavu+0 //_D_ //
+</TIMEX>
+17    17+0 //_N_ ?, //
+esikohta    esi_koht+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Võit    võit+0 //_S_ sg n, //
+tuli    tule+i //_V_ s, //
+kindlalt    kindlalt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Kirsipuu    Kirsi_puu+0 //_H_ sg n, //    Kirsipuu+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="XXXX-XX-XX" anchorTimeID="??" comment="pole selge, kuhu ankurdada" >
+päev    päev+0 //_S_ sg n, //
+varem    varem+0 //_D_ //
+</TIMEX>
+väitis    väit+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+edukas    edukas+0 //_A_ sg n, //
+esinemine    esinemine+0 //_S_ sg n, //
+Poola    Poola+0 //_H_ sg g, //
+tuuril    tuur+l //_S_ sg ad, //
+pole    ole+0 //_V_ neg o, //
+talle    tema+lle //_P_ sg all, //
+eriti    eriti+0 //_D_ //
+tähtis    tähtis+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Kuid    kuid+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+meeskonnal    meeskond+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+põhimõte    põhi_mõte+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+starti    start+0 //_S_ adt, //
+läheme    mine+me //_V_ me, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+nalja    nali+0 //_S_ sg p, //
+tegema    tege+ma //_V_ ma, //
+ei    ei+0 //_V_ neg, //
+hakka    hakka+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+täiendas    täienda+s //_V_ s, //
+rattur    rattur+0 //_S_ sg n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kolmanda    kolmas+0 //_O_ sg g, //
+etapi    etapp+0 //_S_ sg g, //
+finiš    finiš+0 //_S_ sg n, //
+kulges    kulge+s //_V_ s, //
+Kirsipuule    kirsi_puu+le //_S_ sg all, //
+sobivalt    sobivalt+0 //_D_ //
+mäkke    mägi+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Algul    algul+0 //_D_ //
+oli    ole+i //_V_ s, //
+võidusõit    võidu_sõit+0 //_S_ sg n, //
+väga    väga+0 //_D_ //
+vinge    vinge+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+tasasel    tasane+l //_A_ sg ad, //
+rajal    rada+l //_S_ sg ad, //    raja+l //_S_ sg ad, //
+üritasid    ürita+sid //_V_ sid, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+paugutada    pauguta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+nentis    nenti+s //_V_ s, //
+Kirsipuu    Kirsi_puu+0 //_H_ sg n, //    Kirsipuu+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Lõpuks    lõpuks+0 //_D_ //
+sõitsid    sõit+sid //_V_ sid, //
+kaks    kaks+0 //_N_ sg n, //
+kohalikku    kohalik+0 //_A_ sg p, //
+venda    vend+0 //_S_ sg p, //
+ära    ära+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+keegi    keegi+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+viitsinud    viitsi+nud //_V_ nud, //    viitsi=nud+0 //_A_ //    viitsi=nud+0 //_A_ sg n, //    viitsi=nud+d //_A_ pl n, //
+neid    see+d //_P_ pl p, //
+taga    taga+0 //_D_ //
+ajada    aja+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Jälitama    jälita+ma //_V_ ma, //
+hakati    hakka+ti //_V_ ti, //
+alles    alles+0 //_D_ //
+siis    siis+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+vahe    vahe+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+kasvanud    kasva+nud //_V_ nud, //    kasva=nud+0 //_A_ //    kasva=nud+0 //_A_ sg n, //    kasva=nud+d //_A_ pl n, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="false" value="PT12M" >
+12    12+0 //_N_ ?, //
+minutini    minut+ni //_S_ sg ter, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kätte    käsi+tte //_S_ adt, //
+saadi    saa+di //_V_ ti, //
+kilomeeter    kilo_meeter+0 //_S_ sg n, //
+enne    enne+0 //_K_ //
+finišit    finiš+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Võit    võit+0 //_S_ sg n, //
+valmistabki    valmista+bki //_V_ b, //
+eelkõige    eel_kõige+0 //_D_ //
+seepärast    see_pärast+0 //_D_ //
+heameelt    hea_meel+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+meeskond    meeskond+0 //_S_ sg n, //
+rabas    raba+s //_V_ s, //
+täie    täis+0 //_A_ sg g, //
+rauaga    raud+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1999-09-07" comment="pole päris kindel, millisest teisipäevast räägitakse">
+teisipäeval    teisi_päev+l //_S_ sg ad, //
+</TIMEX>
+töötasid    tööta+sid //_V_ sid, //
+kutid    kutt+d //_S_ pl n, //
+minu    mina+0 //_P_ sg g, //
+heaks    heaks+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+jäime    jää+ime //_V_ sime, //
+pika    pikk+0 //_A_ sg g, //
+ninaga    nina+ga //_S_ sg kom, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1998" >
+Mullu    mullu+0 //_D_ //
+</TIMEX>
+sai    saa+i //_V_ s, //
+Kirsipuu    Kirsi_puu+0 //_H_ sg n, //    Kirsipuu+0 //_H_ sg n, //
+16    16+0 //_N_ ?, //
+võitu    võit+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+teenis    teeni+s //_V_ s, //
+hooajaga    hoo_aeg+ga //_S_ sg kom, //
+enim    enim+0 //_U_ sg n, //
+esikohti    esi_koht+i //_S_ pl p, //
+kogunud    kogu+nud //_V_ nud, //    kogu=nud+0 //_A_ //    kogu=nud+0 //_A_ sg n, //    kogu=nud+d //_A_ pl n, //
+profiratturi    profi_rattur+0 //_S_ sg g, //
+tiitli    tiitel+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1998" anchorTimeID="t5" >
+toonane    toonane+0 //_A_ sg n, //
+</TIMEX>
+tipptulemus    tipp_tulemus+0 //_S_ sg n, //
+ületatud    ületa+tud //_V_ tud, //    ületa=tud+0 //_A_ //    ületa=tud+0 //_A_ sg n, //    ületa=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Võitude    võit+de //_S_ pl g, //
+arv    arv+0 //_S_ sg n, //
+polegi    ole+gi //_V_ neg o, //
+mulle    mina+lle //_P_ sg all, //
+enam    enam+0 //_D_ //
+nii    nii+0 //_D_ //
+tähtis    tähtis+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+hoopis    hoopis+0 //_D_ //
+olulisem    olulisem+0 //_C_ sg n, //
+oleks    ole+ks //_V_ ks, //
+mõnel    mõni+l //_P_ sg ad, //
+MK-etapil    MK-etapp+l //_S_ sg ad, //
+hiilata    hiila+ta //_V_ da, //    hiilga+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+kinnitas    kinnita+s //_V_ s, //
+casinolane    casinolane+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Lauri    Lauri+0 //_H_ sg n, //
+Aus    Aus+0 //_H_ sg n, //
+lõpetas    lõpeta+s //_V_ s, //
+etapi    etapp+0 //_S_ sg g, //
+peagrupis    pea_grupp+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+Innar    Innar+0 //_H_ sg n, //
+Mändoja    Mänd_oja+0 //_H_ sg n, //    Mändoja+0 //_H_ sg n, //
+jäi    jää+i //_V_ s, //
+pisut    pisut+0 //_D_ //
+maha    maha+0 //_D_ //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2010-01-18T12:00" functionInDocument="CREATION_TIME" comment="(E)"/>
+
+Altkäemaksu nõudnud ja võtnud ekskohtunik mõisteti <TIMEX3 tid="t1" type="DURATION" value="P2Y" >2 aastaks</TIMEX3> vangi
+
+<TIMEX3 tid="t2" type="TIME" value="2010-01-18T12:00" >18.01.2010 12:00</TIMEX3>
+
+Kommenteeri | Prindi
+Harju maakohus tunnistas <TIMEX3 tid="t3" type="DATE" value="2010-01-18" anchorTimeID="t0">täna</TIMEX3> altkäemaksu korduvas nõudmises ja võtmises süüdi Viru maakohtu Narva kohtumaja endise kohtuniku Mihhail Komtšatnikovi ja mõistis talle karistuseks <TIMEX3 tid="t4" type="DURATION" value="P2Y" >2-aastase</TIMEX3> vangistuse.
+REKLAAM
+
+ 
+
+Komtšatnikovi karistusaja hulka arvatakse tema eelvangistuses viibitud aeg ja karistusaja alguseks loetakse <TIMEX3 tid="t5" type="DATE" value="2009-12-04" >04.12.2009.</TIMEX3> Komtšatnikovilt mõisteti riigituludesse ka sundraha s.o 10 875 krooni ja kaitsjatasu 1500 krooni.
+
+Komtšatnikoviga koos tunnistati süüdi talle altkäemaksu vahendanud Sergei Gromov ja Vassili Satšuk.
+
+Gromovile mõistis kohus karistuseks <TIMEX3 tid="t6" type="DURATION" value="P3M" >3 kuud</TIMEX3> ja <TIMEX3 tid="t7" type="DURATION" value="P3D" >3 päeva</TIMEX3> vangistust, millest <TIMEX3 tid="t8" type="DURATION" value="P3D" >kolm päeva</TIMEX3> loeti kantuks tema eelvangistuses viibitud ajal ja kanda jääb tal <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> <TIMEX3 tid="t10" type="DURATION" value="P3M" >3 kuud</TIMEX3> vangistust tingimisi <TIMEX3 tid="t11" type="DURATION" value="P18M" >18kuulise,</TIMEX3> <TIMEX3 tid="t12" type="DATE" value="2010-01-18" anchorTimeID="t0">tänasest</TIMEX3> algava katseajaga, mille jooksul ta peab täitma kontrollnõudeid.
+
+Satšukile mõisteti rahaline karistus 15 500 krooni.
+
+Gromov ja Satšuk peavad maksma riigituludesse ka sundraha, kumbki 6525 krooni ja menetluskulud.
+
+Riigiprokuratuuri esitatud süüdistuse kohaselt nõudis ja nõustus Mihhail Komtšatnikov Viru Maakohtu Narva kohtumaja kohtunikuna <TIMEX3 tid="t13" type="DATE" value="2009-11" >2009 novembris,</TIMEX3> <TIMEX3 tid="t14" type="DATE" value="2009-12" anchorTimeID="t13">detsembris</TIMEX3> 100 000 krooni altkäemaksu võtmisega Sergei Gromovi ja Vassili Satšuki vahendusel selle eest, et vabastada <TIMEX3 tid="t15" type="DATE" value="2009-12-04" >04.12.2009</TIMEX3> toimuval istungil kautsjoni vastu  tapmises süüdistatav Andrei Andrejev, kelle kohtuasi oli Mihhail Komtšatnikovi menetluses.
+
+<TIMEX3 tid="t16" type="DATE" value="2009-12-03" >03.12.2009</TIMEX3> anti kohtuniku nõutud rahasumma 100 000 krooni üle Vassili Satšukile, kes <TIMEX3 tid="t17" type="DATE" value="2009-12-03" anchorTimeID="t16">samal päeval</TIMEX3> edastas osa sellest rahast, 30 000 krooni Sergei Gromovile, kes <TIMEX3 tid="t18" type="TIME" value="2009-12-03TEV" anchorTimeID="t17">samal õhtul,</TIMEX3> näitas raha selle olemasolu kinnituseks kohtunikule.
+
+Kaitsepolitseiamet pidas kohtuniku kinni <TIMEX3 tid="t19" type="DATE" value="2009-12-04">4. detsembril 2009.</TIMEX3> Harju maakohus võttis Komtšatnikovi riigiprokuratuuri taotlusel vahi alla <TIMEX3 tid="t20" type="DATE" value="2009-12-06" >6. detsembril 2009.</TIMEX3>
+
+ 
+
+Toimetas Martti Kass 
+</TimeML>
+

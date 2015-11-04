@@ -1,0 +1,383 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1996-05-31TXX:XX" />
+<ignoreeri>
+|
+autor:
+ALO
+LÕHMUS
+|
+ajalehenumber:
+Postimees
+1996.05.31
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Uudised
+|
+artikkel:
+Klaassen
+loodab
+Kaitseliiduga
+teisipäeval
+leppida
+|
+</ignoreeri>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Põllumajandusülikooli    Põllu_majandus_üli_kool+0 //_H_ sg g, //
+<kiil>
+(    ( //_Z_ //
+EPMÜ    EPMÜ+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+rektor    rektor+0 //_S_ sg n, //
+Mait    Mait+0 //_H_ sg n, //
+Klaassen    Klaassen+0 //_H_ sg n, //
+avaldas    avalda+s //_V_ s, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1996-05-30" >
+eile    eile+0 //_D_ //
+</TIMEX>
+lootust    lootus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1996-06-04" >
+teisipäevasel    teisi_päevane+l //_A_ sg ad, //
+</TIMEX>
+võtmeministeeriumide    võtme_ministeerium+de //_S_ pl g, //
+esindajate    esindaja+te //_S_ pl g, //
+kohtumisel    kohtumine+l //_S_ sg ad, //
+õnnestub    õnnestu+b //_V_ b, //
+ülikooli    üli_kool+0 //_S_ sg g, //
+vana    vana+0 //_A_ sg g, //
+peahoone    pea_hoone+0 //_S_ sg g, //
+haldamise    haldamine+0 //_S_ sg g, //
+probleem    probleem+0 //_S_ sg n, //
+lahendada    lahenda+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Peahoone    pea_hoone+0 //_S_ sg g, //
+kasutamise    kasutamine+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+EPMÜ    EPMÜ+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+Kaitseliidu    kaitse_liit+0 //_S_ sg g, //
+Tartu    Tartu+0 //_H_ sg g, //
+maleva    malev+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+puhkenud    puhke+nud //_V_ nud, //    puhke=nud+0 //_A_ //    puhke=nud+0 //_A_ sg n, //    puhke=nud+d //_A_ pl n, //
+tüli    tüli+0 //_S_ sg n, //
+tipnes    tipne+s //_V_ s, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1996-05-27" >
+selle    see+0 //_P_ sg g, //
+nädala    nädal+0 //_S_ sg g, //
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+hoone    hoone+0 //_S_ sg g, //
+uste    uks+te //_S_ pl g, //
+hõivamisega    hõivamine+ga //_S_ sg kom, //
+kaitseliitlaste    kaitse_liitlane+te //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Põllumajandusülikool    põllu_majandus_üli_kool+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="1996-06-04" >
+teisipäevaks    teisi_päev+ks //_S_ sg tr, //
+</TIMEX>
+Tartusse    Tartu+sse //_H_ sg ill, //
+kutsunud    kutsu+nud //_V_ nud, //    kutsu=nud+0 //_A_ //    kutsu=nud+0 //_A_ sg n, //    kutsu=nud+d //_A_ pl n, //
+kaitseministeeriumi    kaitse_ministeerium+0 //_S_ sg g, //
+,    , //_Z_ //
+siseministeeriumi    sise_ministeerium+0 //_S_ sg g, //
+,    , //_Z_ //
+justiitsministeeriumi    justiits_ministeerium+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+põllumajandusministeeriumi    põllu_majandus_ministeerium+0 //_S_ sg g, //
+esindajad    esindaja+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+arutada    aruta+da //_V_ da, //
+Riia    Riia+0 //_H_ sg g, //
+mäel    mägi+l //_S_ sg ad, //
+asuva    asuv+0 //_A_ sg g, //
+vana    vana+0 //_A_ sg g, //
+peahoone    pea_hoone+0 //_S_ sg g, //
+edasist    edasine+t //_A_ sg p, //
+saatust    saatus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Peaküsimus    pea_küsimus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+jääb    jää+b //_V_ b, //
+põhiülesanne    põhi_üles_anne+0 //_S_ sg n, //
+hakata    hakka+ta //_V_ da, //
+organiseerima    organiseeri+ma //_V_ ma, //
+maja    maja+0 //_S_ sg g, //
+korrashoidu    korras_hoid+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+haldamist    haldamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Põllumajandusülikool    põllu_majandus_üli_kool+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+mingit    mingi+t //_P_ sg p, //
+erilist    eriline+t //_A_ sg p, //
+vaimustust    vaimustus+t //_S_ sg p, //
+selle    see+0 //_P_ sg g, //
+maja    maja+0 //_S_ sg g, //
+suhtes    suhtes+0 //_K_ //
+kunagi    kunagi+0 //_D_ //
+üles    üles+0 //_D_ //
+näidanud    näida=nud+0 //_A_ //    näida=nud+0 //_A_ sg n, //    näida=nud+d //_A_ pl n, //    näita+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+hoone    hoone+0 //_S_ sg g, //
+korda    kord+0 //_S_ adt, //
+tegemine    tegemine+0 //_S_ sg n, //
+läheks    mine+ks //_V_ ks, //
+maksma    maks+ma //_V_ ma, //
+mitu    mitu+0 //_P_ sg n, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+rääkis    rääki+s //_V_ s, //
+põllumajandusülikooli    põllu_majandus_üli_kool+0 //_S_ sg g, //
+rektor    rektor+0 //_S_ sg n, //
+Mait    Mait+0 //_H_ sg n, //
+Klaassen    Klaassen+0 //_H_ sg n, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1996-05-30" >
+eile    eile+0 //_D_ //
+</TIMEX>
+“    “ //_Z_ //
+Postimehele    Posti_mees+le //_H_ sg all, //    Postimehe+le //_H_ sg all, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+avaldas    avalda+s //_V_ s, //
+lootust    lootus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1996-06-04" >
+teisipäevase    teisi_päevane+0 //_A_ sg g, //
+</TIMEX>
+kohtumise    kohtumine+0 //_S_ sg g, //
+käigus    käigus+0 //_K_ //
+õnnestub    õnnestu+b //_V_ b, //
+hoone    hoone+0 //_S_ sg g, //
+ümber    ümber+0 //_K_ //
+tõusnud    tõus+nud //_V_ nud, //    tõus=nud+0 //_A_ //    tõus=nud+0 //_A_ sg n, //    tõus=nud+d //_A_ pl n, //
+tüli    tüli+0 //_S_ sg p, //
+ära    ära+0 //_D_ //
+klaarida    klaari+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Tahaksime    Tahaksime+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+asi    asi+0 //_S_ sg n, //
+lõpuks    lõpuks+0 //_D_ //
+ära    ära+0 //_D_ //
+otsustatakse    otsusta+takse //_V_ takse, //
+.    . //_Z_ //
+</s>
+<s>
+Palusin    palu+sin //_V_ sin, //
+Kaitseliidul    kaitse_liit+l //_S_ sg ad, //
+esitada    esita+da //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+ruumiprogramm    ruumi_programm+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+palju    palju+0 //_D_ //
+neil    tema+l //_P_ pl ad, //
+pinda    pind+0 //_S_ sg p, //
+vaja    vaja+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Põllumajandusülikooli    põllu_majandus_üli_kool+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Kaitseliidu    kaitse_liit+0 //_S_ sg g, //
+Tartu    Tartu+0 //_H_ sg g, //
+maleva    malev+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+EPMÜ    EPMÜ+0 //_Y_ ?, //
+vana    vana+0 //_A_ sg g, //
+peahoone    pea_hoone+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+puhkenud    puhke+nud //_V_ nud, //    puhke=nud+0 //_A_ //    puhke=nud+0 //_A_ sg n, //    puhke=nud+d //_A_ pl n, //
+tüli    tüli+0 //_S_ sg n, //
+kulmineerus    kulmineeru+s //_V_ s, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="1996-05-27" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+mil    mil+0 //_D_ //
+kaitseliitlased    kaitse_liitlane+d //_S_ pl n, //
+hõivasid    hõiva+sid //_V_ sid, //
+maja    maja+0 //_S_ sg g, //
+uksed    uks+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Maleva    Malev+0 //_H_ sg g, //    Maleva+0 //_H_ sg g, //
+pealik    pealik+0 //_S_ sg n, //
+Aivo    Aivo+0 //_H_ sg n, //
+Kapten    kapten+0 //_S_ sg n, //
+ütles    ütle+s //_V_ s, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1996-05-30" >
+eilses    eilne+s //_A_ sg in, //
+</TIMEX>
+“    “ //_Z_ //
+Postimehes    Posti_mees+s //_H_ sg in, //    Postimehe+s //_H_ sg in, //
+”    ” //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t8" >
+varem    varem+0 //_D_ //
+</TIMEX>
+Kaitseliidule    kaitse_liit+le //_S_ sg all, //
+lubatud    luba+tud //_V_ tud, //    lubatu+d //_A_ pl n, //    lubatud+0 //_A_ //    lubatud+0 //_A_ sg n, //    lubatud+d //_A_ pl n, //
+ruumides    ruum+des //_S_ pl in, //
+pesitsevad    pesitse+vad //_V_ vad, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t8" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+erafirmad    era_firma+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Minu    mina+0 //_P_ sg g, //
+teada    tead+a //_V_ da, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+erafirmadele    era_firma+dele //_S_ pl all, //
+Võru    Võru+0 //_H_ sg g, //
+tänava    tänav+0 //_S_ sg g, //
+poolses    poolne+s //_A_ sg in, //
+tiivas    tiib+s //_S_ sg in, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+ainult    ainult+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+16-ruutmeetrist    16_ruut_meetrine+t //_A_ sg p, //
+ruumi    ruum+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ülejäänud    üle_jäänu+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meie    mina+0 //_P_ pl g, //
+või    või+0 //_J_ //
+politsei    politsei+0 //_S_ sg g, //
+käsutuses    käsutus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Need    see+d //_P_ pl n, //
+kokkulepped    kokku_lepe+d //_S_ pl n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+me    mina+0 //_P_ pl n, //
+Aivo    Aivo+0 //_H_ sg n, //
+Kapteni    kapten+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kaitseväe    kaitse_vägi+0 //_S_ sg g, //
+juhataja    juhataja+0 //_S_ sg n, //
+Johannes    Johannes+0 //_H_ sg n, //
+Kerdiga    Kert+ga //_H_ sg kom, //
+Kaitseliidule    Kaitseliidule+0 //_H_ sg g, //
+ruumide    ruum+de //_S_ pl g, //
+andmise    andmine+0 //_S_ sg g, //
+küsimuses    küsimus+s //_S_ sg in, //
+sõlmisime    sõlmi+sime //_V_ sime, //
+,    , //_Z_ //
+</kiil>
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+ju    ju+0 //_D_ //
+kuhugi    kuhugi+0 //_D_ //
+kadunud    kadu+nud //_V_ nud, //    kadunud+0 //_A_ //    kadunud+0 //_A_ sg n, //    kadunud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kas    kas+0 //_D_ //
+informatsioonipuudusest    informatsiooni_puudus+st //_S_ sg el, //
+või    või+0 //_J_ //
+valest    vale+st //_A_ sg el, //
+interpretatsioonist    inter_pretatsioon+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tekkinud    tekki+nud //_V_ nud, //    tekki=nud+0 //_A_ //    tekki=nud+0 //_A_ sg n, //    tekki=nud+d //_A_ pl n, //
+arusaamatus    aru_saamatus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+arvas    arva+s //_V_ s, //
+Klaassen    Klaassen+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Põllumajandusülikooli    Põllu_majandus_üli_kool+0 //_H_ sg g, //
+prorektor    prorektor+0 //_S_ sg n, //
+Henn    Henn+0 //_H_ sg n, //
+Elmet    Elmet+0 //_H_ sg n, //
+teatas    teata+s //_V_ s, //
+aga    aga+0 //_J_ //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="1996-05-18" >
+18.    18.+0 //_O_ ?, //
+mai    mai+0 //_S_ sg g, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kool    kool+0 //_S_ sg n, //
+kavatseb    kavatse+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+vana    vana+0 //_A_ sg g, //
+peahoone    pea_hoone+0 //_S_ sg g, //
+turuhinnaga    turu_hind+ga //_S_ sg kom, //
+välja    välja+0 //_D_ //
+rentida    renti+da //_V_ da, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Kaitseliit    kaitse_liit+0 //_S_ sg n, //
+küsitavat    küsitav+t //_A_ sg p, //
+hinda    hind+0 //_S_ sg p, //
+maksta    maks+ta //_V_ da, //
+ei    ei+0 //_V_ neg, //
+suuda    suut+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+peab    pida+b //_V_ b, //
+ta    tema+0 //_P_ sg n, //
+välja    välja+0 //_D_ //
+kolima    koli+ma //_V_ ma, //
+.    . //_Z_ //
+</s>

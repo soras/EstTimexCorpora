@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-01-07" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+Toimetaja : Tuuli Aug 
+ Foto : CNN 
+ USA-s Colorado osariigis vajus kiirteele 62 meetrit lai ja ligi 5 meetrit paks lumelaviin , mis mattis kaks autot enda alla . 
+ Lumemass mattis enda alla vähemalt kaks autot , <TIMEX3 tid="t41" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praeguseks</TIMEX3> on kahes autos viibinud kaheksa inimest päästetud ja toimetatud haiglaravile , vahendab BBC . 
+ Mäeküljelt läbi metsa teele vajunud laviin tõukas kaks autot sadakond meetrit teest eemale . 
+ Laviini alla sattunud autodele tõttasid appi teel eespool ja tagapool sõitnud autode juhid , kes kõigi kättesaadavate vahenditega alustasid laviini mattunud autode otsimist ja välja kaevamist . 
+ Laviin oli 62 meetrit lai ja 4,7 meetrit sügav . 
+</TimeML>

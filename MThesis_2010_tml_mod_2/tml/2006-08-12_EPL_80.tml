@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: David Lowenthal : elame aastal 02006 
+Eda Post 
+ <TIMEX3 tid="t380" type="DATE" value="2006-W32" anchorTimeID="t0">Sel nädalal</TIMEX3> rääkis Londoni ülikooli kolled?i geograafia teaduskonna <TIMEX3 tid="t381" type="DURATION" value="P83Y" >83-aastane</TIMEX3> emeriit- 
+ Professor Lowenthal alustas loengut näitega iseenda elust . 
+ <TIMEX3 tid="t382" type="DATE" value="1965" >1965. aastal</TIMEX3> imetles ta Los Angelese ülikooli kampust , kus talle näidati tulevikuvisioone ja räägiti , kui uhke on see kompleks <TIMEX3 tid="t383" type="DATE" value="1975" anchorTimeID="t382">10</TIMEX3> ja <TIMEX3 tid="t384" type="DATE" value="1985" anchorTimeID="t382">20 aasta pärast</TIMEX3> . 
+ " Läksin sinna tagasi nii <TIMEX3 tid="t385" type="DATE" value="1975" anchorTimeID="t382">10</TIMEX3> kui ka <TIMEX3 tid="t386" type="DATE" value="1985" anchorTimeID="t382">20 aasta pärast</TIMEX3> ja loomulikult polnud midagi muutunud , " muigas Lowenthal . 
+ <TIMEX3 tid="t387" type="DATE" value="1906" anchorTimeID="t0">Sada aastat tagasi</TIMEX3> tõusid Itaalias esile futuristid , kelle põhimõtteks oli , et kõigest vanast tuleb loobuda , keskenduda tuleb uuele , see on tulevik ja progress . 
+ Näiteks nõudsid nad vanade kopitanud ajalugu täis linnade nagu Rooma ja Veneetsia lammutamist . 
+ Pärast Teist maailmasõda sai futurism uut hoogu , sest paljud hävinud linnasüdamed tuli uuesti üles ehitada . 
+ Siis tundus , et kõik varasemad vead nii linnades kui ka ühiskonnas on võimalik uue ehitamisega parandada . 
+</TimeML>

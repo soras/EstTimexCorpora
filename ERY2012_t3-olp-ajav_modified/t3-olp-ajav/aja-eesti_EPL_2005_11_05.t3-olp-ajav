@@ -1,0 +1,1179 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2005-11-05TXX:XX" />
+<ignoreeri>
+|
+autor:
+Toivo
+Tänavsuu
+|
+ajalehenumber:
+Eesti
+Päevaleht
+05.11.2005
+|
+rubriik:
+Eesti
+|
+artikkel:
+LHV
+skandaalis
+osaline
+ka
+Lõhmus
+|
+</ignoreeri>
+<s>
+LHV    LHV+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+töötajate    töötaja+te //_S_ pl g, //
+suhtes    suhtes+0 //_K_ //
+võidakse    või+dakse //_V_ takse, //
+algatada    algata+da //_V_ da, //
+kriminaalmenetlus    kriminaal_menetlus+0 //_S_ sg n, //
+ka    ka+0 //_D_ //
+Eestis    Eesti+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Rauno    Rauno+0 //_H_ sg n, //
+Volmar    Volmar+0 //_H_ sg n, //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Päevalehe    Päeva_leht+0 //_H_ sg g, //    Päevalehe+0 //_H_ sg g, //
+andmetel    andmed+tel //_S_ pl ad, //
+plaanivad    plaani+vad //_V_ vad, //
+riigiprokuratuur    riigi_prokuratuur+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+finantsinspektsioon    finants_inspektsioon+0 //_S_ sg n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2005-11-07" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+algatada    algata+da //_V_ da, //
+kriminaalmenetluse    kriminaal_menetlus+0 //_S_ sg g, //
+investeerimispanga    investeerimis_pank+0 //_S_ sg g, //
+LHV    LHV+0 //_Y_ ?, //
+ning    ning+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+töötajate    töötaja+te //_S_ pl g, //
+Kristjan    Kristjan+0 //_H_ sg n, //
+Lepiku    Lepiku+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Oliver    Oliver+0 //_H_ sg n, //
+Peegi    Pee+gi //_H_ sg g, //    Peeg+0 //_H_ sg g, //    Peegi+0 //_H_ sg g, //    Peek+0 //_H_ sg g, //
+tegevuse    tegevus+0 //_S_ sg g, //
+uurimiseks    uurimine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Uurimine    uurimine+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+andma    and+ma //_V_ ma, //
+vastuse    vastus+0 //_S_ sg g, //
+küsimusele    küsimus+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+rikutud    rikku+tud //_V_ tud, //    rikutud+0 //_A_ //    rikutud+0 //_A_ sg n, //    rikutud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+väärtpaberituru    väärt_paberi_turg+0 //_S_ sg g, //
+seaduse    seadus+0 //_S_ sg g, //
+sätteid    säte+id //_S_ pl p, //
+turu    turg+0 //_S_ sg g, //
+kuritarvitamise    kuri_tarvitamine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+ning    ning+0 //_J_ //
+investeerimisühingule    investeerimis_ühing+le //_S_ sg all, //
+esitatavaid    esitatav+id //_A_ pl p, //
+nõudeid    nõue+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="PAST_REF" >
+Varem    varem+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+USA    USA+0 //_Y_ ?, //
+väärtpaberituru    väärt_paberi_turg+0 //_S_ sg g, //
+järelevalveasutus    järele_valve_asutus+0 //_S_ sg n, //
+SEC    SEC+0 //_Y_ ?, //
+andnud    and+nud //_V_ nud, //    and=nud+0 //_A_ //    and=nud+0 //_A_ sg n, //    and=nud+d //_A_ pl n, //
+tsiviilhagi    tsiviil_hagi+0 //_S_ sg g, //
+LHV    LHV+0 //_Y_ ?, //
+,    , //_Z_ //
+Peegi    pee+gi //_S_ sg g, //
+ja    ja+0 //_J_ //
+Lepiku    lepik+0 //_S_ sg g, //
+suhtes    suhtes+0 //_K_ //
+USA    USA+0 //_Y_ ?, //
+kohtusse    kohus+sse //_S_ sg ill, //
+,    , //_Z_ //
+<kindel_piir/>
+süüdistades    süüdista+des //_V_ des, //
+neid    see+d //_P_ pl p, //
+konfidentsiaalse    konfidentsiaalne+0 //_A_ sg g, //
+teabe    teave+0 //_S_ sg g, //
+varguses    vargus+s //_S_ sg in, //
+Business    Business+0 //_H_ sg n, //
+Wire'    Wire+0 //_H_ sg g, //
+portaalist    portaal+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+info    info+0 //_S_ sg g, //
+varal    varal+0 //_K_ //
+aktsiatega    aktsia+tega //_S_ pl kom, //
+kaubeldes    kauple+des //_V_ des, //
+ebaseadusliku    eba_seaduslik+0 //_A_ sg g, //
+tulu    tulu+0 //_S_ sg g, //
+teenimises    teenimine+s //_S_ sg in, //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+100    100+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+ulatuses    ulatus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Uurimise    uurimine+0 //_S_ sg g, //
+all    all+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+viis    viis+0 //_N_ sg n, //
+väärtpaberikontot    väärt_paberi_konto+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+neist    see+st //_P_ pl el, //
+kuulus    kuulu+s //_V_ s, //
+Lepikule    Lepikule+0 //_H_ sg n, //
+,    , //_Z_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+Peegile    Peegile+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Rain    Rain+0 //_H_ sg n, //
+Lõhmusel    Lõhmusel+0 //_H_ sg n, //
+kahtlus    kahtlus+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2005-11-04" >
+Eile    eile+0 //_D_ //
+</TIMEX>
+teatas    teata+s //_V_ s, //
+LHV    LHV+0 //_Y_ ?, //
+grupi    grupp+0 //_S_ sg g, //
+juhatuse    juhatus+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Rain    Rain+0 //_H_ sg n, //
+Tamm    Tamm+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+konto    konto+0 //_S_ sg n, //
+kuulus    kuulu+s //_V_ s, //
+ka    ka+0 //_D_ //
+LHV    LHV+0 //_Y_ ?, //
+grupist    grupp+st //_S_ sg el, //
+ligi    ligi+0 //_D_ //
+</s>
+<s>
+20    20+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+omavale    omav+le //_A_ sg all, //
+Rain    Rain+0 //_H_ sg n, //
+Lõhmusele    Lõhmus+le //_H_ sg all, //    Lõhmuse+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Peegi    pee+gi //_S_ sg g, //
+firma    firma+0 //_S_ sg g, //
+klientide    klient+de //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+oli    ole+i //_V_ s, //
+sada    sada+0 //_N_ sg n, //
+protsenti    protsent+0 //_S_ sg p, //
+Lõhmusele    lõhmus+le //_S_ sg all, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+ettevõte    ette_võte+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+seda    see+da //_P_ sg p, //
+ettevõtet    ette_võte+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+seo    sidu+0 //_V_ o, //
+LHV-ga    LHV+ga //_Y_ sg kom, //
+mitte    mitte+0 //_D_ //
+miski    miski+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Tamm    Tamm+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+välistanud    välista+nud //_V_ nud, //    välista=nud+0 //_A_ //    välista=nud+0 //_A_ sg n, //    välista=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+koguni    koguni+0 //_D_ //
+kolm    kolm+0 //_N_ sg n, //
+uurimise    uurimine+0 //_S_ sg g, //
+all    all+0 //_K_ //
+olevat    olev+t //_A_ sg p, //
+kontot    konto+t //_S_ sg p, //
+kuuluvad    kuulu+vad //_V_ vad, //
+Lõhmusele    lõhmus+le //_S_ sg all, //
+või    või+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+firmadele    firma+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+ja    ja+0 //_J_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+asjaoludel    asja_olu+del //_S_ pl ad, //
+Lõhmuse    Lõhmus+0 //_H_ sg g, //    Lõhmuse+0 //_H_ sg g, //
+rahaga    raha+ga //_S_ sg kom, //
+tehinguid    tehing+id //_S_ pl p, //
+tegi    tege+i //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+soovinud    soovi+nud //_V_ nud, //    soovi=nud+0 //_A_ //    soovi=nud+0 //_A_ sg n, //    soovi=nud+d //_A_ pl n, //
+Tamm    Tamm+0 //_H_ sg n, //
+öelda    ütle+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+seal    seal+0 //_D_ //
+passiivne    passiivne+0 //_A_ sg n, //
+investor    investor+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Tamm    Tamm+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Lõhmus    Lõhmus+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+LHV    LHV+0 //_Y_ ?, //
+lubas    luba+s //_V_ s, //
+taandada    taanda+da //_V_ da, //
+kõigist    kõik+st //_P_ pl el, //
+grupiga    grupp+ga //_S_ sg kom, //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+ettevõtete    ette_võte+te //_S_ pl g, //
+juhtimisest    juhtimine+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2005-11-04" >
+eile    eile+0 //_D_ //
+</TIMEX>
+telefonile    telefon+le //_S_ sg all, //
+ei    ei+0 //_V_ neg, //
+vastanud    vasta+nud //_V_ nud, //    vasta=nud+0 //_A_ //    vasta=nud+0 //_A_ sg n, //    vasta=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Juhtumiga    juhtum+ga //_S_ sg kom, //
+seoses    seoses+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+<TIMEX tid="t1_2" type="DURATION" temporalFunction="true" value="PXD" >
+mitmendat    mitmes+t //_P_ sg p, //
+päeva    päev+0 //_S_ sg p, //
+</TIMEX>
+USA    USA+0 //_Y_ ?, //
+kohtu    kohus+0 //_S_ sg g, //
+otsusel    otsus+l //_S_ sg ad, //
+külmutatud    külmuta+tud //_V_ tud, //    külmuta=tud+0 //_A_ //    külmuta=tud+0 //_A_ sg n, //    külmuta=tud+d //_A_ pl n, //
+umbes    umbes+0 //_D_ //
+saja    sada+0 //_N_ sg g, //
+LHV    LHV+0 //_Y_ ?, //
+Traderi    Trader+0 //_H_ sg g, //    Traderi+0 //_H_ sg g, //
+kliendi    klient+0 //_S_ sg g, //
+väärtpaberikontod    väärt_paberi_konto+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+sealhulgas    seal_hulgas+0 //_D_ //
+viis    vii+s //_V_ s, //
+juhtunuga    juhtunu+ga //_S_ sg kom, //
+otseselt    otseselt+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+kontot    konto+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Tamme    Tamm+0 //_H_ sg g, //    Tamme+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+peetakse    pida+takse //_V_ takse, //
+läbirääkimisi    läbi_rääkimine+i //_S_ pl p, //
+kolmandate    kolmas+te //_O_ pl g, //
+isikutega    isik+tega //_S_ pl kom, //
+LHV    LHV+0 //_Y_ ?, //
+Traderi    Trader+0 //_H_ sg g, //    Traderi+0 //_H_ sg g, //
+kontode    konto+de //_S_ pl g, //
+avamiseks    avamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Millal    millal+0 //_D_ //
+kontod    konto+d //_S_ pl n, //
+avatakse    ava+takse //_V_ takse, //
+,    , //_Z_ //
+<kindel_piir/>
+seda    see+da //_P_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+raske    raske+0 //_A_ sg n, //
+öelda    ütle+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+lisades    lisa+des //_V_ des, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kõikide    kõik+de //_P_ pl g, //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+LHV    LHV+0 //_Y_ ?, //
+investeerimiskontode    investeerimis_konto+de //_S_ pl g, //
+klientidel    klient+del //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimalik    võimalik+0 //_A_ sg n, //
+vabalt    vabalt+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+varaga    vara+ga //_S_ sg kom, //
+kaubelda    kauple+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2005-11-03" >
+Neljapäeval    nelja_päev+l //_S_ sg ad, //
+</TIMEX>
+rakendas    rakenda+s //_V_ s, //
+LHV    LHV+0 //_Y_ ?, //
+klientidele    klient+dele //_S_ pl all, //
+piiranguid    piirang+id //_S_ pl p, //
+investeerimis-    investeerimis //_S_ ?, //
+ja    ja+0 //_J_ //
+kasvukontodelt    kasvu_konto+delt //_S_ pl abl, //
+raha    raha+0 //_S_ sg p, //
+välja    välja+0 //_D_ //
+kandmisel    kandmine+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+lubades    luba+des //_V_ des, //
+välja    välja+0 //_D_ //
+kanda    kand+a //_V_ da, //
+vaid    vaid+0 //_D_ //
+74    74+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+varadest    vara+dest //_S_ pl el, //    varad+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Pärast    pärast+0 //_K_ //
+läbirääkimisi    läbi_rääkimine+i //_S_ pl p, //
+finantsinspektsiooniga    finants_inspektsioon+ga //_S_ sg kom, //
+<TIMEX  tid="t5" type="TIME" temporalFunction="true" value="2005-11-04TMO" >
+eile    eile+0 //_D_ //
+hommikuks    hommik+ks //_S_ sg tr, //
+</TIMEX>
+piirangud    piirang+d //_S_ pl n, //
+kõrvaldati    kõrvalda+ti //_V_ ti, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaid    vaid+0 //_D_ //
+LHV    LHV+0 //_Y_ ?, //
+Traderi    Trader+0 //_H_ sg g, //    Traderi+0 //_H_ sg g, //
+kontod    konto+d //_S_ pl n, //
+endiselt    endiselt+0 //_D_ //
+külmutatud    külmuta+tud //_V_ tud, //    külmuta=tud+0 //_A_ //    külmuta=tud+0 //_A_ sg n, //    külmuta=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+meie    mina+0 //_P_ pl g, //
+sisekommunikatsiooni    sise_kommunikatsioon+0 //_S_ sg g, //
+viga    viga+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+nimetas    nimeta+s //_V_ s, //
+Tamm    Tamm+0 //_H_ sg n, //
+piirangute    piirang+te //_S_ pl g, //
+põhjuse    põhjus+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+Seni    seni+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+räägitud    räägi=tud+0 //_A_ //    räägi=tud+0 //_A_ sg n, //    räägi=tud+d //_A_ pl n, //    rääki+tud //_V_ tud, //
+sellest    see+st //_P_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+USA    USA+0 //_Y_ ?, //
+kohus    kohus+0 //_S_ sg n, //
+karistab    karista+b //_V_ b, //
+LHV-d    LHV+d //_Y_ sg p, //
+ja    ja+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+töötajaid    töötaja+id //_S_ pl p, //
+tsiviilkorras    tsiviil_kord+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+tuleb    tule+b //_V_ b, //
+tagasi    tagasi+0 //_D_ //
+maksta    maks+ta //_V_ da, //
+ebaseaduslikult    eba_seaduslikult+0 //_D_ //
+teenitud    teeni+tud //_V_ tud, //    teenitud+0 //_A_ //    teenitud+0 //_A_ sg n, //    teenitud+d //_A_ pl n, //
+tulu    tulu+0 //_S_ sg n, //
+,    , //_Z_ //
+intressid    intress+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+lisaks    lisa+ks //_S_ sg tr, //
+trahv    trahv+0 //_S_ sg n, //
+kuni    kuni+0 //_K_ //
+kolmekordse    kolme_kordne+0 //_A_ sg g, //
+varastatud    varasta+tud //_V_ tud, //    varastatud+0 //_A_ //    varastatud+0 //_A_ sg n, //    varastatud+d //_A_ pl n, //
+summa    summ+0 //_S_ sg g, //    summa+0 //_S_ sg g, //
+ulatuses    ulatus+s //_S_ sg in, //
+ehk    ehk+0 //_J_ //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+juhtumi    juhtum+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+300    300+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Päevaleht    Päeva_leht+0 //_H_ sg n, //    Päevaleht+0 //_H_ sg n, //
+rääkis    rääki+s //_V_ s, //
+SEC-i    SEC+i //_Y_ sg g, //
+esindaja    esindaja+0 //_S_ sg n, //
+David    David+0 //_H_ sg n, //
+S.    S.+0 //_Y_ ?, //
+Horowitziga    Horowitz+ga //_H_ sg kom, //    Horowitzi+ga //_H_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+seadus    seadus+0 //_S_ sg n, //
+võimaldab    võimalda+b //_V_ b, //
+tsiviilkorras    tsiviil_kord+s //_S_ sg in, //
+petuskeemi    petu_skeem+0 //_S_ sg g, //
+korraldajatelt    korraldaja+telt //_S_ pl abl, //
+välja    välja+0 //_D_ //
+nõuda    nõud+a //_V_ da, //
+iga    iga+0 //_P_ sg g, //
+ebaseadusliku    eba_seaduslik+0 //_A_ sg g, //
+teo    tegu+0 //_S_ sg g, //    tigu+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+trahvi    trahv+0 //_S_ sg g, //
+summas    summ+s //_S_ sg in, //    summa+s //_S_ sg in, //
+kuni    kuni+0 //_K_ //
+500    500+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+dollarit    dollar+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+6,5    6,5+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Horowitz    Horowitz+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kuna    kuna+0 //_J_ //
+SEC-i    SEC+i //_Y_ sg g, //
+süüdistuse    süüdistus+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+pääseti    pääse+ti //_V_ ti, //
+konfidentsiaalsele    konfidentsiaalne+le //_A_ sg all, //
+infole    info+le //_S_ sg all, //
+ligi    ligi+0 //_K_ //
+360    360+0 //_N_ ?, //
+korral    korral+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+trahvisumma    trahvi_summ+0 //_S_ adt, //
+küündida    küündi+da //_V_ da, //
+180    180+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+dollarini    dollar+ni //_S_ sg ter, //
+<kiil>
+(    ( //_Z_ //
+2,3    2,3+0 //_N_ ?, //
+miljardi    miljard+0 //_N_ sg g, //
+kroonini    kroon+ni //_S_ sg ter, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Trahv    trahv+0 //_S_ sg n, //
+180    180+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Jah    jah+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teoreetiline    teoreetiline+0 //_A_ sg n, //
+võimalus    võimalus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Horowitz    Horowitz+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Väite    väide+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+oleks    ole+ks //_V_ ks, //
+Peek    Peek+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Lepik    Lepik+0 //_H_ sg n, //
+konfidentsiaalsele    konfidentsiaalne+le //_A_ sg all, //
+infole    info+le //_S_ sg all, //
+ligi    ligi+0 //_D_ //
+pääsenud    pääse+nud //_V_ nud, //    pääsenud+0 //_A_ //    pääsenud+0 //_A_ sg n, //    pääsenud+d //_A_ pl n, //
+juhuslikult    juhuslikult+0 //_D_ //
+või    või+0 //_J_ //
+tänu    tänu+0 //_K_ //
+Business    Business+0 //_H_ sg n, //
+Wire'    Wire+0 //_H_ sg g, //
+turvaaukudele    turva_auk+dele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Horowitz    Horowitz+0 //_H_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Mõned    mõni+d //_P_ pl n, //
+korrad    kord+d //_S_ pl n, //
+ligi    ligi+0 //_D_ //
+pääseda    pääse+da //_V_ da, //
+-    - //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juhus    juhus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+pääseda    pääse+da //_V_ da, //
+ligi    ligi+0 //_D_ //
+360    360+0 //_N_ ?, //
+korda    kord+0 //_S_ sg p, //
+salajasele    salajane+le //_A_ sg all, //
+infole    info+le //_S_ sg all, //
+ning    ning+0 //_J_ //
+teenida    teeni+da //_V_ da, //
+selle    see+0 //_P_ sg g, //
+põhjal    põhjal+0 //_K_ //
+peaaegu    pea_aegu+0 //_D_ //
+eranditult    eranditult+0 //_D_ //
+iga    iga+0 //_P_ sg g, //
+tehinguga    tehing+ga //_S_ sg kom, //
+raha    raha+0 //_S_ sg p, //
+-    - //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+juhus    juhus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+sama    sama+0 //_P_ sg n, //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kasiinos    kasiino+s //_S_ sg in, //
+blackjacki    blackjack+0 //_S_ sg g, //    blackjacki+0 //_S_ sg g, //
+laua    laud+0 //_S_ sg g, //
+taga    taga+0 //_K_ //
+kogu    kogu+0 //_A_ //
+aeg    aeg+0 //_S_ sg n, //
+võita    võit+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Varasema    varasem+0 //_C_ sg g, //
+väite    väide+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+pole    ole+0 //_V_ neg o, //
+välistatud    välista+tud //_V_ tud, //    välistatud+0 //_A_ //    välistatud+0 //_A_ sg n, //    välistatud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+USA-s    USA+s //_Y_ sg in, //
+algatatakse    algata+takse //_V_ takse, //
+LHV    LHV+0 //_Y_ ?, //
+juhtumi    juhtum+0 //_S_ sg g, //
+uurimiseks    uurimine+ks //_S_ sg tr, //
+kriminaalasi    kriminaal_asi+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tamm    Tamm+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="2005-11-04" >
+eile    eile+0 //_D_ //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+isegi    isegi+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+LHV-lt    LHV+lt //_Y_ sg abl, //
+nõutakse    nõud+takse //_V_ takse, //
+trahvi    trahv+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+ohus    oht+s //_S_ sg in, //
+LHV    LHV+0 //_Y_ ?, //
+klientide    klient+de //_S_ pl g, //
+investeeritud    investeeri+tud //_V_ tud, //    investeeri=tud+0 //_A_ //    investeeri=tud+0 //_A_ sg n, //    investeeri=tud+d //_A_ pl n, //
+vara    vara+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Klientide    klient+de //_S_ pl g, //
+vara    vara+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+väärtpaberid    väärt_paber+d //_S_ pl n, //
+pole    ole+0 //_V_ neg o, //
+LHV    LHV+0 //_Y_ ?, //
+bilansis    bilanss+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+LHV    LHV+0 //_Y_ ?, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+seadusest    seadus+st //_S_ sg el, //
+tulenevalt    tulenevalt+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+võlanõudeid    võla_nõue+id //_S_ pl p, //
+rahuldada    rahulda+da //_V_ da, //
+klientide    klient+de //_S_ pl g, //
+varaga    vara+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+LHV    LHV+0 //_Y_ ?, //
+omakapital    oma_kapital+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Tamme    Tamm+0 //_H_ sg g, //    Tamme+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+umbes    umbes+0 //_D_ //
+miljon    miljon+0 //_N_ sg n, //
+dollarit    dollar+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+13    13+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+ning    ning+0 //_J_ //
+vajaduse    vajadus+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+investeerivad    investeeri+vad //_V_ vad, //
+omanikud    omanik+d //_S_ pl n, //
+sinna    sinna+0 //_D_ //
+juurde    juurde+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Lepik    Lepik+0 //_H_ sg n, //
+endas    ise+s //_P_ sg in, //
+kindel    kindel+0 //_A_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="2005-11-08" >
+Järgmisel    järgmine+l //_A_ sg ad, //
+teisipäeval    teisi_päev+l //_S_ sg ad, //
+</TIMEX>
+peetakse    pida+takse //_V_ takse, //
+USA-s    USA+s //_Y_ sg in, //
+kohtuistung    kohtu_istung+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+SEC    SEC+0 //_Y_ ?, //
+peab    pida+b //_V_ b, //
+esitama    esita+ma //_V_ ma, //
+lisaks    lisa+ks //_S_ sg tr, //
+tõendusmaterjali    tõendus_materjal+0 //_S_ sg p, //
+oma    oma+0 //_P_ sg g, //
+süüdistuse    süüdistus+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Istungil    istung+l //_S_ sg ad, //
+võidakse    või+dakse //_V_ takse, //
+otsustada    otsusta+da //_V_ da, //
+kriminaalasja    kriminaal_asi+0 //_S_ sg g, //
+algatamine    algatamine+0 //_S_ sg n, //
+LHV    LHV+0 //_Y_ ?, //
+,    , //_Z_ //
+Peegi    pee+gi //_S_ sg g, //
+ja    ja+0 //_J_ //
+Lepiku    lepik+0 //_S_ sg g, //
+suhtes    suhtes+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võib    või+b //_V_ b, //
+päädida    päädi+da //_V_ da, //
+Peegi    pee+gi //_S_ sg g, //
+ja    ja+0 //_J_ //
+Lepiku    lepik+0 //_S_ sg g, //
+vahistamisega    vahistamine+ga //_S_ sg kom, //
+Eestis    Eesti+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+pea    pida+0 //_V_ o, //
+seda    see+da //_P_ sg p, //
+võimalust    võimalus+t //_S_ sg p, //
+väga    väga+0 //_D_ //
+tõenäoliseks    tõe_näoline+ks //_A_ sg tr, //
+ega    ega+0 //_J_ //
+<kindel_piir/>
+karda    kart+0 //_V_ o, //
+seda    see+da //_P_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Lepik    Lepik+0 //_H_ sg n, //
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="2005-11-04" >
+eile    eile+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Peek    Peek+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Lepik    Lepik+0 //_H_ sg n, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="2005-11-08" >
+teisipäevaks    teisi_päev+ks //_S_ sg tr, //
+</TIMEX>
+USA-sse    USA+sse //_Y_ sg ill, //
+ei    ei+0 //_V_ neg, //
+sõida    sõit+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Mina    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+sõida    sõit+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+rohkem    rohkem+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+kommenteerida    kommenteeri+da //_V_ da, //
+,    , //_Z_ //
+nägemist    nägemine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Peek    Peek+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Peek    Peek+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX tid="t1_5" type="DATE" temporalFunction="true" value="PAST_REF" >
+varem    varem+0 //_D_ //
+</TIMEX>
+öelnud    öel=nud+0 //_A_ //    öel=nud+0 //_A_ sg n, //    öel=nud+d //_A_ pl n, //    ütle+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+kuritegu    kuri_tegu+0 //_S_ sg p, //
+sooritanud    soorita+nud //_V_ nud, //    soorita=nud+0 //_A_ //    soorita=nud+0 //_A_ sg n, //    soorita=nud+d //_A_ pl n, //
+ega    ega+0 //_J_ //
+ebaseaduslikku    eba_seaduslik+0 //_A_ sg p, //
+tulu    tulu+0 //_S_ sg p, //
+teeninud    teeni+nud //_V_ nud, //    teeni=nud+0 //_A_ //    teeni=nud+0 //_A_ sg n, //    teeni=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+Business    Business+0 //_H_ sg n, //
+Wire'st    Wire+st //_H_ sg el, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+info    info+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+avalik    avalik+0 //_A_ sg n, //
+kõigile    kõik+le //_P_ pl all, //
+portaali    portaal+0 //_S_ sg g, //
+kasutajatele    kasutaja+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Aktsiatega    aktsia+tega //_S_ pl kom, //
+kauplemisel    kauplemine+l //_S_ sg ad, //
+polnud    ole+nud //_V_ neg nud, //
+info    info+0 //_S_ sg g, //
+Peegi    pee+gi //_S_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+määrav    määrav+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kaubeldi    kauple+di //_V_ ti, //
+enda    ise+0 //_P_ sg g, //
+analüüsi    analüüs+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+turukogemuste    turu_kogemus+te //_S_ pl g, //
+põhjal    põhjal+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Leedu    Leedu+0 //_H_ sg g, //
+firma    firma+0 //_S_ sg n, //
+loobus    loobu+s //_V_ s, //
+LHV    LHV+0 //_Y_ ?, //
+teenusest    teenus+st //_S_ sg el, //
+</s>
+<s>
+LHV    LHV+0 //_Y_ ?, //
+skandaali    skandaal+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tema    tema+0 //_P_ sg g, //
+kliendid    klient+d //_S_ pl n, //
+hakanud    haka=nud+0 //_A_ //    haka=nud+0 //_A_ sg n, //    haka=nud+d //_A_ pl n, //    hakka+nud //_V_ nud, //
+mõtlema    mõtle+ma //_V_ ma, //
+koostööst    koos_töö+st //_S_ sg el, //
+loobumisele    loobumine+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Näiteks    näide+ks //_S_ sg tr, //
+Leedu    Leedu+0 //_H_ sg g, //
+VP    VP+0 //_Y_ ?, //
+Marketiga    market+ga //_S_ sg kom, //
+ühte    üks+0 //_N_ adt, //    üks+0 //_P_ adt, //
+kontserni    kontsern+0 //_S_ adt, //
+kuuluv    kuuluv+0 //_A_ sg n, //
+kinnisvaraarendaja    kinnis_vara_arendaja+0 //_S_ sg n, //
+AB    AB+0 //_Y_ ?, //
+Vilniaus    Vilniaus+0 //_H_ sg n, //
+Akropolis    Akro_polis+0 //_H_ sg n, //
+loobus    loobu+s //_V_ s, //
+LHV    LHV+0 //_Y_ ?, //
+nõustamisteenusest    nõusta=mis_teenus+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+LHV    LHV+0 //_Y_ ?, //
+pidi    pida+i //_V_ s, //
+nõustama    nõusta+ma //_V_ ma, //
+firma    firma+0 //_S_ sg g, //
+aktsiaemissiooni    aktsia_emissioon+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Kohe    kohe+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+saime    saa+ime //_V_ sime, //
+teada    tead+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+LHV-l    LHV+l //_Y_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+probleem    probleem+0 //_S_ sg n, //
+ameeriklastega    ameeriklane+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+otsustasime    otsusta+sime //_V_ sime, //
+tema    tema+0 //_P_ sg g, //
+teenetest    teene+test //_S_ pl el, //
+loobuda    loobu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+oleks    ole+ks //_V_ ks, //
+meie    mina+0 //_P_ pl g, //
+aktsia    aktsia+0 //_S_ sg g, //
+hinda    hind+0 //_S_ sg p, //
+mõjutanud    mõjuta+nud //_V_ nud, //    mõjuta=nud+0 //_A_ //    mõjuta=nud+0 //_A_ sg n, //    mõjuta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Vilniaus    Vilniaus+0 //_H_ sg n, //
+Akropolise    Akro_polis+0 //_H_ sg g, //
+juhatuse    juhatus+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Mindaugas    Mindaugas+0 //_H_ sg n, //
+Marcinkevicius    Marcinkevicius+0 //_H_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+Päevalehele    Päeva_leht+le //_H_ sg all, //    Päevalehe+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Küsimusele    küsimus+le //_S_ sg all, //
+,    , //_Z_ //
+miks    miks+0 //_D_ //
+võeti    võt+ti //_V_ ti, //
+selline    selline+0 //_P_ sg n, //
+otsus    otsus+0 //_S_ sg n, //
+vastu    vastu+0 //_K_ //
+enne    enne+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+juhtumi    juhtum+0 //_S_ sg g, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+detailid    detail+d //_S_ pl n, //
+pole    ole+0 //_V_ neg o, //
+selged    selge+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+USA    USA+0 //_Y_ ?, //
+kohus    kohus+0 //_S_ sg n, //
+pole    ole+0 //_V_ neg o, //
+veel    veel+0 //_D_ //
+otsust    otsus+t //_S_ sg p, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+vastas    vasta+s //_V_ s, //
+Marcinkevicius    Marcinkevicius+0 //_H_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Võib-olla    võib-olla+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+siin    siin+0 //_D_ //
+kuritegu    kuri_tegu+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+see    see+0 //_P_ sg n, //
+pole    ole+0 //_V_ neg o, //
+meie    mina+0 //_P_ pl g, //
+asi    asi+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+skandaal    skandaal+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meie    mina+0 //_P_ pl g, //
+jaoks    jaoks+0 //_K_ //
+natuke    natuke+0 //_D_ //
+liiga    liiga+0 //_D_ //
+oluline    oluline+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+LHV    LHV+0 //_Y_ ?, //
+peab    pida+b //_V_ b, //
+vastutama    vastuta+ma //_V_ ma, //
+oma    oma+0 //_P_ sg g, //
+tegude    tegu+de //_S_ pl g, //
+eest    eest+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Marcinkeviciuse    Marcinkevicius+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX tid="t1_7" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+LHV-l    LHV+l //_Y_ sg ad, //
+Leedus    Leedu+s //_H_ sg in, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+hea    hea+0 //_A_ sg n, //
+reputatsioon    reputatsioon+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+Leedu    Leedu+0 //_H_ sg g, //
+press    press+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+skandaali    skandaal+0 //_S_ sg p, //
+veel    veel+0 //_D_ //
+teemaks    teema+ks //_S_ sg tr, //
+võtnud    võt+nud //_V_ nud, //    võt=nud+0 //_A_ //    võt=nud+0 //_A_ sg n, //    võt=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+LHV    LHV+0 //_Y_ ?, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+firmadest    firma+dest //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+vahendab    vahenda+b //_V_ b, //
+Rootsi    Rootsi+0 //_H_ sg g, //
+varahaldusfirma    vara_haldus_firma+0 //_S_ sg g, //
+East    East+0 //_H_ sg n, //
+Capitali    Capital+0 //_H_ sg g, //    Capitali+0 //_H_ sg g, //
+fonde    fond+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+East    East+0 //_H_ sg n, //
+Capitali    Capitali+0 //_H_ sg n, //
+partner    partner+0 //_S_ sg n, //
+Karine    Karine+0 //_H_ sg n, //
+Hirn    Hirn+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+edaspidise    edas_pidine+0 //_A_ sg g, //
+koostöö    koos_töö+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+LHV-ga    LHV+ga //_Y_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+hetkel    hetk+l //_S_ sg ad, //
+</TIMEX>
+raske    raske+0 //_A_ sg n, //
+midagi    miski+dagi //_P_ sg p, //
+öelda    ütle+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+teame    tead+me //_V_ me, //
+LHV    LHV+0 //_Y_ ?, //
+inimesi    inimene+i //_S_ pl p, //
+<TIMEX  tid="t13" type="DURATION" temporalFunction="true" value="PXY" >
+aastaid    aasta+id //_S_ pl p, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<kindel_piir/>
+üldiselt    üldiselt+0 //_D_ //
+usaldame    usalda+me //_V_ me, //
+neid    see+d //_P_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Nad    tema+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kompetentsed    kompetentne+d //_A_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+Toivo
+Tänavsuu
+|
+ajalehenumber:
+Eesti
+Päevaleht
+05.11.2005
+|
+rubriik:
+Eesti
+|
+artikkel:
+LHV
+skandaalis
+osaline
+ka
+Lõhmus
+|
+autor:
+Toivo
+Tänavsuu
+|
+|
+</ignoreeri>
+<s>
+Aga    aga+0 //_J_ //
+eks    eks+0 //_D_ //
+me    mina+0 //_P_ pl n, //
+vaata    vaata+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+asjad    asi+d //_S_ pl n, //
+edasi    edasi+0 //_D_ //
+arenevad    arene+vad //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Hirn    Hirn+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>

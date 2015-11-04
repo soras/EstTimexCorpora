@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: <TIMEX3 tid="t135" type="SET" value="XXXX-WXX-4">Neljapäevakutel</TIMEX3> algas Ihastes juubelihooaeg 
+ MADIS ORAS , sport@postimees.ee 
+ <TIMEX3 tid="t136" type="DATE" value="2000-W15" anchorTimeID="t0">Läinud nädalal</TIMEX3> Ihastes alanud Tartu <TIMEX3 tid="t137" type="SET" value="XXXX-WXX-4">orienteerumisneljapäevakute</TIMEX3> kolmekümnes hooaeg jätkub <TIMEX3 tid="t139" type="DATE" value="2000-04-20" anchorTimeID="t0">homme</TIMEX3> Tuigol . 
+ <TIMEX3 tid="t140" type="SET" value="XXXX-WXX-4" comment="Alternatiiviks on 'homme' tähendus.">Neljapäevakule</TIMEX3> võib tulla igaüks sõltumata east , soost ja orienteerumisoskusest , sest valida saab kuue individuaalraja ja valikuklassi vahel . 
+ Viimasele võib rajale minna rühmiti , sest aega ei arvestata ja kogenum saab algajat õpetada . 
+ Tulemuse saab juba ühe kontrollpunkti läbimisel , liikuda võib nii joostes kui ka kõndides . 
+ Kahel esimesel rajal on tulemuse kirjasaamine piiratud vanusega . 
+ Esimesel rajal saavad tulemuse <TIMEX3 tid="t141" type="DURATION" value="P10Y" >kümneaastased</TIMEX3> ja nooremad , kui suudavad stardist finishini nööriga tähistatud raja läbida iseseisvalt . 
+ Teisel rajal saavad tulemuse <TIMEX3 tid="t142" type="DURATION" value="P11Y" >11</TIMEX3>-<TIMEX3 tid="t143" type="DURATION" value="P14Y" >14-aastased</TIMEX3> lapsed , kolmandast kuuenda rajani vastavalt soole ja vanusele määrustepäraselt võistlusmaa läbinud osavõtjad oma võistlusklassis . 
+ Kahel esimesel rajal võivad osaleda ka ülejäänud , kuid nende tulemust arvestatakse sel juhul valikuklassis . 
+ <TIMEX3 tid="t144" type="DATE" value="2000" anchorTimeID="t0">Tänavugi</TIMEX3> peetakse <TIMEX3 tid="t145" type="SET" value="XXXX-WXX-4">neljapäevakutel</TIMEX3> kompleksarvestust , arvesse läheb üheksa paremat tulemust , välja arvatud mõlemad Ihaste päevakud . 
+ <TIMEX3 tid="t146" type="SET" value="XXXX-WXX-4">Kõigil neljapäevakuil</TIMEX3> osalenuid peetakse meeles <TIMEX3 tid="t147" type="DATE" value="2000-FA" anchorTimeID="t0">sügisel</TIMEX3> hooaja lõpetamisel . 
+ Start on <TIMEX3 tid="t148" type="DATE" value="2000-SP" anchorTimeID="t0"> kevadhooajal</TIMEX3> avatud <TIMEX3 tid="t149" type="TIME" value="T17">kell 17</TIMEX3>-<TIMEX3 tid="t150" type="TIME" value="T19" >19</TIMEX3><TIMEX3 tid="t151" type="DURATION" value="PT2H" beginPoint="t149" endPoint="t150" /> , <TIMEX3 tid="t152" type="DATE" value="2000-08-17" anchorTimeID="t0">alates 17. augustist</TIMEX3> <TIMEX3 tid="t153" type="TIME" value="T16:30">kell 16.30</TIMEX3>-<TIMEX3  tid="t154" type="TIME" value="T18" >18.</TIMEX3><TIMEX3 tid="t155" type="DURATION" value="PT1H30M" beginPoint="t153" endPoint="t154" /> 
+ Finish suletakse <TIMEX3 tid="t156" type="TIME" value="2000-04-XXT20" anchorTimeID="t0">aprillis kell 20</TIMEX3> , <TIMEX3 tid="t157" type="DATE" value="2000-05-05" anchorTimeID="t0">5. maist</TIMEX3> <TIMEX3 tid="t158" type="DATE" value="2000-08-10" anchorTimeID="t0">10. augustini</TIMEX3><TIMEX3 tid="t163" type="DURATION" value="P3M4D" beginPoint="t157" endPoint="t158"/> <TIMEX3 tid="t159" type="TIME" value="T20:30" >kell 20.30</TIMEX3> ja <TIMEX3 tid="t160" type="DATE" value="2000-08-17" anchorTimeID="t0">alates 17. augustist</TIMEX3> <TIMEX3 tid="t161" type="TIME" value="T19" >kell 19.</TIMEX3>
+ Osalusmaks on <TIMEX3 tid="t162" type="DURATION" value="P10Y" mod="EQUAL_OR_LESS">kuni 10-aastastel</TIMEX3> 5 , õpilastel , tudengitel ja pensionäridel 10 ning ülejäänutel 15 krooni . 
+</TimeML>

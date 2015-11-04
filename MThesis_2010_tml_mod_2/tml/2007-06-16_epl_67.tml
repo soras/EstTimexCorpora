@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ <TIMEX3 tid="t286" type="DATE" value="2007-06-18" anchorTimeID="t0">Esmaspäeval</TIMEX3> peavad sünnipäeva õed Anu ja Kadri Tali . 
+ Neist esimene on tuntud dirigendina . 
+ Anu õppis muusikaakadeemias , täiendas end Sibeliuse akadeemia dirigeerimisprofessori Jorma Panula käe all ning stažeeris <TIMEX3 tid="t287" type="DATE" value="1998">aastatel 1998</TIMEX3>-<TIMEX3 tid="t288" type="DATE" value="2000">2000</TIMEX3> <TIMEX3 tid="t289" type="DURATION" value="P2Y" beginPoint="t287" endPoint="t288"/>Peterburi konservatooriumis professor Ilja Mussini ja Leonid Kortšmari juures . 
+ Koos õe Kadri Taliga veavad nad Eesti-Soome sümfooniaorkestrit , mille juures Kadri on produtsent , Anu aga dirigent . 
+ Sümfooniaorkestriga on kantud ette palju süvamuusika raudvarasse kuuluvat repertuaari ning orkester on menukas . 
+</TimeML>

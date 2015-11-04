@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Nõmme linnaosa valitsus 
+ <TIMEX3 tid="t171" type="DURATION" value="PXY">Aastaid</TIMEX3> tegutsenud Nõmme turgu ähvardab sulgemine , kuna turu rentnik NT Kaubanduse AS ei ole hoolimata ettekirjutustest tervisekaitsenõuete täitmiseks ega müügitingimuste parandamiseks midagi ette võtnud . 
+ <TIMEX3 tid="t172" type="TIME" value="2007-06-15TMO" anchorTimeID="t0">Eile hommikul</TIMEX3> kontrollisid Nõmme linnaosavalitsuse ametnikud koos Tallinna tervisekaitsetalituse inspektoritega Nõmme turgu , teatas Nõmme linnaosa valitsus . 
+ Tervisekaitsetalituse Harju osakonna juhataja Kai Raska sõnul ei kannata Nõmme turul valitsevad hügieenitingimused mingit kriitikat . 
+ Samuti rikutakse kiiresti rikneva kauba säilitamis- ja käitlemistingimusi . 
+ Nõmme linnaosavanem Rainer Vakra hinnangul oli lihamajas valitsev olukord kohutav . 
+ " Mitmes müügiboksis olid külmutusseadmed katki ning liha hoiti sisuliselt õhutemperatuuril . 
+ Kõikjal valitses mustus , rippusid ämblikuvõrgud ning näha oli rottide tegevuse jälgi . 
+ Eriti jubedad olid turuhoone keldriruumid , kus raiuti liha ning toimus hakkliha valmistamine . 
+ Kelder meenutas pigem kaadreid mõnest õudusfilmist kui toidukäitlemiseks mõeldud ruumi : seal puudusid pesemisvõimalused , lihakaste hoiti porisel põrandal , pinkidel vedelesid seapead , nurgas kõrgus veriste kaltsude ja paberite virn jne , " rääkis ta . 
+</TimeML>

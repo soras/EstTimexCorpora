@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2007-11-12T15:11" functionInDocument="CREATION_TIME" comment="ESMASPÄEV"/>
+
+<TIMEX3 tid="t1" type="DATE" value="2007-11-10" anchorTimeID="t2">
+Eelneval päeval 
+</TIMEX3>
+ärandatud auto sattus 
+<TIMEX3 tid="t2" type="DATE" value="2007-11-11" anchorTimeID="t5">
+järgneval päeval
+</TIMEX3>
+avariisse
+
+
+Alkoholijoobes ning juhtimisõiguseta mees sattus Põltsamaalt 
+<TIMEX3 tid="t3" type="DATE" value="2007-11-10" anchorTimeID="t4">
+eelneval päeval
+</TIMEX3>
+ärandatud autoga
+<TIMEX3 tid="t4" type="DATE" value="2007-11-11" anchorTimeID="t5">
+järgmisel päeval
+</TIMEX3>
+avariisse.
+<TIMEX3 tid="t5" type="TIME" value="2007-11-10T21:30" anchorTimeID="t0">
+Laupäeva õhtul kella 21.30 paiku
+</TIMEX3>
+sai politsei teate, et Põltsamaa linnas Tartu maanteele jäetud sõiduauto on kadunud.
+<TIMEX3 tid="t6" type="TIME" value="2007-11-10T19" anchorTimeID="t5">
+Kella 19 ajal
+</TIMEX3>
+oli avaldaja parkinud oma sõiduauto Volkswagen Polo Põltsamaa linnas Tartu maanteel
+asuva maja juurde. Kuna ta pidi kohe uuesti sõitma minema, jättis ta süütevõtmed 
+auto süütelukku. Asjaolude muutudes aga ei võtnud ta plaanitud sõitu kohe ette, võtmed
+aga olid endiselt autol ees.
+<TIMEX3 tid="t7" type="TIME" value="2007-11-10T20" anchorTimeID="t6">
+Kell 20
+</TIMEX3>
+oli veel auto maja juures alles, kuid selle kadumise avastas omanik 
+<TIMEX3 tid="t8" type="TIME" value="2007-11-10T21:15" anchorTimeID="t7">
+kell 21.15.
+</TIMEX3>
+<TIMEX3 tid="t9" type="TIME" value="2007-11-11T10:45" anchorTimeID="t8">
+Järgmisel päeval kella 10.45
+</TIMEX3>
+ajal sai politsei teate liiklusõnnetusest Jõgeva vallas Painküla külas Tartu-Aravete 
+maantee 43. kilomeetril, kus alkoholijoobes ja juhtimisõiguseta
+<TIMEX3 tid="t10" type="DATE" value="1988">
+1988. aastal
+</TIMEX3>
+sündinud Aimari juhitud sõiduk Volkswagen Polo kaotas juhitavuse ja sõitis teelt välja.
+Kaasreisijana viibis sõidukis 
+<TIMEX3 tid="t11" type="DATE" value="1987" anchorTimeID="t10">
+aasta varem
+</TIMEX3>
+sündinud Riho.
+Tegu oli aga sama sõidukiga, mis 
+<TIMEX3 tid="t12" type="TIME" value="2007-11-10TEV" anchorTimeID="t9">
+eelmisel õhtul
+</TIMEX3>
+oli Põltsamaa linnas Tartu maanteel asuva maja eest kaduma läinud.
+Inimesed õnnetuses ei saanud ja lubasid vajadusel ise arsti juurde pöörduda. 
+</TimeML>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Saaremaal hukkus liiklusõnnetuses inimene 
+Foto : www.pol.ee 
+ <TIMEX3 tid="t57" type="TIME" value="2006-08-12T05:54" anchorTimeID="t0">Täna kell 05 : 54</TIMEX3> sai politsei teate , et Saaremaal Pihtla vallas on sõiduauto Opel Vectra teelt välja sõitnud vastu sideliini posti 
+ Sündmuskohal selgus , et Opel Vectra , mida juhtis <TIMEX3 tid="t58" type="DATE" value="1977" >1977. aastal</TIMEX3> sündinud Kristo , on sirgel teelõigul kaldunud paremale poole teelt välja ja paiskunud vastu sideliini posti . 
+ Juht suri saadud vigastustesse sündmuskohal . 
+ Kaasreisija Silver ( s <TIMEX3 tid="t59" type="DATE" value="1981" >1981</TIMEX3> ) toimetati Kuressaare haiglasse , tema vigastuste raskusaste on selgitamisel . 
+ Juht ja kaasreisija ei olnud turvavööga kinnitatud . 
+ Juht omas juhtimisõigust , kuid selgitamisel on , kas noormees oli alkoholi tarvitanud . 
+ Juhtunu asjaolude selgitamiseks alustas politsei kriminaalmenetlust . 
+</TimeML>

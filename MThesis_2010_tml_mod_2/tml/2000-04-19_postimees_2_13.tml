@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Riik soovib illegaale päevavalgele 
+ ARGO IDEON , argo.ideon@postimees.ee 
+ Peaminister Mart Laar kinnitas <TIMEX3 tid="t138" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> , et valitsus otsib lahendust olukorrale , kus tuhanded Eesti riigilt pensione ja sotsiaalabi saavad inimesed pole seadustanud oma siinviibimist ega tohiks seetõttu riigilt seda raha saada . 
+ " Me oleme väga delikaatses olukorras , " ütles Laar Postimehele . 
+ Ta märkis , et mitte keegi ei saa peatada seaduse toimet , ning tema sõnul ei ole keegi ka soovinud seda teha . 
+ <TIMEX3 tid="t139" type="DATE" value="2000-04-17" anchorTimeID="t0">Esmaspäevane</TIMEX3> ajaleht Molodjozh Estonii osundab siseminister Tarmo Looduse ekslikke sõnu , et pensionide väljamaksmist seiskav seadus on peatatud . 
+ <TIMEX3 tid="t140" type="DATE" value="2000-04-01" anchorTimeID="t0">1. aprillist</TIMEX3> kehtiv riikliku pensionikindlustuse seadus määratleb pensionisaajatena selgelt üksnes alalised elanikud - see on Eesti kodanikud ja alalise elamisloa omanikud - ning ka tähtajalise elamisloa omanikud . 
+ Tegelikkuses saavad aga pensioni ja toetusi veel umbkaudu 23 000 inimest , kes figureerivad üksnes pensionisaajate ja lastetoetuse saajate nimekirjades . 
+ Nende võrdlemisel kodakondsus- ja migratsiooniameti dokumentidega selgub , et tegu on inimestega , kel siinviibimist seadustavat paberit ette näidata ei ole . 
+ Peaminister Laar paiskas õhku võimaluse , et tegelikkuses illegaale nii palju siiski pole . 
+ " Meie <TIMEX3 tid="t141" type="DATE" value="PAST_REF" anchorTimeID="t0">äsja</TIMEX3> lõppenud rahvaloenduse väga esialgsetel andmetel tundub , et Eestis on inimesi vähem , kui me seda eeldasime , " sõnas peaminister , " mille põhjal võib ka tunduda , et neid illegaale ei ole nii palju . " 
+ Laar märkis , et tegu on inimestega , kes reaalselt Eestis elavad ning kes on ka Eesti sotsiaalabisüsteemi osaks . 
+ " Lahendusi otsitakse koostöös kodakondsus- ja migratsiooniametiga . 
+ Kas või nii , et neid mitte kodakondsus- ja migratsiooniameti , vaid sotsiaalametkondade abil taga otsida ja päevavalgele tuua ning registreerimine siiski ära teha . " 
+</TimeML>

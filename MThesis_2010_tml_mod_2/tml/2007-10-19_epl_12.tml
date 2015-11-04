@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Maria-Elisa Rannajõe 
+ Foto : dsc.discovery.com 
+ USA uuringulabor vallandas Nobeli laureaadi James Watsoni , keda kritiseeriti teravalt mustanahaliste suunas tehtud märkuste pärast Briti ajalehes The Sunday Times . 
+ New Yorkis , Long Islandil asuv Cold Spring Harbor'i uurimislabor on juba ennast distantseerinud oma töötaja Watsoni avaldustest , kuid <TIMEX3 tid="t53" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> otsustati mees ka vallandada , vahendas BBC . 
+ Laboratooriumi esindaja ütles , et instituut võttis otsuse vastu sõltuvalt juhtkonna pikemast kaalutlusest . 
+ <TIMEX3 tid="t54" type="DURATION" value="P79Y">79-aastane</TIMEX3> Watson sattus üldise terava kriitika alla , kuna rääkis Briti ajalehele Sunday Times antud intervjuus , et näeb Aafrika tulevikku neegrite rumaluse tõttu väga mustades värvides . 
+ " Meie sotsiaalpoliitika tugineb arusaamale , et nende intelligentsus on sama , mis meil - ometi näitavad katsed , et see pole nii . " 
+ Watsonil oleks enda sõnul hea meel , kui kõik oleksid võrdsed , ent " inimesed , kes neid tööle võtavad , näevad <TIMEX3 tid="t155" type="DATE" value="FUTURE_REF">peagi</TIMEX3> , et see pole tõsi " . 
+</TimeML>

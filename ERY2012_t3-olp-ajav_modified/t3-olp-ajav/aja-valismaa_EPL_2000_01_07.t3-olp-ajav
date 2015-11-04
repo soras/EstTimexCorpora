@@ -1,0 +1,264 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-01-07TXX:XX" />
+<ignoreeri>
+|
+autor:
+Interfax
+-
+Baltic
+News
+Service
+|
+ajalehenumber:
+Eesti
+Päevaleht
+07.01.2000
+|
+rubriik:
+Välismaa
+|
+artikkel:
+Leedu
+eraldas
+kaitsele
+vaid
+kolmveerandi
+ettenähtud
+rahast
+|
+</ignoreeri>
+<s>
+Leedu    Leedu+0 //_H_ sg g, //
+riigikaitsesüsteem    riigi_kaitse_süsteem+0 //_S_ sg n, //
+sai    saa+i //_V_ s, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1999" >
+möödunud    möödu+nud //_V_ nud, //    möödunud+0 //_A_ //    möödunud+0 //_A_ sg n, //    möödunud+d //_A_ pl n, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+vaid    vaid+0 //_D_ //
+75    75+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+summadest    summ+dest //_S_ pl el, //    summa+dest //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+olid    ole+id //_V_ sid, //
+ette    ette+0 //_D_ //
+nähtud    näge+tud //_V_ tud, //    nähtu+d //_V_ d, //    nähtud+0 //_A_ //    nähtud+0 //_A_ sg n, //    nähtud+d //_A_ pl n, //
+riigieelarvest    riigi_eel_arve+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+teatas    teata+s //_V_ s, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2000-01-07" >
+reedel    reede+l //_S_ sg ad, //
+</TIMEX>
+kaitseministeeriumi    kaitse_ministeerium+0 //_S_ sg g, //
+pressiteenistus    pressi_teenistus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Leedu    Leedu+0 //_H_ sg g, //
+kaitseministeerium    kaitse_ministeerium+0 //_S_ sg n, //
+alustas    alusta+s //_V_ s, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="false" value="2000" >
+2000.    2000.+0 //_O_ ?, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+olles    ole+es //_V_ des, //
+kauba    kaup+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+teenuste    teenus+te //_S_ pl g, //
+eest    eest+0 //_K_ //
+võlgu    võlgu+0 //_D_ //
+48    48+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+litti    litt+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+12    12+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Ministeeriumi    ministeerium+0 //_S_ sg g, //
+palgavõlg    palga_võlg+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2000" mod="START" anchorTimeID="t3">
+aasta    aasta+0 //_S_ sg g, //
+alguses    algus+s //_S_ sg in, //
+</TIMEX>
+6,6    6,6+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+litti    litt+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+1,7    1,7+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Sõdurite    sõdur+te //_S_ pl g, //
+toidu    toit+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+oldi    ole+di //_V_ ti, //
+võlgu    võlgu+0 //_D_ //
+3    3+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+litti    litt+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+0,75    0,75+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+mundrite    munder+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+vooditarbete    vooditarbete+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+9    9+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+litti    litt+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+2,25    2,25+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+kütuse    kütus+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+kaks    kaks+0 //_N_ sg n, //
+miljonit    miljon+t //_N_ sg p, //
+litti    litt+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+0,5    0,5+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+jne.    jne+0 //_Y_ ?, //
+</s>
+<s>
+Need    see+d //_P_ pl n, //
+võlad    võlg+d //_S_ pl n, //
+tuleb    tule+b //_V_ b, //
+välja    välja+0 //_D_ //
+maksta    maks+ta //_V_ da, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="2000" >
+2000.    2000.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+riigieelarve    riigi_eel_arve+0 //_S_ sg g, //
+assigneeringutest    assigneering+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kaitseministeeriumi    kaitse_ministeerium+0 //_S_ sg g, //
+pressiteenistuse    pressi_teenistus+0 //_S_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+toob    too+b //_V_ b, //
+kaasa    kaasa+0 //_D_ //
+jälle    jälle+0 //_D_ //
+uusi    uus+i //_A_ pl p, //
+võlgasid    võlg+sid //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Leedu    Leedu+0 //_H_ sg g, //
+kaitseminister    kaitse_minister+0 //_S_ sg n, //
+Ceslovas    Ceslovas+0 //_H_ sg n, //
+Stankevicius    Stankevicius+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ministeerium    ministeerium+0 //_S_ sg n, //
+pidi    pida+i //_V_ s, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="1999" >
+1999.    1999.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+saama    saa+ma //_V_ ma, //
+assigneeringuid    assigneering+id //_S_ pl p, //
+1,45    1,45+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+sisemajanduse    sise_majandus+0 //_S_ sg g, //
+kogutoodangust    kogu_toodang+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+tegelikult    tegelikult+0 //_D_ //
+aga    aga+0 //_J_ //
+moodustasid    moodusta+sid //_V_ sid, //
+need    see+d //_P_ pl n, //
+mitte    mitte+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+1,2    1,2+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t7" type="DATE" temporalFunction="false" value="2000" >
+2000.    2000.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+riigieelarvest    riigi_eel_arve+st //_S_ sg el, //
+peaks    pida+ks //_V_ ks, //
+Leedu    Leedu+0 //_H_ sg g, //
+kaitseministeerium    kaitse_ministeerium+0 //_S_ sg n, //
+saama    saa+ma //_V_ ma, //
+541,4    541,4+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+litti    litt+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+135,4    135,4+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+sellele    see+le //_P_ sg all, //
+suunatakse    suuna+takse //_V_ takse, //
+inisteeriumi    inisteerium+0 //_S_ sg g, //    inisteeriumi+0 //_S_ sg g, //
+investeerimisprogrammidesse    investeerimis_programm+desse //_S_ pl ill, //
+summasid    summ+sid //_S_ pl p, //    summa+sid //_S_ pl p, //
+erastamis-    erastamis //_S_ ?, //
+ja    ja+0 //_J_ //
+krediidifondist    krediidi_fond+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+moodustavad    moodusta+vad //_V_ vad, //
+assigneeringud    assigneering+d //_S_ pl n, //
+riigikaitsesse    riigi_kaitse+sse //_S_ sg ill, //
+1,7    1,7+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+sisemajanduse    sise_majandus+0 //_S_ sg g, //
+kogutoodangust    kogu_toodang+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+peeab    peeab+0 //_S_ sg n, //
+tagama    taga+ma //_V_ ma, //
+NATOsse    NATO+sse //_Y_ sg ill, //
+integreerumise    integreerumine+0 //_S_ sg g, //
+tempo    tempo+0 //_S_ sg g, //
+säilimise    säilimine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>

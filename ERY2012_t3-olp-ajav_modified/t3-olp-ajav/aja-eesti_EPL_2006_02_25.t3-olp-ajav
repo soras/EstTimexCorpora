@@ -1,0 +1,208 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2006-02-25TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+25.02.2006
+|
+rubriik:
+Eesti
+|
+artikkel:
+Brüsseli
+sümbol
+oli
+eesti
+rahvariietes
+|
+</ignoreeri>
+<s>
+Brüsseli    brüsseli+0 //_G_ //
+linna    linn+0 //_S_ sg g, //
+sümbolina    sümbol+na //_S_ sg es, //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+pissiva    pissi=v+0 //_A_ sg g, //
+poisi    poiss+0 //_S_ sg g, //
+kuju    kuju+0 //_S_ sg n, //
+Manneken    Manneken+0 //_H_ sg n, //
+Pis    Pis+0 //_H_ sg n, //
+riietati    riieta+ti //_V_ ti, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2006-02-24" >
+eile    eile+0 //_D_ //
+</TIMEX>
+eesti    eesti+0 //_G_ //
+rahvariietesse    rahva_riie+tesse //_S_ pl ill, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tähistada    tähista+da //_V_ da, //
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+88.    88.+0 //_O_ ?, //
+aastapäeva    aasta_päev+0 //_S_ sg p, //
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+südames    süda+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinna    Tallinn+0 //_H_ sg g, //
+linnavalitsuse    linna_valitsus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Brüsseli    brüsseli+0 //_G_ //
+linnavalitsuse    linna_valitsus+0 //_S_ sg g, //
+koostööna    koos_töö+na //_S_ sg es, //
+riietasid    riieta+sid //_V_ sid, //
+Brüsseli    brüsseli+0 //_G_ //
+linna    linn+0 //_S_ sg g, //
+sümbolina    sümbol+na //_S_ sg es, //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+pissiva    pissi=v+0 //_A_ sg g, //
+poisi    poiss+0 //_S_ sg g, //
+kuju    kuju+0 //_S_ sg n, //
+eesti    eesti+0 //_G_ //
+rahvariietesse    rahva_riie+tesse //_S_ pl ill, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+abilinnapea    abi_linna_pea+0 //_S_ sg n, //
+Kaia    Kaia+0 //_H_ sg n, //
+Jäppinen    Jäppinen+0 //_H_ sg n, //
+,    , //_Z_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+kultuuripealinna    kultuuri_pea_linn+0 //_S_ sg g, //
+projektijuht    projekti_juht+0 //_S_ sg n, //
+Peeter    Peeter+0 //_H_ sg n, //
+Rebane    Rebane+0 //_H_ sg n, //
+ning    ning+0 //_J_ //
+Tallinna    Tallinn+0 //_H_ sg g, //
+esindaja    esindaja+0 //_S_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+juures    juures+0 //_K_ //
+Tõnu    Tõnu+0 //_H_ sg n, //
+Karu    Karu+0 //_H_ sg n, //
+koos    koos+0 //_K_ //
+Brüsseli    brüsseli+0 //_G_ //
+esindajaga    esindaja+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Kingitus    kingitus+0 //_S_ sg n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="false" value="1993" >
+aastast    aasta+st //_S_ sg el, //
+1993    1993+0 //_N_ ?, //
+</TIMEX>
+</s>
+<s>
+"    " //_Z_ //
+Brüsseli    Brüssel+0 //_H_ sg g, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+tuntumaid    tuntum+id //_C_ pl p, //
+ja    ja+0 //_J_ //
+armastatumaid    armasta=tum+id //_C_ pl p, //
+sümboleid    sümbol+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+turistimagneteid    turisti_magnet+id //_S_ pl p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t3" type="DURATION" temporalFunction="false" value="P1D" >
+terve    terve+0 //_A_ sg g, //
+päeva    päev+0 //_S_ sg g, //
+</TIMEX>
+Eesti    Eesti+0 //_H_ sg g, //
+riigi    riik+0 //_S_ sg g, //
+sünnipäeva    sünni_päev+0 //_S_ sg g, //
+auks    au+ks //_S_ sg tr, //
+piduriietes    pidu_riie+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinna    Tallinn+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Brüsseli    Brüssel+0 //_H_ sg g, //
+kultuurikoostöö    kultuuri_koos_töö+0 //_S_ sg n, //
+annab    and+b //_V_ b, //
+eestlaste    eestlane+te //_S_ pl g, //
+jaoks    jaoks+0 //_K_ //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="XXXX-02-24" >
+tähtsast    tähtis+st //_A_ sg el, //
+päevast    päev+st //_S_ sg el, //
+</TIMEX>
+teada    tead+a //_V_ da, //
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+keskuse    keskus+0 //_S_ sg g, //
+elanikele    elanik+ele //_S_ pl all, //
+ning    ning+0 //_J_ //
+kõigile    kõik+le //_P_ pl all, //
+eurooplastele    eurooplane+tele //_S_ pl all, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+abilinnapea    abi_linna_pea+0 //_S_ sg n, //
+Kaia    Kaia+0 //_H_ sg n, //
+Jäppinen    Jäppinen+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinna    Tallinn+0 //_H_ sg g, //
+delegatsioon    delegatsioon+0 //_S_ sg n, //
+kohtus    kohtu+s //_V_ s, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2006-02-24" >
+eile    eile+0 //_D_ //
+</TIMEX>
+ka    ka+0 //_D_ //
+Brüsseli    brüsseli+0 //_G_ //
+linnavalitsuse    linna_valitsus+0 //_S_ sg g, //
+esindajatega    esindaja+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+arutada    aruta+da //_V_ da, //
+koos-tööd    koos-töö+d //_S_ pl n, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="2011" >
+2011.    2011.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+kultuuriprogrammi    kultuuri_programm+0 //_S_ sg p, //
+ettevalmistamisel    ette_valmistamine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Ainsa    Ainsa+0 //_H_ sg g, //    Ainus+0 //_H_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+omavalitsusena    oma_valitsus+na //_S_ sg es, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+juures    juures+0 //_K_ //
+Brüsselis    Brüssel+s //_H_ sg in, //
+oma    oma+0 //_P_ sg g, //
+esindust    esindus+t //_S_ sg p, //
+omav    omav+0 //_A_ sg n, //
+Tallinn    Tallinn+0 //_H_ sg n, //
+kinkis    kinki+s //_V_ s, //
+kujule    kuju+le //_S_ sg all, //
+sobivad    sobi+vad //_V_ vad, //
+rahvariided    rahva_riie+d //_S_ pl n, //
+Brüsselile    Brüssel+le //_H_ sg all, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="1993" >
+1993.    1993.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kaht    Kaht+0 //_H_ sg n, //
+linna    linn+0 //_S_ adt, //
+seovad    sidu+vad //_V_ vad, //
+pikaajalised    pika_ajaline+d //_A_ pl n, //
+kootöösuhted    koo_töö_suhe+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+EPL    EPL+0 //_Y_ ?, //
+</s>

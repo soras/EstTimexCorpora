@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Elamisloa taotlejad ummistavad ikka kodakondsusameti bürood 
+ Sajad inimesed veedavad öid tänaval majaseina ääres kössitades 
+ KÜLLIKE ROOVÄLI , kyllike.roovali@postimees.ee 
+ Kodakondsus- ja migratsiooniameti ( KMA ) bürood Tallinnas ja Ida-Virumaal on endiselt ummistunud passi või elamisloa pikendamise taotlejatest , kelle väitel pole järjekorrad vähenenud ega teenindamine paranenud . 
+ Tallinnas KMA Sõle tänava büroo trepil lootusetult käega rehmava Vladimir Kuzmini sõnul ei usu ta enam , et tema jalutu abikaasa saaks oma välismaalase passi elamisluba pikendava kleebise . 
+ " Mu naine on esimese grupi invaliid , ei saa käia ja lamab Mustamäe haiglas , " kurtis mees . 
+ " <TIMEX3 tid="t179" type="DATE" value="2000-03" mod="MID" anchorTimeID="t0">Märtsi keskel</TIMEX3> aegus eelmine luba , nii et vaja on uut kleebist . 
+ Arstid kinnitaksid volituse , et mina saaksin kleebise kätte , aga siin öeldi , et nii ei tohi , et nad tulevad ise mu naise juurde . 
+ <TIMEX3 tid="t180" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> viidi naine Järve haiglast Mustamäele , mul tuleb uuesti registreeruda , et ametnik kohale sõidaks . 
+ Muidu ei saa naine enam pensioni ja oleme rahata . " 
+ Riigi maine langeb 
+ Ajalehe Põhjarannik ajakirjaniku Erik Kalda andmetel on rahata ka paljud Ida-Virumaa vanurid . 
+ " Paljud ei saa end pensionile vormistadagi , sest pole kehtivat elamisluba , " rääkis Kalda . 
+ Tema sõnul pole olukord vastupidiselt siseministeeriumi poolt väidetule leevenenud . 
+ Põhjarannik nendib <TIMEX3 tid="t181" type="DATE" value="2000-04-01" anchorTimeID="t0">1. aprilli</TIMEX3> juhtkirjas , et suutmatusega korraldada KMA tööd kasvatab riigivõim inimeste hulka , kellel on põhjust Eesti riigi peale pahane olla . 
+ " Kuna inimestel pole passi , siis on nad muutunud sunnismaisteks . 
+ Väitega , et pass on kuskil KMA büroos ja selle ametnikud ei ole suutelised seda väljastama , üle piiri ei pääse , " kirjutas Põhjarannik . 
+ Et KMAs pole midagi paremaks läinud , kinnitasid ka kümned inimesed Tallinnas Sõle tänava maja juures looklevas sabas . 
+ Ivan , kes end tütre poolt poest toodud kokakoolaga turgutas , seisis <TIMEX3 tid="t182" type="TIME" value="TNI" anchorTimeID="t184">öö läbi</TIMEX3> tuhandeid jälgi täis tallutud liivakünkal büroo seina ääres , et <TIMEX3 tid="t183" type="DURATION" value="P2Y6M" >kahe ja poole aastasele</TIMEX3> tütretütrele Valeriale elamisloa kleebist saada . 
+ " Kogu pere elab siin lubadega , aga tema , pisike , tuleb välja , on illegaal , " oli <TIMEX3 tid="t184" type="TIME" value="T19" >eelmisel õhtul kell seitse</TIMEX3> sappa tulnud Ivan nõutu . 
+ <TIMEX3 tid="t185" type="TIME" value="T15" anchorTimeID="t184">Järgmisel päeval kella 15ks</TIMEX3> oli ta jõudnud järjekorraga juba majja sisse ja lootis enne sulgemist ka ametniku palge ette saada . 
+ Ivani sõnul on tõeline vaatamisväärsus <TIMEX3 tid="t186" type="TIME" value="TNI" anchorTimeID="t182">öine</TIMEX3> kolmesajapealine järjekord maja seina ääres , kuhu tullakse teisest linna otsast , taburetid kaenlas . 
+ " Inimesed riidlevad , koostavad kirjalikke järjekordi . 
+ <TIMEX3 tid="t187" type="TIME" value="TMO" anchorTimeID="t185">Hommikul</TIMEX3> tulevad aga teised lapsevankritega ja trügivad vahele , " kirjeldas mees . 
+ Fuajees piletimasina taga tunglevate inimeste vahelt kostis rahulolematuid ütlemisi . 
+ "Sdesj durdom( hullumaja - toim ) , " teatas üks juhtivtöötaja välimusega mees mobiiltelefoni . 
+ Järjekorda saab osta 
+ Pensionil Tamara , kes taotleb <TIMEX3 tid="t188" type="DURATION" value="P81Y" >81-aastasele</TIMEX3> emale uut välismaalase passi , ütles Postimehele , et tegu pole hullumajaga . 
+ " See on midagi enamat . 
+ Hullumajas on vaikus ja kord , " sõnas kõrge vererõhuga võitlev vanaproua . 
+ Ta ütles , et <TIMEX3 tid="t189" type="TIME" value="TMO" >hommikul</TIMEX3> saab 20 krooni eest järjekorrakohta osta asotsiaalidelt , kes sabasseismisega raha teenivad . 
+ Inimesi täis fuajees hoidis ainsana korda rohelises vestis Marju Toom , keda sabasseisjad nimetasid piletitädiks . 
+ Toome sõnul on ta büroosse appi tulnud peamajast ning vastab <TIMEX3 tid="t190" type="DURATION" value="PT9H" comment="problemaatiline, peaks olema link järgnevale">üheksatunnise</TIMEX3> <TIMEX3 tid="t191" type="SET" value="XXXX-WXX-WD">tööpäeva jooksul</TIMEX3> kahe tuhande inimese küsimustele . 
+ " Just teabepuudus teeb töö raskeks , " nentis ta . 
+ Büroo asejuhataja Tiiu Rajur ei olnud nõus Postimehele selgitama , mis põhimõttel inimesi vastu võetakse või ukse taha jäetakse . 
+ " Pöörduge KMA pressitalitusse , meil on selline kord , " sõnas ta , ulatades paberi telefoninumbritega . 
+ Ülemuse jutule ei pääse ka muretsejad . 
+ " Kui keegi nõuab juhatajat , lubab numbritädi politsei kutsuda , " lausus Ivan . 
+ KMA pressiesindaja Urmas Krull ütles Postimehele , et ameti enda hinnangul on olukord siiski paranenud . 
+ Sõle ja Mäekalda bürood teostavad <TIMEX3 tid="t1111" type="SET" value="P1D" >päevas</TIMEX3> kokku umbes tuhat toimingut , Ida-Viru bürood 1200. 
+ Sabas seismise põhjusena nimetas ka Krull teabe vähesust . 
+ " Inimesed kuulavad kuulujutte ega loe lehti , nad seisavad <TIMEX3 tid="t192" type="TIME" value="TNI" >öösel</TIMEX3> sabas , et saada järjekorranumbrit . 
+ Neile on seletatud , et nii pole vaja teha , aga nemad tulevad ikka , " avas Krull Sõle tänaval majaseina ääres seismise tagamaid . 
+ " <TIMEX3 tid="t193" type="TIME" value="TEV" >Õhtupoolikul</TIMEX3> seda saba ju enam pole , on kolm-neli inimest . " 
+ Krulli sõnul peaks inimene tulema KMA büroosse vaid ühe korra - siis , kui ta dokumendi kätte saab . 
+</TimeML>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ <TIMEX3 tid="t45" type="TIME" value="2007-06-15TEV" anchorTimeID="t0">Eile õhtul</TIMEX3> jäi Valgas auto alla ülekäigurajal teed ületanud <TIMEX3 tid="t46" type="DURATION" value="P8Y">8-aastane</TIMEX3> tütarlaps . 
+ Alkoholi tarvitamise tunnustega Aare sõitis <TIMEX3 tid="t47" type="TIME" value="2007-06-15T21:13" anchorTimeID="t0">eile õhtul kella 21.13</TIMEX3> ajal Valgas Vabaduse tänav 2 maja juures oma sõiduautoga Vaz-2101 otsa sõiduteed ülekäigurajal ületavale <TIMEX3 tid="t48" type="DURATION" value="P8Y">8-aastasele</TIMEX3> tüdrukule teatas politsei korrapidaja . 
+ Tütarlaps sai vigastada ja viidi Valga haiglasse . 
+</TimeML>

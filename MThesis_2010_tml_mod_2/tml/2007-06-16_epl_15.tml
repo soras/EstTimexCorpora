@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Budapesti lähistel <TIMEX3 tid="t44" type="DATE" value="2007-06-11" anchorTimeID="t0">11. juunil</TIMEX3> toimunud liiklusõnnetuses sai surma eestlane ja teine raskelt vigastada , kui nende auto veoki haagise alla sõitis . 
+ Esialgsetel andmetel sõitis eestlaste auto veomasina haagise alla ja deformeerus , kirjutab SL Õhtuleht . 
+ Autos olnud naine sai surma . 
+ Teine Eesti kodanik ning samas autos viibinud ungarlane viidi raskelt vigastatuna haiglasse . 
+ " Eesti saatkond Ungaris ja välisministeerium on olnud hukkunu omastega kontaktis , " ütles välisministeeriumi pressisekretär Mariann Sudakov . 
+ " Samuti abistatakse haiglasse sattunud eestlast . " 
+</TimeML>

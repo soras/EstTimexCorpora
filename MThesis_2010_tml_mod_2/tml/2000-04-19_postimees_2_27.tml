@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Juudid ei pääse Iisraeli 
+ HEIKI SUURKASK , heiki.suurkask@postimees.ee 
+ Näljahätta sattunud Etioopias ootab 26 000 mustanahalist juuti võimalust kolida Iisraeli , kuid Iisrael neid vastu võtta ei soovi . 
+ Ligi 26 000 Etioopia juuti , keda tuntakse falashshide nime all , ootavad juba <TIMEX3 tid="t293" type="DURATION" value="PXY">aastaid</TIMEX3> pääsu juutide kodumaale Iisraeli , kuid erinevalt ligi 70 000 rahvarühma liikmest neil sinna pääs ei ole õnnestunud . 
+ Falashid ise , täpsemini need , kes tagakiusamise eest pääsemiseks hakkasid kristlasteks , kinnitavad : " Me oleme liiga juudid jäämaks Etioopiasse , kuid liiga vähe juudid selleks , et pääseda Iisraeli . " 
+ <TIMEX3 tid="t294" type="DATE" value="1991" >1991. aastal</TIMEX3> vedas Iisrael ebatavalise õhusilla käigus Etioopiast ära 14 000 falashshi , operatsioon kestis seejuures <TIMEX3 tid="t295" type="DURATION" value="PT36H" >36 tundi</TIMEX3> . 
+ 4000 siis Addis Abebasse koondunud falashshi jäi aga maha , sest kohalik juudivaimulik kessoch keeldus neid juutidena registreerimast . 
+ Iisraelis on sinna pääsenud falashid paistnud silma näiteks rassismivastaste meeleavaldustega , kuid nende Etioopiasse jäänud sugulased ja kaaslased ootavad endiselt pääsu Iisraeli . 
+ <TIMEX3 tid="t296" type="DATE" value="1997" >1997. aastal</TIMEX3> lubas Iisraeli siseminister Natan Sharansky osadel Etioopia kristlikest juutidest riiki pääseda , lootes , et tegemist on ühekordse sammuga . 
+ Järjekord Iisraeli pääsemiseks aga hoopis pikenes . 
+ <TIMEX3 tid="t297" type="DATE" value="2000-W15" anchorTimeID="t0">Eelmisel nädalal</TIMEX3> käis Sharansky isiklikult Etioopias , oli liigutatud falashshide kehvadest elamistingimustest , kuid Iisraeli poliitika ei muutunud - majanduspõgenikeks peetavaid inimesi riik vastu ei võta . 
+</TimeML>

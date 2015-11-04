@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Sven Kivisildnik selgitab väikepartei võitlust 
+Kaarel Kressa 
+ Eesti Iseseisvuspartei hoiatab oma <TIMEX3 tid="t374" type="DATE" value="2006-08-07" anchorTimeID="t0">7. augusti</TIMEX3> deklaratsioonis , et Venemaa valmistub jõuliselt Eestisse tungima , kasutades tööriistana rahvuskonflikti õhutamist . 
+ <TIMEX3 tid="t375" type="DATE" value="2006-05" >Maikuus</TIMEX3> väikeerakonna pressisekretäri kohale tööle asunud Sven Kivisildniku levitatavas pressiteates nõutakse Tõnismäe monumendiga seotud valdkonna kuulutamist riikliku julgeoleku küsimuseks ning ühistegeliku panganduse seadustamist . 
+ Samuti lubavad deklaratsiooni autorid taotleda konsultatsioone võimuliitu kuuluvate Keskerakonna ja Reformierakonnaga , selgitamaks välja , kas tegemist on riigi ja rahva teadliku mahakandmisega või millegi muuga , nagu küündimatus , olukorra mittemõistmine vms. 
+  Pöördumine kannab partei esimehe Vello Leito , peasekretär Kivisildniku ning <TIMEX3 tid="t376" type="DATE" value="PAST_REF" anchorTimeID="t0">hiljuti</TIMEX3> erakonna juhatuse esimeheks valitud Jaak Mosina allkirju . 
+ Kivisildniku sõnul on Iseseisvusparteid vaja selleks , et aidata rahval globaliseerumispropagandat ja tarbimisluulusid läbi näha . 
+ Vastuseks küsimusele , milliseks peab tuntud luuletaja oma rolli partei meediakuvandi arendamises , vastas Kivisildnik : " Ma ei mõtle meediakuvandites , minu töö on rääkida lihtsalt ja selgelt . " 
+</TimeML>

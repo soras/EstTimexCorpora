@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Anneli Ammas 
+ <TIMEX3 tid="t107" type="TIME" value="2007-06-16TMO" anchorTimeID="t0">Täna hommikul</TIMEX3> saabub Saaremaa sadamasse Mustjalga esimene <TIMEX3 tid="t108" type="DATE" value="2007" anchorTimeID="t0">selleaastane</TIMEX3> kruiisilaev ning üle saja turisti veedab pika <TIMEX3 tid="t109" type="DURATION" value="P1D">päeva</TIMEX3> Saaremaal ringi sõites . 
+ Esimene seitsmest <TIMEX3 tid="t110" type="DATE" value="2007-SU" anchorTimeID="t0">sellesuvisest</TIMEX3> kruiisilaevast , mis Saaremaale põikavad , on pärit Soomest ning kannab nime Kristina Regina . 
+ Arensburgi reisibüroo juhi Margus Mölderi sõnul läheb laevale vastu viis bussi ja Helsingist teed alustanud laevalt peaks Saaremaad vaatama tulema 110-115 reisijat . 
+ " Kolmveerand reisijaist on Soomest , ülejäänud Inglismaalt , Ameerikast , Lõuna-Aafrikast , Iirimaalt ning koguni 12 turisti Rumeeniast , " loetles Mölder külalisi . 
+ " See pole pikk kruiis ning eks nende põhieesmärk on Peterburi , aga nad peatuvad ka Tallinnas , " lisas ta . 
+</TimeML>

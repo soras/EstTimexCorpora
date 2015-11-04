@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Dannar Leitmaa 
+ <TIMEX3 tid="t12" type="TIME" value="2007-10-18TNI" anchorTimeID="t0">Ööl vastu eilset</TIMEX3> leiti Võrumaal Vastseliina alevikus lõhutuna kaks jänesepuuri , väärteos kahtlustatakse kohalikku koera . 
+ Sündmuskohalt leidis politsei kuus murtud jänest ning neli pikk-kõrva olid teadmata kadunud . 
+ Lõuna politseiprefektuuri pressiesindaja Ave Lillemäe ütles EPL Online'le , et sündmuskohalt leiti koerakarvu ning kahtlusalune koer on samuti tuvastatud . 
+ Kahtlusaluse süü selgitab karvade ekspertiis . 
+ Koera süü tõestamisel peab kahju kandma muidugi koera omanik . 
+</TimeML>

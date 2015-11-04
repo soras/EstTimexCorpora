@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ <TIMEX3 tid="t19" type="DATE" value="2007-06-15" anchorTimeID="t0">Eile</TIMEX3> lõppenud Arco Vara aktsiate esmase pakkumise kogunõudlus ületas tehingu baasmahu 2,1 korda , aktsia hinnaks kujunes 38 krooni ehk hind jäi aktsiate pakkumishinna vahemiku ( 37-44 krooni ) alumisse ossa . 
+ Ei juhtunud midagi hullu , aga ka mitte midagi eufoorilist . 
+ Kui Arco Vara börsile läks , ütles mitu tuntud Eesti ärimeest , et sellest saab eestlaste " kinnisvara-usu lakmustest " või et see otsustab Eesti kinnisvaraturu edasise saatuse ( Oliver Kruuda ) . 
+ Oli ka neid , kes arvasid , et Arco Vara valis börsile minekuks vale aja - kasulikum olnuks minna <TIMEX3 tid="t20" type="DATE" value="PAST_REF" anchorTimeID="t0" >mõni aasta varem</TIMEX3> , kui kinnisvaraturg oli märksa elavam kui <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> , mil ta näitab jahtumise märke ( Indrek Neivelt ) . 
+</TimeML>

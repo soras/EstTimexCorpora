@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Mida <TIMEX3 tid="t298" type="DATE" value="2007-06-24" anchorTimeID="t0" comment="ka üldises tähenduses">jaanipäeval</TIMEX3> teha ja mitte teha ? 
+ Juttu ei tule üle- ega alasöömisest ega -joomisest . 
+ Kaarel Kressa meenutab hoopis eesti jaanikombeid . 
+ Tavaliselt manitsetakse inimesi <TIMEX3 tid="t299" type="DATE" value="XXXX-06-24">jaanipäeva ajal</TIMEX3> endale söögi ja joogiga mitte liiga tegema , ent Päevalehe lugeja on usutavasti liiga arukas , et end ogaraks grillida või õllevaati uppuda . 
+ Räägime hoopis sellest , kuidas moodsates tingimustes traditsioonidele võimalikult truuks jääda . 
+ <TIMEX3 tid="t300" type="DATE" value="XXXX-06-23">Jaanilaupäeva</TIMEX3> pidu on õige <TIMEX3 tid="t301" type="DATE" value="XXXX-06-24">jaanipäeva</TIMEX3> avalöögiks . 
+ Töötamine ei ole hea toon <TIMEX3 tid="t302" type="DATE" value="XXXX-XX-XX" comment="viide eelnevatele väljenditele">kummalgi päeval.</TIMEX3>  
+ Isamaaliste eestlaste silmad pöörduvad <TIMEX3 tid="t303" type="TIME" value="2007-06-23TMO" anchorTimeID="t0">23. juuni hommikul</TIMEX3> Kesk-Eestisse , sest Rapla ühisgümnaasiumi staadionil algab <TIMEX3 tid="t304" type="TIME" value="2007-06-23T11" anchorTimeID="t303">kella 11-st</TIMEX3> võidupüha paraad , millele järgneb hea ilma korral vabariigi õhujõudude võimekuse demonstratsioon . 
+ Kodused toimetused 
+ Kui relvade sära on üle kandunud ka silmadesse , aga pidutsemiseks ikka veel vara , on paras aeg kodus suurpuhastus korraldada ning talveriided ja tekid tuulduma riputada . 
+ <TIMEX3 tid="t305" type="DATE" value="XXXX-06-24">Jaanipäeval</TIMEX3> põrandat pühkida ei maksa - toob õnnetust . 
+ Kui maja on puhas , võib tuppa tuua kaseoksi ja need nurkadesse asetada ( linnainimestel paluks pargid siiski rahule jätta ) . 
+ Mõnel pool on tavaks toores kaseoks püsti jaanilõkke keskele seada . 
+ Ihulise puhtuse saavutamiseks käiakse saunas . 
+</TimeML>

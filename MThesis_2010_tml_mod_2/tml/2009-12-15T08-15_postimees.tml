@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-15T08:15" functionInDocument="CREATION_TIME" comment="(teisipäev)"/>
+
+Kagu-Eestis paugub 20-kraadine pakane
+(11)
+
+<TIMEX3 tid="t1" type="TIME" value="2009-12-15T08:15" >15.12.2009 08:15</TIMEX3>
+
+Alo Raun, vanemtoimetaja
+
+Kommenteeri | Prindi
+Ilmajaama andmetel langes temperatuur mitmel pool Kagu-Eestis allapoole 20 külmakraadi, kusjuures kõige külmem oli Setumaal Korelas (-21,4 kraadi).
+REKLAAM
+
+Taoline temperatuur mõõdeti Korelas <TIMEX3 tid="t2" type="TIME" value="2009-12-15T06" anchorTimeID="t0">täna kell 6</TIMEX3> ja <TIMEX3 tid="t3" type="TIME" value="2009-12-15T07" anchorTimeID="t2">kell 7 hommikul,</TIMEX3> <TIMEX3 tid="t4" type="TIME" value="2009-12-15T08" anchorTimeID="t3">kella 8ks</TIMEX3> oli näit langenud juba -21,3 kraadi peale.
+
+Teisel kohal oli <TIMEX3 tid="t5" type="TIME" value="2009-12-15T08" anchorTimeID="t4">kella 8</TIMEX3> seisuga Taheva -20,5 ja kolmandal Valga -20,2 kraadiga.
+
+Üheski teises paigas Eesti Meteoroloogia ja Hüdroloogia Instituut <TIMEX3 tid="t6" type="TIME" value="2009-12-15TNI" anchorTimeID="t0">täna öösel</TIMEX3> 20st krõbedamat külma mõõtnud pole.
+
+Samas on mitmel pool temperatuur pidevalt langenud, mistõttu pole teada, kas -21,4 jääb <TIMEX3 tid="t7" type="DATE" value="2009-12-15" anchorTimeID="t0">tänaseks</TIMEX3> külmarekordiks või on oodata sellele lisa.
+
+Esikolmikule järgnevad <TIMEX3 tid="t8" type="TIME" value="2009-12-15T08" anchorTimeID="t7">kella 8</TIMEX3> seisuga Elva ja Tooma -19,2 kraadiga.
+
+Tartu külje all Tõraveres näitas kraadiklaas 17,9 ja Tallinnas 14,6 pügalat alla nulli. Kõige soojem oli Roomasssaares, kus piirduti -4,9 kraadiga.
+
+</TimeML>
+

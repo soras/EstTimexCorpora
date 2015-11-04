@@ -1,0 +1,470 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1995-12-20TXX:XX" />
+<ignoreeri>
+|
+autor:
+HEIDIT
+KAIO
+PRIIT
+HUMAL
+|
+ajalehenumber:
+Postimees
+1995.12.20
+|
+alaosa:
+Tartu
+lisaleht
+|
+rubriik:
+Tartu
+uudised
+|
+artikkel:
+Jõulu-
+ja
+aastavahetuse
+jumalateenistused
+Tartu
+ja
+Tartumaa
+kirikutes
+|
+</ignoreeri>
+<s>
+Mustvee    Must_vee+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t1" type="TIME" temporalFunction="true" value="1995-12-24T18" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+18    18+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX text="25. detsembril kell 10. 30"  tid="t2" type="TIME" temporalFunction="true" value="1995-12-25T10:30" >
+25.    25.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10.30    10.30+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_1" type="TIME" temporalFunction="true" value="1995-12-26T17" anchorTimeID="t3" >
+26.    26.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t3" type="TIME" temporalFunction="true" value="1995-12-31T17" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+17    17+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX tid="t4" type="TIME" temporalFunction="true" value="1996-01-01T10:30" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell.10.30.    kell.10.30+0 //_Y_ ?, //
+</TIMEX>
+</s>
+<s>
+Alatskivi    Alats_kivi+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t5" type="TIME" temporalFunction="true" value="1995-12-24T17" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+17    17+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX tid="t1_2" type="TIME" temporalFunction="true" value="1995-12-25T11" anchorTimeID="t7" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX tid="t1_3" type="TIME" temporalFunction="true" value="1995-12-26T11" anchorTimeID="t7">
+26.    26.+0 //_O_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX tid="t6" type="TIME" temporalFunction="true" value="1995-12-31T11" anchorTimeID="t7" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t7" type="TIME" temporalFunction="true" value="1996-01-01T11" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11.    11.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Vara    vara+0 //_S_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t1_4" type="TIME" temporalFunction="true" value="1995-12-24T16" >
+24.    24.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t8" type="TIME" temporalFunction="true" value="1995-12-31T16" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+16    16+0 //_N_ ?, //
+</TIMEX>
+</s>
+<s>
+Pauluse    Paulus+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t9" type="TIME" temporalFunction="true" value="1995-12-24T10" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10    10+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t1_5" type="TIME" temporalFunction="true" value="1995-12-18T10" anchorTimeID="t10" >
+18    18+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_6" type="TIME" temporalFunction="true" value="1995-12-25T10" anchorTimeID="t10" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t10" type="TIME" temporalFunction="true" value="1995-12-26T10" >
+26.    26.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10    10+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t11" type="TIME" temporalFunction="true" value="1995-12-31T18" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+18    18+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t12" type="TIME" temporalFunction="true" value="1996-01-01T10" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10.    10.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Nõo    nõbu+0 //_S_ sg g, //    nõgu+0 //_S_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t1_7" type="TIME" temporalFunction="true" value="1995-12-24T13" anchorTimeID="t14" >
+24.    24.+0 //_O_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_8" type="TIME" temporalFunction="true" value="1995-12-25T13" anchorTimeID="t14" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_9" type="TIME" temporalFunction="true" value="1995-12-31T13" anchorTimeID="t14" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t14" type="TIME" temporalFunction="true" value="1996-01-01T13">
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+13.    13.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Võnnu    Võnnu+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t15" type="TIME" temporalFunction="true" value="1995-12-24T16" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+16    16+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t16" type="TIME" temporalFunction="true" value="1995-12-25T11" >
+25.    25.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11    11+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t17" type="TIME" temporalFunction="true" value="1995-12-31T16" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+16    16+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t18" type="TIME" temporalFunction="true" value="1996-01-01T11" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11.    11.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Peetri    Peeter+0 //_H_ sg g, //    Peetri+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t19" type="TIME" temporalFunction="true" value="1995-12-24T10" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10    10+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t1_10" type="TIME" temporalFunction="true" value="1995-12-18T10" >
+18    18+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_11" type="TIME" temporalFunction="true" value="1995-12-25T10" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t20" type="TIME" temporalFunction="true" value="1995-12-26T10" >
+26.    26.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10    10+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t21" type="TIME" temporalFunction="true" value="1995-12-31T18" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+18    18+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t22" type="TIME" temporalFunction="true" value="1996-01-01T10" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+10.    10.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Maarja    Maarja+0 //_H_ sg g, //
+kogudus    kogudus+0 //_S_ sg n, //
+<TIMEX  tid="t23" type="TIME" temporalFunction="true" value="1995-12-24T13" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+13    13+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX tid="t1_12" type="TIME" temporalFunction="true" value="1995-12-16T13" anchorTimeID="t24" >
+16    16+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX tid="t1_13" type="TIME" temporalFunction="true" value="1995-12-25T13" anchorTimeID="t24" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t24" type="TIME" temporalFunction="true" value="1995-12-26T13" >
+26.    26.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+13    13+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t25" type="TIME" temporalFunction="true" value="1995-12-31T16" >
+31.detsembril    31._detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+16    16+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t1_14" type="TIME" temporalFunction="true" value="1995-12-31T23:30" >
+23.30    23.30+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t26" type="TIME" temporalFunction="true" value="1996-01-01T13" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+13.    13.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Tartu    Tartu+0 //_H_ sg g, //
+soome    soome+0 //_G_ //
+kogudus    kogudus+0 //_S_ sg n, //
+<TIMEX  tid="t27" type="TIME" temporalFunction="true" value="1995-12-25T19" >
+25.    25.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+19.    19.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Elva    Elva+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t28" type="TIME" temporalFunction="true" value="1995-12-24T18" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+18    18+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t1_15" type="TIME" temporalFunction="true" value="1995-12-24T21" >
+21.    21.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+<TIMEX tid="t1_16" type="TIME" temporalFunction="true" value="1995-12-25T11" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t29" type="TIME" temporalFunction="true" value="1995-12-26T11" >
+26.    26.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11.    11.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+<TIMEX  tid="t30" type="TIME" temporalFunction="true" value="1995-12-31T23" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+23.    23.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+<TIMEX  tid="t31" type="TIME" temporalFunction="true" value="1996-01-01T11" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11.    11.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Kambja    Kambja+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t32" type="TIME" temporalFunction="true" value="1995-12-24T15" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+15.    15.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+<TIMEX  tid="t33" type="TIME" temporalFunction="true" value="1995-12-31T13" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+13.    13.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Puhja    Puhja+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t34" type="TIME" temporalFunction="true" value="1995-12-24T18" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+18    18+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_17" type="TIME" temporalFunction="true" value="1995-12-25T11" anchorTimeID="t35">
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t35" type="TIME" temporalFunction="true" value="1995-12-26T11" >
+26.    26.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11    11+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t36" type="TIME" temporalFunction="true" value="1995-12-31T18" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+18    18+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t37" type="TIME" temporalFunction="true" value="1996-01-01T11" >
+1.jaanuaril    1.jaanuar+l //_S_ sg ad, //    1.jaanuari+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11.    11.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Rõngu    Rõngu+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t38" type="TIME" temporalFunction="true" value="1995-12-24T17" >
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+17    17+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t39" type="TIME" temporalFunction="true" value="1995-12-25T11" >
+25.    25.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11    11+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t40" type="TIME" temporalFunction="true" value="1995-12-31T17" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+17    17+0 //_N_ ?, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t41" type="TIME" temporalFunction="true" value="1996-01-01T11" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+11.    11.+0 //_O_ ?, //
+</TIMEX>
+</s>
+<s>
+Rannu    Rannu+0 //_H_ sg g, //
+kirik    kirik+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t42" type="TIME" temporalFunction="true" value="1995-12-24T16">
+24.    24.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+16    16+0 //_N_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t1_18" type="TIME" temporalFunction="true" value="1995-12-25T14" anchorTimeID="t44" >
+25.    25.+0 //_O_ ?, //
+</TIMEX>
+,    , //_Z_ //
+<TIMEX  tid="t43" type="TIME" temporalFunction="true" value="1995-12-31T14" anchorTimeID="t44" >
+31.    31.+0 //_O_ ?, //
+detsembril    detsember+l //_S_ sg ad, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t44" type="TIME" temporalFunction="true" value="1996-01-01T14" >
+1.    1.+0 //_O_ ?, //
+jaanuaril    jaanuar+l //_S_ sg ad, //
+kell    kell+0 //_S_ sg n, //
+14.    14.+0 //_O_ ?, //
+</TIMEX>
+</s>

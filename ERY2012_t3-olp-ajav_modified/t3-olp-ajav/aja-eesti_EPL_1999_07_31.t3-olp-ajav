@@ -1,0 +1,635 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-07-31TXX:XX" />
+<ignoreeri>
+|
+autor:
+Eno-gerrit
+Link
+|
+ajalehenumber:
+Eesti
+Päevaleht
+31.07.1999
+|
+rubriik:
+Eesti
+|
+artikkel:
+Kohus
+pani
+küüditaja
+vangi
+|
+</ignoreeri>
+<s>
+Pärnakaid    pärnakas+id //_S_ pl p, //
+Siberisse    Siber+sse //_H_ sg ill, //
+ajanud    aja+nud //_V_ nud, //    aja=nud+0 //_A_ //    aja=nud+0 //_A_ sg n, //    aja=nud+d //_A_ pl n, //
+Mihhail    Mihhail+0 //_H_ sg n, //
+Neverovski    Neverovski+0 //_H_ sg n, //
+peab    pida+b //_V_ b, //
+veetma    veet+ma //_V_ ma, //
+<TIMEX  tid="t1" type="DURATION" temporalFunction="false" value="P4Y" >
+neli    neli+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+vanglas    vangla+s //_S_ sg in, //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+maakohus    maa_kohus+0 //_S_ sg n, //
+mõistis    mõist+is //_V_ s, //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="P79Y" >
+79-aastase    79_aastane+0 //_A_ sg g, //
+</TIMEX>
+Mihhail    Mihhail+0 //_H_ sg n, //
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1999-07-30" >
+eile    eile+0 //_D_ //
+</TIMEX>
+süüdi    süüdi+0 //_D_ //
+278    278+0 //_N_ ?, //
+pärnumaalase    pärnu_maalane+0 //_S_ sg g, //
+küüditamises    küüditamine+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+karistas    karista+s //_V_ s, //
+teda    tema+da //_P_ sg p, //
+prokuröri    prokurör+0 //_S_ sg g, //
+nõutud    nõu=tud+0 //_A_ //    nõu=tud+0 //_A_ sg n, //    nõu=tud+d //_A_ pl n, //    nõud+tud //_V_ tud, //    nõutu+d //_A_ pl n, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P4Y" >
+nelja    neli+0 //_N_ sg g, //
+aastase    aastane+0 //_A_ sg g, //
+</TIMEX>
+reaalse    reaalne+0 //_A_ sg g, //
+vababusekaotusega    vababuse_kaotus+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Kohus    kohus+0 //_S_ sg n, //
+leidis    leid+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+süü    süü+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tõendatud    tõenda+tud //_V_ tud, //    tõenda=tud+0 //_A_ //    tõenda=tud+0 //_A_ sg n, //    tõenda=tud+d //_A_ pl n, //
+küüditamises    küüditamine+s //_S_ sg in, //
+,    , //_Z_ //
+küüditamise    küüditamine+0 //_S_ sg g, //
+ettevalmistamises    ette_valmistamine+s //_S_ sg in, //
+ning    ning+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+katses    katse+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Kaitsepolitsei    Kaitse_politsei+0 //_H_ sg g, //
+süüdistuse    süüdistus+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+osales    osale+s //_V_ s, //
+Neverovski    Neverovski+0 //_H_ sg n, //
+isiklikult    isiklikult+0 //_D_ //
+kolme    kolm+0 //_N_ sg g, //
+pere    pere+0 //_S_ sg g, //
+küüditamisel    küüditamine+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kogus    kogu+s //_V_ s, //
+Sauga    Sauga+0 //_H_ sg g, //
+,    , //_Z_ //
+Audru    Audru+0 //_H_ sg g, //
+,    , //_Z_ //
+Seliste    Selis+te //_H_ pl g, //    Seliste+0 //_H_ sg g, //
+,    , //_Z_ //
+Kihnu    Kihnu+0 //_H_ sg g, //
+,    , //_Z_ //
+Ruhnu    Ruhnu+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Tõstamaa    Tõsta_maa+0 //_H_ sg g, //
+valdade    vald+de //_S_ pl g, //
+elanike    elanik+e //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+andmeid    andmed+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Mõned    mõni+d //_P_ pl n, //
+küüditamisele    küüditamine+le //_S_ sg all, //
+määratud    määra+tud //_V_ tud, //    määratu+d //_A_ pl n, //    määratud+0 //_A_ //    määratud+0 //_A_ sg n, //    määratud+d //_A_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+pääsesid    pääse+sid //_V_ sid, //
+põgenema    põgene+ma //_V_ ma, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+nende    tema+de //_P_ pl g, //
+puhul    puhul+0 //_K_ //
+jäi    jää+i //_V_ s, //
+kuritegu    kuri_tegu+0 //_S_ sg n, //
+katse    katse+0 //_S_ sg g, //
+staadiumisse    staadium+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+Neverovski    Neverovski+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+tunnistanud    tunnista+nud //_V_ nud, //    tunnista=nud+0 //_A_ //    tunnista=nud+0 //_A_ sg n, //    tunnista=nud+d //_A_ pl n, //
+kohtuistungitel    kohtu_istung+tel //_S_ pl ad, //
+end    ise+0 //_P_ sg p, //
+inimsusevastastes    inimsuse_vastane+tes //_A_ pl in, //
+kuritegudes    kuri_tegu+des //_S_ pl in, //
+süüdi    süüdi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+mäletanud    mäleta+nud //_V_ nud, //    mäleta=nud+0 //_A_ //    mäleta=nud+0 //_A_ sg n, //    mäleta=nud+d //_A_ pl n, //
+eeluurimisel    eel_uurimine+l //_S_ sg ad, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+tunnistusi    tunnistus+i //_S_ pl p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+täitis    täit+is //_V_ s, //
+vaid    vaid+0 //_D_ //
+käsku    käsk+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+advokaat    advokaat+0 //_S_ sg n, //
+palus    palu+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+õigeks    õige+ks //_A_ sg tr, //
+mõista    mõist+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kohtuprotsessil    kohtu_protsess+l //_S_ sg ad, //
+kannatanuna    kannatanu+na //_S_ sg es, //
+osalenud    osale+nud //_V_ nud, //    osale=nud+0 //_A_ //    osale=nud+0 //_A_ sg n, //    osale=nud+d //_A_ pl n, //
+Orm    Orm+0 //_H_ sg n, //
+Kirikali    Kiri_kali+0 //_H_ sg n, //    Kirikali+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="true" value="P67Y" >
+67    67+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+sõnul    sõna+ul //_S_ pl ad, //
+sai    saa+i //_V_ s, //
+küüditaja    küüditaja+0 //_S_ sg g, //
+õiglase    õiglane+0 //_A_ sg g, //
+karistuse    karistus+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Aitab    aita+b //_V_ b, //
+kah    kah+0 //_D_ //
+sellele    see+le //_P_ sg all, //
+vanale    vana+le //_A_ sg all, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegusel    praegune+l //_A_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+las    las+0 //_D_ //
+ta    tema+0 //_P_ sg n, //
+natuke    natuke+0 //_D_ //
+istub    istu+b //_V_ b, //
+ka    ka+0 //_D_ //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Meie    mina+0 //_P_ pl g, //
+karistusega    karistus+ga //_S_ sg kom, //
+võrreldes    võrdle+des //_V_ des, //
+sai    saa+i //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+puhta    puhas+0 //_A_ sg g, //
+muidu    muidu+0 //_D_ //
+läbi    läbi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Siis    siis+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+mehi    mees+0 //_S_ pl p, //
+kinni    kinni+0 //_D_ //
+vedas    veda+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+anti    and+ti //_V_ ti, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="P30Y" comment="natukene vaieldav, kas kokku või lahku">
+25    25+0 //_N_ ?, //
+pluss    pluss+0 //_S_ sg n, //
+viis    vii+s //_V_ s, //
+</TIMEX>
+mingi    mingi+0 //_P_ sg g, //
+kohtuta    kohus+ta //_S_ sg ab, //
+.    . //_Z_ //
+</s>
+<s>
+Temale    tema+le //_P_ sg all, //
+<TIMEX  tid="t7" type="DURATION" temporalFunction="false" value="P4Y" >
+neli    neli+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+mitte    mitte+0 //_D_ //
+palju    palju+0 //_D_ //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+Audru    Audru+0 //_H_ sg g, //
+vallast    vald+st //_S_ sg el, //
+pärit    pärit+0 //_X_ //
+Evi    Evi+0 //_H_ sg n, //
+Intsar    Intsar+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t8" type="DURATION" temporalFunction="true" value="P67Y" >
+67    67+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+oli    ole+i //_V_ s, //
+kohtu    kohus+0 //_S_ sg g, //
+otsusega    otsus+ga //_S_ sg kom, //
+rahul    rahul+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Ma    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+vastu    vastu+0 //_K_ //
+ega    ega+0 //_J_ //
+poolt    poolt+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+õiglane    õiglane+0 //_A_ sg n, //
+otsus    otsus+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+rääkis    rääki+s //_V_ s, //
+naine    naine+0 //_S_ sg n, //
+pisarsilmil    pisar_silmil+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Me    mina+0 //_P_ pl n, //
+oleme    ole+me //_V_ me, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+vangileiba    vangi_leib+0 //_S_ sg p, //
+söönud    söö+nud //_V_ nud, //    söönud+0 //_A_ //    söönud+0 //_A_ sg n, //    söönud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+vanadust    vanadus+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+maksa    maks+0 //_V_ o, //
+haletseda    haletse+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+küüditatud    küüdita+tud //_V_ tud, //    küüditatud+0 //_A_ //    küüditatud+0 //_A_ sg n, //    küüditatud+d //_A_ pl n, //
+mehed    mees+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+naised    naine+d //_S_ pl n, //
+olid    ole+id //_V_ sid, //
+vanad    vana+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+head    hea+d //_A_ pl n, //
+elu    elu+0 //_S_ sg n, //
+küll    küll+0 //_D_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+muidugi    muidugi+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+soovi    soovi+0 //_V_ o, //
+ma    mina+0 //_P_ sg n, //
+halba    halb+0 //_A_ sg p, //
+kellegi    keegi+gi //_P_ sg g, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Küüditaja    küüditaja+0 //_S_ sg n, //
+eitas    eita+s //_V_ s, //
+oma    oma+0 //_P_ sg g, //
+süüd    süü+d //_S_ sg p, //
+ka    ka+0 //_D_ //
+kohtuvaidlusele    kohtu_vaidlus+le //_S_ sg all, //
+järgnenud    järgne+nud //_V_ nud, //    järgne=nud+0 //_A_ //    järgne=nud+0 //_A_ sg n, //    järgne=nud+d //_A_ pl n, //
+viimases    viimane+s //_A_ sg in, //
+sõnas    sõna+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+oli    ole+i //_V_ s, //
+vaid    vaid+0 //_D_ //
+käsutäitja    käsu_täitja+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kaudselt    kaudselt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ta    tema+0 //_P_ sg g, //
+süüd    süü+d //_S_ sg p, //
+siiski    siiski+0 //_D_ //
+tunnistanud    tunnista+nud //_V_ nud, //    tunnista=nud+0 //_A_ //    tunnista=nud+0 //_A_ sg n, //    tunnista=nud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+öelnud    öel=nud+0 //_A_ //    öel=nud+0 //_A_ sg n, //    öel=nud+d //_A_ pl n, //    ütle+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+tegevus    tegevus+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+küüditamise    küüditamine+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+õige    õige+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eeluurimisel    eel_uurimine+l //_S_ sg ad, //
+väitis    väit+is //_V_ s, //
+Neverovski    Neverovski+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+süüdistus    süüdistus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+standardne    standardne+0 //_A_ sg n, //
+,    , //_Z_ //
+konkretiseerimata    konkretiseeri=mata+0 //_A_ //
+ja    ja+0 //_J_ //
+arusaamatu    aru_saamatu+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kohtualune    kohtu_alune+0 //_S_ sg n, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="1999-07-30" >
+eile    eile+0 //_D_ //
+</TIMEX>
+kohtusse    kohus+sse //_S_ sg ill, //
+ei    ei+0 //_V_ neg, //
+ilmunud    ilmu+nud //_V_ nud, //    ilmu=nud+0 //_A_ //    ilmu=nud+0 //_A_ sg n, //    ilmu=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+viidi    vii+di //_V_ ti, //
+<TIMEX  tid="t10" type="TIME" temporalFunction="true" value="1999-07-30TMO" anchorTimeID="t9" >
+samal    sama+l //_P_ sg ad, //
+hommikul    hommik+l //_S_ sg ad, //
+</TIMEX>
+Pärnu    Pärnu+0 //_H_ sg g, //
+haigla    haigla+0 //_S_ sg g, //
+kardioloogiaosakonda    kardioloogia_osakond+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kohus    kohus+0 //_S_ sg n, //
+jättis    jät+is //_V_ s, //
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+otsuse    otsus+0 //_S_ sg g, //
+jõustumiseni    jõustumine+ni //_S_ sg ter, //
+vabadusse    vabadus+se //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg g, //
+haigla    haigla+0 //_S_ sg g, //
+kardioloogiaosakonna    kardioloogia_osakond+0 //_S_ sg g, //
+arsti    arst+0 //_S_ sg g, //
+Reet    Reet+0 //_H_ sg n, //
+Ranniku    Rannik+0 //_H_ sg g, //    Ranniku+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t11" type="TIME" temporalFunction="true" value="1999-07-30TMO" anchorTimeID="t10" >
+hommikul    hommik+l //_S_ sg ad, //
+</TIMEX>
+haiglasse    haigla+sse //_S_ sg ill, //
+tulnud    tul=nud+0 //_A_ //    tul=nud+0 //_A_ sg n, //    tul=nud+d //_A_ pl n, //    tule+nud //_V_ nud, //
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+üldseisund    üld_seisund+0 //_S_ sg n, //
+rahuldav    rahuldav+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Võimalik    võimalik+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+tõesti    tõesti+0 //_D_ //
+midagi    miski+dagi //_P_ sg p, //
+tunnetab    tunneta+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+momendil    moment+l //_S_ sg ad, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+leidnud    leid+nud //_V_ nud, //    leid=nud+0 //_A_ //    leid=nud+0 //_A_ sg n, //    leid=nud+d //_A_ pl n, //
+ma    mina+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tal    tema+l //_P_ sg ad, //
+oleks    ole+ks //_V_ ks, //
+midagi    miski+dagi //_P_ sg p, //
+viga    viga+0 //_S_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Rannik    Rannik+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Me    mina+0 //_P_ pl n, //
+ootame    oota+me //_V_ me, //
+veel    veel+0 //_D_ //
+ta    tema+0 //_P_ sg g, //
+vereproovi    vere_proov+0 //_S_ sg g, //
+vastuseid    vastus+id //_S_ pl p, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Arst    arst+0 //_S_ sg n, //
+lisas    lisa+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vanale    vana+le //_A_ sg all, //
+mehele    mees+le //_S_ sg all, //
+võis    või+s //_V_ s, //
+kohtuprotsess    kohtu_protsess+0 //_S_ sg n, //
+mõjuda    mõju+da //_V_ da, //
+psüühiliselt    psüühiliselt+0 //_D_ //
+halvasti    halvasti+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Rannik    Rannik+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+osanud    osa=nud+0 //_A_ //    osa=nud+0 //_A_ sg n, //    osa=nud+d //_A_ pl n, //    oska+nud //_V_ nud, //
+öelda    ütle+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegune    praegune+0 //_A_ sg n, //
+</TIMEX>
+seisund    seisund+0 //_S_ sg n, //
+lubab    luba+b //_V_ b, //
+tal    tema+l //_P_ sg ad, //
+vanglas    vangla+s //_S_ sg in, //
+karistust    karistus+t //_S_ sg p, //
+kanda    kand+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Neverovski    Neverovsk+0 //_H_ sg g, //    Neverovski+0 //_H_ sg g, //
+advokaat    advokaat+0 //_S_ sg n, //
+Avo    Avo+0 //_H_ sg n, //
+Pärmann    Pärmann+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+rahulolematu    rahul_olematu+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kohtu    kohus+0 //_S_ sg g, //
+all    all+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+küüditamise    küüditamine+0 //_S_ sg g, //
+peategelasi    pea_tegelane+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Mingisugune    mingi_sugune+0 //_P_ sg n, //
+reageering    reageering+0 //_S_ sg n, //
+<TIMEX  tid="t14" type="DATE" temporalFunction="false" value="1949" >
+1949.    1949.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+sündmuste    sündmus+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+peab    pida+b //_V_ b, //
+olema    ole+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+paraku    paraku+0 //_D_ //
+mindi    mine+di //_V_ ti, //
+kergema    kergem+0 //_C_ sg g, //
+vastupanu    vastu_panu+0 //_S_ sg g, //
+teed    tee+d //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+mõisteti    mõist+ti //_V_ ti, //
+kohut    kohus+t //_S_ sg p, //
+ainuüksi    ainu_üksi+0 //_D_ //
+tema    tema+0 //_P_ sg g, //
+üle    üle+0 //_K_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Pärmann    Pärmann+0 //_H_ sg n, //
+lisas    lisa+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ilmselt    ilmselt+0 //_D_ //
+kaebab    kaeba+b //_V_ b, //
+ta    tema+0 //_P_ sg g, //
+klient    klient+0 //_S_ sg n, //
+otsuse    otsus+0 //_S_ sg g, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="1999-W31" >
+järgmise    järgmine+0 //_A_ sg g, //
+nädala    nädal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+edasi    edasi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Tartu    Tartu+0 //_H_ sg g, //
+ülikooli    üli_kool+0 //_S_ sg g, //
+rahvusvahelise    rahvus_vaheline+0 //_A_ sg g, //
+sõjaõiguse    sõja_õigus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+riigikaitseõiguse    riigi_kaitse_õigus+0 //_S_ sg g, //
+lektor    lektor+0 //_S_ sg n, //
+Tõnu    Tõnu+0 //_H_ sg n, //
+Põder    Põder+0 //_H_ sg n, //
+avaldas    avalda+s //_V_ s, //
+lootust    lootus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t16" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+loodud    loo+dud //_V_ tud, //    loodud+0 //_A_ //    loodud+0 //_A_ sg n, //    loodud+d //_A_ pl n, //
+pretsedent    pretsedent+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+küüditajale    küüditaja+le //_S_ sg all, //
+määratakse    määra+takse //_V_ takse, //
+reaalne    reaalne+0 //_A_ sg n, //
+vabadusekaotus    vabaduse_kaotus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võib    või+b //_V_ b, //
+mõjutada    mõjuta+da //_V_ da, //
+tulevasi    tulevane+i //_A_ pl p, //
+kohtuotsuseid    kohtu_otsus+id //_S_ pl p, //
+.    . //_Z_ //
+</s>

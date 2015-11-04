@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Ülikoolid said tellimuse tudengikohtadele 
+ Riik maksab <TIMEX3 tid="t149" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> kinni 5636 õppekohta kümnes ülikoolis , sealhulgas neljas erakõrgkoolis 
+ MARKO PÜÜA , marko.pyya@postimees.ee 
+ Ülikoolide esindajad ja haridusminister kirjutasid <TIMEX3 tid="t150" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> alla riikliku koolitustellimuse lepingule , mis suurendab õpilaste konkurentsi tasuta kõrghariduse pärast , andes samal ajal erakõrgkoolidele esimest korda võimaluse riigi raha kasutada . 
+ Riik maksab uuel õppeaastal kinni 5636 õppekohta kümnes ülikoolis , millest neli on esimest korda erakõrgkoolid . 
+ Sellega kindlustab ministeerium oma eelarveraha eest kokku 55 kohta kõrgemas kommertskoolis , humanitaarinstituudis , Õigusinstituudis ning Concordia ülikoolis , vähendades samas paljudel erialadel kohtade arvu avalik-õiguslikes ülikoolides . 
+ Vähem majandusõpet 
+ Tartu Ülikool saab bakalaureuseõppeks <TIMEX3 tid="t151" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> 127 kohta vähem kui <TIMEX3 tid="t152" type="DATE" value="1999" anchorTimeID="t0">eelmisel aastal</TIMEX3> . 
+ Tartusse <TIMEX3 tid="t153" type="DATE" value="2000-FA" anchorTimeID="t0">sügisel</TIMEX3> eesti või inglise keelt studeerima pürgiva Vinni-Pajusti gümnaasiumi abituriendi Riinu Palli ( <TIMEX3 tid="t154" type="DURATION" value="P18Y" >18</TIMEX3> ) hinnangul on riikliku tellimuse vähenemine halb , sest see suurendab konkurentsi tasuta haridusele . 
+ " Kuid teisest küljest pole riigil mõtet töötuid juurde toota , " sõnas ta . 
+ " Mina olen rohkem humanitaarinimene , kuid näiteks majanduse õppijaid on tõesti palju . 
+ Selline mulje , et majandusele pannakse suurt rõhku , jäi ka messil " Teeviit " . 
+ Kuid minu arust peaks erialad tasakaalu viima ning kas või humanitaariat suurendama . " 
+ Kõige suurem muudatus riiklikus koolitustellimuses ongi <TIMEX3 tid="t155" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> see , et bakalaureuseõppes väheneb enim tellimus majandusõppes : Tallinna Tehnikaülikoolis väheneb kohtade arv 170-lt 70-le , Tartu Ülikoolis 115-lt 90-le ning põllumajandusülikoolis 40-lt 15-le . 
+ Tehnikaülikooli rektor Andres Keevallik on Postimehele öelnud , et midagi meeldivat selles pole , kuid lisanud samas : " . aga küllap see on siis riigi tahe ning eks majandusspetsialistide osas ole saabunud teatav küllastumine . " 
+ Haridusministeeriumi kõrgkoolide talituse juhataja Maiki Udam ütles , et majandust on üle tellitud , samas kui teistes valdkondades kohtade vajadus pidevalt suureneb . 
+ " Kuid riik suurendas <TIMEX3 tid="t156" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> just töötavate õpetajate koolituse tellimist ja kraadiõpet , sest ülikool on ikkagi ka teadusasutus , " sõnas ta . 
+ Esmakordselt esitab haridusministeerium ka kolmele ülikoolile tellimuse kokku 90 kohale kutseõppeasutuste õpetajate <TIMEX3 tid="t157" type="DURATION" value="P1Y" >üheaastaseks</TIMEX3> pedagoogiliseks koolituseks . 
+ Kokku kulutab riik <TIMEX3 tid="t158" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> kõrgharidusele 700 miljonit krooni . 
+ Baasmaks luubi alla 
+ Haridusminister Tõnis Lukas ütles <TIMEX3 tid="t159" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> enne koolituslepingu allkirjastamist , et <TIMEX3 tid="t160" type="DATE" value="2001" anchorTimeID="t0">järgmise aasta</TIMEX3> märksõna on juba õpilaskoha baasmaksumuse luubi alla võtmine . 
+ See toob päevakorrale arutelu selle üle , kas <TIMEX3 tid="t161" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegune</TIMEX3> ühe õpilaskoha 12 600 krooni suurune ülalpidamiskulu on piisav või tuleks seda mitu korda tõsta , et kõrgharidus oleks veel kvaliteetsem . 
+ " Baasmaks on muidugi väike , " teatas minister Lukas ülikoolide esindajaile . 
+ " Seda tuleks tõsta , kuid selle arvelt kahaneksid riigi arvelt maksustatud kohad veelgi . " 
+</TimeML>

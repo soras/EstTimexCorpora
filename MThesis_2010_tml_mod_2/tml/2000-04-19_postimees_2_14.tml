@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Inglismaale pagemise eest makstud raha läheb vett vedama 
+ VILLU PÄäRT , villu.päärt@postimees.ee 
+ Suurbritanniasse immigreerumist vahendavad firmad kasseerivad kergeusklikelt tuhandeid kroone , kuigi Eesti elanikel pole mingit lootust Inglismaalt varjupaika saada . 
+ Kuulutuselehtedes Inglismaale immigreerumist pakkuvad firmad võtavad lepingu sõlmimise ja juriidilise konsultatsiooni eest 4000 krooni , lisaks peab väljarändaja ostma lennukipiletid ja maksma kohapeal asüülitaotlust vormistavale agendile . 
+ Pärast asüülitaotluse tagasilükkamist saadab Suurbritannia Eesti elaniku tagasi kodumaale . 
+ Kokku tuleb immigreerumist kavatsejal välja panna 13 000 krooni , et veeta <TIMEX3 tid="t142" type="DURATION" value="PXM" >mõni kuu</TIMEX3> Briti riigi leival . 
+ <TIMEX3 tid="t143" type="DATE" value="2000-04-13" anchorTimeID="t0">Möödunud neljapäeval</TIMEX3> teatas Suurbritannia suursaadik Eestis Timothy Craddock , et Eestist pärit inimese asüülitaotlusele on raske näha muid põhjendusi peale majanduslike . 
+ Suurbritannia ei rahuldanud <TIMEX3 tid="t144" type="DATE" value="1999" anchorTimeID="t0">mullu</TIMEX3> ühegi Eesti elaniku asüülitaotlust , ühtekokku oli Eestist pärit inimesi Inglismaal pagulasestaatust ihkamas 455. 
+ Kuulutused ilmuvad edasi 
+ <TIMEX3 tid="t145" type="DATE" value="2000-W16" anchorTimeID="t0">Sel nädalal</TIMEX3> ilmusid kuulutuselehtedes Kuldne Börs ja Soov endiselt Inglismaale immigreerumist vahendavad kuulutused , kuigi suursaadiku sõnul on Eestist pärit inimestel mõttetu Briti võimudelt asüüli taotleda . 
+ Vahendust pakkuva OÜ Roverom Grupp telefonil vastanud tugeva vene aktsendiga naine ütles , et immigreerumine läheb kokku maksma 13 000 krooni . 
+ Esmalt tuleb maksta 4000 krooni lepingu eest , 5200 krooni maksab lennukipilet . 
+ Inglismaale sisenedes tuleb piirivalvurile ette näidata 200 naela ( umbes 5160 krooni ) , 100 naela ( umbes 2580 krooni ) peab maksma agendile , kes aitab asüülitaotlust vormistada . 
+ End raamatupidajaks nimetava naise väitel on Inglismaale immigreerumine suhteliselt riskivaba . 
+ " Meil on omad liinid . 
+ Keegi minejatest pole tagasi tulnud , " kinnitas ta . 
+ Abi immigreerumiseks pakub ka OÜ Antex Pluss , kelle telefonil vastanu palus end nimetada Larissaks . 
+ " Londonis on lennuväljal vastas meie agent . 
+ Tema tõlgib , koos lähete advokaadi juurde dokumente vormistama , " rääkis Larissa vene keeles . 
+ Pärast taotluse sisseandmist ootavat põgenikku taas riigiöömaja ja -toit ning keelekursused . 
+ " Kui teil on asüülitaotlus läbivaatamisel , siis sel ajal pole teil õigust töötada , aga kõik töötavad illegaalselt , " mainis Larissa . 
+ Politsei hoiab silma peal 
+ OÜ A. T. Links telefonil vastanud naine ütles , et immigreerumisseadused on muutunud ning <TIMEX3 tid="t146" type="DATE" value="PAST_REF" anchorTimeID="t0" >viimasel ajal</TIMEX3> on raske varjupaika saada . 
+ " Kuulutuse panime vana harjumuse järgi , " ütles ta , kuid nõustus siiski infot andma . 
+ Selle firma ümberasumisskeem on eelnevatega viimse detailini sarnane . 
+ Erinevalt teistest hoiatas aga A.T. Linksi sekretär , et Inglismaale põgenedes peab olema valmis raskusteks . 
+ Politseiameti pressiesindaja Aet Truu sõnul pole politseil <TIMEX3 tid="t147" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praegu</TIMEX3> menetluses ühtki põgenemist vahendava firmaga seotud kriminaalasja . 
+ " Politsei hoiab kuulutustel silma peal , kuid <TIMEX3 tid="t148" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praegu</TIMEX3> pole asju algatatud , " sõnas Truu . 
+ Suurbritannia saatkonna pressinõuniku Neve Hõbemägi sõnul ei saa Eestist pärit inimene Inglismaalt asüüli , sest siin pole sellist olukorda , et maailmas mingi riik peaks Eestist pärit inimesele asüüli andma . 
+ " See on sügavalt Eesti probleem , need on Eesti firmad , kes neid kuulutusi panevad , " ütles ta . 
+</TimeML>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Katuse remont haridust ei päästa 
+ Hariduse kvaliteet hakkab peale õpetajast 
+ ENN VESKIMÄGI , Standardi juhatuse esimees 
+ Oleme jõudnud oma hariduselus ajajärku , kus vanad mudelid enam ei tööta ja uusi ei ole veel jõutud välja töötada . 
+ Ainult nn katuseremondiga olukorda enam ei paranda , vaja on põhjalikku remonti kogu süsteemis . 
+ Kõige suuremaks probleemiks on see , et ettevõtted , mis <TIMEX3 tid="t214" type="DATE" value="FUTURE_REF" anchorTimeID="t0">tulevikus</TIMEX3> peaksid koolitatavaid hakkama tööle võtma , pole saanud selles " riigi tellimisprotsessis " oma sõna kaasa öelda . 
+ Riiklikku tellimust ülikoolidele ja ametikoolidele panevad <TIMEX3 tid="t215" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> kokku ametnikud , kuid tegelikkuses ei saa seda pelgalt kabinetivaikuses teha . 
+ Selle protsessi eel peab käima põhjalik analüüs , mida peaks riik ja tööandjad koos tegema . 
+ Analüüsi tulemusena tuleb prognoosida vajadusi <TIMEX3 tid="t216" type="DURATION" value="P3Y" >kolmeks</TIMEX3> kuni <TIMEX3 tid="t217" type="DURATION" value="P10Y" >kümneks aastaks</TIMEX3> . 
+ Vesteldes ühe Eesti kõrgkooli juhiga , tuli jutuks , et <TIMEX3 tid="t218" type="DATE" value="1999" anchorTimeID="t0">eelmisel aastal</TIMEX3> registreeris ennast pärast kooli lõpetamist töötuks kokku ligi 180 ülikoolilõpetajat kõikidest Eesti kõrgkoolidest . 
+ Siia on lisamata veel need , kes end töötuna üles ei andnud ja iseseisvalt tööd üritasid leida . 
+ See on ohtlik tendents ja näitab selgelt riikliku tellimuse tähtsust ja olukorra täpsema planeerimise vajalikkust , sest pea igasse tudengisse on riik investeerinud ja kui nende inimeste tööpanus jääb olematuks , on ka investeering olnud pigem raiskamine . 
+ Üks endine Tallinna Tehnikaülikooli ( TTÜ ) rektor on propageerinud , et seal koolitatakse euroinsenere ja kui toimub ühinemine Euroopa Liiduga ( EL ) , siis on spetsialistid seal konkurentsivõimelised . 
+ Tegelik elu Eestis näitab , et <TIMEX3 tid="t219" type="DATE" value="PRESENT_REF" anchorTimeID="t0">tänased</TIMEX3> lõpetanud - tehnilise hariduse insenerid - ei ole Eestiski konkurentsivõimelised , rääkimata Euroopast . 
+ Ja miks ? 
+ Sellepärast , et neil puudub praktiline kokkupuude tulevase tööga . 
+ Ja ka õppimis-aeg ülikoolis on vähenenud <TIMEX3 tid="t1111" type="DURATION" value="P5Y" >viielt aastalt</TIMEX3> <TIMEX3 tid="t1112" type="DURATION" value="P4Y" >neljale</TIMEX3> . 
+ Seega ei saa tööandja endale " valmis spetsialisti " , kel oleks lisaks ülikoolitarkusele ka reaalse töö kogemus ja teadmised sellest . 
+ <TIMEX3 tid="t220" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> tuleb ülikoolist tulnud noori alles hakata välja õpetama ja see on ettevõttele lisakulu - <TIMEX3 tid="t221" type="DURATION" value="P2Y" >esimesed kaks aastat</TIMEX3> ta reaalset panust ettevõttesse ei anna . 
+ Tööandja näeb hädavajadust korraliku praktikasüsteemi loomiseks ja koolis ettevalmistatavate tulevaste spetsialistide planeerimist , seda ikka reaalsetest vajadustest lähtuvalt . 
+ <TIMEX3 tid="t222" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> seda ei tehta . 
+ Tahan siinkohal meie kõrgestiharitud noortele ja nende õpetajatele meelde tuletada , et tööjõuturul nõutakse tegelikult kogemust ja haridust koos , mitte haridust üksi . 
+ Väljapakutud kõrgkoolide ühendamise ideed ei peaks asjaosalised nii valuliselt võtma . 
+ Selle protsessiga me ju ei kaota noorte võimalusi , vaid kasutame lihtsalt võimalusi ratsionaalsemalt . 
+ <TIMEX3 tid="t223" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> killustame neid üsna tugevasti - pole harvad juhud , kus üks õppejõud õpetab kolmes ülikoolis ühte ja sama asja . 
+ Miks mitte osa aineid ühendada . 
+ Ja kas põllumajandusülikool ikka tõesti peab raamatupidajaid koolitama . 
+ <TIMEX3 tid="t224" type="DATE" value="PRESENT_REF" anchorTimeID="t223">Samal ajal</TIMEX3> aga pööratakse häbematult vähe tähelepanu hariduse kvaliteedile . 
+ Hariduse kvaliteediga on tihedalt seotud õppejõudude probleem - enamik vanemaid õppejõude loeb ikka <TIMEX3 tid="t225" type="DURATION" value="P20Y" >20 aasta</TIMEX3> vanustest konspektidest . 
+ Samas on õppejõudude enesetäiendamise ja õppimise võimalused üsna kasinad . 
+ Tean mitut nooremat õppejõudu , kes oma raha eest rahvusvahelistel seminaridel ja sümpoosionidel käivad ja raha selleks ei teeni nad mitte ülikoolis õpetamisega , vaid ettevõttes töötades . 
+ Miks puudub Eesti riigis riiklik noorte õppejõudude toetamise poliitika ? 
+ Miks laseme oma parematel peadel , kes saaksid kaasa aidata elu edenemisele Eestis , ära minna sinna , kus rohkem makstakse ? 
+ Selge on see , et hariduse kvaliteet algab õpetajast . 
+ Head tulemust ei saa , kui õpetaja on nigel . 
+ Kusagilt tuleb vabastada vahendeid ja need ümber planeerida . 
+ Kas peab ülal pidama hulka , ehk võiks ülal hoida hoopis kvaliteeti ? 
+ On viimane aeg Eesti haridussüsteem konkurentsivõimest lähtuvalt ümber vaadata . 
+ Seejuures on hädavajalik hakata arendama ka riiklikku poliitikat insenerihariduse andmisel , sest nii saame luua riigile lisaväärtust ja tõsta konkurentsivõimet . 
+</TimeML>

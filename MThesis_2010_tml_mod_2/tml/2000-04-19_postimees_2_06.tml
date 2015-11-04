@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Valencia ja Barcelona jõudsid poolfinaali 
+ TOIVO KIVIMETS , toivo.kivimets@postimees.ee 
+ Euroopa jalgpalli Meistrite liiga esimesed kaks poolfinalisti on Hispaania klubid Valencia ja Barcelona . 
+ Valencia kaotas Roomas Laziole 0 : 1 , kuid neil oli varuks avamängu 5 : 2 võit . 
+ Sebastian Veroni värav tõi Laziole lohutust . 
+ Barcelona mängis Nou Campil <TIMEX3 tid="t65" type="TIME" value="XXXX-XX-XXTXX:XX"  comment="valdkonnaspetsiifiline">normaalajal</TIMEX3> Chelsea üle 3 : 1 , viigistades üldseisu 4 : 4. <TIMEX3 tid="t66" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline" >Lisaajal</TIMEX3> kindlustasid Rivaldo penalt ja Patrik Kluiverti tabamus Barcelonale edasipääsu . 
+ Rivaldo , <TIMEX3 tid="t67" type="DATE" value="1999" anchorTimeID="t0">mullune</TIMEX3> maailma parim jalgpallur , ohustas Chelsea väravat <TIMEX3 tid="t68" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline" >avaminutitest peale</TIMEX3> ning <TIMEX3 tid="t69" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline" >24. minutil</TIMEX3> jõudis sihile . 
+ <TIMEX3 tid="t70" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline" >Poolaja viimasel minutil</TIMEX3> tabas Kluiverti pommlöök posti , pallini rutanud Luis Figo lõi 2 : 0. <TIMEX3 tid="t71" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">Teise poolaja 61. minutil</TIMEX3> eksis Barca väravavaht Ruud Hesp , tõrjudes palli norralase Flo ette - 2 : 1. 
+ Boudewijn Zendenit asendanud Dani lõi <TIMEX3 tid="t72" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline">kuus minutit enne normaalaja lõppu</TIMEX3> 3 : 1. <TIMEX3 tid="t73" type="TIME" value="XXXX-XX-XXTXX:XX" anchorTimeID="t72">Kaks minutit hiljem</TIMEX3> oli Rivaldol võimalus Barca vaevad lõpetada , kuid brasiillane eksis penaltilöögil . 
+</TimeML>

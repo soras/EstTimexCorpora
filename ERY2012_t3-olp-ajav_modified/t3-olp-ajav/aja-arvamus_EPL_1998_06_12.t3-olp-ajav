@@ -1,0 +1,484 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-06-12TXX:XX" />
+<ignoreeri>
+|
+autor:
+Kalle
+Muuli
+Eesti
+Päevaleht
+|
+ajalehenumber:
+Eesti
+Päevaleht
+12.06.1998
+|
+rubriik:
+Arvamus
+|
+artikkel:
+Odav
+kallis
+hinnasõda
+|
+</ignoreeri>
+<s>
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="1998-06-10" >
+Üleeilne    üle_eilne+0 //_A_ sg n, //
+päev    päev+0 //_S_ sg n, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+ilmselt    ilmselt+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+rõõmsamaid    rõõmsam+id //_C_ pl p, //
+lehelugejatele    lehe_lugeja+tele //_S_ pl all, //
+ja    ja+0 //_J_ //
+masendavamaid    masenda=vam+id //_C_ pl p, //
+ajakirjandusele    aja_kirjandus+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Kümned    kümme+d //_N_ pl n, //
+tuhanded    tuhat+d //_N_ pl n, //
+tallinlased    tallinlane+d //_S_ pl n, //
+leidsid    leid+sid //_V_ sid, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1998-06-10" anchorTimeID="t1" >
+sel    see+l //_P_ sg ad, //
+päeval    päev+l //_S_ sg ad, //
+</TIMEX>
+postkastist    post_kast+st //_S_ sg el, //
+läikpaberil    läik_paber+l //_S_ sg ad, //
+teate    tead+te //_V_ te, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nad    tema+d //_P_ pl n, //
+saavad    saa+vad //_V_ vad, //
+ajalehte    aja_leht+0 //_S_ sg p, //
+Postimees    Posti_mees+0 //_H_ sg n, //    Postimees+0 //_H_ sg n, //
+tellida    telli+da //_V_ da, //
+üle    üle+0 //_K_ //
+nelja    neli+0 //_N_ sg g, //
+korra    kord+0 //_S_ sg g, //
+odavamalt    odavamalt+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+näiteks    näide+ks //_S_ sg tr, //
+tartlased    tartlane+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+reetis    reet+is //_V_ s, //
+Postimees    Posti_mees+0 //_H_ sg n, //    Postimees+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+kõige    kõige+0 //_D_ //
+ustavamad    us=tavam+d //_C_ pl n, //
+toetajad    toetaja+d //_S_ pl n, //
+:    : //_Z_ //
+<kindel_piir/>
+Tartu    Tartu+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+tartlased    tartlane+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ent    ent+0 //_J_ //
+tasuta    tasu+ta //_S_ sg ab, //
+lõunaid    lõuna+id //_S_ pl p, //
+kahjuks    kahjuks+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+varem    varem+0 //_D_ //
+või    või+0 //_J_ //
+hiljem    hiljem+0 //_D_ //
+peab    pida+b //_V_ b, //
+lugeja    lugeja+0 //_S_ sg n, //
+ikka    ikka+0 //_D_ //
+kauba    kaup+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+maksma    maks+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Postimehe    Posti_mees+0 //_H_ sg g, //    Postimehe+0 //_H_ sg g, //
+pöörase    pöörane+0 //_A_ sg g, //
+allahindluse    alla_hindlus+0 //_S_ sg g, //
+taga    taga+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+soov    soov+0 //_S_ sg n, //
+suretada    sureta+da //_V_ da, //
+teised    teine+d //_O_ pl n, //    teine+d //_P_ pl n, //
+lehed    leht+d //_S_ pl n, //
+välja    välja+0 //_D_ //
+ja    ja+0 //_J_ //
+saavutada    saavuta+da //_V_ da, //
+monopoolne    monopoolne+0 //_A_ sg n, //
+seisund    seisund+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Siis    siis+0 //_D_ //
+saab    saa+b //_V_ b, //
+kergeusklikult    kerge_usklikult+0 //_D_ //
+tellijalt    tellija+lt //_S_ sg abl, //
+võtta    võt+a //_V_ da, //
+mitmekordselt    mitme_kordselt+0 //_D_ //
+tagasi    tagasi+0 //_D_ //
+summa    summa+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+neile    tema+le //_P_ pl all, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+kingitakse    kinki+takse //_V_ takse, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+asemel    asemel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kulutada    kuluta+da //_V_ da, //
+raha    raha+0 //_S_ sg p, //
+parema    parem+0 //_C_ sg g, //
+lehe    leht+0 //_S_ sg g, //
+tegemiseks    tegemine+ks //_S_ sg tr, //
+ning    ning+0 //_J_ //
+pakkuda    pakku+da //_V_ da, //
+tellijale    tellija+le //_S_ sg all, //
+õige    õige+0 //_A_ sg g, //
+hinna    hind+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+võimalikult    võimalikult+0 //_D_ //
+head    hea+d //_A_ sg p, //
+kaupa    kaup+0 //_S_ sg p, //
+,    , //_Z_ //
+kulutab    kuluta+b //_V_ b, //
+Postimees    Posti_mees+0 //_H_ sg n, //    Postimees+0 //_H_ sg n, //
+raha    raha+0 //_S_ sg g, //
+konkurentide    konkurent+de //_S_ pl g, //
+väljasuretamiseks    välja_sureta=mine+ks //_S_ sg tr, //
+altvöölöökidega    alt_vöö_löök+dega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+ainuüksi    ainu_üksi+0 //_D_ //
+rumal    rumal+0 //_A_ sg n, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+ka    ka+0 //_D_ //
+ohtlik    ohtlik+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+ajakirjandusmonopol    aja_kirjandus_monopol+0 //_S_ sg n, //
+ohustab    ohusta+b //_V_ b, //
+meie    mina+0 //_P_ pl g, //
+kõigi    kõik+0 //_P_ pl g, //
+sõnavabadust    sõna_vabadus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Loomulikult    loomulikult+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+Eesti    Eesti+0 //_H_ sg g, //
+Päevalehe    päeva_leht+0 //_S_ sg g, //
+toimetus    toimetus+0 //_S_ sg n, //
+,    , //_Z_ //
+käed    käsi+d //_S_ pl n, //
+rüpes    rüpp+s //_S_ sg in, //
+,    , //_Z_ //
+pealt    pealt+0 //_D_ //
+vaadata    vaata+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+Postimehe    Posti_mees+0 //_H_ sg g, //    Postimehe+0 //_H_ sg g, //
+omanik    omanik+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+pole    ole+0 //_V_ neg o, //
+kordagi    kord+gi //_S_ sg p, //
+Eestis    Eesti+s //_H_ sg in, //
+käinud    käi+nud //_V_ nud, //    käi=nud+0 //_A_ //    käi=nud+0 //_A_ sg n, //    käi=nud+d //_A_ pl n, //
+,    , //_Z_ //
+</kiil>
+püüab    püüd+b //_V_ b, //
+Tallinnas    Tallinn+s //_H_ sg in, //
+tekitada    tekita+da //_V_ da, //
+samasugust    sama_sugune+t //_P_ sg p, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+lehe    leht+0 //_S_ sg g, //
+umbset    umbne+t //_A_ sg p, //
+tõemonopoli    tõe_monopol+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+neil    tema+l //_P_ pl ad, //
+korda    kord+0 //_S_ sg p, //
+läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+Tartus    Tartu+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Meil    mina+l //_P_ pl ad, //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+valikut    valik+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+me    mina+0 //_P_ pl n, //
+olime    ole+ime //_V_ sime, //
+sunnitud    sundi+tud //_V_ tud, //    sunnitud+0 //_A_ //    sunnitud+0 //_A_ sg n, //    sunnitud+d //_A_ pl n, //
+kaitsma    kaits+ma //_V_ ma, //
+oma    oma+0 //_P_ sg g, //
+lugeja    lugeja+0 //_S_ sg g, //
+vabadust    vabadus+t //_S_ sg p, //
+valida    vali+da //_V_ da, //
+lehte    leht+0 //_S_ sg p, //
+sisu    sisu+0 //_S_ sg n, //
+,    , //_Z_ //
+mitte    mitte+0 //_D_ //
+hinna    hind+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Seepärast    see_pärast+0 //_D_ //
+pakume    pakku+me //_V_ me, //
+kuni    kuni+0 //_K_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1998-06-22" >
+22.    22.+0 //_O_ ?, //
+juunini    juuni+ni //_S_ sg ter, //
+</TIMEX>
+Tallinna    Tallinn+0 //_H_ sg g, //
+,    , //_Z_ //
+Harjumaa    Harju_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Tartu    Tartu+0 //_H_ sg g, //
+elanikele    elanik+ele //_S_ pl all, //
+Eesti    Eesti+0 //_H_ sg g, //
+Päevalehe    Päeva_leht+0 //_H_ sg g, //    Päevalehe+0 //_H_ sg g, //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="false" value="P4M" >
+nelja    neli+0 //_N_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+tellimust    tellimus+t //_S_ sg p, //
+60    60+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+<kiil>
+(    ( //_Z_ //
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+288    288+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="false" value="P6M" >
+kuue    kuus+0 //_N_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+tellimust    tellimus+t //_S_ sg p, //
+95    95+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+<kiil>
+(    ( //_Z_ //
+<TIMEX tid="t1_5" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+432    432+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Me    mina+0 //_P_ pl n, //
+saame    saa+me //_V_ me, //
+aru    aru+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ebaõiglane    eba_õiglane+0 //_A_ sg n, //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+piirkondade    piirkond+de //_S_ pl g, //
+inimeste    inimene+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+<TIMEX tid="t1_8" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0">
+seniste    senine+te //_A_ pl g, //
+</TIMEX>
+,    , //_Z_ //
+lehe    leht+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+täishinda    täis_hind+0 //_S_ adt, //
+maksnud    maks+nud //_V_ nud, //    maks=nud+0 //_A_ //    maks=nud+0 //_A_ sg n, //    maks=nud+d //_A_ pl n, //
+tellijate    tellija+te //_S_ pl g, //
+suhtes    suhtes+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+niisuguse    nii_sugune+0 //_P_ sg g, //
+sundkäigu    sund_käik+0 //_S_ sg g, //
+surus    suru+s //_V_ s, //
+meile    mina+le //_P_ pl all, //
+peale    peale+0 //_D_ //
+Postimehe    Posti_mees+0 //_H_ sg g, //    Postimehe+0 //_H_ sg g, //
+alatus    alatus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ebaõigluse    eba_õiglus+0 //_S_ sg g, //
+leevendamiseks    leevendamine+ks //_S_ sg tr, //
+otsustasime    otsusta+sime //_V_ sime, //
+neil    tema+l //_P_ pl ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kellel    kes+l //_P_ pl ad, //    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1998-07-31" >
+31.    31.+0 //_O_ ?, //
+juuli    juuli+0 //_S_ sg g, //
+</TIMEX>
+seisuga    seis+ga //_S_ sg kom, //
+tellitud    telli+tud //_V_ tud, //    telli=tud+0 //_A_ //    telli=tud+0 //_A_ sg n, //    telli=tud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg n, //
+Päevaleht    Päeva_leht+0 //_H_ sg n, //    Päevaleht+0 //_H_ sg n, //
+täishinnaga    täis_hind+ga //_S_ sg kom, //
+,    , //_Z_ //
+pikendada    pikenda+da //_V_ da, //
+tellimust    tellimus+t //_S_ sg p, //
+tasuta    tasu+ta //_S_ sg ab, //
+<TIMEX  tid="t7" type="DURATION" temporalFunction="false" value="P1M" >
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+kuu    kuu+0 //_S_ sg g, //
+</TIMEX>
+võrra    võrra+0 //_K_ //
+kogu    kogu+0 //_A_ //
+Eestis    Eesti+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Tellija    tellija+0 //_S_ sg g, //
+ei    ei+0 //_V_ neg, //
+pea    pida+0 //_V_ o, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+midagi    miski+dagi //_P_ sg p, //
+tegema    tege+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+toimetus    toimetus+0 //_S_ sg n, //
+saadab    saat+b //_V_ b, //
+talle    tema+lle //_P_ sg all, //
+pärast    pärast+0 //_K_ //
+tellimuse    tellimus+0 //_S_ sg g, //
+lõppu    lõpp+0 //_S_ sg p, //
+automaatselt    automaatselt+0 //_D_ //
+veel    veel+0 //_D_ //
+<TIMEX tid="t1_2" type="DURATION" temporalFunction="false" value="P1M" >
+kuu    kuu+0 //_S_ sg g, //
+aja    aeg+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+<TIMEX  tid="t9" type="SET" temporalFunction="true" value="P1D" quant="EVERY" >
+iga    iga+0 //_P_ sg n, //
+päev    päev+0 //_S_ sg n, //
+</TIMEX>
+lehe    leht+0 //_S_ sg g, //
+koju    kodu+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Postimehe    Posti_mees+0 //_H_ sg g, //    Postimehe+0 //_H_ sg g, //
+vallandatud    vallanda+tud //_V_ tud, //    vallanda=tud+0 //_A_ //    vallanda=tud+0 //_A_ sg n, //    vallanda=tud+d //_A_ pl n, //
+hinnasõda    hinna_sõda+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+lugejale    lugeja+le //_S_ sg all, //
+võib    või+b //_V_ b, //
+esmapilgul    esma_pilk+l //_S_ sg ad, //
+tunduda    tundu+da //_V_ da, //
+suure    suur+0 //_A_ sg g, //
+õnnena    õnn+na //_S_ sg es, //
+,    , //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegelikult    tegelikult+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+kõigi    kõik+0 //_P_ pl g, //
+ühine    ühine+0 //_A_ sg n, //
+õnnetus    õnnetus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Päevalehe    Päeva_leht+0 //_H_ sg g, //    Päevalehe+0 //_H_ sg g, //
+toimetus    toimetus+0 //_S_ sg n, //
+maksab    maks+b //_V_ b, //
+üliodavate    üli_odav+te //_A_ pl g, //
+tellimuste    tellimus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+juba    juba+0 //_D_ //
+olemasolevate    olemas_olev+te //_A_ pl g, //
+tellimuste    tellimus+te //_S_ pl g, //
+tasuta    tasu+ta //_S_ sg ab, //
+pikendamise    pikenda=mine+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+soolast    soolane+t //_A_ sg p, //
+hinda    hind+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+seetõttu    see_tõttu+0 //_D_ //
+võibolla    võib_olla+0 //_D_ //
+ellu    elu+0 //_S_ adt, //
+viia    vii+a //_V_ da, //
+kõiki    kõik+0 //_P_ pl p, //
+plaane    plaan+e //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+olid    ole+id //_V_ sid, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+lehe    leht+0 //_S_ sg g, //
+arendamiseks    arendamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Ent    ent+0 //_J_ //
+mingis    mingi+s //_P_ sg in, //
+mõttes    mõte+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+hind    hind+0 //_S_ sg n, //
+siiski    siiski+0 //_D_ //
+madal    madal+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+sõnavabadus    sõna_vabadus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+lugeja    lugeja+0 //_S_ sg g, //
+valikuvabadus    valiku_vabadus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hindamatu    hindamatu+0 //_A_ sg g, //
+väärtus    väärtus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>

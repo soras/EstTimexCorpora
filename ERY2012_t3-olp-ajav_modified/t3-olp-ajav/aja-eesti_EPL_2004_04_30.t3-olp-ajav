@@ -1,0 +1,431 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2004-04-30TXX:XX" />
+<ignoreeri>
+|
+autor:
+Anneli
+Ammas
+|
+ajalehenumber:
+Eesti
+Päevaleht
+30.04.2004
+|
+rubriik:
+Eesti
+|
+artikkel:
+Suveremont
+vallutab
+maanteed
+|
+</ignoreeri>
+<s>
+Tallinna-Tartu    Tallinna-Tartu+0 //_H_ sg g, //    Tallinna-Tartud+0 //_H_ sg g, //
+maantee    maan_tee+0 //_S_ sg g, //
+sisse    sisse+0 //_K_ //
+pannakse    pane+akse //_V_ takse, //
+esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+terasvõrk    teras_võrk+0 //_S_ sg n, //
+</s>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2004" >
+Tänavu    tänavu+0 //_D_ //
+</TIMEX>
+remonditakse    remonti+takse //_V_ takse, //
+üle    üle+0 //_K_ //
+263    263+0 //_N_ ?, //
+kilomeetri    kilo_meeter+0 //_S_ sg g, //
+suuri    suur+i //_A_ pl p, //
+maanteid    maan_tee+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+teerulli    tee_rull+0 //_S_ sg g, //
+alla    alla+0 //_K_ //
+läheb    mine+b //_V_ b, //
+suurem    suurem+0 //_C_ sg n, //
+osa    osa+0 //_S_ sg n, //
+Tallinna-Pärnu    Tallinna-Pärnu+0 //_H_ sg g, //    Tallinna-Pärnud+0 //_H_ sg g, //
+maanteed    maan_tee+d //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+väga    väga+0 //_D_ //
+suured    suur+d //_A_ pl n, //
+tööd    töö+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ees    ees+0 //_D_ //
+ka    ka+0 //_D_ //
+Tallinna-Narva    Tallinna-Narva+0 //_H_ sg g, //
+teel    teel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+liikluse    liiklus+0 //_S_ sg g, //
+mõttes    mõte+s //_S_ sg in, //
+kujuneb    kujune+b //_V_ b, //
+remont    remont+0 //_S_ sg n, //
+kõige    kõige+0 //_D_ //
+keerulisemaks    keerulisem+ks //_C_ sg tr, //
+Tallinna-Tartu    Tallinna-Tartu+0 //_H_ sg g, //    Tallinna-Tartud+0 //_H_ sg g, //
+maanteel    maan_tee+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Tallinna-Pärnu-Ikla    Tallinna-Pärnu-Ikla+0 //_H_ sg g, //
+maantee    maan_tee+0 //_S_ sg n, //
+peaks    pida+ks //_V_ ks, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2004" >
+sel    see+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+korda    kord+0 //_S_ sg p, //
+saama    saa+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2005" >
+tulevaks    tulev+ks //_A_ sg tr, //
+aastaks    aasta+ks //_S_ sg tr, //
+</TIMEX>
+jääb    jää+b //_V_ b, //
+ainult    ainult+0 //_D_ //
+Pärnu    Pärnu+0 //_H_ sg g, //
+linna    linn+0 //_S_ sg g, //
+ümbersõit    ümber_sõit+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+maanteeameti    maan_tee_amet+0 //_S_ sg g, //
+regionaalprojektide    regionaal_projekt+de //_S_ pl g, //
+osakonna    osakond+0 //_S_ sg g, //
+juhataja    juhataja+0 //_S_ sg n, //
+kt    kt+0 //_Y_ ?, //
+Märt    Märt+0 //_H_ sg n, //
+Puust    puu+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Eriti    eriti+0 //_D_ //
+suur    suur+0 //_A_ sg n, //
+töö    töö+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2004-SU" >
+sel    see+l //_P_ sg ad, //
+suvel    suvi+l //_S_ sg ad, //
+</TIMEX>
+ees    ees+0 //_D_ //
+Tallinna-Narva    Tallinna-Narva+0 //_H_ sg g, //
+maanteel    maan_tee+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+korda    kord+0 //_S_ sg p, //
+peaks    pida+ks //_V_ ks, //
+saama    saa+ma //_V_ ma, //
+121,5    121,5+0 //_N_ ?, //
+kilomeetrit    kilo_meeter+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Terasest    terane+st //_A_ sg el, //
+tee    tee+0 //_S_ sg n, //
+Tartusse    Tartu+sse //_H_ sg ill, //
+</s>
+<s>
+Tallinna-Tartu    Tallinna-Tartu+0 //_H_ sg g, //    Tallinna-Tartud+0 //_H_ sg g, //
+teel    tee+l //_S_ sg ad, //
+jätkuvad    jätku+vad //_V_ vad, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="2004-SU" >
+sel    see+l //_P_ sg ad, //
+suvel    suvi+l //_S_ sg ad, //
+</TIMEX>
+tööd    töö+d //_S_ sg p, //
+ligi    ligi+0 //_D_ //
+30    30+0 //_N_ ?, //
+kilomeetril    kilo_meeter+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+siis    siis+0 //_D_ //
+tuleb    tule+b //_V_ b, //
+<TIMEX  tid="t1_1" type="DURATION" temporalFunction="true" value="PXY" >
+mõneaastane    mõne_aastane+0 //_A_ sg n, //
+</TIMEX>
+paus    paus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuni    kuni+0 //_J_ //
+euroliidu    euro_liit+0 //_S_ sg g, //
+projektidest    projekt+dest //_S_ pl el, //
+uut    uus+t //_A_ sg p, //
+raha    raha+0 //_S_ sg p, //
+tuleb    tule+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Korrast    kord+st //_S_ sg el, //
+ära    ära+0 //_D_ //
+jääb    jää+b //_V_ b, //
+veel    veel+0 //_D_ //
+40    40+0 //_N_ ?, //
+kilomeetrit    kilo_meeter+t //_S_ sg p, //
+Tallinnast    Tallinn+st //_H_ sg el, //
+Tartu    Tartu+0 //_H_ sg g, //
+poole    poole+0 //_K_ //
+,    , //_Z_ //
+Mäo    Mäo+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Tartu    Tartu+0 //_H_ sg g, //
+ümbersõit    ümber_sõit+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+Puurmani    Puurmani+0 //_H_ sg g, //
+sild    sild+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+veel    veel+0 //_D_ //
+mõned    mõni+d //_P_ pl n, //
+väiksemad    väiksem+d //_C_ pl n, //
+kohad    koha+d //_S_ pl n, //    koht+d //_S_ pl n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+loetles    loetle+s //_V_ s, //
+Puust    puu+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinna-Tartu    Tallinna-Tartu+0 //_H_ sg g, //    Tallinna-Tartud+0 //_H_ sg g, //
+maanteel    maan_tee+l //_S_ sg ad, //
+kasutatakse    kasuta+takse //_V_ takse, //
+esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+Eestis    Eesti+s //_H_ sg in, //
+ka    ka+0 //_D_ //
+üht    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+uut    uus+t //_A_ sg p, //
+tee-ehituse    tee-ehitus+0 //_S_ sg g, //
+meetodit    meetod+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Nimelt    nimelt+0 //_D_ //
+pannakse    pane+akse //_V_ takse, //
+asfaldikihtide    asfaldi_kiht+de //_S_ pl g, //
+vahele    vahele+0 //_K_ //
+terasvõrk    teras_võrk+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+lase    lask+0 //_V_ o, //
+kattesse    kate+sse //_S_ sg ill, //
+tekkida    tekki+da //_V_ da, //
+pragusid    pragu+sid //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+See    see+0 //_P_ sg n, //
+töö    töö+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+tee    tege+0 //_V_ o, //
+ehitust    ehitus+t //_S_ sg p, //
+olulisemalt    olulisemalt+0 //_D_ //
+kallimaks    kallim+ks //_C_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+nõuab    nõud+b //_V_ b, //
+liikluse    liiklus+0 //_S_ sg g, //
+suuremat    suurem+t //_C_ sg p, //
+ümberkorraldamist    ümber_korraldamine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+tee    tee+0 //_S_ sg n, //
+tuleb    tule+b //_V_ b, //
+mõlemas    mõlema+s //_P_ sg in, //
+suunas    suund+s //_S_ sg in, //
+võrgu    võrk+0 //_S_ sg g, //
+paigaldamise    paigaldamine+0 //_S_ sg g, //
+ajaks    aeg+ks //_S_ sg tr, //
+sulgeda    sulge+da //_V_ da, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Puust    puu+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Neid    see+d //_P_ pl p, //
+töid    töö+id //_S_ pl p, //
+võib    või+b //_V_ b, //
+teha    tege+a //_V_ da, //
+vaid    vaid+0 //_D_ //
+<TIMEX  tid="t6" type="TIME" temporalFunction="true" value="TNI" >
+öösel    öösel+0 //_D_ //
+</TIMEX>
+ning    ning+0 //_J_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+suunatakse    suuna+takse //_V_ takse, //
+liiklus    liiklus+0 //_S_ sg n, //
+teistele    teine+tele //_O_ pl all, //    teine+tele //_P_ pl all, //
+põhimaanteedele    põhi_maan_tee+dele //_S_ pl all, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Laenu    laen+0 //_S_ sg g, //
+võtta    võt+a //_V_ da, //
+ei    ei+0 //_V_ neg, //
+tohi    tohti+0 //_V_ o, //
+</s>
+<s>
+Laeva-Kärevere    Laeva-Käre_veri+0 //_H_ sg g, //    Laeva-Kärevere+0 //_H_ sg g, //
+lõigu    lõik+0 //_S_ sg g, //
+sulgemise    sulgemine+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ümbersõit    ümber_sõit+0 //_S_ sg n, //
+korraldatud    korralda+tud //_V_ tud, //    korralda=tud+0 //_A_ //    korralda=tud+0 //_A_ sg n, //    korralda=tud+d //_A_ pl n, //
+Põltsamaa    Põltsa_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Jõgeva    Jõgeva+0 //_H_ sg g, //
+kaudu    kaudu+0 //_K_ //
+ning    ning+0 //_J_ //
+Kärevere-Tiksoja    Käre_vere-Tiks_oja+0 //_H_ sg g, //    Kärevere-Tiksoja+0 //_H_ sg g, //
+lõigu    lõik+0 //_S_ sg g, //
+sulgemise    sulgemine+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+Kärevere-Kärkna    Kärevere-Kärkna+0 //_H_ sg g, //
+kaudu    kaudu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Riigi    riik+0 //_S_ sg g, //
+maanteede    maan_tee+de //_S_ pl g, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="2004" >
+selle    see+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+eelarve    eel_arve+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üle    üle+0 //_K_ //
+1,8    1,8+0 //_N_ ?, //
+miljardi    miljard+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+seal    seal+0 //_D_ //
+sees    sees+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+peale    peale+0 //_K_ //
+riigi    riik+0 //_S_ sg g, //
+raha    raha+0 //_S_ sg p, //
+ka    ka+0 //_D_ //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+programmide    programm+de //_S_ pl g, //
+oma    oma+0 //_P_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kuni    kuni+0 //_K_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="false" value="2006" comment="kuna ees on 'kuni', on võimalus lisada varjatud vahemik t0 kuni 2006 ...">
+2006.    2006.+0 //_O_ ?, //
+aastani    aasta+ni //_S_ sg ter, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eestil    Eesti+l //_H_ sg ad, //
+võimalik    võimalik+0 //_A_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+Liidu    Liidu+0 //_H_ sg g, //    Liidud+0 //_H_ sg g, //    Liit+0 //_H_ sg g, //
+ühtekuuluvusfondist    ühte_kuuluvus_fond+st //_S_ sg el, //
+suuremate    suurem+te //_C_ pl g, //
+põhimaanteede    põhi_maan_tee+de //_S_ pl g, //
+remondiks    remont+ks //_S_ sg tr, //
+taotleda    taotle+da //_V_ da, //
+500-600    500-600+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+<TIMEX tid="t1_2" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+maanteeameti    maan_tee_amet+0 //_S_ sg g, //
+pressiesindaja    pressi_esindaja+0 //_S_ sg n, //
+Tiina    Tiina+0 //_H_ sg n, //
+Reismann    Reis_mann+0 //_H_ sg n, //    Reismann+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Sellega    see+ga //_P_ sg kom, //
+saame    saa+me //_V_ me, //
+oluliselt    oluliselt+0 //_D_ //
+kiirendada    kiirenda+da //_V_ da, //
+suuremate    suurem+te //_C_ pl g, //
+põhimaanteede    põhi_maan_tee+de //_S_ pl g, //
+arengut    areng+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Regionaalarengu    regionaal_areng+0 //_S_ sg g, //
+fondist    fond+st //_S_ sg el, //    font+st //_S_ sg el, //
+saab    saa+b //_V_ b, //
+226    226+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+<TIMEX tid="t1_3" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+Reismann    Reis_mann+0 //_H_ sg n, //    Reismann+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Sellele    see+le //_P_ sg all, //
+peame    pida+me //_V_ me, //
+riigieelarvest    riigi_eel_arve+st //_S_ sg el, //
+andma    and+ma //_V_ ma, //
+juurde    juurde+0 //_D_ //
+77,5    77,5+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Laene    Laene+0 //_H_ sg g, //
+tee-ehituseks    tee-ehitus+ks //_S_ sg tr, //
+rahandusministeeriumi    rahandus_ministeerium+0 //_S_ sg g, //
+nõudel    nõu+del //_S_ pl ad, //    nõue+l //_S_ sg ad, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="2004" >
+sel    see+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+kasutata    kasuta+ta //_V_ ta, //
+.    . //_Z_ //
+</s>

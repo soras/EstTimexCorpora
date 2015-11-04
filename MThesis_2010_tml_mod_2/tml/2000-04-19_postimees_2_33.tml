@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ PM 
+ Peeter Mudist on väheseid eesti maalijaid , kelle puhul ei teki põlvkonna probleemi , on kirjutanud kunstiteadlane Eha Komissarov Arteris . 
+ Mudistit peavad omaks vanad , keskealised ja nooredki . 
+ Sellist omaksvõttu võivad oma eluajal kogeda ja nautida vaid vähesed kunstnikud . 
+ Peeter Mudist on sündinud <TIMEX3 tid="t338" type="DATE" value="1942-04-19" >19. aprillil 1942</TIMEX3> Tallinnas , lõpetanud Tallinna 1. keskkooli , õppinud Tallinna Polütehnilises Instituudis energeetikat ja lõpetanud Eesti Riikliku Kunstiinstituudi <TIMEX3 tid="t339" type="DATE" value="1967" >aastal 1967.</TIMEX3> 
+ Enne vabakunstniku ja -skulptorina tegutsema asumist <TIMEX3 tid="t340" type="DATE" value="1981" >1981</TIMEX3> töötas ta mitmel ametikohal , sealhulgas kunstnikuna Arsis ja õppejõuna Tallinna Pedagoogilises Instituudis . 
+ Ta on tuntud ka graafikuna . 
+ Mudist on <TIMEX3 tid="t341" type="DURATION" value="PXY">aastaid</TIMEX3> põdenud rasket haigust , kuid sellest hoolimata suutnud näha maailma ilusa ja värvilisena . 
+ " Kunst on oma olemuselt natuke paksem kui puhas mõte . 
+ Kunst tegeleb sellega , kuidas kesta , " selgitab ta . 
+ Mudist on muu hulgas pälvinud Kristjan Raua nimelise aastapreemia , Konrad Mäe nimelise medali ja Balti Assamblee kunstiauhinna . 
+ <TIMEX3 tid="t342" type="DATE" value="198" mod="END">Eesti NSV lõpuaastail</TIMEX3> nimetati ta teeneliseks kunstnikuks . 
+ Lõõgastumist ja ideid otsib Mudist loodusest . 
+ " Pole paremat , kui uidata mere ääres , " ütleb ta . 
+</TimeML>

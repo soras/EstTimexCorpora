@@ -1,0 +1,131 @@
+Toimetaja    toimetaja+0 //_S_ sg n, //
+:    : //_Z_ //
+Riina    Riina+0 //_H_ sg n, //
+Kallas    Kallas+0 //_H_ sg n, //
+Kaubavahetuse    kauba_vahetus+0 //_S_ sg g, //
+puudujääk    puudu_jääk+0 //_S_ sg n, //
+samas    samas+0 //_D_ //
+kahaneb    kahane+b //_V_ b, //
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+Marko    Marko+0 //_H_ sg n, //
+Mumm    Mumm+0 //_H_ sg n, //
+Eksport    eksport+0 //_S_ sg n, //
+Venemaale    Vene_maa+le //_H_ sg all, //
+võtab    võt+b //_V_ b, //
+hoogu    hoog+0 //_S_ sg p, //
+maha    maha+0 //_D_ //
+,    , //_Z_ //
+mõjutades    mõjuta+des //_V_ des, //
+kõige    kõige+0 //_D_ //
+enam    enam+0 //_D_ //
+valmistoidukaupade    valmis_toidu_kaup+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+jookide    jook+de //_S_ pl g, //
+müüki    müük+0 //_S_ sg p, //
+.    . //_Z_ //
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+jaanuaris-aprillis    jaanuari+s-aprill+s //_S_ sg in, //
+kasvas    kasva+s //_V_ s, //
+toidukaupade    toidu_kaup+de //_S_ pl g, //
+ning    ning+0 //_J_ //
+jookide    jook+de //_S_ pl g, //
+müük    müük+0 //_S_ sg n, //
+Venemaale    Vene_maa+le //_H_ sg all, //
+võrreldes    võrdle+des //_V_ des, //
+eelmise    eelmine+0 //_A_ sg g, //
+aastaga    aasta+ga //_S_ sg kom, //
+80-90    80-90+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+,    , //_Z_ //
+siis    siis+0 //_J_ //
+mais    maa+is //_S_ pl in, //    mai+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+kasv    kasv+0 //_S_ sg n, //
+40    40+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+,    , //_Z_ //
+juunis    juuni+s //_S_ sg in, //
+ulatus    ulatu+s //_V_ s, //
+kasv    kasv+0 //_S_ sg n, //
+12-17    12-17+0 //_N_ ?, //
+protsendini    protsent+ni //_S_ sg ter, //
+,    , //_Z_ //
+teatas    teata+s //_V_ s, //
+majandus-    majandus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+kommunikatsiooniministeerium    kommunikatsiooni_ministeerium+0 //_S_ sg n, //
+(    ( //_Z_ //
+MKM    MKM+0 //_Y_ ?, //
+)    ) //_Z_ //
+.    . //_Z_ //
+Kokku    kokku+0 //_D_ //
+kahanes    kahane+s //_V_ s, //
+juunis    juuni+s //_S_ sg in, //
+eksport    eksport+0 //_S_ sg n, //
+Venemaale    Vene_maa+le //_H_ sg all, //
+võrreldes    võrdle+des //_V_ des, //
+selle    see+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+maikuuga    mai_kuu+ga //_S_ sg kom, //
+kaks    kaks+0 //_N_ sg n, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+märtsis    märts+s //_S_ sg in, //
+kasvas    kasva+s //_V_ s, //
+eksport    eksport+0 //_S_ sg n, //
+Venemaale    Vene_maa+le //_H_ sg all, //
+aastatagusega    aasta_tagune+ga //_A_ sg kom, //
+võrreldes    võrdle+des //_V_ des, //
+peaaegu    pea_aegu+0 //_D_ //
+poole    pool+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+,    , //_Z_ //
+siis    siis+0 //_J_ //
+juunis    juuni+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+kasv    kasv+0 //_S_ sg n, //
+13    13+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+Statistikaameti    statistika_amet+0 //_S_ sg g, //
+esialgsetel    esi_algne+tel //_A_ pl ad, //
+andmetel    andmed+tel //_S_ pl ad, //
+jäi    jää+i //_V_ s, //
+kogueksport    kogu_eksport+0 //_S_ sg n, //
+eelmise    eelmine+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+juunikuu    juuni_kuu+0 //_S_ sg g, //
+tasemele    tase+le //_S_ sg all, //
+,    , //_Z_ //
+selle    see+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+maikuu    mai_kuu+0 //_S_ sg g, //
+näitajast    näitaja+st //_S_ sg el, //
+oli    ole+i //_V_ s, //
+aga    aga+0 //_J_ //
+ekspordi    eksport+0 //_S_ sg g, //
+maht    maht+0 //_S_ sg n, //
+8    8+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+väiksem    väiksem+0 //_C_ sg n, //
+.    . //_Z_ //
+Impordis    import+s //_S_ sg in, //
+toimusid    toimu+sid //_V_ sid, //
+sarnased    sarnane+d //_A_ pl n, //
+muutused    muutus+d //_S_ pl n, //
+.    . //_Z_ //
+Aastaga    Aastaga+0 //_H_ sg n, //
+vähenes    vähene+s //_V_ s, //
+import    import+0 //_S_ sg n, //
+4    4+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+eelmise    eelmine+0 //_A_ sg g, //
+kuuga    kuu+ga //_S_ sg kom, //
+võrreldes    võrdle+des //_V_ des, //
+8    8+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //

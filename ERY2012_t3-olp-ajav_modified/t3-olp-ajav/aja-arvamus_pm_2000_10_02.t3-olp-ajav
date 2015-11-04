@@ -1,0 +1,816 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-10-02TXX:XX" />
+<ignoreeri>
+|
+autor:
+JUHAN
+KIVIRÄHK
+,
+ES
+Turu-uuringute
+AS
+|
+ajalehenumber:
+Postimees
+2000.10.02
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Arvamus
+|
+alamrubriik:
+Arvamused
+|
+artikkel:
+Valitsemine
+tekitab
+rahulolematust
+|
+</ignoreeri>
+<s>
+ES    ES+0 //_Y_ ?, //
+Turu-uuringute    Turu-uuring+te //_S_ pl g, //
+ASi    AS+i //_Y_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2000-09" >
+septembrikuisest    septembri_kuine+st //_A_ sg el, //
+</TIMEX>
+arvamusküsitlusest    arvamus_küsitlus+st //_S_ sg el, //
+selgunud    selgu+nud //_V_ nud, //    selgu=nud+0 //_A_ //    selgu=nud+0 //_A_ sg n, //    selgu=nud+d //_A_ pl n, //
+erakondade    erakond+de //_S_ pl g, //
+toetusprotsentidest    toetus_protsent+dest //_S_ pl el, //
+jääb    jää+b //_V_ b, //
+mulje    mulje+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+poleks    ole+ks //_V_ neg ks, //
+tormilist    tormiline+t //_A_ sg p, //
+poliitikasuve    poliitika_suvi+0 //_S_ sg p, //
+mitmete    mitu+te //_P_ pl g, //
+erakorraliste    era_korraline+te //_A_ pl g, //
+istungjärkude    istung_järk+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+Toompea    Toom_pea+0 //_H_ sg g, //    Toompea+0 //_H_ sg g, //
+miitingutega    miiting+tega //_S_ pl kom, //
+olnudki    ole+nudki //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Ainsaks    ainus+ks //_A_ sg tr, //
+arvestamist    arvestamine+t //_S_ sg p, //
+väärt    väärt+0 //_A_ //
+muutuseks    muutus+ks //_S_ sg tr, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+erakonnamaastikul    erakonna_maastik+l //_S_ sg ad, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2000-01" >
+jaanuarist    jaanuar+st //_S_ sg el, //
+</TIMEX>
+alates    alga+tes //_V_ des, //
+aset    ase+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+leidnud    leid+nud //_V_ nud, //    leid=nud+0 //_A_ //    leid=nud+0 //_A_ sg n, //    leid=nud+d //_A_ pl n, //
+,    , //_Z_ //
+</kiil>
+võib    või+b //_V_ b, //
+lugeda    luge+da //_V_ da, //
+Isamaaliidu    Isa_maa_liit+0 //_H_ sg g, //    Isamaaliidu+0 //_H_ sg g, //    Isamaaliidud+0 //_H_ sg g, //
+toetajaskonna    toetajaskond+0 //_S_ sg g, //
+kaheksaprotsendilist    kaheksa_protsendiline+t //_A_ sg p, //
+langust    langus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Veel    veel+0 //_D_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2000-SP" >
+sellel    see+l //_P_ sg ad, //
+kevadel    kevad+l //_S_ sg ad, //    kevade+l //_S_ sg ad, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+ilmutanud    ilmuta+nud //_V_ nud, //    ilmuta=nud+0 //_A_ //    ilmuta=nud+0 //_A_ sg n, //    ilmuta=nud+d //_A_ pl n, //
+valitsuserakondade    valitsus_erakond+de //_S_ pl g, //
+reiting    reiting+0 //_S_ sg n, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="false" value="P1Y" >
+aastasele    aastane+le //_A_ sg all, //
+</TIMEX>
+võimulolekule    võimu+l_olek+le //_S_ sg all, //
+vaatamata    vaatamata+0 //_K_ //
+mingeid    mingi+id //_P_ pl p, //
+languse    langus+0 //_S_ sg g, //
+märke    märk+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+juba    juba+0 //_D_ //
+siis    siis+0 //_D_ //
+võis    või+s //_V_ s, //
+arvata    arva+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+rahva    rahvas+0 //_S_ sg g, //
+madalad    madal+d //_A_ pl n, //
+hinnangud    hinnang+d //_S_ pl n, //
+valitsuse    valitsus+0 //_S_ sg g, //
+toimetulekule    toime_tulek+le //_S_ sg all, //
+varem    varem+0 //_D_ //
+või    või+0 //_J_ //
+hiljem    hiljem+0 //_D_ //
+ka    ka+0 //_D_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+üksikute    üksik+te //_A_ pl g, //
+koostisosade    koostis_osa+de //_S_ pl g, //
+-    - //_Z_ //
+erakondade    erakond+de //_S_ pl g, //
+-    - //_Z_ //
+toetusele    toetus+le //_S_ sg all, //
+mõju    mõju+0 //_S_ sg p, //
+avaldavad    avalda+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+tõsiasi    tõsi_asi+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+valitsemine    valitsemine+0 //_S_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+rahulolematuse    rahul_olematus+0 //_S_ sg g, //
+tekitamist    tekitamine+t //_S_ sg p, //
+,    , //_Z_ //
+</kiil>
+pole    ole+0 //_V_ neg o, //
+veel    veel+0 //_D_ //
+ühtegi    üks+gi //_N_ sg p, //    üks+gi //_P_ sg p, //
+valitsevat    valitsev+t //_A_ sg p, //
+erakonda    erakond+0 //_S_ sg p, //
+populaarsuse    populaarsus+0 //_S_ sg g, //
+langusest    langus+st //_S_ sg el, //
+säästnud    sääst+nud //_V_ nud, //    sääst=nud+0 //_A_ //    sääst=nud+0 //_A_ sg n, //    sääst=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Peamiseks    peamine+ks //_A_ sg tr, //
+sündmuseks    sündmus+ks //_S_ sg tr, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+rahva    rahvas+0 //_S_ sg g, //
+poliitilisi    poliitiline+i //_A_ pl p, //
+eelistusi    eelistus+i //_S_ pl p, //
+siia    siia+0 //_D_ //
+või    või+0 //_J_ //
+sinna    sinna+0 //_D_ //
+võis    või+s //_V_ s, //
+kallutada    kalluta+da //_V_ da, //
+,    , //_Z_ //
+</kiil>
+oli    ole+i //_V_ s, //
+loomulikult    loomulikult+0 //_D_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+otsus    otsus+0 //_S_ sg n, //
+Narva    Narva+0 //_H_ sg g, //
+Elektrijaamade    elektri_jaam+de //_S_ pl g, //
+49%    49%+0 //_N_ ?, //
+aktsiate    aktsia+te //_S_ pl g, //
+müügist    müük+st //_S_ sg el, //
+USA    USA+0 //_Y_ ?, //
+firmale    firma+le //_S_ sg all, //
+NRG    NRG+0 //_Y_ ?, //
+Energy    Energy+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Võib    või+b //_V_ b, //
+tunduda    tundu+da //_V_ da, //
+ebaõiglane    eba_õiglane+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ehkki    ehkki+0 //_J_ //
+NRG-loos    NRG-loos+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+peaosa    pea_osa+0 //_S_ sg g, //
+täitmine    täitmine+0 //_S_ sg n, //
+usaldatud    usalda+tud //_V_ tud, //    usaldatud+0 //_A_ //    usaldatud+0 //_A_ sg n, //    usaldatud+d //_A_ pl n, //
+Mõõdukate    Mõõdukas+te //_H_ pl g, //    Mõõdukate+0 //_H_ sg g, //
+ministrile    minister+le //_S_ sg all, //
+Mihkel    Mihkel+0 //_H_ sg n, //
+Pärnojale    Pärnojale+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+tabas    taba+s //_V_ s, //
+häving    häving+0 //_S_ sg n, //
+hoopis    hoopis+0 //_D_ //
+Isamaaliitu    Isa_maa_liit+0 //_H_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Tegelikult    tegelikult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+vägagi    väga+gi //_D_ //
+loogiline    loogiline+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ühelt    üks+lt //_N_ sg abl, //    üks+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+suudab    suut+b //_V_ b, //
+vaid    vaid+0 //_D_ //
+väike    väike+0 //_A_ sg n, //
+osa    osa+0 //_S_ sg n, //
+kodanikke    kodanik+e //_S_ pl p, //
+valitsuskabineti    valitsus_kabinet+0 //_S_ sg g, //
+liikmeid    liige+id //_S_ pl p, //
+erakondlikult    erakondliku=lt+0 //_D_ //
+identifitseerida    identifitseeri+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Teiselt    teine+lt //_O_ sg abl, //    teine+lt //_P_ sg abl, //
+poolt    poolt+0 //_K_ //
+polnud    ole+nud //_V_ neg nud, //
+ju    ju+0 //_D_ //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+müük    müük+0 //_S_ sg n, //
+Mõõdukate    Mõõdukas+te //_H_ pl g, //    Mõõdukate+0 //_H_ sg g, //
+omaalgatus    oma_algatus+0 //_S_ sg n, //
+,    , //_Z_ //
+vaid    vaid+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+poliitiline    poliitiline+0 //_A_ sg n, //
+otsus    otsus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kogu    kogu+0 //_A_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+patud    patt+d //_S_ pl n, //
+personifitseeruvad    personifitseeru+vad //_V_ vad, //
+ikkagi    ikkagi+0 //_D_ //
+vaid    vaid+0 //_D_ //
+valitsusjuhi    valitsus_juht+0 //_S_ sg g, //
+isikus    isik+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tema    tema+0 //_P_ sg g, //
+kaudu    kaudu+0 //_K_ //
+tuleb    tule+b //_V_ b, //
+toetuse    toetus+0 //_S_ sg g, //
+vähenemisega    vähenemine+ga //_S_ sg kom, //
+maksta    maks+ta //_V_ da, //
+ka    ka+0 //_D_ //
+peaministri    pea_minister+0 //_S_ sg g, //
+erakonnal    erakond+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+oli    ole+i //_V_ s, //
+see    see+0 //_P_ sg n, //
+juba    juba+0 //_D_ //
+Laari    Laar+0 //_H_ sg g, //    Laari+0 //_H_ sg g, //
+esimese    esimene+0 //_O_ sg g, //
+valitsuse    valitsus+0 //_S_ sg g, //
+ajal    ajal+0 //_K_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+sama    sama+0 //_P_ sg n, //
+saatus    saatus+0 //_S_ sg n, //
+tabas    taba+s //_V_ s, //
+ka    ka+0 //_D_ //
+eelmise    eelmine+0 //_A_ sg g, //
+valitsuse    valitsus+0 //_S_ sg g, //
+tuumikjõuks    tuumik_jõud+ks //_S_ sg tr, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+Koonderakonda    koond_erakond+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Mõõdukate    Mõõdukas+te //_H_ pl g, //    Mõõdukate+0 //_H_ sg g, //
+head    hea+d //_A_ sg p, //
+seisu    seis+0 //_S_ adt, //
+oma    oma+0 //_P_ sg g, //
+partneritega    partner+tega //_S_ pl kom, //
+võrreldes    võrdle+des //_V_ des, //
+seletab    seleta+b //_V_ b, //
+suures    suur+s //_A_ sg in, //
+osas    osa+s //_S_ sg in, //
+Andres    Andres+0 //_H_ sg n, //
+Tarandi    Tarand+0 //_H_ sg g, //    Tarandi+0 //_H_ sg g, //    Tarant+0 //_H_ sg g, //
+nime    nimi+0 //_S_ sg g, //
+lisamine    lisamine+0 //_S_ sg n, //
+erakonna    erakond+0 //_S_ sg g, //
+nime    nimi+0 //_S_ sg g, //
+järele    järele+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+näitavad    näita+vad //_V_ vad, //
+nende    see+de //_P_ pl g, //
+küsitluste    küsitlus+te //_S_ pl g, //
+tulemused    tulemus+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+erakonna    erakond+0 //_S_ sg g, //
+toetuse    toetus+0 //_S_ sg g, //
+mõõtmisel    mõõtmine+l //_S_ sg ad, //
+liidri    liider+0 //_S_ sg g, //
+nime    nimi+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+kasutata    kasuta+ta //_V_ ta, //
+,    , //_Z_ //
+<kindel_piir/>
+toob    too+b //_V_ b, //
+Tarandi    tarand+0 //_S_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+kaasa    kaasa+0 //_D_ //
+ca    ca+0 //_Y_ ?, //
+3-5    3-5+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+lisahääli    lisa_hääl+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Võime    võime+0 //_S_ sg n, //
+vaid    vaid+0 //_D_ //
+oletada    oleta+da //_V_ da, //
+,    , //_Z_ //
+milline    milline+0 //_P_ sg n, //
+oleks    ole+ks //_V_ ks, //
+Mõõdukate    Mõõdukas+te //_H_ pl g, //    Mõõdukate+0 //_H_ sg g, //
+toetus    toetus+0 //_S_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+siis    siis+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Tarandi    tarand+0 //_S_ sg g, //
+asemel    asemel+0 //_K_ //
+oleks    ole+ks //_V_ ks, //
+küsimustikus    küsimustik+s //_S_ sg in, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+Pärnoja    Pärn_oja+0 //_H_ sg g, //    Pärnoja+0 //_H_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Valijate    valija+te //_S_ pl g, //
+enamiku    enamik+0 //_S_ sg g, //
+vastasseis    vastas_seis+0 //_S_ sg n, //
+NRG-tehingule    NRG-tehing+le //_S_ sg all, //
+pole    ole+0 //_V_ neg o, //
+Isamaaliidu    Isa_maa_liit+0 //_H_ sg g, //    Isamaaliidu+0 //_H_ sg g, //    Isamaaliidud+0 //_H_ sg g, //
+toetuse    toetus+0 //_S_ sg g, //
+kahanemise    kahanemine+0 //_S_ sg g, //
+ainus    ainus+0 //_A_ sg n, //
+võimalik    võimalik+0 //_A_ sg n, //
+põhjendus    põhjendus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="XXXX-WXX" comment="viide ühele septembrikuu nädalale, täpsemalt pole teada ..." >
+Küsitlusnädalal    küsitlus_nädal+l //_S_ sg ad, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+kuuma    kuum+0 //_A_ sg g, //
+teemana    teema+na //_S_ sg es, //
+üleval    üleval+0 //_D_ //
+Jaana    Jaana+0 //_H_ sg g, //
+Padriku    Padrik+0 //_H_ sg g, //    Padriku+0 //_H_ sg g, //
+korterilugu    korteri_lugu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+avaldas    avalda+s //_V_ s, //
+samuti    samuti+0 //_D_ //
+mõju    mõju+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+toetus    toetus+0 //_S_ sg n, //
+langes    lange+s //_V_ s, //
+selle    see+0 //_P_ sg g, //
+tõttu    tõttu+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegemist    tegemine+t //_S_ sg p, //
+ajutise    ajutine+0 //_A_ sg g, //
+tagasilöögiga    tagasi_löök+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Siiski    siiski+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+tähelepanuta    tähele_panu+ta //_S_ sg ab, //
+jätta    jät+a //_V_ da, //
+asjaolu    asja_olu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Isamaaliidu    Isa_maa_liit+0 //_H_ sg g, //    Isamaaliidu+0 //_H_ sg g, //    Isamaaliidud+0 //_H_ sg g, //
+toetus    toetus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vähenenud    vähene+nud //_V_ nud, //    vähene=nud+0 //_A_ //    vähene=nud+0 //_A_ sg n, //    vähene=nud+d //_A_ pl n, //
+just    just+0 //_D_ //    just+0 //_I_ //
+vanema    vanem+0 //_S_ sg g, //
+põlvkonna    põlvkond+0 //_S_ sg g, //
+hulgas    hulgas+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Ilmselt    ilmselt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegu    tegu+0 //_S_ sg p, //
+inimestega    inimene+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kunagiste    kunagine+te //_A_ pl g, //
+ERSP    ERSP+0 //_Y_ ?, //
+poolehoidjatena    poole_hoidja+tena //_S_ pl es, //
+toetasid    toeta+sid //_V_ sid, //
+valimistel    valimine+tel //_S_ pl ad, //
+järjepidevusest    järje_pidevus+st //_S_ sg el, //
+lähtudes    lähtu+des //_V_ des, //
+Isamaaliitu    Isa_maa_liit+0 //_H_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+erakonna    erakond+0 //_S_ sg g, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" temporalFunction="true" >
+tänasest    tänane+st //_A_ sg el, //
+</TIMEX>
+poliitikast    poliitika+st //_S_ sg el, //
+enam    enam+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+kunagisi    kunagine+i //_A_ pl p, //
+ideaale    ideaal+e //_S_ pl p, //
+kuidagi    kuidagi+0 //_D_ //
+üles    üles+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+suuda    suut+0 //_V_ o, //
+leida    leid+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ometi    ometi+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+toonud    too+nud //_V_ nud, //    too=nud+0 //_A_ //    too=nud+0 //_A_ sg n, //    too=nud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+opositsioonierakondade    opositsiooni_erakond+de //_S_ pl g, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="2000-SU" >
+suvised    suvine+d //_A_ pl n, //
+</TIMEX>
+ponnistused    ponnistus+d //_S_ pl n, //
+valijaid    valija+id //_S_ pl p, //
+enda    ise+0 //_P_ sg g, //
+poole    poole+0 //_K_ //
+võita    võit+a //_V_ da, //
+kaasa    kaasa+0 //_D_ //
+nende    see+de //_P_ pl g, //
+reitingu    reiting+0 //_S_ sg g, //
+olulist    oluline+t //_A_ sg p, //
+kasvu    kasv+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Inimeste    inimene+te //_S_ pl g, //
+poliitilised    poliitiline+d //_A_ pl n, //
+eelistused    eelistus+d //_S_ pl n, //
+pole    ole+0 //_V_ neg o, //
+nii    nii+0 //_D_ //
+lihtne    lihtne+0 //_A_ sg n, //
+fenomen    fenomen+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+erakonna    erakond+0 //_S_ sg g, //
+kaduma    kadu+ma //_V_ ma, //
+läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+hääled    hääl+d //_S_ pl n, //
+võiks    või+ks //_V_ ks, //
+lihtviisil    liht_viis+l //_S_ sg ad, //
+vastasleeri    vastas_leer+0 //_S_ sg g, //
+kontole    konto+le //_S_ sg all, //
+üle    üle+0 //_D_ //
+kanda    kand+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Vastuseis    vastu_seis+0 //_S_ sg n, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+müügile    müük+le //_S_ sg all, //
+ei    ei+0 //_V_ neg, //
+tähenda    tähenda+0 //_V_ o, //
+veel    veel+0 //_D_ //
+arusaamisele    aru_saamine+le //_S_ sg all, //
+jõudmist    jõudmine+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Savisaare    Savi_saar+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Reiljani    Reiljan+0 //_H_ sg g, //
+juhtimisel    juhtimine+l //_S_ sg ad, //
+riigivanker    riigi_vanker+0 //_S_ sg n, //
+libedamalt    libedamalt+0 //_D_ //
+liikuda    liiku+da //_V_ da, //
+võiks    või+ks //_V_ ks, //
+.    . //_Z_ //
+</s>
+<s>
+Seda    see+da //_P_ sg p, //
+kinnitab    kinnita+b //_V_ b, //
+märgatav    märgatav+0 //_A_ sg n, //
+disproportsioon    dis_proportsioon+0 //_S_ sg n, //
+elektrijaamade    elektri_jaam+de //_S_ pl g, //
+erastamise    erastamine+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+allkirja    all_kiri+0 //_S_ sg g, //
+andnute    and=nu+te //_S_ pl g, //
+ning    ning+0 //_J_ //
+Toompeale    Toom_pea+le //_H_ sg all, //    Toompea+le //_H_ sg all, //
+poliitilistele    poliitiline+tele //_A_ pl all, //
+miitingutele    miiting+tele //_S_ pl all, //
+kogunenute    kogune=nu+te //_S_ pl g, //
+arvu    arv+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Keskerakonna    Kesk_erakond+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Rahvaliidu    Rahva_liit+0 //_H_ sg g, //    Rahvaliidu+0 //_H_ sg g, //    Rahvaliidud+0 //_H_ sg g, //
+korraldatud    korralda+tud //_V_ tud, //    korralda=tud+0 //_A_ //    korralda=tud+0 //_A_ sg n, //    korralda=tud+d //_A_ pl n, //
+ürituste    üritus+te //_S_ pl g, //
+valimiskampaanialik    valimis_kampaania=lik+0 //_A_ sg n, //
+alltekst    all_tekst+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+rahvale    rahvas+le //_S_ sg all, //
+liialt    liialt+0 //_D_ //
+läbinähtav    läbi_nähtav+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ometi    ometi+0 //_D_ //
+tuleb    tule+b //_V_ b, //
+Keskerakonnale    kesk_erakond+le //_S_ sg all, //
+au    au+0 //_S_ sg p, //
+anda    and+a //_V_ da, //
+-    - //_Z_ //
+<kindel_piir/>
+viimastest    viimane+test //_A_ pl el, //
+Riigikogu    Riigi_kogu+0 //_H_ sg g, //    Riigikogu+0 //_H_ sg g, //
+valimistest    valimine+test //_S_ pl el, //
+saadik    saadik+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+neil    tema+l //_P_ pl ad, //
+õnnestunud    õnnestu+nud //_V_ nud, //    õnnestunud+0 //_A_ //    õnnestunud+0 //_A_ sg n, //    õnnestunud+d //_A_ pl n, //
+hoida    hoid+a //_V_ da, //
+stabiilset    stabiilne+t //_A_ sg p, //
+üle    üle+0 //_K_ //
+20-protsendilist    20_protsendiline+t //_A_ sg p, //
+toetajaskonda    toetajaskond+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Tundub    tundu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mitmeparteilises    mitme_parteiline+s //_A_ sg in, //
+ühiskonnas    ühiskond+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kuni    kuni+0 //_K_ //
+neljandiku    neljandik+0 //_N_ sg g, //
+valijate    valija+te //_S_ pl g, //
+toetus    toetus+0 //_S_ sg n, //
+ühele    üks+le //_N_ sg all, //    üks+le //_P_ sg all, //
+erakonnale    erakond+le //_S_ sg all, //
+selline    selline+0 //_P_ sg n, //
+optimaalne    optimaalne+0 //_A_ sg n, //
+tase    tase+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+edasine    edasine+0 //_A_ sg n, //
+kasv    kasv+0 //_S_ sg n, //
+normaalsetes    normaalne+tes //_A_ pl in, //
+oludes    olu+des //_S_ pl in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ebatõenäoline    eba_tõe_näoline+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eestimaa    Eesti_maa+0 //_H_ sg g, //
+Rahvaliit    rahva_liit+0 //_S_ sg n, //
+pole    ole+0 //_V_ neg o, //
+veel    veel+0 //_D_ //
+suutnud    suut+nud //_V_ nud, //    suut=nud+0 //_A_ //    suut=nud+0 //_A_ sg n, //    suut=nud+d //_A_ pl n, //
+oma    oma+0 //_P_ sg g, //
+selja    selg+0 //_S_ sg g, //
+taha    taha+0 //_K_ //
+koguda    kogu+da //_V_ da, //
+kõiki    kõik+0 //_P_ pl p, //
+neid    see+d //_P_ pl p, //
+valijaid    valija+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+varasemates    varasem+tes //_C_ pl in, //
+küsitlustes    küsitlus+tes //_S_ pl in, //
+avaldasid    avalda+sid //_V_ sid, //
+poolehoidu    poole_hoid+0 //_S_ sg p, //
+Maarahva    Maa_rahvas+0 //_H_ sg g, //
+Erakonnale    erakond+le //_S_ sg all, //
+,    , //_Z_ //
+Maaliidule    maa_liit+le //_S_ sg all, //
+või    või+0 //_J_ //
+Pensionäride    Pensionär+de //_H_ pl g, //    Pensionäri+de //_H_ pl g, //
+ja    ja+0 //_J_ //
+Perede    Pere+de //_H_ pl g, //    Perede+0 //_H_ sg g, //
+Erakonnale    erakond+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="2000-SP" >
+Kevadistes    kevadine+tes //_A_ pl in, //
+</TIMEX>
+uuringutes    uuring+tes //_S_ pl in, //
+võis    või+s //_V_ s, //
+väikest    väike+t //_A_ sg p, //    väikene+t //_A_ sg p, //
+toetusprotsenti    toetus_protsent+0 //_S_ sg p, //
+seletada    seleta+da //_V_ da, //
+ümberformeerunud    ümber_formeeru=nu+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+nime    nimi+0 //_S_ sg g, //
+muutnud    muut+nud //_V_ nud, //    muut=nud+0 //_A_ //    muut=nud+0 //_A_ sg n, //    muut=nud+d //_A_ pl n, //
+erakonna    erakond+0 //_S_ sg g, //
+vähese    vähene+0 //_A_ sg g, //
+tuntusega    tuntus+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Seda    see+da //_P_ sg p, //
+aga    aga+0 //_J_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Rahvaliit    rahva_liit+0 //_S_ sg n, //
+ka    ka+0 //_D_ //
+pärast    pärast+0 //_K_ //
+allkirjade    all_kiri+de //_S_ pl g, //
+kogumise    kogumine+0 //_S_ sg g, //
+kampaaniat    kampaania+t //_S_ sg p, //
+vastajatele    vastaja+tele //_S_ pl all, //
+tundmatuks    tundmatu+ks //_A_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+ei    ei+0 //_V_ neg, //
+tahaks    taht+ks //_V_ ks, //
+kuidagi    kuidagi+0 //_D_ //
+uskuda    usku+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Pigem    pigem+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+probleem    probleem+0 //_S_ sg n, //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+erakond    erakond+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oma    oma+0 //_P_ sg g, //
+tegevusega    tegevus+ga //_S_ sg kom, //
+positsioneerunud    positsioneeru+nud //_V_ nud, //    positsioneeru=nud+0 //_A_ //    positsioneeru=nud+0 //_A_ sg n, //    positsioneeru=nud+d //_A_ pl n, //
+valesse    vale+sse //_S_ sg ill, //
+nishshi    nishsh+0 //_S_ sg p, //
+-    - //_Z_ //
+sinna    sinna+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+Keskerakond    Kesk_erakond+0 //_H_ sg n, //
+juba    juba+0 //_D_ //
+ees    ees+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Arvan    arva+n //_V_ n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Rahvaliitu    rahva_liit+0 //_S_ adt, //
+oleks    ole+ks //_V_ ks, //
+oodanud    ooda=nud+0 //_A_ //    ooda=nud+0 //_A_ sg n, //    ooda=nud+d //_A_ pl n, //    oota+nud //_V_ nud, //
+suurem    suurem+0 //_C_ sg n, //
+edu    edu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+poliitikamaastiku    poliitika_maastik+0 //_S_ sg g, //
+senisest    senine+st //_A_ sg el, //
+vägevama    vägevam+0 //_C_ sg g, //
+lõhkikäristamise    lõhki_kärista=mine+0 //_S_ sg g, //
+asemel    asemel+0 //_K_ //
+oleks    ole+ks //_V_ ks, //
+üritanud    ürita+nud //_V_ nud, //    ürita=nud+0 //_A_ //    ürita=nud+0 //_A_ sg n, //    ürita=nud+d //_A_ pl n, //
+seda    see+da //_P_ sg p, //
+kolmikliidu    kolmik_liit+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Keskerakonna    kesk_erakond+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+seisva    seisev+0 //_A_ sg g, //
+mõõduka    mõõdukas+0 //_A_ sg g, //
+jõuna    jõud+na //_S_ sg es, //
+hoopis    hoopis+0 //_D_ //
+kokku    kokku+0 //_D_ //
+lappida    lappi+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegustes    praegune+tes //_A_ pl in, //
+</TIMEX>
+oludes    olu+des //_S_ pl in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+koalitsiooni-opositsiooni    koalitsiooni-opositsioon+0 //_S_ sg g, //
+kompromissitu    kompromissitu+0 //_A_ sg n, //
+vastasseis    vastas_seis+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+kusjuures    kus_juures+0 //_D_ //
+mõlema    mõlema+0 //_P_ sg g, //
+taga    taga+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+ligikaudu    ligi_kaudu+0 //_D_ //
+võrdne    võrdne+0 //_A_ sg n, //
+valijate    valija+te //_S_ pl g, //
+osakaal    osa_kaal+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+viinud    vii+nud //_V_ nud, //    vii=nud+0 //_A_ //    vii=nud+0 //_A_ sg n, //    vii=nud+d //_A_ pl n, //
+selleni    see+ni //_P_ sg ter, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+varasemast    varasem+st //_C_ sg el, //
+hoopis    hoopis+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+antakse    and+takse //_V_ takse, //
+eelistusi    eelistus+i //_S_ pl p, //
+parlamendivälistele    parlamendi_väline+tele //_A_ pl all, //
+väikeerakondadele    väike_erakond+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="2000-01" >
+jaanuaris    jaanuar+s //_S_ sg in, //
+</TIMEX>
+andis    and+is //_V_ s, //
+oma    oma+0 //_P_ sg g, //
+eelistuse    eelistus+0 //_S_ sg g, //
+mõnele    mõni+le //_P_ sg all, //
+Riigikokku    riigi_kogu+0 //_S_ adt, //
+mittekuuluvale    mitte_kuuluv+le //_A_ sg all, //
+erakonnale    erakond+le //_S_ sg all, //
+vaid    vaid+0 //_D_ //
+6%    6%+0 //_N_ ?, //
+vastanutest    vastanu+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="2000-09" >
+septembris    september+s //_S_ sg in, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selliste    selline+te //_P_ pl g, //
+vastajate    vastaja+te //_S_ pl g, //
+osakaal    osa_kaal+0 //_S_ sg n, //
+juba    juba+0 //_D_ //
+13%    13%+0 //_N_ ?, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,118 @@
+Toimetaja    toimetaja+0 //_S_ sg n, //
+:    : //_Z_ //
+Dannar    Dannar+0 //_H_ sg n, //
+Leitmaa    Leitmaa+0 //_H_ sg n, //
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+Reuters    Reuters+0 //_H_ sg n, //
+Jaapani    Jaapan+0 //_H_ sg g, //
+politsei    politsei+0 //_S_ sg n, //
+alustas    alusta+s //_V_ s, //
+19-aastase    19_aastane+0 //_A_ sg g, //
+tüdruku    tüdruk+0 //_S_ sg g, //
+süüdistuse    süüdistus+0 //_S_ sg g, //
+uurimist    uurimine+t //_S_ sg p, //
+,    , //_Z_ //
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+väitel    väide+l //_S_ sg ad, //
+vägistasid    vägista+sid //_V_ sid, //
+teda    tema+da //_P_ sg p, //
+neli    neli+0 //_N_ sg n, //
+USA    USA+0 //_Y_ ?, //
+sõdurit    sõdur+t //_S_ sg p, //
+.    . //_Z_ //
+Neiu    neiu+0 //_S_ sg n, //
+väitel    väide+l //_S_ sg ad, //
+vägistasid    vägista+sid //_V_ sid, //
+neli    neli+0 //_N_ sg n, //
+sõdurit    sõdur+t //_S_ sg p, //
+teda    tema+da //_P_ sg p, //
+Hiroshima    Hiroshima+0 //_H_ sg g, //
+linnas    linn+s //_S_ sg in, //
+14.    14.+0 //_O_ ?, //
+oktoobri    oktoober+0 //_S_ sg g, //
+varahommikul    vara_hommik+l //_S_ sg ad, //
+,    , //_Z_ //
+vahendab    vahenda+b //_V_ b, //
+Reuters    Reuters+0 //_H_ sg n, //
+.    . //_Z_ //
+Jaapani    Jaapan+0 //_H_ sg g, //
+meediakompanii    meedia_kompanii+0 //_S_ sg n, //
+NHK    NHK+0 //_Y_ ?, //
+väiteil    väide+il //_S_ pl ad, //
+vägistasid    vägista+sid //_V_ sid, //
+neli    neli+0 //_N_ sg n, //
+Iwakuni    Iwakun+0 //_H_ sg g, //    Iwakuni+0 //_H_ sg g, //
+õhuväebaasi    õhu_väe_baas+0 //_S_ sg g, //
+sõdurit    sõdur+t //_S_ sg p, //
+neiu    neid+0 //_S_ sg g, //    neiu+0 //_S_ sg g, //
+autopargis    auto_park+s //_S_ sg in, //
+olevas    olev+s //_A_ sg in, //
+autos    auto+s //_S_ sg in, //
+pärast    pärast+0 //_K_ //
+peol    peo+l //_S_ sg ad, //    pidu+l //_S_ sg ad, //
+tutvumist    tutvumine+t //_S_ sg p, //
+.    . //_Z_ //
+USA    USA+0 //_Y_ ?, //
+vägede    vägi+de //_S_ pl g, //
+esindajate    esindaja+te //_S_ pl g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kahtlusalused    kahtlus_alune+d //_A_ pl n, //
+vahistatud    vahistatu+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+USA    USA+0 //_Y_ ?, //
+lubab    luba+b //_V_ b, //
+Jaapani    Jaapan+0 //_H_ sg g, //
+võimudega    võim+dega //_S_ pl kom, //
+kriminaalasja    kriminaal_asi+0 //_S_ sg g, //
+uurimisel    uurimine+l //_S_ sg ad, //
+koostööd    koos_töö+d //_S_ sg p, //
+teha    tege+a //_V_ da, //
+.    . //_Z_ //
+USA    USA+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+Jaapani    Jaapan+0 //_H_ sg g, //
+kokkuleppe    kokku_lepe+0 //_S_ sg g, //
+kohaselt    kohaselt+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+pea    pida+0 //_V_ o, //
+USA    USA+0 //_Y_ ?, //
+sõjaväelasi    sõja_väelane+i //_S_ pl p, //
+jaapanlastele    jaapanlane+tele //_S_ pl all, //
+enne    enne+0 //_K_ //
+ametliku    ametlik+0 //_A_ sg g, //
+süüdistuse    süüdistus+0 //_S_ sg g, //
+esitamist    esitamine+t //_S_ sg p, //
+välja    välja+0 //_D_ //
+andma    and+ma //_V_ ma, //
+.    . //_Z_ //
+Hetkel    hetk+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Jaapanis    Jaapan+s //_H_ sg in, //
+50    50+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+USA    USA+0 //_Y_ ?, //
+sõdurit    sõdur+t //_S_ sg p, //
+,    , //_Z_ //
+kuid    kuid+0 //_J_ //
+jaapanlased    jaapanlane+d //_S_ pl n, //
+pole    ole+0 //_V_ neg o, //
+ameerikaste    amee_rikas+te //_A_ pl g, //
+sõjaväebaasidega    sõja_väe_baas+dega //_S_ pl kom, //
+rahul    rahul+0 //_D_ //
+,    , //_Z_ //
+sest    sest+0 //_J_ //
+sageli    sageli+0 //_D_ //
+põhjustavad    põhjusta+vad //_V_ vad, //
+ameeriklased    ameeriklane+d //_S_ pl n, //
+baaside    baas+de //_S_ pl g, //
+läheduses    lähedus+s //_S_ sg in, //
+õnnetusi    õnnetus+i //_S_ pl p, //
+,    , //_Z_ //
+lärmi    lärm+0 //_S_ sg p, //
+ning    ning+0 //_J_ //
+satuvad    sattu+vad //_V_ vad, //
+pahuksisse    pahuksisse+0 //_D_ //
+seadustega    seadus+tega //_S_ pl kom, //
+.    . //_Z_ //

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Brigitta Davidjants 
+ DŽÄSSROKK 
+ Phlox 
+ " rebimine + voltimine " 
+ Hinne : 5 
+ Mäletan , kuidas <TIMEX3 tid="t266" type="DATE" value="PAST_REF" anchorTimeID="t0">aastaid tagasi</TIMEX3> sattusin <TIMEX3 tid="t267" type="SET" value="XXXX-SU" quant="EVERY">igasuvisele</TIMEX3> vabaõhukontserdile Pilvepillerkaar . 
+ Millalgi vastu <TIMEX3 tid="t268" type="TIME" value="TEV">õhtut</TIMEX3> hakkas mängima lustlik diskobänd , mis kandis lillelist nime Phlox . 
+ Jala võttis see küll tatsuma , ent samas tikkus pähe mõte , et arenguruumi on poistel veel kõvasti . 
+ Kunagisest Pilvepillerkaarest on möödas <TIMEX3 tid="t269" type="DURATION" value="P6Y" beginPoint="t322" endPoint="t0">kuus aastat</TIMEX3><TIMEX3 tid="t322" type="DATE" value="2001"/> , osa liikmeidki on vahetunud ning ansamblil ilmunud värskelt kolmas album . 
+ Suur oli mu üllatus , kui plaati masinasse pannes kostis kunagiste diskomälestuste asemel väga korralik džässrokk . 
+ Kusjuures , sõna " korralik " võib viia eksiteele , sest eeldaks justkui igavust . 
+ Tegelikult on Phlox ilmekas tõestus sellest , et tubli töö tulemusel ei jää mitteakadeemilise haridusega pillimehed oma nii-öelda professionaalsetele ametikaaslastele sugugi alla . 
+ Ja mis eriti tore : lood pole mängitud välja lihtsalt ägeda keevitamise peale , vaid omavad ka sisu . 
+</TimeML>

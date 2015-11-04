@@ -1,0 +1,1117 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-07-28TXX:XX" />
+<ignoreeri>
+|
+autor:
+MADIS
+MIKKO
+,
+Brüssel
+|
+ajalehenumber:
+Postimees
+1998.07.28
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Valised
+|
+artikkel:
+Kesksuvel
+Saksamaa
+ääres
+Reinimaal
+|
+</ignoreeri>
+<s>
+Mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+pakub    pakku+b //_V_ b, //
+suvitajale    suvitaja+le //_S_ sg all, //
+Reinimaa    Reini_maa+0 //_H_ sg g, //
+-    - //_Z_ //
+nii    nii+0 //_D_ //
+tsiviliseeritud    tsiviliseeri+tud //_V_ tud, //    tsiviliseeri=tud+0 //_A_ //    tsiviliseeri=tud+0 //_A_ sg n, //    tsiviliseeri=tud+d //_A_ pl n, //
+ajalugu    aja_lugu+0 //_S_ sg p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+ontlikku    ontlik+0 //_A_ sg p, //
+metsikust    metsikus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1" type="DATE" temporalFunction="true" value="XXXX-WXX-6" comment="täielik avaldamine problemaatiline">
+Ühel    üks+l //_N_ sg ad, //    üks+l //_P_ sg ad, //
+südasuvisel    süda_suvine+l //_A_ sg ad, //
+laupäeval    lau_päev+l //_S_ sg ad, //
+</TIMEX>
+arutasid    aruta+sid //_V_ sid, //
+kaks    kaks+0 //_N_ sg n, //
+härrasmeest    härras_mees+t //_S_ sg p, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+riiklikus    riiklik+s //_A_ sg in, //
+raadiokanalis    raadio_kanal+s //_S_ sg in, //
+,    , //_Z_ //
+miks    miks+0 //_D_ //
+saksa    saksa+0 //_G_ //
+lapsed    laps+d //_S_ pl n, //
+,    , //_Z_ //
+tihti    tihti+0 //_D_ //
+koos    koos+0 //_K_ //
+vanematega    vanem+tega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+armastavad    armasta+vad //_V_ vad, //
+rannaliivale    ranna_liiv+le //_S_ sg all, //
+losse    loss+e //_S_ pl p, //
+ehitada    ehita+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+miks    miks+0 //_D_ //
+hollandlased    hollandlane+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+taanlased    taanlane+d //_S_ pl n, //
+neid    tema+d //_P_ pl p, //
+lõhuvad    lõhku+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Härrased    härrased+d //_S_ pl n, //
+leidsid    leid+sid //_V_ sid, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sakslaste    sakslane+te //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võibolla    võib_olla+0 //_D_ //
+tegu    tegu+0 //_S_ sg p, //
+sissejuurdunud    sisse_juurdunud+0 //_A_ //    sisse_juurdunud+0 //_A_ sg n, //    sisse_juurdunud+d //_A_ pl n, //
+jõudemonstratsiooni    jõu_demonstratsioon+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+ekspansioonitraditsiooniga    ekspansiooni_traditsioon+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+puhul    puhul+0 //_K_ //
+aga    aga+0 //_J_ //
+juba    juba+0 //_D_ //
+emapiimaga    ema_piim+ga //_S_ sg kom, //
+külge    külge+0 //_D_ //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+võitlemisega    võitlemine+ga //_S_ sg kom, //
+selle    see+0 //_P_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Saates    saade+s //_S_ sg in, //
+osalejad    osaleja+d //_S_ pl n, //
+arvasid    arva+sid //_V_ sid, //
+veel    veel+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ainus    ainus+0 //_A_ sg n, //
+riik    riik+0 //_S_ sg n, //
+Euroopas    Euroopa+s //_H_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+lastele    laps+tele //_S_ pl all, //
+mängimiseks    mängimine+ks //_S_ sg tr, //
+liivakaste    liiva_kast+e //_S_ pl p, //
+meisterdatakse    meisterda+takse //_V_ takse, //
+.    . //_Z_ //
+</s>
+<s>
+Seega    seega+0 //_D_ //
+teistele    teine+tele //_O_ pl all, //    teine+tele //_P_ pl all, //
+tundmatu    tundmatu+0 //_A_ sg n, //
+liivakasti-traditsioon    liiva_kasti-traditsioon+0 //_S_ sg n, //
+jätkub    jätku+b //_V_ b, //
+ka    ka+0 //_D_ //
+koduhoovist    kodu_hoov+st //_S_ sg el, //
+eemal    eemal+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+arvasid    arva+sid //_V_ sid, //
+väitlejad    väitleja+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Vestluse    vestlus+0 //_S_ sg g, //
+käigus    käigus+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+jõutud    jõu=tud+0 //_A_ //    jõu=tud+0 //_A_ sg n, //    jõu=tud+d //_A_ pl n, //    jõud+tud //_V_ tud, //
+selgusele    selgus+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kindluse    kindlus+0 //_S_ sg g, //
+ehitamine    ehitamine+0 //_S_ sg n, //
+iseenesest    ise_enesest+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+selgeks    selge+ks //_A_ sg tr, //
+sõnumiks    sõnum+ks //_S_ sg tr, //
+“    “ //_Z_ //
+ära    ära+0 //_V_ neg o, //
+tule    tule+0 //_V_ o, //
+”    ” //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+rannaliivale    ranna_liiv+le //_S_ sg all, //
+meisterdatud    meisterda+tud //_V_ tud, //    meisterda=tud+0 //_A_ //    meisterda=tud+0 //_A_ sg n, //    meisterda=tud+d //_A_ pl n, //
+lossidele    loss+dele //_S_ pl all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+jäätud    jäätu+d //_V_ d, //
+tihtipeale    tihti_peale+0 //_D_ //
+ka    ka+0 //_D_ //
+mingi    mingi+0 //_P_ sg n, //
+sõnum    sõnum+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+viitab    viita+b //_V_ b, //
+soovile    soov+le //_S_ sg all, //
+suhelda    suhtle+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ajaloolised    aja_looline+d //_A_ pl n, //
+lossid    loss+d //_S_ pl n, //
+</s>
+<s>
+Sakslaste    sakslane+te //_S_ pl g, //
+ajaloolist    aja_looline+t //_A_ sg p, //
+indu    ind+0 //_S_ sg p, //    ind+u //_S_ pl p, //
+päris-losse    päris-loss+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+-kindlusi    kindlus+i //_S_ pl p, //
+püstitada    püstita+da //_V_ da, //
+saab    saa+b //_V_ b, //
+hinnata    hinda+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+viibides    viibi+des //_V_ des, //
+leiaksite    leid+ksite //_V_ ksite, //
+päeva    päev+0 //_S_ sg g, //
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+jõe    jõgi+0 //_S_ sg g, //
+orus    org+s //_S_ sg in, //
+ringi    ringi+0 //_D_ //
+vaadata    vaata+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Org    org+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muidugi    muidugi+0 //_D_ //
+piisavalt    piisavalt+0 //_D_ //
+suhteline    suhteline+0 //_A_ sg n, //
+mõiste    mõiste+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+paremkaldal    parem_kallas+l //_S_ sg ad, //
+algavad    alga+vad //_V_ vad, //
+mäed    mägi+d //_S_ pl n, //
+umbes    umbes+0 //_D_ //
+Frankfurdi    Frankfurt+0 //_H_ sg g, //
+kandis    kant+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Lopsaka    Lopsaka+0 //_H_ sg g, //    Lopsakas+0 //_H_ sg g, //
+segametsaga    sega_mets+ga //_S_ sg kom, //
+kaetud    kae+tud //_V_ tud, //    kaetud+0 //_A_ //    kaetud+0 //_A_ sg n, //    kaetud+d //_A_ pl n, //    kat+tud //_V_ tud, //
+kõrgendikud    kõrgendik+d //_S_ pl n, //
+jätkuvad    jätku+vad //_V_ vad, //
+kuni    kuni+0 //_K_ //
+Wiesbadenini    Wiesbaden+ni //_H_ sg ter, //    Wiesbadeni+ni //_H_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Pisut    pisut+0 //_D_ //
+üle    üle+0 //_K_ //
+270    270+0 //_N_ ?, //
+kilomeetri    kilo_meeter+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+vasakkaldal    vasak_kallas+l //_S_ sg ad, //
+Bonnist    Bonn+st //_H_ sg el, //
+Oppenheimi    Oppenheim+0 //_H_ adt, //
+-    - //_Z_ //
+240    240+0 //_N_ ?, //
+kilomeetrit    kilo_meeter+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Põhimõtteliselt    põhi_mõtteliselt+0 //_D_ //
+võib    või+b //_V_ b, //
+mööda    mööda+0 //_K_ //
+mäenõlvu    mäe_nõlv+u //_S_ pl p, //
+kuni    kuni+0 //_K_ //
+Shveitsini    Shveits+ni //_H_ sg ter, //
+matkata    matka+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Jalgsi    jalgsi+0 //_D_ //
+astudes    astu+des //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+rännaku    rännak+0 //_S_ sg g, //
+pikkus    pikkus+0 //_S_ sg n, //
+350    350+0 //_N_ ?, //
+kilomeetrit    kilo_meeter+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Iseenesest    ise_enesest+0 //_D_ //
+mõistetavalt    mõistetavalt+0 //_D_ //
+võib    või+b //_V_ b, //
+kogu    kogu+0 //_A_ //
+maa    maa+0 //_S_ sg g, //
+ka    ka+0 //_D_ //
+mingi    mingi+0 //_P_ sg g, //
+liiklusvahendiga    liiklus_vahend+ga //_S_ sg kom, //
+läbida    läbi+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+jõe    jõgi+0 //_S_ sg g, //
+orgu    org+0 //_S_ adt, //
+ümbritsevates    ümbritsev+tes //_A_ pl in, //
+metsades    mets+des //_S_ pl in, //
+leiduvad    leiduv+d //_A_ pl n, //
+matkatrassid    matka_trass+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aga    aga+0 //_J_ //
+saksaliku    saksalik+0 //_A_ sg g, //
+täpsusega    täpsus+ga //_S_ sg kom, //
+märgistatud    märgista+tud //_V_ tud, //    märgista=tud+0 //_A_ //    märgista=tud+0 //_A_ sg n, //    märgista=tud+d //_A_ pl n, //
+kõigi    kõik+0 //_P_ pl g, //
+nelja    neli+0 //_N_ sg g, //
+ilmakaare    ilma_kaar+0 //_S_ sg g, //
+suunas    suunas+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Rhenhöhenweg    Rhenhöhenweg+0 //_H_ sg n, //
+-    - //_Z_ //
+tähisega    tähis+ga //_S_ sg kom, //
+“    “ //_Z_ //
+R    R+0 //_Y_ ?, //
+”    ” //_Z_ //
+-    - //_Z_ //
+juhib    juhti+b //_V_ b, //
+teid    sina+d //_P_ pl p, //
+läbi    läbi+0 //_D_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+ajaloo    aja_lugu+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Alates    alates+0 //_K_ //
+vanadest    vana+dest //_A_ pl el, //
+roomlastest    roomlane+test //_S_ pl el, //
+ja    ja+0 //_J_ //
+lõpetades    lõpeta+des //_V_ des, //
+Teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+maailmasõja    maa_ilma_sõda+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+tänapäevaga    täna_päev+ga //_S_ sg kom, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kölni    Köln+0 //_H_ sg g, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegune    praegune+0 //_A_ sg n, //
+</TIMEX>
+aedlinn    aed_linn+0 //_S_ sg n, //
+Deudz    Deudz+0 //_H_ sg n, //
+kannab    kand+b //_V_ b, //
+vana    vana+0 //_A_ sg g, //
+germaani    germaani+0 //_G_ //
+hõimu    hõim+0 //_S_ sg g, //
+nime    nimi+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+järgi    järgi+0 //_K_ //
+Rooma    Rooma+0 //_H_ sg g, //
+impeeriumi    impeerium+0 //_S_ sg g, //
+sõjardid    sõjard+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+põhjapoolseima    põhja_poolse=im+0 //_U_ sg g, //
+kindluse    kindlus+0 //_S_ sg g, //
+nimetasid    nimeta+sid //_V_ sid, //
+.    . //_Z_ //
+</s>
+<s>
+Paarkümmend    paar_kümmend+0 //_N_ sg n, //
+kilomeetrit    kilo_meeter+t //_S_ sg p, //
+lõuna    lõuna+0 //_S_ sg g, //
+pool    pool+0 //_K_ //
+asub    asu+b //_V_ b, //
+Limes    Limes+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ladina    ladin+0 //_S_ sg g, //
+keeles    keel+s //_S_ sg in, //
+tähendab    tähenda+b //_V_ b, //
+see    see+0 //_P_ sg n, //
+piiri    piir+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Piisab    piisa+b //_V_ b, //
+pilgust    pilk+st //_S_ sg el, //
+Rooma    Rooma+0 //_H_ sg g, //
+impeeriumi    impeerium+0 //_S_ sg g, //
+kaardile    kaart+le //_S_ sg all, //
+<TIMEX  tid="t1_2" type="DATE" temporalFunction="true" value="00" anchorTimeID="t0" mod="START">
+meie    mina+0 //_P_ pl g, //
+aastatuhande    aasta_tuhat+0 //_S_ sg g, //
+algusest    algus+st //_S_ sg el, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+võib    või+b //_V_ b, //
+veenduda    veendu+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+roomlased    roomlane+d //_S_ pl n, //
+muretsesid    muretse+sid //_V_ sid, //
+õige    õige+0 //_D_ //
+tõsiselt    tõsiselt+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+idapiiri    ida_piir+0 //_S_ sg g, //
+pidavuse    pida=vus+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Limesist    Limes+st //_H_ sg el, //    Limesi+st //_H_ sg el, //
+kuni    kuni+0 //_K_ //
+Doonauni    Doonau+ni //_H_ sg ter, //
+ehitatud    ehita+tud //_V_ tud, //    ehitatud+0 //_A_ //    ehitatud+0 //_A_ sg n, //    ehitatud+d //_A_ pl n, //
+üle    üle+0 //_D_ //
+200-kilomeetrist    200_kilo_meetrine+t //_A_ sg p, //
+kindlusvalli    kindlus_vall+0 //_S_ sg p, //
+võib    või+b //_V_ b, //
+pidada    pida+da //_V_ da, //
+Hiina    Hiina+0 //_H_ sg g, //
+müüri    müür+0 //_S_ sg p, //
+Euroopas    Euroopa+s //_H_ sg in, //
+asunud    asu+nud //_V_ nud, //    asu=nud+0 //_A_ //    asu=nud+0 //_A_ sg n, //    asu=nud+d //_A_ pl n, //
+vennakeseks    vennake+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0">
+Täna    täna+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Limesis    Limes+s //_H_ sg in, //    Limesi+s //_H_ sg in, //
+renoveeritud    renoveeri+tud //_V_ tud, //    renoveeri=tud+0 //_A_ //    renoveeri=tud+0 //_A_ sg n, //    renoveeri=tud+d //_A_ pl n, //
+esimene    esimene+0 //_O_ sg n, //
+müüritorn    müüri_torn+0 //_S_ sg n, //
+sellest    see+st //_P_ sg el, //
+hiigelrajatisest    hiigel_rajatis+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+pidas    pida+s //_V_ s, //
+idast    ida+st //_S_ sg el, //
+pealetungivaid    peale_tungiv+id //_A_ pl p, //
+horde    hord+e //_S_ pl p, //
+kinni    kinni+0 //_D_ //
+<TIMEX  tid="t4" type="DURATION" temporalFunction="true" value="P200Y" mod="LESS_THAN" >
+peaaegu    pea_aegu+0 //_D_ //
+200    200+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+jõe    jõgi+0 //_S_ sg g, //
+oru    org+0 //_S_ sg g, //
+heroiseerimine    heroiseeri=mine+0 //_S_ sg n, //
+algas    alga+s //_V_ s, //
+aga    aga+0 //_J_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="18" >
+möödunud    möödu+nud //_V_ nud, //    möödunud+0 //_A_ //    möödunud+0 //_A_ sg n, //    möödunud+d //_A_ pl n, //
+sajandil    sajand+l //_S_ sg ad, //
+</TIMEX>
+Saksa    saksa+0 //_G_ //
+romantikute    romantik+te //_S_ pl g, //
+poolt    poolt+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kogu    kogu+0 //_A_ //
+orgu    org+0 //_S_ adt, //
+ääristavad    äärista+vad //_V_ vad, //
+mäenõlvad    mäe_nõlv+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+täis    täis+0 //_D_ //
+pikitud    piki=tud+0 //_A_ //    piki=tud+0 //_A_ sg n, //    piki=tud+d //_A_ pl n, //    pikki+tud //_V_ tud, //
+keskaegsete    kesk_aegne+te //_A_ pl g, //
+varemete    vare+te //_S_ pl g, //
+asemele    asemele+0 //_K_ //
+<TIMEX  tid="t6" type="DATE" temporalFunction="false" value="18" >
+19.    19.+0 //_O_ ?, //
+sajandil    sajand+l //_S_ sg ad, //
+</TIMEX>
+ehitatud    ehita+tud //_V_ tud, //    ehitatud+0 //_A_ //    ehitatud+0 //_A_ sg n, //    ehitatud+d //_A_ pl n, //
+stiliseeritud    stiliseeri+tud //_V_ tud, //    stiliseeri=tud+0 //_A_ //    stiliseeri=tud+0 //_A_ sg n, //    stiliseeri=tud+d //_A_ pl n, //
+kindlusi    kindlus+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+jahilosse    jahi_loss+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Miks    Mi+ks //_H_ sg tr, //    Miks+0 //_H_ sg n, //    miks+0 //_D_ //
+varemetele    vare+tele //_S_ pl all, //
+,    , //_Z_ //
+”    ” //_Z_ //
+küsin    küsi+n //_V_ n, //
+oma    oma+0 //_P_ sg g, //
+saksa    saksa+0 //_G_ //
+teekaaslaselt    tee_kaaslane+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Prantslased    prantslane+d //_S_ pl n, //
+olid    ole+id //_V_ sid, //
+<TIMEX  tid="t1_3" type="DATE" temporalFunction="true" value="18" anchorTimeID="t6" >
+selleks    see+ks //_P_ sg tr, //
+ajaks    aeg+ks //_S_ sg tr, //
+</TIMEX>
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+lammutada    lammuta+da //_V_ da, //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+kõlab    kõla+b //_V_ b, //
+vastus    vastus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+kellelgi    keegi+lgi //_P_ sg ad, //
+jääb    jää+b //_V_ b, //
+mahti    mahti+0 //_X_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+kiirteedel    kiir_tee+del //_S_ pl ad, //
+kihutamise    kihutamine+0 //_S_ sg g, //
+kõrval    kõrval+0 //_K_ //
+põigata    põika+ta //_V_ da, //
+ka    ka+0 //_D_ //
+hämaratele    hämar+tele //_A_ pl all, //
+metsateedele    metsa_tee+dele //_S_ pl all, //
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+kaldapealsetel    kalda_pealne+tel //_S_ pl ad, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+tõepoolest    tõe_poolest+0 //_D_ //
+võib    või+b //_V_ b, //
+tekkida    tekki+da //_V_ da, //
+tunne    tunne+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+kohe    kohe+0 //_D_ //
+võib    või+b //_V_ b, //
+kohtuda    kohtu+da //_V_ da, //
+lohet    lohe+t //_S_ sg p, //
+naelutava    naeluta=v+0 //_A_ sg g, //
+nibelungiga    nibelung+ga //_S_ sg kom, //    nibelungi+ga //_S_ sg kom, //    nibelunk+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Ontlik    ontlik+0 //_A_ sg n, //
+metsikus    metsikus+0 //_S_ sg n, //
+</s>
+<s>
+Bonni    Bonn+0 //_H_ sg g, //
+eeslinnas    ees_linn+s //_S_ sg in, //
+Bad    Bad+0 //_H_ sg n, //
+Godesbergis    Godesberg+s //_H_ sg in, //    Godesbergi+s //_H_ sg in, //    Godesberk+s //_H_ sg in, //
+võib    või+b //_V_ b, //
+ka    ka+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg g, //
+suursaadik    suur_saadik+0 //_S_ sg n, //
+oma    oma+0 //_P_ sg g, //
+koduresidentsist    kodu_residents+st //_S_ sg el, //
+imetleda    imetle+da //_V_ da, //
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+vasakkaldal    vasak_kallas+l //_S_ sg ad, //
+asuvate    asuv+te //_A_ pl g, //
+Drachenfelsi    Drachenfels+0 //_H_ sg g, //    Drachenfelsi+0 //_H_ sg g, //
+lossivaremete    lossi_vare+te //_S_ pl g, //
+hambulist    hambuline+t //_A_ sg p, //
+reljeefi    reljeef+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+jõe    jõgi+0 //_S_ sg g, //
+orus    org+s //_S_ sg in, //
+<TIMEX  tid="t1_4" type="DURATION" temporalFunction="true" value="PXXXY" beginPoint="t8" endPoint="t9" >
+<TIMEX  tid="t8" type="DATE" temporalFunction="false" value="11" >
+12.    12.+0 //_O_ ?, //
+sajandist    sajand+st //_S_ sg el, //
+</TIMEX>
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+tänaseni    tänaseni+0 //_D_ //
+</TIMEX>
+</TIMEX>
+püsinud    püsi+nud //_V_ nud, //    püsi=nud+0 //_A_ //    püsi=nud+0 //_A_ sg n, //    püsi=nud+d //_A_ pl n, //
+oma    oma+0 //_P_ sg g, //
+esialgsel    esi_algne+l //_A_ sg ad, //
+kujul    kuju+l //_S_ sg ad, //
+kõigest    kõigest+0 //_D_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+-    - //_Z_ //
+Marksburgi    Marksburg+0 //_H_ sg g, //    Marksburgi+0 //_H_ sg g, //
+kindlus    kindlus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sealtkandi    sealt_kandi+0 //_D_ //
+metsades    mets+des //_S_ pl in, //
+ringi    ringi+0 //_D_ //
+marssides    marssi+des //_V_ des, //
+võib    või+b //_V_ b, //
+üksiti    üksiti+0 //_D_ //
+unustada    unusta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+asud    asu+d //_S_ pl n, //
+riigis    riik+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+elab    ela+b //_V_ b, //
+80    80+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+inimest    inimene+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Teisalt    teisalt+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+teerajad    tee_rada+d //_S_ pl n, //
+küll    küll+0 //_D_ //
+asfalteeritud    asfalteeri+tud //_V_ tud, //    asfalteeri=tud+0 //_A_ //    asfalteeri=tud+0 //_A_ sg n, //    asfalteeri=tud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+korralikult    korralikult+0 //_D_ //
+märgistatud    märgista+tud //_V_ tud, //    märgista=tud+0 //_A_ //    märgista=tud+0 //_A_ sg n, //    märgista=tud+d //_A_ pl n, //
+trassid    trass+d //_S_ pl n, //
+teevad    tege+vad //_V_ vad, //
+metsiku    metsik+0 //_A_ sg g, //
+eemalolemise    eemal_ole=mine+0 //_S_ sg g, //
+siiski    siiski+0 //_D_ //
+võimatuks    võimatu+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+ega    ega+0 //_D_ //
+kohalik    kohalik+0 //_A_ sg n, //
+rahvas    rahvas+0 //_S_ sg n, //
+seda    see+da //_P_ sg p, //
+väga    väga+0 //_D_ //
+vist    vist+0 //_D_ //
+ihaldagi    ihalda+gi //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Igast    iga+st //_P_ sg el, //
+vähegi    vähegi+0 //_D_ //
+ontlikust    ontlik+st //_A_ sg el, //
+turismifirmast    turismi_firma+st //_S_ sg el, //
+võib    või+b //_V_ b, //
+muretseda    muretse+da //_V_ da, //
+matkaradade    matka_rada+de //_S_ pl g, //
+kaardi    kaart+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+isegi    isegi+0 //_D_ //
+kellaajaliselt    kella_aja=liselt+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+märgitud    märgi=tud+0 //_A_ //    märgi=tud+0 //_A_ sg n, //    märgi=tud+d //_A_ pl n, //    märki+tud //_V_ tud, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+palju    palju+0 //_D_ //
+teil    sina+l //_P_ pl ad, //
+kulub    kulu+b //_V_ b, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+või    või+0 //_J_ //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+marsruudi    marsruut+0 //_S_ sg g, //
+läbimiseks    läbimine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Hunnitu    Hunnitu+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+olukord    olu_kord+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+sakslastest    sakslane+test //_S_ pl el, //
+matkakaaslased    matka_kaaslane+d //_S_ pl n, //
+pakkusid    pakku+sid //_V_ sid, //
+kehakinnituseks    keha_kinnitus+ks //_S_ sg tr, //
+taani    taani+0 //_G_ //
+retsepti    retsept+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+iseküpsetatud    ise_küpseta=tud+0 //_A_ //    ise_küpseta=tud+0 //_A_ sg n, //    ise_küpseta=tud+d //_A_ pl n, //
+leiba    leib+0 //_S_ sg p, //
+koos    koos+0 //_K_ //
+kodus    kodu+s //_S_ sg in, //
+valmistatud    valmista+tud //_V_ tud, //    valmista=tud+0 //_A_ //    valmista=tud+0 //_A_ sg n, //    valmista=tud+d //_A_ pl n, //
+pardimaksa    pardi_maks+0 //_S_ sg g, //
+võidega    või+dega //_S_ pl kom, //    võie+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+keeldusid    keeldu+sid //_V_ sid, //
+nad    tema+d //_P_ pl n, //
+sealsamas    seal_samas+0 //_D_ //
+lagendiku    lagendik+0 //_S_ sg g, //
+servas    serv+s //_S_ sg in, //
+kasvavaid    kasvav+id //_A_ pl p, //
+metsikuid    metsik+id //_A_ pl p, //
+vaarikaid    vaarikas+id //_S_ pl p, //
+proovimast    proovi+mast //_V_ mast, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Metsloomad    mets_loom+d //_S_ pl n, //
+võivad    või+vad //_V_ vad, //
+ju    ju+0 //_D_ //
+levitada    levita+da //_V_ da, //
+igasuguseid    iga_sugune+id //_P_ pl p, //
+haigusi    haigus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+kinnitasid    kinnita+sid //_V_ sid, //
+nad    tema+d //_P_ pl n, //
+ühest    üks+st //_N_ sg el, //    üks+st //_P_ sg el, //
+suust    suu+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Imelik    imelik+0 //_A_ sg n, //
+oli    ole+i //_V_ s, //
+kuulda    kuul+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kõrvuti    kõrvuti+0 //_D_ //
+marutaudis    maru_taud+s //_S_ sg in, //
+rebastega    rebane+tega //_S_ pl kom, //
+süüdistati    süüdista+ti //_V_ ti, //
+ka    ka+0 //_D_ //
+põtru    põder+u //_S_ pl p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ebausaldatavaid    eba_usaldatav+id //_A_ pl p, //
+lojuseid    lojus+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+vähegi    vähegi+0 //_D_ //
+metsast    mets+st //_S_ sg el, //
+välja    välja+0 //_D_ //
+jõuda    jõud+a //_V_ da, //
+,    , //_Z_ //
+haarab    haara+b //_V_ b, //
+pilk    pilk+0 //_S_ sg n, //
+viinamarjaistandusi    viina_marja_istandus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Saksaliku    saksalik+0 //_A_ sg g, //
+täpsusega    täpsus+ga //_S_ sg kom, //
+millimeetri    milli_meeter+0 //_S_ sg g, //
+pealt    pealt+0 //_K_ //
+lõigatud    lõiga=tud+0 //_A_ //    lõiga=tud+0 //_A_ sg n, //    lõiga=tud+d //_A_ pl n, //    lõika+tud //_V_ tud, //
+.    . //_Z_ //
+</s>
+<s>
+Et    et+0 //_J_ //
+siinne    siinne+0 //_A_ sg n, //
+kliima    kliima+0 //_S_ sg n, //
+soodustab    soodusta+b //_V_ b, //
+rieslingu    riesling+0 //_S_ sg g, //    rieslingu+0 //_S_ sg g, //
+sorti    sort+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+õilmitseb    õilmitse+b //_V_ b, //
+vastavalt    vastavalt+0 //_K_ //
+valge    valge+0 //_A_ sg g, //
+veini    vein+0 //_S_ sg g, //
+elunorm    elu_norm+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Boppardi    Bop_part+0 //_H_ sg g, //
+viinamarjaistandusi    viina_marja_istandus+i //_S_ pl p, //
+märgitakse    märki+takse //_V_ takse, //
+ajalooürikutes    aja_loo_ürik+tes //_S_ pl in, //
+juba    juba+0 //_D_ //
+<TIMEX tid="t1_5" type="DATE" temporalFunction="false" value="0643">
+643.    643.+0 //_O_ ?, //
+aastast    aasta+st //_S_ sg el, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Kuni    kuni+0 //_K_ //
+<TIMEX  tid="t10" type="DATE" temporalFunction="false" value="17" mod="END" >
+18.    18.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+lõpuni    lõpp+ni //_S_ sg ter, //
+</TIMEX>
+tegelesid    tegele+sid //_V_ sid, //
+veinivalmistamisega    veini_valmistamine+ga //_S_ sg kom, //
+maavaldajad    maa_valdaja+d //_S_ pl n, //
+kloostrid    klooster+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Alles    alles+0 //_D_ //
+Napoleon    Napoleon+0 //_H_ sg n, //
+jagas    jaga+s //_V_ s, //
+sealsed    sealne+d //_A_ pl n, //
+viinaväljad    viina_väli+d //_S_ pl n, //
+eraomanikele    era_omanik+ele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Pärast    pärast+0 //_K_ //
+<TIMEX tid="t1_6" type="DURATION" temporalFunction="false" value="PT2H" mod="APPROX" >
+paaritunnist    paari_tund+st //_S_ sg el, //
+</TIMEX>
+jalgsimatka    jalgsi_matk+0 //_S_ sg p, //
+pole    ole+0 //_V_ neg o, //
+midagi    miski+dagi //_P_ sg p, //
+paremat    parem+t //_C_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+põigata    põika+ta //_V_ da, //
+sisse    sisse+0 //_D_ //
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+oru    org+0 //_S_ sg g, //
+väikelinna    väike_linn+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+külastada    külasta+da //_V_ da, //
+istanduse    istandus+0 //_S_ sg g, //
+omanikku    omanik+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+söögi    söök+0 //_S_ sg g, //
+kõrvale    kõrvale+0 //_K_ //
+kindlasti    kindlasti+0 //_D_ //
+ka    ka+0 //_D_ //
+veini    vein+0 //_S_ sg p, //
+pakub    pakku+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+Võibolla    võib_olla+0 //_D_ //
+seda    see+da //_P_ sg p, //
+sama    sama+0 //_P_ sg n, //
+“    “ //_Z_ //
+selget    selge+t //_A_ sg p, //
+,    , //_Z_ //
+pisut    pisut+0 //_D_ //
+hapukat    hapukas+t //_A_ sg p, //
+ja    ja+0 //_J_ //
+päikeselõhnalist    päikese_lõhnaline+t //_A_ sg p, //
+reinveini    rein_vein+0 //_S_ sg p, //
+”    ” //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+Jaan    Jaan+0 //_H_ sg n, //
+Kross    Kross+0 //_H_ sg n, //
+laseb    lask+b //_V_ b, //
+Balthasar    Balthasar+0 //_H_ sg n, //
+Russowil    Russow+l //_H_ sg ad, //    Russowi+l //_H_ sg ad, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+raeapteekriga    rae_apteeker+ga //_S_ sg kom, //
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="15" mod="APPROX" anchorTimeID="t10" >
+paarsada    paar_sada+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+varem    varem+0 //_D_ //
+</TIMEX>
+nippida    nipp_ida+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aga    aga+0 //_J_ //
+kindel    kindel+0 //_A_ sg n, //
+-    - //_Z_ //
+<kindel_piir/>
+suurepärast    suure_pärane+t //_A_ sg p, //
+keelekastet    keele_kaste+t //_S_ sg p, //
+saab    saa+b //_V_ b, //
+kaasa    kaasa+0 //_D_ //
+osta    ost+a //_V_ da, //
+kas    kas+0 //_D_ //
+üksikute    üksik+te //_A_ pl g, //
+pudelite    pudel+te //_S_ pl g, //
+,    , //_Z_ //
+kastide    kast+de //_S_ pl g, //
+või    või+0 //_J_ //
+vaatide    vaat+de //_S_ pl g, //
+kaupa    kaupa+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+maitsehuvi    maitse_huvi+0 //_S_ sg n, //
+või    või+0 //_J_ //
+rahakott    raha_kott+0 //_S_ sg n, //
+lubab    luba+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+Poehinnast    poe_hind+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+otse    otse+0 //_D_ //
+veinitootjalt    veini_tootja+lt //_S_ sg abl, //
+ostetud    ost+tud //_V_ tud, //    oste=tud+0 //_A_ //    oste=tud+0 //_A_ sg n, //    oste=tud+d //_A_ pl n, //
+veinid    vein+d //_S_ pl n, //
+oma    oma+0 //_P_ sg g, //
+kaks    kaks+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+odavamad    odavam+d //_C_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Brezhnevi    Brezhnev+0 //_H_ sg g, //
+jälg    jälg+0 //_S_ sg n, //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+aga    aga+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+väikelinnad    väike_linn+d //_S_ pl n, //
+liiga    liiga+0 //_D_ //
+umbsed    umbne+d //_A_ pl n, //
+tunduvad    tundu+vad //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+Reini    Rein+0 //_H_ sg g, //    Reini+0 //_H_ sg g, //
+jõe    jõgi+0 //_S_ sg g, //
+oru    org+0 //_S_ sg g, //
+tuuri    tuur+0 //_S_ sg g, //
+lõpetada    lõpeta+da //_V_ da, //
+Bonni    Bonn+0 //_H_ sg g, //
+lähedal    lähedal+0 //_K_ //
+Petersbergi    Petersberg+0 //_H_ sg g, //    Petersbergi+0 //_H_ sg g, //    Petersberk+0 //_H_ sg g, //
+lossi    loss+0 //_S_ sg g, //
+restoranis    restoran+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t12" type="DATE" temporalFunction="false" value="1914" >
+1914.    1914.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+ehitatud    ehita+tud //_V_ tud, //    ehitatud+0 //_A_ //    ehitatud+0 //_A_ sg n, //    ehitatud+d //_A_ pl n, //
+hoonete    hoone+te //_S_ pl g, //
+kobar    kobar+0 //_S_ sg n, //
+meenutab    meenuta+b //_V_ b, //
+ehk    ehk+0 //_D_ //
+pisut    pisut+0 //_D_ //
+Toompea    Toom_pea+0 //_H_ sg g, //    Toompea+0 //_H_ sg g, //
+lossigi    loss+gi //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t15" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t13" endPoint="t14" >
+<TIMEX text="Aastatel 1946-"  tid="t13" type="DATE" temporalFunction="false" value="1946" >
+Aastatel    aasta+tel //_S_ pl ad, //
+<TIMEX text="1961"  tid="t14" type="DATE" temporalFunction="false" value="1961" >
+1946-1961    1946-1961+0 //_N_ ?, //
+</TIMEX>
+</TIMEX>
+</TIMEX>
+liitlasvägede    liitlas_vägi+de //_S_ pl g, //
+peakorteriks    pea_korter+ks //_S_ sg tr, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+ehitist    ehitis+t //_S_ sg p, //
+haldab    halda+b //_V_ b, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+valitsus    valitsus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+osaliselt    osaliselt+0 //_D_ //
+erakapital    era_kapital+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Seal    seal+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+kõrgete    kõrge+te //_A_ pl g, //
+külaliste    külaline+te //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+riigivisiidi    riigi_visiit+0 //_S_ sg g, //
+ajal    aeg+l //_S_ sg ad, //
+peatunud    peatu+nud //_V_ nud, //    peatu=nud+0 //_A_ //    peatu=nud+0 //_A_ sg n, //    peatu=nud+d //_A_ pl n, //
+nii    nii+0 //_D_ //
+Lennart    Lennart+0 //_H_ sg n, //
+Meri    Meri+0 //_H_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+pulmi    pulm+i //_S_ pl p, //
+pidanud    pida+nud //_V_ nud, //    pida=nud+0 //_A_ //    pida=nud+0 //_A_ sg n, //    pida=nud+d //_A_ pl n, //
+vormel-1    vormel-1+0 //_N_ ?, //
+maailmameister    maa_ilma_meister+0 //_S_ sg n, //
+Michael    Michael+0 //_H_ sg n, //
+Schumacher    Schumacher+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Oma    oma+0 //_P_ sg g, //
+jälje    jälg+0 //_S_ sg g, //
+lossi    loss+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+viivat    vii=v+t //_A_ sg p, //
+,    , //_Z_ //
+ussina    uss+na //_S_ sg es, //
+looklevat    looklev+t //_A_ sg p, //
+teed    tee+d //_S_ sg p, //
+palistavatele    palista=v+tele //_A_ pl all, //
+tammedele    tamm+dele //_S_ pl all, //
+jättis    jät+is //_V_ s, //
+Leonid    Leonid+0 //_H_ sg n, //
+Brezhnev    Brezhnev+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+valitsuselt    valitsus+lt //_S_ sg abl, //
+kingituseks    kingitus+ks //_S_ sg tr, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+Mercedese    Mercedes+0 //_H_ sg g, //
+kohe    kohe+0 //_D_ //
+ka    ka+0 //_D_ //
+ühel    üks+l //_N_ sg ad, //    üks+l //_P_ sg ad, //
+käänakul    käänak+l //_S_ sg ad, //
+puusse    puu+sse //_S_ sg ill, //
+rammis    rammi+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+liivakastimängu    liiva_kasti_mäng+0 //_S_ adt, //
+puutub    puutu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+sakslased    sakslane+d //_S_ pl n, //
+pole    ole+0 //_V_ neg o, //
+ju    ju+0 //_D_ //
+sugugi    sugugi+0 //_D_ //
+üksi    üksi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Küllap    küllap+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+kombe    komme+0 //_S_ sg g, //
+Saksamaalt    Saksa_maa+lt //_H_ sg abl, //
+külge    külge+0 //_D_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Erinevus    erinevus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ehk    ehk+0 //_D_ //
+selles    see+s //_P_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+rannal    rand+l //_S_ sg ad, //
+lõhkumas    lõhku+mas //_V_ mas, //
+käivad    käi+vad //_V_ vad, //
+.    . //_Z_ //
+</s>
+<s>
+Küll    küll+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aga    aga+0 //_J_ //
+liivakühvel    liiva_kühvel+0 //_S_ sg n, //
+kindlasti    kindlasti+0 //_D_ //
+parem    parem+0 //_C_ sg n, //
+argument    argument+0 //_S_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+sõduri    sõdur+0 //_S_ sg g, //
+sapöörilabidas    sapööri_labidas+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>

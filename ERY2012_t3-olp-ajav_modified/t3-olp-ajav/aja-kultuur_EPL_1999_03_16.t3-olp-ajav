@@ -1,0 +1,203 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-03-16TXX:XX" />
+<ignoreeri>
+|
+autor:
+Epl/bns/ap
+|
+ajalehenumber:
+Eesti
+Päevaleht
+16.03.1999
+|
+rubriik:
+Kultuur
+|
+artikkel:
+Lühidalt
+|
+</ignoreeri>
+<s>
+Auhind    Au_hind+0 //_H_ sg n, //    Auhind+0 //_H_ sg n, //
+Paul    Paul+0 //_H_ sg n, //
+Mägile    Mägi+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Estonia    Estonia+0 //_H_ sg g, //
+teatri    teater+0 //_S_ sg g, //
+kunstiline    kunstiline+0 //_A_ sg n, //
+juht    juht+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+peadirigent    pea_dirigent+0 //_S_ sg n, //
+Paul    Paul+0 //_H_ sg n, //
+Mägi    Mägi+0 //_H_ sg n, //
+sai    saa+i //_V_ s, //
+firmalt    firma+lt //_S_ sg abl, //
+Est-Stein    Est-Stein+0 //_H_ sg n, //
+15    15+0 //_N_ ?, //
+000-kroonise    000_kroonine+0 //_A_ sg g, //
+aastaauhinna    aasta_au_hind+0 //_S_ sg g, //
+töö    töö+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+Dargomõžski    Dargomõžsk+0 //_H_ sg g, //    Dargomõžski+0 //_H_ sg g, //
+"    " //_Z_ //
+Näkineiuga    Näkineiuga+0 //_H_ sg n, //
+"    " //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+hiljuti    hiljuti+0 //_D_ //
+</TIMEX>
+esietendus    esi_etendu+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Arhitektuurivõistlus    arhitektuuri_võistlus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Pärnu    Pärnu+0 //_H_ sg n, //
+korraldab    korralda+b //_V_ b, //
+arhitektuurivõistluse    arhitektuuri_võistlus+0 //_S_ sg g, //
+keskraamatukogu    kesk_raamatu_kogu+0 //_S_ sg n, //
+parimale    parim+le //_U_ sg all, //
+arhitektuursele    arhitektuurne+le //_A_ sg all, //
+lahendusele    lahendus+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Auhinnafond    au_hinna_fond+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+275    275+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Barokk    barokk+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+jaapani    jaapani+0 //_G_ //
+kammermuusika    kammer_muusika+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1999-03-17" >
+Homme    homme+0 //_D_ //
+</TIMEX>
+kuuleb    kuul+b //_V_ b, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Raekojas    rae_koda+s //_S_ sg in, //
+harvakuuldud    harva_kuuldu+d //_S_ pl n, //
+muusikat    muusika+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kõlavad    kõla+vad //_V_ vad, //
+flöödi-harfi    flöödi-harf+0 //_S_ sg g, //
+,    , //_Z_ //
+sooloflöödi    soolo_flööt+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+flöödi-klaveri    flöödi-klaver+0 //_S_ sg g, //
+ansamblid    ansambel+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kontserdi    kontsert+0 //_S_ sg g, //
+esimeses    esimene+s //_O_ sg in, //
+pooles    pool+s //_S_ sg in, //
+valitseb    valitse+b //_V_ b, //
+saksa    saksa+0 //_G_ //
+barokkhelilooja    barokk_heli_looja+0 //_S_ sg g, //
+Georg    Georg+0 //_H_ sg n, //
+Philipp    Philipp+0 //_H_ sg n, //
+Telemann    Tele_mann+0 //_H_ sg n, //    Telemann+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+annab    and+b //_V_ b, //
+tooni    toon+0 //_S_ sg p, //
+jaapani    jaapani+0 //_G_ //
+muusika    muusika+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Rostropovitsh    Rostropovitsh+0 //_H_ sg n, //
+vihastas    vihasta+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Muusikakuulsus    muusika_kuulsus+0 //_S_ sg n, //
+Mstislav    Mstislav+0 //_H_ sg n, //
+Rostropovitsh    Rostropovitsh+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t3" type="DURATION" temporalFunction="true" value="P71Y" >
+71    71+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+teatas    teata+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+esine    esine+0 //_V_ o, //
+enam    enam+0 //_D_ //
+kunagi    kunagi+0 //_D_ //
+Venemaal    Vene_maa+l //_H_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Kuulsa    Kuulsa+0 //_H_ sg g, //    Kuulus+0 //_H_ sg g, //
+tshellisti    tshellist+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+dirigendi    dirigent+0 //_S_ sg g, //
+vihastasid    vihasta+sid //_V_ sid, //
+välja    välja+0 //_D_ //
+arvustused    arvustus+d //_S_ pl n, //
+Moskvas    Moskva+s //_H_ sg in, //
+Aleksander    Aleksander+0 //_H_ sg n, //
+Solženitsõni    Solženitsõn+0 //_H_ sg g, //    Solženitsõni+0 //_H_ sg g, //
+auks    au+ks //_S_ sg tr, //
+antud    and+tud //_V_ tud, //    antud+0 //_A_ //    antud+0 //_A_ sg n, //    antud+d //_A_ pl n, //
+kontserdile    kontsert+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Nüüd    Nüü+d //_H_ pl n, //    Nüü+d //_H_ sg p, //    Nüüd+0 //_H_ sg n, //    nüüd+0 //_D_ //
+</TIMEX>
+ma    mina+0 //_P_ sg n, //
+esinen    esine+n //_V_ n, //
+neile    tema+le //_P_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tahavad    taht+vad //_V_ vad, //
+mind    mina+d //_P_ sg p, //
+kuulata    kuula+ta //_V_ da, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+see    see+0 //_P_ sg n, //
+meeldib    meeldi+b //_V_ b, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Rostropovitsh    Rostropovitsh+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuulus    kuulus+0 //_A_ sg n, //
+muusik    muusik+0 //_S_ sg n, //
+põgenes    põgene+s //_V_ s, //
+läände    lääs+de //_S_ adt, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="1974" >
+1974.    1974.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>

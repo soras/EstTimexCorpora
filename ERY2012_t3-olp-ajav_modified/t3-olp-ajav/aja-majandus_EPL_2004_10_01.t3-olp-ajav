@@ -1,0 +1,271 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2004-10-01TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+01.10.2004
+|
+rubriik:
+Majandus
+|
+artikkel:
+Eesti
+ettevõtja
+sai
+Venemaal
+suure
+raieloa
+|
+</ignoreeri>
+<s>
+TALLINN    Tallinn+0 //_H_ sg n, //
+,    , //_Z_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2004-10-01" >
+1.    1.+0 //_O_ ?, //
+oktoober    oktoober+0 //_S_ sg n, //
+</TIMEX>
+<kiil>
+(    ( //_Z_ //
+EPLO    EPLO+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+-    - //_Z_ //
+Lääne-Virumaa    Lääne-Viru_maa+0 //_H_ sg g, //    Lääne-Virumaa+0 //_H_ sg g, //
+puiduärimehe    puidu_äri_mees+0 //_S_ sg g, //
+Marek    Marek+0 //_H_ sg n, //
+Krippeli    Krippel+0 //_H_ sg g, //    Krippeli+0 //_H_ sg g, //
+firma    firma+0 //_S_ sg n, //
+OÜ    OÜ+0 //_Y_ ?, //
+Johanna    Johanna+0 //_H_ sg n, //
+Grupp    Grupp+0 //_H_ sg n, //
+omandas    omanda+s //_V_ s, //
+esimese    esimene+0 //_O_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+firmana    firma+na //_S_ sg es, //
+Venemaal    Vene_maa+l //_H_ sg ad, //
+raieõiguse    raie_õigus+0 //_S_ sg g, //
+metsamassiivis    metsa_massiiv+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võrdub    võrdu+b //_V_ b, //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+kümnendikuga    kümnendik+ga //_N_ sg kom, //
+Eesti    Eesti+0 //_H_ sg g, //
+metsapindalast    metsa_pind_ala+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+kirjutab    kirjuta+b //_V_ b, //
+Äripäev    Äri_päev+0 //_H_ sg n, //    Äripäev+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Johanna    Johanna+0 //_H_ sg n, //
+Grupp    Grupp+0 //_H_ sg n, //
+ostis    ost+is //_V_ s, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2004-W39" >
+eelmisel    eelmine+l //_A_ sg ad, //
+nädalal    nädal+l //_S_ sg ad, //
+</TIMEX>
+70    70+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+Leningradi    Lenin_grad+0 //_H_ sg g, //
+oblastis    oblast+s //_S_ sg in, //
+Boksidogorski    Boksidogorsk+0 //_H_ sg g, //    Boksidogorski+0 //_H_ sg g, //
+rajoonis    rajoon+s //_S_ sg in, //
+tegutsevast    tegutsev+st //_A_ sg el, //
+metsalangetusfirmast    metsa_langetus_firma+st //_S_ sg el, //
+Vertikal    Vertika+l //_H_ sg ad, //    Vertikas+l //_H_ sg ad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+sai    saa+i //_V_ s, //
+sellega    see+ga //_P_ sg kom, //
+<TIMEX  tid="t3" type="DURATION" temporalFunction="false" value="P49Y" >
+49    49+0 //_N_ ?, //
+aastaks    aasta+ks //_S_ sg tr, //
+</TIMEX>
+kasutusõiguse    kasutus_õigus+0 //_S_ sg g, //
+284    284+0 //_N_ ?, //
+000-hektarilisele    000_hektariline+le //_A_ sg all, //
+küpsele    küpse+le //_S_ sg all, //
+okaspuumetsale    okas_puu_mets+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oma    oma+0 //_P_ sg g, //
+mastaabilt    mastaap+lt //_S_ sg abl, //
+tipptehing    tipp_tehing+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Krippeli    Krippel+0 //_H_ sg g, //    Krippeli+0 //_H_ sg g, //
+julgus    julgus+0 //_S_ sg n, //
+ärgitab    ärgita+b //_V_ b, //
+ilmselt    ilmselt+0 //_D_ //
+paljusid    palju+sid //_P_ pl p, //
+metsasfääris    metsa_sfäär+s //_S_ sg in, //
+tegutsejaid    tegutseja+id //_S_ pl p, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+poole    poole+0 //_K_ //
+kiikama    kiika+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Aivar    Aivar+0 //_H_ sg n, //
+Berzin    Berzin+0 //_H_ sg n, //
+,    , //_Z_ //
+Eesti    Eesti+0 //_H_ sg g, //
+suurim    suurim+0 //_U_ sg n, //
+erametsamaa    era_metsa_maa+0 //_S_ sg n, //
+omanik    omanik+0 //_S_ sg n, //
+Krippeli    Krippel+0 //_H_ sg g, //    Krippeli+0 //_H_ sg g, //
+andmeil    andmed+il //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tal    tema+l //_P_ sg ad, //
+olemas    ole+mas //_V_ mas, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2005" >
+järgmiseks    järgmine+ks //_A_ sg tr, //
+aastaks    aasta+ks //_S_ sg tr, //
+</TIMEX>
+raieload    raie_luba+d //_S_ pl n, //    raie_luga+d //_S_ pl n, //
+kokku    kokku+0 //_D_ //
+86    86+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+tihumeetrile    tihu_meeter+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+toormekogus    toorme_kogu+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+jätkuks    jätku+ks //_V_ ks, //
+Eesti    Eesti+0 //_H_ sg g, //
+keskmise    keskmine+0 //_A_ sg g, //
+suurusega    suurus+ga //_S_ sg kom, //
+saetööstusele    sae_tööstus+le //_S_ sg all, //
+<TIMEX  tid="t1_1" type="DURATION" temporalFunction="false" value="P1Y" >
+aastaks    aasta+ks //_S_ sg tr, //
+</TIMEX>
+või    või+0 //_J_ //
+Eesti    Eesti+0 //_H_ sg g, //
+suurimale    suurim+le //_U_ sg all, //
+,    , //_Z_ //
+Imavere    Ima_vere+0 //_H_ sg g, //
+saeveskile    sae_veski+le //_S_ sg all, //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="true" value="P1M15D" mod="APPROX" >
+poolteiseks    pool_teist+ks //_N_ sg tr, //
+kuuks    kuu+ks //_S_ sg tr, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Metsateede    metsa_tee+de //_S_ pl g, //
+olematuse    olematus+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+ei    ei+0 //_V_ neg, //
+julge    julge+0 //_V_ o, //
+me    mina+0 //_P_ pl n, //
+<TIMEX  tid="t6" type="DURATION" temporalFunction="true" value="PXY" >
+esimestel    esimene+tel //_P_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+suuremat    suurem+t //_C_ sg p, //
+raiemahtu    raie_maht+0 //_S_ sg p, //
+planeerida    planeeri+da //_V_ da, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Krippel    Krippel+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Krippel    Krippel+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+soostunud    soostu+nud //_V_ nud, //    soostu=nud+0 //_A_ //    soostu=nud+0 //_A_ sg n, //    soostu=nud+d //_A_ pl n, //
+avalikustama    avalikusta+ma //_V_ ma, //
+tehingu    tehing+0 //_S_ sg g, //
+maksumust    maksumus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+See    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+kuuekohaline    kuue_kohaline+0 //_A_ sg n, //
+summa    summa+0 //_S_ sg n, //
+eurodes    euro+des //_S_ pl in, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+jäi    jää+i //_V_ s, //
+Krippel    Krippel+0 //_H_ sg n, //
+napisõnaliseks    napi_sõnaline+ks //_A_ sg tr, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+laenuraha    laenu_raha+0 //_S_ sg n, //
+ta    tema+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+kasutanud    kasuta+nud //_V_ nud, //    kasuta=nud+0 //_A_ //    kasuta=nud+0 //_A_ sg n, //    kasuta=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Läbirääkimised    läbi_rääkimine+d //_S_ pl n, //
+Vertikali    Vertikal+0 //_H_ sg g, //    Vertikali+0 //_H_ sg g, //
+omandamiseks    omandamine+ks //_S_ sg tr, //
+kestsid    kest+sid //_V_ sid, //
+alates    alates+0 //_K_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="2004-02" >
+veebruarist    veebruar+st //_S_ sg el, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Vertikalis    Vertikal+s //_H_ sg in, //    Vertikali+s //_H_ sg in, //
+töötab    tööta+b //_V_ b, //
+60    60+0 //_N_ ?, //
+inimest    inimene+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Krippeli    Krippel+0 //_H_ sg g, //    Krippeli+0 //_H_ sg g, //
+kinnitusel    kinnitus+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tema    tema+0 //_P_ sg g, //
+koostööpartneriks    koos_töö_partner+ks //_S_ sg tr, //
+Juri    Juri+0 //_H_ sg n, //
+Bodgornõi    Bodgornõi+0 //_H_ sg g, //
+nimeline    nimeline+0 //_A_ sg n, //
+ärimees    äri_mees+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+vahendas    vahenda+s //_V_ s, //
+Vertikali    Vertikal+0 //_H_ sg g, //    Vertikali+0 //_H_ sg g, //
+osaluse    osalus+0 //_S_ sg g, //
+müüki    müük+0 //_S_ sg p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+asus    asu+s //_V_ s, //
+alates    alates+0 //_K_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="2004-W40" >
+sellest    see+st //_P_ sg el, //
+nädalast    nädal+st //_S_ sg el, //
+</TIMEX>
+Vertikali    Vertikal+0 //_H_ sg g, //    Vertikali+0 //_H_ sg g, //
+tegevjuhina    tegev_juht+na //_S_ sg es, //
+tööle    töö+le //_S_ sg all, //
+.    . //_Z_ //
+</s>

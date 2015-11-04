@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Kreml ootab Mashadovi tegusid 
+ Venemaa Tshetsheenia komisjon on valmis rahukõnelusi alustama 
+ MAREK LAANE , marek.laane@postimees.ee 
+ Venemaa presidendi abi Sergei Jastr?embski tunnistas küll <TIMEX3 tid="t298" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> teatud edusamme Tshetsheenia võimalike rahukõneluste arengus , kuid märkis , et Mashadovi retoorikale peavad järgnema ka teod . 
+ " Mashadovi <TIMEX3 tid="t299" type="DATE" value="PAST_REF" anchorTimeID="t0"  >viimase aja</TIMEX3> arvukad esinemised näitavad , et tema vaadetes on võibolla toimunud nihked õiges suunas , " ütles Kremli poolt Tshetsheenia sündmusi selgitama määratud Jastrzhembski . 
+ Mashadov on <TIMEX3 tid="t300" type="DURATION" value="P2W" mod="APPROX" comment="siin on alternatiiviks ka ajapunkt">paari nädala</TIMEX3> kestel mitmel korral teatanud , et on valmis alustama Venemaaga rahuläbirääkimisi ilma igasuguste eeltingimusteta ning vahetama välja sõjavangid . 
+ Vene Riigiduuma liige Pavel Krasheninnikov , kes juhib sõltumatut Tshetsheenia komisjoni , ütles <TIMEX3 tid="t301" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> , et on valmis Mashadoviga läbi rääkima nii otse kui vahendajate kaudu . 
+ Mashadov teatas <TIMEX3 tid="t302" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> , et on nõus komisjoni liikmetega kohtuma Tshetsheenia pinnal , garanteerides neile turvalisuse . 
+ Kreml on ometi jäänud endise arvamuse juurde , et kõneluste eeltingimuseks on vastupanu lõpetamine föderaalvägedele , relvade täielik mahapanemine ja " bandiitide " juhtide väljaandmine . 
+ " Igatahes on vaja tegusid ja konkreetseid samme , " kinnitas <TIMEX3 tid="t303" type="DATE" value="2000-04-18" anchorTimeID="t0">eile</TIMEX3> Jastrzhembski , " need on Mashadovil aga tõeline defitsiit . 
+ Positiivseid samme on märgata vaid verbaalsel tasandil . " 
+ Sama hingetõmbega teatas Jastrzhembski , et seni kuni retoorika kestab , jätkub ka Moskva poolt terrorivastaseks operatsiooniks nimetatav sõda . 
+ Juba <TIMEX3 tid="t304" type="DURATION" value="P10D" mod="APPROX">ligemale kümmekond päeva</TIMEX3> on see siiski piirdunud kohatise tulistamisega , suuremaid lahinguid pole algatanud kumbki pool . 
+ Juba <TIMEX3 tid="t305" type="DATE" value="2000-04-17" anchorTimeID="t0">üleeile</TIMEX3> ütles Vene välisminister Igor Ivanov , et Tshetsheenia operatsiooni sõjaline osa on üldse lõppenud . 
+ Sellele vaidlesid ometi vastu <TIMEX3 tid="t306" type="DATE" value="2000-04-18" anchorTimeID="t0">eilsed</TIMEX3> teated , mille kohaselt armee on <TIMEX3 tid="t307" type="DATE" value="2000-W16" anchorTimeID="t0">sel nädalal</TIMEX3> korraldanud peamiselt mägedes 28 õhurünnakut . 
+ Moskva plaanidele osaliselt ka Lääne survel tshetsheenide <TIMEX3 tid="t308" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praeguste</TIMEX3> juhtidega kõnelusi alustada viitab ka <TIMEX3 tid="t309" type="DATE" value="2000-04-18" anchorTimeID="t0">eilne</TIMEX3> teade , mille kohaselt Moskva-meelsete tshetsheenide rahvaväe juht Beslan Gantamirov võib <TIMEX3 tid="t1309" type="DATE" value="FUTURE_REF" anchorTimeID="t0">peatselt</TIMEX3> oma ametist tagasi astuda . 
+ Läänelt sai Moskva <TIMEX3 tid="t310" type="DATE" value="2000-W16" anchorTimeID="t0">sel nädalal</TIMEX3> veidi hingetõmbeaega , kui Genfis koos istuv ÜRO inimõiguste komisjon otsustas lükata <TIMEX3 tid="t311" type="DATE" value="2000-W17" anchorTimeID="t0">järgmisele nädalale</TIMEX3> hääletuse Euroopa Liidu esitatud resolutsiooni üle , mis mõistab hukka inimõiguste rikkumise Tshetsheenias . 
+ Edasilükkamise põhjuseks oli Venemaa nõusolek arutada konsensusavaldust . 
+ Kui see saavutatakse , ei tule hääletust üldse ning avalduse sisu jääb nähtavasti märksa leebemaks , kui see oleks resolutsiooni puhul . 
+</TimeML>

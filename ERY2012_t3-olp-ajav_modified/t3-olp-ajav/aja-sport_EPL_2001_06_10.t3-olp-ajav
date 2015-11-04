@@ -1,0 +1,454 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2001-06-10TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+10.06.2001
+|
+rubriik:
+Sport
+|
+artikkel:
+Vormel-1
+:
+Ralf
+Schumacher
+valitses
+Kanadas
+|
+</ignoreeri>
+<s>
+Hooaja    hoo_aeg+0 //_S_ sg g, //
+kaheksanda    kaheksas+0 //_O_ sg g, //
+vormel-1    vormel-1+0 //_N_ ?, //
+etapi    etapp+0 //_S_ sg g, //
+Kanada    Kanada+0 //_H_ sg g, //
+GP-d    GP+d //_Y_ sg p, //
+valitsesid    valitse+sid //_V_ sid, //
+vennad    vend+d //_S_ pl n, //
+Schumacherid    Schumacher+d //_H_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Võidu    võit+0 //_S_ sg g, //
+võttis    võt+is //_V_ s, //
+noorem    noorem+0 //_C_ sg n, //
+vend    vend+0 //_S_ sg n, //
+Ralf    Ralf+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+pildil    pilt+l //_S_ sg ad, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+Michael    Michael+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+pääses    pääse+s //_V_ s, //
+pjedestaalile    pjedestaal+le //_S_ sg all, //
+soomlane    soomlane+0 //_S_ sg n, //
+Mika    Mika+0 //_H_ sg n, //
+Häkkinen    Häkkinen+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Sõidu    sõit+0 //_S_ sg g, //
+algust    algus+t //_S_ sg p, //
+domineeris    domineeri+s //_V_ s, //
+Miachel    Miachel+0 //_H_ sg n, //
+Schumacher    Schumacher+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+juhtis    juhti+s //_V_ s, //
+sõitu    sõit+0 //_S_ sg p, //
+boksipeatuseni    boksi_peatus+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Seejärel    see_järel+0 //_D_ //
+hõivas    hõiva+s //_V_ s, //
+ohjad    ohi+d //_S_ pl n, //
+vanemat    vanem+t //_C_ sg p, //
+venda    vend+0 //_S_ sg p, //
+varjuna    vari+na //_S_ sg es, //
+seiranud    seira+nud //_V_ nud, //    seira=nud+0 //_A_ //    seira=nud+0 //_A_ sg n, //    seira=nud+d //_A_ pl n, //
+Ralf    Ralf+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+hoidis    hoid+is //_V_ s, //
+edu    edu+0 //_S_ sg p, //
+lõpuni    lõpp+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+oli    ole+i //_V_ s, //
+Ralfile    Ralf+le //_H_ sg all, //
+teiseks    teine+ks //_O_ sg tr, //    teine+ks //_P_ sg tr, //
+võiduks    või=du+ks //_S_ sg tr, //    võit+ks //_S_ sg tr, //
+sel    see+l //_P_ sg ad, //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Esimese    esimene+0 //_O_ sg g, //
+pjedestaalikoha    pjedestaali_koht+0 //_S_ sg g, //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+sai    saa+i //_V_ s, //
+kahekordne    kahe_kordne+0 //_A_ sg n, //
+maailameister    maa_ila_meister+0 //_S_ sg n, //
+Häkkinen    Häkkinen+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+McLaren    McLaren+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+tiimikaaslane    tiimi_kaaslane+0 //_S_ sg n, //
+,    , //_Z_ //
+üldarvestuses    üld_arvestus+s //_S_ sg in, //
+teist    teine+t //_O_ sg p, //    teine+t //_P_ sg p, //
+kohta    koht+0 //_S_ sg p, //
+hoidev    hoidev+0 //_A_ sg n, //
+šotlane    šotlane+0 //_S_ sg n, //
+David    David+0 //_H_ sg n, //
+Coulthard    Coulthard+0 //_H_ sg n, //
+katkestas    katkesta+s //_V_ s, //
+mõni    mõni+0 //_P_ sg n, //
+ring    ring+0 //_S_ sg n, //
+enne    enne+0 //_K_ //
+võistluse    võistlus+0 //_S_ sg g, //
+lõppu    lõpp+0 //_S_ sg p, //
+neljandalt    neljas+lt //_O_ sg abl, //
+kohalt    koha+lt //_S_ sg abl, //    koht+lt //_S_ sg abl, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Sõit    sõit+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+suurepärane    suure_pärane+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+suutsime    suut+sime //_V_ sime, //
+enne    enne+0 //_K_ //
+boskipeatusi    boskipea=tus+i //_S_ pl p, //
+rajal    rada+l //_S_ sg ad, //    raja+l //_S_ sg ad, //
+kauem    kauem+0 //_D_ //
+vastu    vastu+0 //_D_ //
+pidada    pida+da //_V_ da, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Ferrari    Ferrari+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+tõi    too+i //_V_ s, //
+ka    ka+0 //_D_ //
+edu    edu+0 //_S_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+Ralf    Ralf+0 //_H_ sg n, //
+Schumacher    Schumacher+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+2.    2.+0 //_O_ ?, //
+koha    koha+0 //_S_ sg g, //    koht+0 //_S_ sg g, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+Michael    Michael+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+õnnelik    õnnelik+0 //_A_ sg n, //
+Ralfi    Ralf+0 //_H_ sg g, //
+edu    edu+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="XXXX-XX-XX" anchorTimeID="??" comment="ankurdub sündmuse külge: hooaja kaheksanda etapi Kanada GP">
+Täna    täna+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pere    pere+0 //_S_ sg g, //
+pidupäev    pidu_päev+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sõnas    sõna+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+sõidu    sõit+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Pingutasin    pinguta+sin //_V_ sin, //
+kõvasti    kõvasti+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+midagi    miski+dagi //_P_ sg p, //
+teha    tege+a //_V_ da, //
+ei    ei+0 //_V_ neg, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Alguses    algus+s //_S_ sg in, //
+Ralfi    Ralf+0 //_H_ sg g, //
+taga    taga+0 //_K_ //
+olles    ole+es //_V_ des, //
+ei    ei+0 //_V_ neg, //
+kartnud    kart+nud //_V_ nud, //    kart=nud+0 //_A_ //    kart=nud+0 //_A_ sg n, //    kart=nud+d //_A_ pl n, //
+ma    mina+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+mulle    mina+lle //_P_ sg all, //
+otsa    otsa+0 //_D_ //
+sõidab    sõit+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+Ralf    Ralf+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hea    hea+0 //_A_ sg n, //
+roolikeeraja    rooli_keeraja+0 //_S_ sg n, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Esmakordselt    esma_kordselt+0 //_D_ //
+hooajal    hoo_aeg+l //_S_ sg ad, //
+poodiumile    poodium+le //_S_ sg all, //
+pääsenud    pääse+nud //_V_ nud, //    pääsenud+0 //_A_ //    pääsenud+0 //_A_ sg n, //    pääsenud+d //_A_ pl n, //
+Häkkinen    Häkkinen+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+saavutusega    saavutus+ga //_S_ sg kom, //
+rahul    rahul+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+McLareni    McLaren+0 //_H_ sg g, //    McLareni+0 //_H_ sg g, //
+eesmärgiks    ees_märk+ks //_S_ sg tr, //
+oli    ole+i //_V_ s, //
+esikolmikusse    esi_kolmik+sse //_S_ sg ill, //
+jõuda    jõud+a //_V_ da, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+seda    see+da //_P_ sg p, //
+me    mina+0 //_P_ pl n, //
+ka    ka+0 //_D_ //
+tegime    tege+ime //_V_ sime, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+kiitis    kiit+is //_V_ s, //
+Häkkinen    Häkkinen+0 //_H_ sg n, //
+tiimi    tiim+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Sõidu    sõit+0 //_S_ sg g, //
+algusosas    algus_osa+s //_S_ sg in, //
+hoidis    hoid+is //_V_ s, //
+Häkkinen    Häkkinen+0 //_H_ sg n, //
+enda    ise+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+targu    targu+0 //_D_ //
+esikümne    esi_kümme+0 //_S_ sg g, //
+lõppu    lõpp+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Vaatasin    vaata+sin //_V_ sin, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+eespool    ees_pool+0 //_D_ //
+olijad    olija+d //_S_ pl n, //
+teevad    tege+vad //_V_ vad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+otsus    otsus+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+kokkuvõttes    kokku_võte+s //_S_ sg in, //
+õige    õige+0 //_A_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lausus    lausu+s //_V_ s, //
+soomlane    soomlane+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tulemused    tulemus+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+1.    1.+0 //_O_ ?, //
+Ralf    Ralf+0 //_H_ sg n, //
+Schumacher    Schumacher+0 //_H_ sg n, //
+Williams    Williams+0 //_H_ sg n, //
+</s>
+<s>
+2.    2.+0 //_O_ ?, //
+Michael    Michael+0 //_H_ sg n, //
+Schumacher    Schumacher+0 //_H_ sg n, //
+Ferrari    Ferrari+0 //_H_ sg n, //
+-20,200    -20,200+0 //_N_ ?, //
+</s>
+<s>
+3.    3.+0 //_O_ ?, //
+Mika    Mika+0 //_H_ sg n, //
+Häkkinen    Häkkinen+0 //_H_ sg n, //
+McLaren    McLaren+0 //_H_ sg n, //
+-40,600    -40,600+0 //_N_ ?, //
+</s>
+<s>
+4.    4.+0 //_O_ ?, //
+Kimi    Kimi+0 //_H_ sg n, //
+Räikkönen    Räikkönen+0 //_H_ sg n, //
+Sauber    Sauber+0 //_H_ sg n, //
+-1.08    -1.08+0 //_N_ ?, //
+,    , //_Z_ //
+100    100+0 //_N_ ?, //
+</s>
+<s>
+5.    5.+0 //_O_ ?, //
+Jean    Jean+0 //_H_ sg n, //
+Alesi    Alesi+0 //_H_ sg n, //
+Prost    Prost+0 //_H_ sg n, //
+-1.10    -1.10+0 //_N_ ?, //
+,    , //_Z_ //
+400    400+0 //_N_ ?, //
+</s>
+<s>
+6.    6.+0 //_O_ ?, //
+Pedro    Pedro+0 //_H_ sg n, //
+de    de+0 //_Y_ ?, //
+la    la+0 //_Y_ ?, //
+Rosa    Rosa+0 //_H_ sg n, //
+Jaguar    Jaguar+0 //_H_ sg n, //
++1    +1+0 //_N_ ?, //
+ring    ring+0 //_S_ sg n, //
+</s>
+<s>
+7.    7.+0 //_O_ ?, //
+Ricardo    Ricardo+0 //_H_ sg n, //
+Zonta    Zonta+0 //_H_ sg n, //
+Jordan    Jordan+0 //_H_ sg n, //
++1    +1+0 //_N_ ?, //
+ring    ring+0 //_S_ sg n, //
+</s>
+<s>
+8.    8.+0 //_O_ ?, //
+Luciano    Luciano+0 //_H_ sg n, //
+Burti    Burti+0 //_H_ sg n, //
+Prost    Prost+0 //_H_ sg n, //
++1    +1+0 //_N_ ?, //
+ring    ring+0 //_S_ sg n, //
+</s>
+<s>
+9.    9.+0 //_O_ ?, //
+Tarso    Tarso+0 //_H_ sg n, //
+Marques    Marques+0 //_H_ sg n, //
+Minardi    Minardi+0 //_H_ sg n, //
++3    +3+0 //_N_ ?, //
+ringi    ringi+0 //_D_ //
+</s>
+<s>
+katkesatajad    katkesata=ja+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+10.    10.+0 //_O_ ?, //
+Jos    Jos+0 //_H_ sg n, //
+Verstappen    Verstappen+0 //_H_ sg n, //
+Arrows    Arrows+0 //_H_ sg n, //
++4    +4+0 //_N_ ?, //
+ringi    ringi+0 //_D_ //
+</s>
+<s>
+11.    11.+0 //_O_ ?, //
+Jarno    Jarno+0 //_H_ sg n, //
+Trulli    Trulli+0 //_H_ sg n, //
+Jordan    Jordan+0 //_H_ sg n, //
++6    +6+0 //_N_ ?, //
+ringi    ringi+0 //_D_ //
+</s>
+<s>
+David    David+0 //_H_ sg n, //
+Coulthard    Coulthard+0 //_H_ sg n, //
+McLaren    McLaren+0 //_H_ sg n, //
+</s>
+<s>
+Olivier    Olivier+0 //_H_ sg n, //
+Panis    Panis+0 //_H_ sg n, //
+BAR    BAR+0 //_Y_ ?, //
+</s>
+<s>
+Jacques    Jacques+0 //_H_ sg n, //
+Villeneuve    Villeneuve+0 //_H_ sg n, //
+BAR    BAR+0 //_Y_ ?, //
+</s>
+<s>
+Enrique    Enrique+0 //_H_ sg n, //
+Bernoldi    Bernoldi+0 //_H_ sg n, //
+Arrows    Arrows+0 //_H_ sg n, //
+</s>
+<s>
+Juan    Juan+0 //_H_ sg n, //
+Pablo    Pablo+0 //_H_ sg n, //
+Montoya    Montoya+0 //_H_ sg n, //
+Williams    Williams+0 //_H_ sg n, //
+</s>
+<s>
+Rubens    Rubens+0 //_H_ sg n, //
+Barrichello    Barrichello+0 //_H_ sg n, //
+Ferrari    Ferrari+0 //_H_ sg n, //
+</s>
+<s>
+Jenson    Jenson+0 //_H_ sg n, //
+Button    Button+0 //_H_ sg n, //
+Benetton    Benetton+0 //_H_ sg n, //
+</s>
+<s>
+Fernando    Fernando+0 //_H_ sg n, //
+Alonso    Alonso+0 //_H_ sg n, //
+Minardi    Minardi+0 //_H_ sg n, //
+</s>
+<s>
+Nick    Nick+0 //_H_ sg n, //
+Heidfeld    Heidfeld+0 //_H_ sg n, //
+Sauber    Sauber+0 //_H_ sg n, //
+</s>
+<s>
+Eddie    Eddie+0 //_H_ sg n, //
+Irvine    Irvine+0 //_H_ sg n, //
+Jaguar    Jaguar+0 //_H_ sg n, //
+</s>
+<s>
+Giancarlo    Giancarlo+0 //_H_ sg n, //
+Fisichella    Fisichella+0 //_H_ sg n, //
+Benetton    Benetton+0 //_H_ sg n, //
+</s>

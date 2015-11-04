@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2010-02-11T10:43" functionInDocument="CREATION_TIME" comment="neljapäev"/>
+
+Kortermaja elanikud võitlevad <TIMEX3 tid="t1" type="DURATION" value="P12Y" >12-aastase</TIMEX3> poisiga
+
+<TIMEX3 tid="t2" type="TIME" value="2010-02-11T10:43" >11.02.2010 10:43</TIMEX3>
+
+Aime Jõgi, reporter
+Annelinna kortermaja elanike näod on mures ja väsinud. Taas on nende postkaste lõhutud, seinu määritud ja keldris laamendatud. Süüdi on <TIMEX3 tid="t3" type="DURATION" value="P12Y" >12-aastane</TIMEX3> poiss. Mitte poiss, vaid lausa lapskurat.
+
+
+See sarvedeta paharet on Sergei, kes elab teisel korrusel  koos ema Marinaga. Siin loos ei ole kirjas nende pärisnimed, kuigi need on toimetusele teada. Teada on ka kortermaja, millest lugu räägib. Põhjus – see lugu puudutab alaealist poissi, kellel elu alles ees.
+
+«Me lihtsalt enam ei jõua, abi ei tule kuskilt,» ütleb üks maja elanikest ja osutab sinisele kladele laual, kus Sergei <TIMEX3 tid="t4" type="DURATION" value="P3Y" beginPoint="t31" endPoint="t0">kolme viimase aasta</TIMEX3><TIMEX3 tid="t31" type="DATE" value="2007" temporalFunction="true"/> paturegister saadetud ja saadud kirjadena tallel.
+
+Palume abi
+
+«Seoses väljakannatamatu olukorraga meie kodu trepikojas palun teie abi...,» algab üks <TIMEX3 tid="t5" type="DATE" value="2007" anchorTimeID="t0">kolme aasta tagune</TIMEX3> ühistu kiri Tartu politseile. Siis oli Sergei  <TIMEX3 tid="t6" type="DURATION" value="P9Y" >9-aastane.</TIMEX3>
+
+<TIMEX3 tid="t7" type="TIME" value="2007-XX-XXT17" >«Õhtul enne kella kuut,</TIMEX3> kui töölt koju tulin, oli trepikoda märg, täis sülitatud ja lagastatud... Teise korruse trepikojas seisis Sergei koos kahe sõbraga.... Minu suunas hakati hirmsaid nägusid ja häälitsusi tegema ja minu peale sülitama...»
+
+Ja järgmine: «Ronitakse koridori aknast välja varikatusele, autosid loobitakse korteri aknast kanamunadega... Ühelgi me trepikoja lapsel ei ole võimalik liikuda ilma ema või isata...»
+
+Siis on Sergei ja ta sõbrad keldris pesa teinud, kus nad on toimetanud jalgrataste ja aerosoolvärvidega, siis postkaste lõhkunud. Postkaste – oh neid ei jõudvat ühistu nii kiiresti remontidagi, kui Sergei ja ta sõpruskond neid lõhub.
+
+Ema Marinaga on ühistu rahval olnud võimatu normaalselt suhelda, sest tema kasutavat rääkimisel karjuvat kõneviisi ning alati olevat tal varuks küsimus: «Kas te ise nägite, et Sergei seda tegi?»
+
+Üks viimaseid kirju <TIMEX3 tid="t8" type="DATE" value="2010-01" mod="END" anchorTimeID="t0">tänavuse jaanuari lõpust</TIMEX3> räägib taas suurest lärmist ja kisast trepikojas ja selle lõpus kahetsetakse: «Keegi ei juhi neid lapsi, keegi ei selgita, kus hea, kus halb.»
+
+Need kirjad on ühistu saatnud politseile, ühistu haldusfirmale Kaldatare, Tartu linna sotsiaalabi osakonnale, Nõlvaku piirkonna lastekaitsespetsialistile.
+
+Aga isik on süüvõimeline alles siis, kui ta on teo toimepanemise ajal <TIMEX3 tid="t9" type="DURATION" value="P14Y" mod="EQUAL_OR_MORE">vähemalt 14-aastane.</TIMEX3> Sergei on olnud ikka veel kas <TIMEX3 tid="t10" type="DURATION" value="P9Y" >9-</TIMEX3> või <TIMEX3 tid="t11" type="DURATION" value="P10Y" >10-</TIMEX3> või <TIMEX3 tid="t12" type="DURATION" value="P12Y" >12-aastane.</TIMEX3>
+
+Majaelanikud laiutavad käsi. Nad on küll koledate tegude kuupäevi ja kellaaegu fikseerinud, pätitegusid fotografeerinud ja filminud, aga miski ei aita. Kõike ei ole võimalik ka tõendada.
+
+Annelinna kortermajade haldusfirma Kaldatare juhataja Helve Käki ütleb, et nemad saavad sellelt ühistult <TIMEX3 tid="t13" type="SET" value="P1Y" freq="2X" mod="APPROX">aastas paar korda</TIMEX3> teateid selle kohta, millist vara tuleb taas parandama minna. <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> viimane kord olid  jälle need postkastid.
+
+Helve Käki sõnul on olukord võimatu ja laps süüdimatu. «Meil on Annelinnas 20 maja, mida me haldame, aga sellist probleemi pole kuskil,» sõnab ta. «Inimestest on kahju. Ühistu juhid on väga kohusetundlikud ja hoolsad, teevad kõik, et suurest majast luua endale korralik kodu.»
+
+Sergei on käinud tavakoolis ja õpiraskustega laste koolis, tal on olnud koduõpetaja ja ta on viibinud eriinternaatkoolis. <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> õpib ta ühe naabermaakonna koolis lihtsustatud õppekava alusel ja elab õpilaskodus. <TIMEX3 tid="t16" type="SET" value="XXXX-WXX-WE" >Nädalavahetuseti</TIMEX3> näeb teda aga ikka kodus, ja mitte ainult <TIMEX3 tid="t17" type="SET" value="XXXX-WXX-WE" >nädalavahetuseti.</TIMEX3>
+
+Lähme jalutame!
+
+<TIMEX3 tid="t18" type="DATE" value="2010-02-09" anchorTimeID="t0">Sel teisipäevalgi</TIMEX3> hõikasid kolm teismelist tüdrukut <TIMEX3 tid="t19" type="TIME" value="2010-02-09T15:30" anchorTimeID="t18">kella poole nelja ajal päeval</TIMEX3> algul Sergei maja akende all, ja kui juhuslikult uks avanes, kappasid nad mööda treppe Sergei korteriukse taha kloppima.
+
+«Sergei! Sergei!» hüüdsid nad nii, et trepikoda kaikus.
+
+Küsimuse peale, mida nad poisist soovivad, vastasid  tüdrukud, et nad tahaksid teda välja jalutama kutsuda. Et Sergeiga on huvitav ja lõbus. Et mõnikord käivad nad ka  Atlantises koos diskol ja et Sergei paha poiss küll ei ole.
+
+Eripedagoog ja logopeed Galina Manajenkova on Sergeiga tegelenud lasteaias ja tema koolitee algul.
+
+«Tal olid – kuidas ma nüüd ütlen – hariduslikud erivajadused,» räägib Manajenkova sõnu hoolega valides. «Tähelepanu- ja käitumishäired ning kesised õpioskused. Teate, mul on väga kahju sellest lapsest. See ei ole lapse süü, et ta on haige.»
+
+Manajenkova meenutab, et Sergei oli võtnud tema kui pedagoogi abi hea meelega vastu, tahtnud väga, et keegi teda aitaks. Kui aga tujust ära olnud, muutunud ta käitumine ebanormaalseks. Tal puuduvat kriitiline meel – ta võib teha koledaid tegusid ega mitte mõista, miks need teod halvad on.
+
+«Kriminaalne talent on sel poisil kahtlemata olemas,» märgib Manajenkova. «Aga ta teretab mind alati, kui me linnas kohtume. Ta käib kalal ja on lubanud mulle haugigi tuua. Ma mäletan, et ta ema tegi varem kõik, mis sel lapsel vaja oli. Korraldas  massaažid ja muretses ravimid,» meenutab ta. «See laps lihtsalt ei jaksanud tervena sündida... Sellest kõik algas.»
+
+Ema samuti hädas
+
+Sergei ema Marina räägib oma pojaga seotud sekeldustest telefoni teel iseenda kannatust mitu korda proovile pannes. Ta ütleb, et lapsi, keda ta usaldab, laseb ta mõnikord Sergeile külla, teisi ei lase. Ja need, kes on külas, ei lõhu. Teiste eest ta ei vastuta.
+
+Ema tunnistab, et tõsi – kõigi naabritega ta ei saa hästi läbi. Ta võib kuri olla.  Sest tema ei luba oma last süüdistada asjades, mida tõendada pole võimalik.
+
+«Ma mäletan, kuidas ma ise kasvasin,» ütleb Marina. «Mul oli keeruline lapsepõlv ja täiskasvanud ei sallinud mind. Ma mäletan, mida ma siis tundsin. See, kuidas Sergei ennast üleval peab, on tema kaitse. Muidugi on tal käitumisega probleeme... Lapsed väljendavad end omal moel! Teate küll.»
+
+Tartu linna lastekaitse peaspetsialist Sirli Peterson ütleb et Sergei on lastekaitsetöötajate vaateväljas olnud <TIMEX3 tid="t20" type="DURATION" value="P7Y" >7. eluaastast</TIMEX3> peale.
+
+«See laps vajaks pidevat psühhiaatrilist abi, aga jõuga siin sekkuda ei saa,» märgib ta. «See on lapsevanema õigus ja kohustus. Ema ei taha mu meelest sellest aru saada, et last on vaja psühhiaatriakliinikusse ravile viia.»
+
+Petersoni sõnul kasutavad Sergei eripära ära nii lapsed kui täiskasvanud ja seepärast probleemide pundar ei lahenegi.
+
+«Eesti üks probleeme on see, et meil ei ole noorukitele psühhiaatrilist pika ravi võimalust. Seadus lubab ainult <TIMEX3 tid="t21" type="DURATION" value="P14D" >14-päevalist</TIMEX3> ravi vanema avalduse alusel, mis aga püsivaid tulemusi ei pruugi anda,» tõdeb Peterson.
+
+Seitse viimast väljakutset
+
+Lõuna prefektuuri korrakaitsebüroo vanemkonstaabel Veronika Kivilaid loetleb, et ainuüksi <TIMEX3 tid="t22" type="DATE" value="2010" >sel aastal</TIMEX3> on politsei kõnealusest korteriühistust saanud seitse väljakutset.
+
+<TIMEX3 tid="t23" type="DATE" value="2010-01-02" anchorTimeID="t0">2. jaanuaril</TIMEX3> vali lärm ja pidutsemine. <TIMEX3 tid="t24" type="DATE" value="2010-01-06" anchorTimeID="t0">6. jaanuaril</TIMEX3> lärm. <TIMEX3 tid="t25" type="DATE" value="2010-01-19" anchorTimeID="t0">19. jaanuaril</TIMEX3> noormehed lõhuvad ust. <TIMEX3 tid="t26" type="DATE" value="2010-01-22" anchorTimeID="t0">22. jaanuaril</TIMEX3> lärm. <TIMEX3 tid="t27" type="DATE" value="2010-01-31" anchorTimeID="t0">31. jaanuaril</TIMEX3> on sisse murtud maja keldrisse, kust varastatud hoidiseid. <TIMEX3 tid="t28" type="DATE" value="2010-02-06" anchorTimeID="t0">6. veebruaril</TIMEX3> trepikojas laamendatakse ja lärmatakse. <TIMEX3 tid="t29" type="DATE" value="2010-02-09" anchorTimeID="t0">9. veebruaril</TIMEX3> lärm.
+
+Kivilaid ütleb, et Eesti õiguskord areneb pidevalt ja juba <TIMEX3 tid="t30" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> on lisaks politsei võimalustele ka elanikel võimalik end tsiviilõiguslikult kaitsta. Rahurikkuja korterit on võimalik võõrandada ning seda nõuet saavad esitada teised majaelanikud.
+
+Ühistu inimesed meenutavad lõpuks, et nad on ka väga toredat ja abivalmis Sergeid näinud. Kui majas vahetati koridori aknaid, siis Sergei aitas ehitusmehi. Ta oli väga abivalmis ja uhke, et sai midagi asjalikku ja kasulikku teha.
+
+
+</TimeML>
+

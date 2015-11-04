@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Krister Paris 
+ <TIMEX3 tid="t163" type="DATE" value="2007-W25" anchorTimeID="t0">Algav nädal</TIMEX3> võib jääda viimaseks inimõigus-komisjonile , kus tooni annavad dikatuuririigid . 
+ Venemaa , Põhja-Korea , Süüria , Zimbabwe , Valgevene ja Usbekistan - nii näeb välja lühike loetelu riikidest , kes toetasid <TIMEX3 tid="t164" type="DATE" value="2007-W24" anchorTimeID="t0">sel nädalal</TIMEX3> ettepanekut kaotada ÜRO inimõiguste komisjoni eriesindaja koht Kuubas . 
+ Kõik need riigid ( ja veel sellised kurioosumid nagu Sudaan ) kuuluvad maailmaorganisatsiooni esinduskogusse , mis peaks pidama võitlust nende eest , kelle õigusi jalge alla tallatakse . 
+ Ent siiani on nõukogu , mille 47 liikme seas domineerivad Aafrika , Aasia ning Lähis-Ida riigid , keskendunud võitlusele üksnes ühe maa , Iisraeli vastu . 
+ <TIMEX3 tid="t165" type="DATE" value="2006" anchorTimeID="t0">Aasta tagasi</TIMEX3> moodustatud komisjon on koos käinud neli korda ning juba on õnnestunud võtta ülekaalukalt vastu tervelt üheksa resolutsiooni , mis taunivad juudiriigi käitumist palestiinlaste suhtes . 
+ Ühelgi teisel riigil pole veel õnnestunud hukkamõistu pälvida . 
+ Isegi Sudaan sai oma metsikuste eest Darfuris tunda vaid " mureavaldust " . 
+</TimeML>

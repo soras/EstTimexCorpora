@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: <TIMEX3 tid="t126" type="DURATION" value="P1W" >Ühe nädalaga</TIMEX3> kolm esikohta 
+ JOHANNES MILLER , sport@postimees.ee 
+ Tartu korvpallikooli tegutsemise <TIMEX3 tid="t127" type="DURATION" value="PXM" beginPoint="t296" endPoint="t0" >viimased kuud</TIMEX3><TIMEX3 tid="t296" type="DATE" value="XXXX-XX" temporalFunction="true"/> on olnud võidurohked . 
+ C-vanuseklassi tüdrukud ja B-klassi poisid olid parimad Eesti karikavõistlustel , A- ja B-klassi neiud jõudsid finaali . 
+ Eesti meistriks tuli kõigepealt C-vanuseklassi naiskond , nende järel said samaga hakkama ka B-klassi neiud ja noormehed ning C-klassi poisid . 
+ B-klassi finaalturniir peeti Tartus Turu tänava võimlas . 
+ Neidude turniiril võitis Tartu naiskond avavoorus Kristiine SK teise naiskonna 80 : 67 , <TIMEX3 tid="t128" type="DATE" value="XXXX-XX-XX" comment="raske määratleda" >järgmisel päeval</TIMEX3> sama spordikooli esindusnaiskonna 70 : 56 ja <TIMEX3 tid="t129" type="DATE" value="XXXX-XX-XX" comment="raske määratleda" >viimasel päeval</TIMEX3> Pärnu SK 82 : 66. Treener Kaire Asi juhendamisel mängisid Pille Park , Reti Väärt , Doris Reva , Reni Aunison , Mary-Anu Talvistu , Taisi Luha , Aljona Iljina , Helen Verev , Birgit Pärsim , Katri Pesur ja Annika Rüütli . 
+ <TIMEX3 tid="t130" type="DURATION" value="P15Y" >15</TIMEX3>-<TIMEX3 tid="t131" type="DURATION" value="P16Y" >16-aastaste</TIMEX3> poiste turniiril olid tartlased esimeses mängus üle Kristiine spordikoolist 80 : 64 ja teises Kopli spordikoolist 72 : 44. Viimases kohtumises Lasnamäe sportmängude kooli vastu võideti <TIMEX3 tid="t132" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline" >esimene poolaeg</TIMEX3> küll vaid 39 : 36 , kuid <TIMEX3 tid="t133" type="TIME" value="XXXX-XX-XXTXX:XX" comment="valdkonnaspetsiifiline" >teisel mängupoolel</TIMEX3> ei suutnud tallinlased võõrustajate kiirrünnakutele enam vastata ning kohtumise võitis Tartu 96 : 56. 
+ Meistriks krooniti Kristo Aab , Margo Tani , Vahur Pormeister , Janek Saluse , Ken Piir , Asko Paade , Heigo Prüüs , Siim Haljaste , Ardi Niinepuu , Rain Peerandi , Edvin Parisalu ja Keijo Laanesaar . 
+ Meeskonda treenib Tõnu Lust . 
+ C-vanuseklassi noorema aastakäigu ( <TIMEX3 tid="t134" type="DATE" value="1987" >1987. aastal</TIMEX3> sündinud ) korvpallurid selgitasid endi seast parimad Tallinnas . 
+ Poiste finaalturniiril võitsid tartlased Torma ja SK Lurichi ühisvõistkonna 40 : 31 ja Kristiine SK 41 : 34 ning ehkki Kalevi korvpallikoolile kaotati 37 : 66 , ei vääranud see Tartu meeskonna esikohta . 
+ Oma esimese meistrimedali teenisid treener Urmas Teppo hoolealustest Sven Kukemelk , Marko Vilumaa , Hannes Hansalu , Allar Velleramm , Marko Sirel , Mihkel Kurg , Andres MAser , Hanno Püttsepp , Timo Oja , Henri Parisalu , Vjatsheslav Shenin ja Kaarel Hermlin . 
+</TimeML>

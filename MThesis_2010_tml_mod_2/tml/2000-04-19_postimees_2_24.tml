@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Armumängule tõttavad konnad hukkuvad teedel 
+ LIISI SEIL , MARTIN PAU , uudised@postimees.ee 
+ Keskkonnaministeerium manitseb autojuhte ettevaatusele ja võimaluse korral aeglaselt sõitma , et mitte lömastada kümneid tuhandeid kudemispaikadesse kiirustavaid konni . 
+ Ministeeriumi looduskaitse osakonna spetsialist Riinu Rannap nentis , et ilma ohvriteta armumängule ruttavad kärnkonnad , rohukonnad ja rabakonnad nagunii ei pääse , kuid kiirust vähendades ning manööverdades võivad autojuhid paljusid neist päästa . 
+ <TIMEX3 tid="t269" type="DATE" value="2000-W15" anchorTimeID="t0">Möödunud nädalal</TIMEX3> nägi Viljandi maavanema abi kohusetäitja Tõnis Korts Viljandi-Pärnu maanteel kurba vaatepilti : enne Kõput lebas teel sadu konnalaipu . 
+ Korts ütles , et näiteks Saksamaal tõmmatakse konnade jooksuajal maanteede äärde must kilebarjäär ning iga kümne meetri tagant kaevatakse kile äärde maasse ämber . 
+ " Kui konn teed ületada soovib , põrkab ta vastu takistust ning hakkab piki seda hüpates väljapääsu otsima , " selgitas Korts . 
+ " Lõpuks kukub ta pange , mis pärast konnadega täitumist viiakse üle maantee ja kallatakse seal tühjaks . " 
+ Rannapi sõnul ehitatakse Lääne-Euroopas üha haruldasemaks jäävate konnade kaitsmiseks suuremate teede alla tunnelid või juhitakse liiklus konnade rände ajal osalt teedelt <TIMEX3 tid="t270" type="DURATION" value="PXD" >mõneks päevaks</TIMEX3> kõrvale . 
+ Ta lisas , et <TIMEX3 tid="t271" type="DATE" value="1999-SP" anchorTimeID="t0">mullu kevadel</TIMEX3> kasutati Virumaa teede ääres hüppava konna pildiga hoiatusmärki , Pärnumaal aga kutsus maavalitsuse ametnik välja politseipatrulli , kes piiras sõidukite kiirust . 
+ " See on hea märk inimeste teadlikkuse tõusust , " lausus Rannap . 
+ " Konnad hävitavad kahjureid ja on ise oluline osa valge-toonekure , saarma ja naaritsa toidulauast . " 
+</TimeML>

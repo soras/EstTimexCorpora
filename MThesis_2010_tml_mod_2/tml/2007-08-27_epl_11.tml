@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Jaak Prozes 
+ <TIMEX3 tid="t69" type="DATE" value="2007-08-24" anchorTimeID="t0">24.</TIMEX3> - <TIMEX3 tid="t70" type="DATE" value="2007-08-26" anchorTimeID="t0">26. augustini</TIMEX3><TIMEX3 tid="t71" type="DURATION" value="P2D" beginPoint="t69" endPoint="t70" /> toimusid Tallinnas Baltisakslaste III Kultuuripäevad , mille käigus tõdeti , et baltisakslaste huvi Eesti vastu on kasvamas . 
+ Eesti Teaduste Akadeemia Majas , kus enne sõda asus Saksa Rahvusvähemuse Kultuuriomavalitsus toimus konverents " Sõdadevaheline aeg - eesti ja baltisaksa vaatenurk " . 
+ Ettekanded pidasid ajaloolased Toomas Hiio ja Michael Garleff . 
+ Maja hoovis asuva Balti rügemendi mälestuskivi juurde asetasid korraldajad pärjad . 
+ Ajalugu pole sugugi nii must-valge , mitte kõik sakslased ei sõdinud Eesti vastu . 
+ <TIMEX3 tid="t73" type="DATE" value="1918-11-27" >1918.a. 27. novembril</TIMEX3> sõlmisid Baltisaksa vähemusrahvuse esindajad ja Eesti Ajutine Valitsus kokkuleppe , mille tulemusena moodustati Eesti armee koosseisus Balti rügement , mida juhtis Constantin von Weiss . 
+ Rügementi kuulus sõja jooksul 1350 meest , kellest baltisakslasi oli 920. 
+ Eesti poolel bolševike vastu sõdides langes 70 baltisakslast , kelle seas palju väga tuntud baltisaksa suguvõsade nagu Samson-Himmelstjernade , Ungern-Sternbergide , von Pahlenite , von Stackelbergide jpt. liikmeid . 
+</TimeML>

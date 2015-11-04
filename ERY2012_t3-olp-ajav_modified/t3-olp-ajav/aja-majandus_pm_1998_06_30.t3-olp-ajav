@@ -1,0 +1,1250 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-06-30TXX:XX" />
+<ignoreeri>
+|
+autor:
+TOIVO
+PAJU
+|
+ajalehenumber:
+Postimees
+1998.06.30
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Majandus
+|
+artikkel:
+Tuul
+hakkab
+raha
+teenima
+|
+</ignoreeri>
+<s>
+Miks    miks+0 //_D_ //
+mitte    mitte+0 //_D_ //
+kasutada    kasuta+da //_V_ da, //
+tuult    tuul+t //_S_ sg p, //
+raha    raha+0 //_S_ sg g, //
+teenimiseks    teenimine+ks //_S_ sg tr, //
+-    - //_Z_ //
+muu    muu+0 //_P_ sg n, //
+maailm    maa_ilm+0 //_S_ sg n, //
+ju    ju+0 //_D_ //
+teeb    tege+b //_V_ b, //
+nii    nii+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+küsib    küsi+b //_V_ b, //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Tehnikaülikooli    tehnika_üli_kool+0 //_S_ sg g, //
+vanemteadur    vanem_teadur+0 //_S_ sg n, //
+Vello    Vello+0 //_H_ sg n, //
+Selg    selg+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+peetakse    pida+takse //_V_ takse, //
+Eesti    Eesti+0 //_H_ sg g, //
+üheks    üks+ks //_N_ sg tr, //    üks+ks //_P_ sg tr, //
+suurimaks    suurim+ks //_U_ sg tr, //
+tuuleelektrijaamade    tuule_elektri_jaam+de //_S_ pl g, //
+fanaatikuks    fanaatik+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Taanlased    taanlane+d //_S_ pl n, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+maailmas    maa_ilm+s //_S_ sg in, //
+tuuleenergeetika    tuule_energeetika+0 //_S_ sg g, //
+arendamisel    arendamine+l //_S_ sg ad, //
+pioneerid    pioneer+d //_S_ pl n, //
+,    , //_Z_ //
+</kiil>
+pakkusid    pakku+sid //_V_ sid, //
+eestlastele    eestlane+tele //_S_ pl all, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1996" mod="APPROX" >
+paar    paar+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+tagasi    tagasi+0 //_K_ //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ehitavad    ehita+vad //_V_ vad, //
+oma    oma+0 //_P_ sg g, //
+kulu    kulg+0 //_S_ sg g, //    kulu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kirjadega    kiri+dega //_S_ pl kom, //
+Eestisse    Eesti+sse //_H_ sg ill, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+võimsa    võimas+0 //_A_ sg g, //
+tuulegeneraatori    tuule_generaator+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Energia    energia+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+juhte    juht+e //_S_ pl p, //
+huvitas    huvita+s //_V_ s, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="1996" mod="APPROX" anchorTimeID="t1">
+sel    see+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+</TIMEX>
+vaid    vaid+0 //_D_ //
+odav    odav+0 //_A_ sg n, //
+põlevkivielekter    põlev_kivi_elekter+0 //_S_ sg n, //
+,    , //_Z_ //
+</kiil>
+ei    ei+0 //_V_ neg, //
+näidanud    näida=nud+0 //_A_ //    näida=nud+0 //_A_ sg n, //    näida=nud+d //_A_ pl n, //    näita+nud //_V_ nud, //
+taanlastega    taanlane+tega //_S_ pl kom, //
+äritegemise    äri_tegemine+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+üles    üles+0 //_D_ //
+mingit    mingi+t //_P_ sg p, //
+huvi    huvi+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Enne    enne+0 //_K_ //
+<TIMEX tid="t2" type="DATE" temporalFunction="true" value="1998-06-24" >
+jaanipäeva    jaani_päev+0 //_S_ sg p, //
+</TIMEX>
+tegid    tege+id //_V_ sid, //
+uue    uus+0 //_A_ sg g, //
+katse    katse+0 //_S_ sg g, //
+sakslased    sakslane+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+energiafirma    energia_firma+0 //_S_ sg n, //
+Baltic    Baltic+0 //_H_ sg n, //
+Energie    Energie+0 //_H_ sg n, //
+tahab    taht+b //_V_ b, //
+käivitada    käivita+da //_V_ da, //
+Saaremaal    Saare_maa+l //_H_ sg ad, //
+tuulefarmi    tuule_farm+0 //_S_ sg g, //
+hiidprojekti    hiid_projekt+0 //_S_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+panna    pane+a //_V_ da, //
+saarele    saar+le //_S_ sg all, //
+püsti    püsti+0 //_D_ //
+17    17+0 //_N_ ?, //
+tuulegeneraatorit    tuule_generaator+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Koguinvesteering    kogu_investeering+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+märkimisväärne    märkimis_väärne+0 //_A_ sg n, //
+-    - //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ sg n, //
+ületaks    ületa+ks //_V_ ks, //
+400    400+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Sakslased    sakslane+d //_S_ pl n, //
+nõustuvad    nõustu+vad //_V_ vad, //
+sellest    see+st //_P_ sg el, //
+summast    summ+st //_S_ sg el, //    summa+st //_S_ sg el, //
+maksma    maks+ma //_V_ ma, //
+osa    osa+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+ülejäänu    üle_jäänu+0 //_S_ sg n, //
+jääks    jää+ks //_V_ ks, //
+eestlaste    eestlane+te //_S_ pl g, //
+kanda    kand+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kust    kust+0 //_D_ //
+sellist    selline+t //_P_ sg p, //
+raha    raha+0 //_S_ sg p, //
+paugupealt    paugu_pealt+0 //_D_ //
+võtta    võt+a //_V_ da, //
+?    ? //_Z_ //
+</s>
+<s>
+Vello    Vello+0 //_H_ sg n, //
+Selg    selg+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tuuleelektrijaamade    tuule_elektri_jaam+de //_S_ pl g, //
+rajamist    rajamine+t //_S_ sg p, //
+<TIMEX  tid="t3" type="DURATION" temporalFunction="false" value="P15Y" >
+15    15+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+uurinud    uuri+nud //_V_ nud, //    uuri=nud+0 //_A_ //    uuri=nud+0 //_A_ sg n, //    uuri=nud+d //_A_ pl n, //
+ning    ning+0 //_J_ //
+töötanud    tööta+nud //_V_ nud, //    tööta=nud+0 //_A_ //    tööta=nud+0 //_A_ sg n, //    tööta=nud+d //_A_ pl n, //
+läbi    läbi+0 //_K_ //
+iga    iga+0 //_P_ sg g, //
+pisimagi    pisim+gi //_U_ sg g, //
+detaili    detail+0 //_S_ sg g, //
+,    , //_Z_ //
+teab    tead+b //_V_ b, //
+lahendust    lahendus+t //_S_ sg p, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimalik    võimalik+0 //_A_ sg n, //
+ainult    ainult+0 //_D_ //
+nõnda    nõnda+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+rahvas    rahvas+0 //_S_ sg n, //
+ostab    ost+b //_V_ b, //
+tuuliku    tuulik+0 //_S_ sg g, //
+aktsiaid    aktsia+id //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Inimesed    inimene+d //_S_ pl n, //
+võiks    või+ks //_V_ ks, //
+valida    vali+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+panevad    pane+vad //_V_ vad, //
+oma    oma+0 //_P_ sg g, //
+raha    raha+0 //_S_ sg g, //
+panka    pank+0 //_S_ adt, //
+või    või+0 //_J_ //
+tuulikute    tuulik+te //_S_ pl g, //
+aktsiatesse    aktsia+tesse //_S_ pl ill, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="SET" temporalFunction="true" value="P1Y" quant="EVERY" >
+Iga-aastased    iga-aastane+d //_A_ pl n, //
+</TIMEX>
+dividendid    dividend+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+elektri    elekter+0 //_S_ sg g, //
+hinda    hind+0 //_S_ sg p, //
+sisse    sisse+0 //_D_ //
+arvestatud    arvesta+tud //_V_ tud, //    arvestatud+0 //_A_ //    arvestatud+0 //_A_ sg n, //    arvestatud+d //_A_ pl n, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+toob    too+b //_V_ b, //
+näiteks    näide+ks //_S_ sg tr, //
+Baltic    Baltic+0 //_H_ sg n, //
+Energie    Energie+0 //_H_ sg g, //
+plaanid    plaan+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Suurprojekti    suur_projekt+0 //_S_ sg g, //
+tasuvusajaks    tasuvus_aeg+ks //_S_ sg tr, //
+plaanitakse    plaani+takse //_V_ takse, //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="false" value="P14Y" >
+14    14+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Need    see+d //_P_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+ostaksid    ost+ksid //_V_ ksid, //
+tuuleelektrijaama    tuule_elektri_jaam+0 //_S_ sg g, //
+aktsiaid    aktsia+id //_S_ pl p, //
+,    , //_Z_ //
+</kiil>
+teeniksid    teeni+ksid //_V_ ksid, //
+sel    see+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+oma    oma+0 //_P_ sg g, //
+aktsiatelt    aktsia+telt //_S_ pl abl, //
+7,5%    7,5%+0 //_N_ ?, //
+dividende    dividend+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+nad    tema+d //_P_ pl n, //
+<TIMEX  tid="t6" type="DURATION" temporalFunction="true" value="P14Y" beginPoint="??" endPoint="??" >
+14    14+0 //_N_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+pärast    pärast+0 //_K_ //
+</TIMEX>
+aktsionärid    aktsionär+d //_S_ pl n, //
+tõelisel    tõeline+l //_A_ sg ad, //
+kinnisvaraobjektil    kinnis_vara_objekt+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Näiteks    näide+ks //_S_ sg tr, //
+Saksamaal    Saksa_maa+l //_H_ sg ad, //
+toetavad    toeta+vad //_V_ vad, //
+selliseid    selline+id //_P_ pl p, //
+projekte    projekt+e //_S_ pl p, //
+ka    ka+0 //_D_ //
+usuühingud    usu_ühing+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kirik    kirik+0 //_S_ sg n, //
+paneb    pane+b //_V_ b, //
+oma    oma+0 //_P_ sg g, //
+raha    raha+0 //_S_ sg g, //
+tuulikutesse    tuulik+tesse //_S_ pl ill, //
+,    , //_Z_ //
+mitte    mitte+0 //_D_ //
+panka    pank+0 //_S_ adt, //
+,    , //_Z_ //
+”    ” //_Z_ //
+räägib    rääki+b //_V_ b, //
+Vello    Vello+0 //_H_ sg n, //
+Selg    selg+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Miks    Mi+ks //_H_ sg tr, //    Miks+0 //_H_ sg n, //    miks+0 //_D_ //
+mitte    mitte+0 //_D_ //
+kasutada    kasuta+da //_V_ da, //
+tuult    tuul+t //_S_ sg p, //
+teenimiseks    teenimine+ks //_S_ sg tr, //
+?    ? //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Hiiumaal    Hiiu_maa+l //_H_ sg ad, //
+tuulik    tuulik+0 //_S_ sg n, //
+õigustas    õigusta+s //_V_ s, //
+</s>
+<s>
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+Seni    seni+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tuuleenergia    tuule_energia+0 //_S_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+Eestis    Eesti+s //_H_ sg in, //
+väheste    vähene+te //_A_ pl g, //
+fanaatikute    fanaatik+te //_S_ pl g, //
+hobi    hobi+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Põlevkivienergia    põlev_kivi_energia+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+vähemalt    vähemalt+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+odavam    odavam+0 //_C_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+mitte    mitte+0 //_D_ //
+enamgi    enam+gi //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Ent    ent+0 //_J_ //
+üha    üha+0 //_D_ //
+kallinev    kalline=v+0 //_A_ sg n, //
+põlevkivi    põlev_kivi+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muutnud    muut+nud //_V_ nud, //    muut=nud+0 //_A_ //    muut=nud+0 //_A_ sg n, //    muut=nud+d //_A_ pl n, //
+hinnavahe    hinna_vahe+0 //_S_ sg g, //
+üha    üha+0 //_D_ //
+väiksemaks    väiksem+ks //_C_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+mingit    mingi+t //_P_ sg p, //
+võimalust    võimalus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegust    praegune+t //_A_ sg p, //
+</TIMEX>
+energia    energia+0 //_S_ sg g, //
+hinna    hind+0 //_S_ sg g, //
+tõusu    tõus+0 //_S_ sg p, //
+pidurdada    pidurda+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ennustab    ennusta+b //_V_ b, //
+Eesti    Eesti+0 //_H_ sg g, //
+tuuleenergiakomisjoni    tuule_energia_komisjon+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+,    , //_Z_ //
+põllumajandusülikooli    põllu_majandus_üli_kool+0 //_S_ sg g, //
+teadlane    teadlane+0 //_S_ sg n, //
+Valdur    Valdur+0 //_H_ sg n, //
+Tiit    Tiit+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Me    mina+0 //_P_ pl n, //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+olla    ole+a //_V_ da, //
+ühes    üks+s //_N_ sg in, //    üks+s //_P_ sg in, //
+majandusruumis    majandus_ruum+s //_S_ sg in, //
+Lääne-Euroopaga    Lääne-Eu_roobas+ga //_H_ sg kom, //    Lääne-Euroopa+ga //_H_ sg kom, //
+ning    ning+0 //_J_ //
+hoida    hoid+a //_V_ da, //
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+mõningaid    mõningas+id //_P_ pl p, //
+hindu    hind+u //_S_ pl p, //
+madalamal    madalamal+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+mujal    mujal+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Elektri    elekter+0 //_S_ sg g, //
+hinna    hind+0 //_S_ sg g, //
+tõus    tõus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+paratamatu    paratamatu+0 //_A_ sg n, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Seetõttu    see_tõttu+0 //_D_ //
+muutub    muutu+b //_V_ b, //
+Eesti    Eesti+0 //_H_ sg g, //
+<kiil>
+(    ( //_Z_ //
+ja    ja+0 //_J_ //
+siit    siit+0 //_D_ //
+terenduv    terendu=v+0 //_A_ sg n, //
+Venemaa    Vene_maa+0 //_H_ sg g, //
+turg    turg+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+lääne    lääs+0 //_S_ sg g, //
+tuuleelektri    tuule_elekter+0 //_S_ sg g, //
+tootjaile    tootja+ile //_S_ pl all, //
+üha    üha+0 //_D_ //
+ahvatlevamaks    ahvatle=vam+ks //_C_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Vastuse    vastus+0 //_S_ sg g, //
+sellele    see+le //_P_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tulus    tulus+0 //_A_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eestis    Eesti+s //_H_ sg in, //
+tuuleenergiat    tuule_energia+t //_S_ sg p, //
+toota    toot+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+annab    and+b //_V_ b, //
+Hiiumaa    Hiiu_maa+0 //_H_ sg g, //
+pilootprojekt    piloot_projekt+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="1997-09" >
+Läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+aasta    aasta+0 //_S_ sg g, //
+septembris    september+s //_S_ sg in, //
+</TIMEX>
+käivitus    käivitu+s //_V_ s, //
+Hiiumaal    Hiiu_maa+l //_H_ sg ad, //
+Tahkuna    Tahkuna+0 //_H_ sg g, //
+tuletorni    tule_torn+0 //_S_ sg g, //
+lähedal    lähedal+0 //_K_ //
+Eesti    Eesti+0 //_H_ sg g, //
+esimene    esimene+0 //_O_ sg n, //
+suur    suur+0 //_A_ sg n, //
+,    , //_Z_ //
+150    150+0 //_N_ ?, //
+kW    kW+0 //_Y_ ?, //
+võimsusega    võimsus+ga //_S_ sg kom, //
+tuulegeneraator    tuule_generaator+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+30    30+0 //_N_ ?, //
+meetri    meeter+0 //_S_ sg g, //
+kõrgune    kõrgune+0 //_A_ sg n, //
+tuulik    tuulik+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+maksis    maks+is //_V_ s, //
+3,1    3,1+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+,    , //_Z_ //
+</kiil>
+pandi    pane+di //_V_ ti, //
+püsti    püsti+0 //_D_ //
+peamiselt    peamiselt+0 //_D_ //
+Taani    Taani+0 //_H_ sg g, //
+keskkonnafondi    keskkonna_fond+0 //_S_ sg g, //
+abirahaga    abi_raha+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Projekti    projekt+0 //_S_ sg g, //
+Eesti-poolne    Eesti-poolne+0 //_A_ sg n, //
+eestvedaja    eest_vedaja+0 //_S_ sg n, //
+,    , //_Z_ //
+Lääne-Eesti    Lääne-Eest+0 //_H_ sg g, //    Lääne-Eesti+0 //_H_ sg g, //
+saarestiku    saarestik+0 //_S_ sg g, //
+biosfääri    bio_sfäär+0 //_S_ sg g, //
+kaitseala    kaitse_ala+0 //_S_ sg g, //
+direktor    direktor+0 //_S_ sg n, //
+Ruuben    Ruuben+0 //_H_ sg n, //
+Post    Post+0 //_H_ sg n, //
+kinnitas    kinnita+s //_V_ s, //
+Postimehele    Posti_mees+le //_H_ sg all, //    Postimehe+le //_H_ sg all, //
+:    : //_Z_ //
+<kindel_piir/>
+vähemalt    vähemalt+0 //_D_ //
+Hiiumaal    Hiiu_maa+l //_H_ sg ad, //
+tasub    tasu+b //_V_ b, //
+tuuleenergiat    tuule_energia+t //_S_ sg p, //
+toota    toot+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Tuulegeneraator    tuule_generaator+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+näidanud    näida=nud+0 //_A_ //    näida=nud+0 //_A_ sg n, //    näida=nud+d //_A_ pl n, //    näita+nud //_V_ nud, //
+end    ise+0 //_P_ sg p, //
+igapidi    iga_pidi+0 //_D_ //
+positiivselt    positiivselt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0" >
+edaspidi    edas_pidi+0 //_D_ //
+</TIMEX>
+peaks    pida+ks //_V_ ks, //
+asja    asi+0 //_S_ sg p, //
+arendama    arenda+ma //_V_ ma, //
+isetasuvuse    ise_tasuvus+0 //_S_ sg g, //
+alusel    alune+l //_S_ sg ad, //    alus+l //_S_ sg ad, //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Ehkki    ehkki+0 //_J_ //
+tegelikult    tegelikult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Hiiumaa    Hiiu_maa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Saaremaa    Saare_maa+0 //_H_ sg g, //
+tuulefarmid    tuule_farm+d //_S_ pl n, //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+tilk    tilk+0 //_S_ sg n, //
+merre    meri+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+kõige    kõige+0 //_D_ //
+julgemad    julgem+d //_C_ pl n, //
+ei    ei+0 //_V_ neg, //
+prognoosi    prognoosi+0 //_V_ o, //
+tuuleelektri    tuule_elekter+0 //_S_ sg g, //
+osaks    osa+ks //_S_ sg tr, //
+üle    üle+0 //_K_ //
+3%    3%+0 //_N_ ?, //
+Eestis    Eesti+s //_H_ sg in, //
+toodetavast    toodetav+st //_A_ sg el, //
+elektrienergiast    elektri_energia+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+sedagi    see+dagi //_P_ sg p, //
+juhul    juht+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tuulikutesse    tuulik+tesse //_S_ pl ill, //
+investeeritakse    investeeri+takse //_V_ takse, //
+80    80+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+<TIMEX tid="t1_4" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+seda    see+da //_P_ sg p, //
+<TIMEX  tid="t10" type="DURATION" temporalFunction="false" value="P24Y" >
+24    24+0 //_N_ ?, //
+aastat    aasta+t //_S_ sg p, //
+järjest    järjest+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Konkurentsivõimeline    konkurentsi_võimeline+0 //_A_ sg n, //
+hind    hind+0 //_S_ sg n, //
+</s>
+<s>
+Tegelikult    tegelikult+0 //_D_ //
+taandub    taandu+b //_V_ b, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+sellele    see+le //_P_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+millise    milline+0 //_P_ sg g, //
+hinnaga    hind+ga //_S_ sg kom, //
+Eesti    Eesti+0 //_H_ sg g, //
+Energia    Energia+0 //_H_ sg g, //
+tuuleelektri    tuule_elekter+0 //_S_ sg g, //
+ära    ära+0 //_D_ //
+ostab    ost+b //_V_ b, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Täna    täna+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tuuleenergia    tuule_energia+0 //_S_ sg g, //
+tootjad    tootja+d //_S_ pl n, //
+Eestis    Eesti+s //_H_ sg in, //
+võrratult    võrratult+0 //_D_ //
+paremas    parem+s //_C_ sg in, //
+seisus    seis+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Sest    sest+0 //_J_ //
+uus    uus+0 //_A_ sg n, //
+energiaseaduse    energia_seadus+0 //_S_ sg g, //
+muudatus    muudatus+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+Riigikogu    riigi_kogu+0 //_S_ sg g, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="1998-06-10" >
+10.    10.+0 //_O_ ?, //
+juunil    juuni+l //_S_ sg ad, //
+</TIMEX>
+vastu    vastu+0 //_D_ //
+võttis    võt+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+president    president+0 //_S_ sg n, //
+loodetavasti    loodetavasti+0 //_D_ //
+<TIMEX text="täna-" tid="t1_5" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+<TIMEX text="homme" tid="t1_6" type="DATE" temporalFunction="true" value="FUTURE_REF"  anchorTimeID="t0" >
+täna-homme    täna-homme+0 //_D_ //
+</TIMEX>
+</TIMEX>
+välja    välja+0 //_D_ //
+kuulutab    kuuluta+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kohustab    kohusta+b //_V_ b, //
+elektrivõrku    elektri_võrk+0 //_S_ adt, //
+keskkonnasäästlikult    keskkonna_säästliku=lt+0 //_D_ //
+toodetud    toode=tud+0 //_A_ //    toode=tud+0 //_A_ sg n, //    toode=tud+d //_A_ pl n, //    toot+tud //_V_ tud, //
+alternatiivenergia    alternatiiv_energia+0 //_S_ sg g, //
+ära    ära+0 //_D_ //
+ostma    ost+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+vee-    vesi+0 //_S_ sg g, //
+,    , //_Z_ //
+tuule-    tuul+0 //_S_ sg g, //
+või    või+0 //_J_ //
+päikeseenergiat    päikese_energia+t //_S_ sg p, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+ka    ka+0 //_D_ //
+biomassist    bio_mass+st //_S_ sg el, //
+,    , //_Z_ //
+jäätmegaasist    jäätme_gaas+st //_S_ sg el, //
+või    või+0 //_J_ //
+jäätmematerjalist    jäätme_materjal+st //_S_ sg el, //
+toodetud    toode=tud+0 //_A_ //    toode=tud+0 //_A_ sg n, //    toode=tud+d //_A_ pl n, //    toot+tud //_V_ tud, //
+energiat    energia+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Turgu    Turgu+0 //_H_ sg g, //
+valitsev    valitsev+0 //_A_ sg n, //
+ettevõte    ette_võte+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+ostma    ost+ma //_V_ ma, //
+alternatiivenergia    alternatiiv_energia+0 //_S_ sg g, //
+ära    ära+0 //_D_ //
+hinnaga    hind+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+90%    90%+0 //_N_ ?, //
+kodutarbija    kodu_tarbija+0 //_S_ sg g, //
+põhitariifist    põhi_tariif+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Väga    väga+0 //_D_ //
+umbkaudu    umb_kaudu+0 //_D_ //
+oleks    ole+ks //_V_ ks, //
+see    see+0 //_P_ sg n, //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+50    50+0 //_N_ ?, //
+senti    sent+0 //_S_ sg p, //
+kilovatt-tunni    kilo_vatt-tund+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Sellise    selline+0 //_P_ sg g, //
+hinna    hind+0 //_S_ sg g, //
+puhul    puhul+0 //_K_ //
+tasub    tasu+b //_V_ b, //
+juba    juba+0 //_D_ //
+tuuleelektrijaama    tuule_elektri_jaam+0 //_S_ sg p, //
+püsti    püsti+0 //_D_ //
+panna    pane+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Tuulegeneraatorite    tuule_generaator+te //_S_ pl g, //
+masstootmine    mass_tootmine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+alandanud    alanda+nud //_V_ nud, //    alanda=nud+0 //_A_ //    alanda=nud+0 //_A_ sg n, //    alanda=nud+d //_A_ pl n, //
+kilovatt-tunni    kilo_vatt-tund+0 //_S_ sg g, //
+hinda    hind+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+Taani    Taani+0 //_H_ sg g, //
+näitel    näide+l //_S_ sg ad, //
+)    ) //_Z_ //
+</kiil>
+<TIMEX text="viie-"        tid="t1_7" type="DURATION" temporalFunction="true" value="P5Y" >
+<TIMEX text="kuue aastaga" tid="t1_8" type="DURATION" temporalFunction="true" value="P6Y" >
+viie-kuue    viie-kuus+0 //_N_ sg g, //
+</TIMEX>
+aastaga    aasta+ga //_S_ sg kom, //
+</TIMEX>
+2    2+0 //_N_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+kroonilt    kroon+lt //_S_ sg abl, //
+70    70+0 //_N_ ?, //
+sendile    sent+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+USA    USA+0 //_Y_ ?, //
+energeetikud    energeetik+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+välja    välja+0 //_D_ //
+arvestanud    arvesta+nud //_V_ nud, //    arvesta=nud+0 //_A_ //    arvesta=nud+0 //_A_ sg n, //    arvesta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tuuleenergia    tuule_energia+0 //_S_ sg g, //
+kilovatt-tunni    kilo_vatt-tund+0 //_S_ sg g, //
+hinda    hind+0 //_S_ sg p, //
+võiks    või+ks //_V_ ks, //
+langetada    langeta+da //_V_ da, //
+veelgi    veelgi+0 //_D_ //
+-    - //_Z_ //
+<kindel_piir/>
+kuni    kuni+0 //_K_ //
+50    50+0 //_N_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+sendini    sent+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Palju    palju+0 //_D_ //
+koostööaltimaks    koos_töö_alti=m+ks //_C_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+muutunud    muutu+nud //_V_ nud, //    muutu=nud+0 //_A_ //    muutu=nud+0 //_A_ sg n, //    muutu=nud+d //_A_ pl n, //
+ka    ka+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg g, //
+Energia    Energia+0 //_H_ sg g, //
+suhtumine    suhtumine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tuuleenergeetikud    Tuule_energeetik+d //_H_ pl n, //
+näevad    näge+vad //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+Energias    energia+s //_S_ sg in, //
+juba    juba+0 //_D_ //
+liitlast    liitlane+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+võiks    või+ks //_V_ ks, //
+uutes    uus+tes //_A_ pl in, //
+tuulefarmides    tuule_farm+des //_S_ pl in, //
+olla    ole+a //_V_ da, //
+tuumikaktsionäriks    tuumik_aktsionär+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Siiski    siiski+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+lahenda    lahenda+0 //_V_ o, //
+energiaseaduse    energia_seadus+0 //_S_ sg g, //
+muudatused    muudatus+d //_S_ pl n, //
+kõiki    kõik+0 //_P_ pl p, //
+küsimusi    küsimus+i //_S_ pl p, //
+<kiil>
+(    ( //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+kompenseerib    kompenseeri+b //_V_ b, //
+kohalikule    kohalik+le //_A_ sg all, //
+elektrivõrgule    elektri_võrk+le //_S_ sg all, //
+saamatajäänud    saa+mata_jää=nud+0 //_A_ //    saa+mata_jää=nud+0 //_A_ sg n, //    saa+mata_jää=nud+d //_A_ pl n, //
+tulu    tulu+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+viimane    viimane+0 //_A_ sg n, //
+hakkab    hakka+b //_V_ b, //
+kallimat    kallim+t //_C_ sg p, //
+tuuleelektrit    tuule_elekter+t //_S_ sg p, //
+ostma    ost+ma //_V_ ma, //
+jne    jne+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Daimler    Daimler+0 //_H_ sg n, //
+viskab    viska+b //_V_ b, //
+silma    silm+0 //_S_ adt, //
+</s>
+<s>
+Ootamatult    ootamatult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+siis    siis+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg g, //
+energeetikas    energeetika+s //_S_ sg in, //
+murdepunkt    murde_punkt+0 //_S_ sg n, //
+käes    käsi+s //_S_ sg in, //
+?    ? //_Z_ //
+</s>
+<s>
+Vello    Vello+0 //_H_ sg n, //
+Selg    selg+0 //_S_ sg n, //
+ärritub    ärritu+b //_V_ b, //
+selle    see+0 //_P_ sg g, //
+jutu    jutt+0 //_S_ sg g, //
+peale    peale+0 //_K_ //
+silmanähtavalt    silma_nähtavalt+0 //_D_ //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Käes    käsi+s //_S_ sg in, //
+?    ? //_Z_ //
+!    ! //_Z_ //
+</s>
+<s>
+Oleme    ole+me //_V_ me, //
+<TIMEX  tid="t14" type="DURATION" temporalFunction="false" value="P6Y" >
+kuus    kuus+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+maas    maas+0 //_D_ //
+sellest    see+st //_P_ sg el, //
+möllust    möll+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+maailmas    maa_ilm+s //_S_ sg in, //
+käib    käi+b //_V_ b, //
+!    ! //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+loeb    luge+b //_V_ b, //
+üles    üles+0 //_D_ //
+riigid    riik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+üksteise    üks_teise+0 //_P_ sg g, //
+võidu    võidu+0 //_K_ //
+arendavad    arenda+vad //_V_ vad, //
+tuuleenergeetikat    tuule_energeetika+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Taani    Taani+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+tuuleenergia    tuule_energia+0 //_S_ sg g, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+7%    7%+0 //_N_ ?, //
+,    , //_Z_ //
+aga    aga+0 //_J_ //
+ka    ka+0 //_D_ //
+Inglismaa    Inglis_maa+0 //_H_ sg n, //
+,    , //_Z_ //
+Holland    Holland+0 //_H_ sg n, //
+,    , //_Z_ //
+Kreeka    Kreeka+0 //_H_ sg g, //
+,    , //_Z_ //
+Rootsi    Rootsi+0 //_H_ sg g, //
+,    , //_Z_ //
+Hispaania    Hispaania+0 //_H_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+tuuleenergeetika    tuule_energeetika+0 //_S_ sg g, //
+areng    areng+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+<TIMEX  tid="t15" type="DURATION" temporalFunction="true" value="PXY" beginPoint="t16" endPoint="t0" >
+viimastel    viimane+tel //_A_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+<TIMEX  tid="t16" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+nii    nii+0 //_D_ //
+kiire    kiire+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ sg n, //
+riik    riik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+möödunud    möödu+nud //_V_ nud, //    möödunud+0 //_A_ //    möödunud+0 //_A_ sg n, //    möödunud+d //_A_ pl n, //
+senisest    senine+st //_A_ sg el, //
+liidrist    liider+st //_S_ sg el, //
+USAst    USA+st //_Y_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Saksamaa    Saksa_maa+0 //_H_ sg n, //
+püstitab    püstita+b //_V_ b, //
+tuulegeneraatoreid    tuule_generaator+id //_S_ pl p, //
+võimsusega    võimsus+ga //_S_ sg kom, //
+500    500+0 //_N_ ?, //
+MW    MW+0 //_Y_ ?, //
+<TIMEX tid="t1_10" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+-    - //_Z_ //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+megavatt    mega_vatt+0 //_S_ sg n, //
+<TIMEX tid="t1_11" type="SET" temporalFunction="true" value="P1D" >
+päevas    päev+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+kaasa    kaasa+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+<TIMEX tid="t1_12" type="DATE" temporalFunction="true" value="XXXX-WXX-6">
+laupäevad    lau_päev+d //_S_ pl n, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX tid="t1_13" type="DATE" temporalFunction="true" value="XXXX-WXX-7">
+pühapäevad    püha_päev+d //_S_ pl n, //
+</TIMEX>
+!    ! //_Z_ //
+”    ” //_Z_ //
+räägib    rääki+b //_V_ b, //
+Vello    Vello+0 //_H_ sg n, //
+Selg    selg+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+tähendab    tähenda+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t17" type="SET" temporalFunction="true" value="P1D" quant="EVERY" >
+iga    iga+0 //_P_ sg n, //
+päev    päev+0 //_S_ sg n, //
+</TIMEX>
+jõuab    jõud+b //_V_ b, //
+tuuleelekter    tuule_elekter+0 //_S_ sg n, //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+sajasse    sada+sse //_N_ sg ill, //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+peresse    pere+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+Äripäev    Äri_päev+0 //_H_ sg n, //    Äripäev+0 //_H_ sg n, //
+kirjutas    kirjuta+s //_V_ s, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t18" type="DATE" temporalFunction="false" value="1995" >
+1995.    1995.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+Põhja-Saksamaa    Põhja-Saksa_maa+0 //_H_ sg g, //    Põhja-Saksamaa+0 //_H_ sg g, //
+talumehest    talu_mees+st //_S_ sg el, //
+Heinrich    Heinrich+0 //_H_ sg n, //
+Jessenist    Jessen+st //_H_ sg el, //    Jesseni+st //_H_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+muutis    muut+is //_V_ s, //
+oma    oma+0 //_P_ sg g, //
+talu    talu+0 //_S_ sg g, //
+Osterhofi    Osterhof+0 //_H_ sg g, //    Osterhofi+0 //_H_ sg g, //
+tuulepargiks    tuule_park+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+töötab    tööta+b //_V_ b, //
+14    14+0 //_N_ ?, //
+tuulegeneraatorit    tuule_generaator+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_14" type="DURATION" temporalFunction="true" comment="probleemne: ilma järjepidevuseta kestvus" >
+Parematel    parem+tel //_C_ pl ad, //
+päevadel    päev+del //_S_ pl ad, //
+</TIMEX>
+toob    too+b //_V_ b, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+tuulegeneraator    tuule_generaator+0 //_S_ sg n, //
+talle    tema+lle //_P_ sg all, //
+tulu    tulu+0 //_S_ sg p, //
+kuni    kuni+0 //_K_ //
+500    500+0 //_N_ ?, //
+marka    mark+0 //_S_ sg p, //
+<TIMEX tid="t1_15" type="SET" temporalFunction="true" value="P1D" >
+päevas    päev+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Pärast    pärast+0 //_K_ //
+tuulepargi    tuule_park+0 //_S_ sg g, //
+rajamist    rajamine+t //_S_ sg p, //
+Julius    Julius+0 //_H_ sg n, //
+Heinrich    Heinrich+0 //_H_ sg n, //
+enam    enam+0 //_D_ //
+põldu    põld+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+künna    künd+0 //_V_ o, //
+.    . //_Z_ //
+</s>
+<s>
+Ta    tema+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ostnud    ost+nud //_V_ nud, //    ost=nud+0 //_A_ //    ost=nud+0 //_A_ sg n, //    ost=nud+d //_A_ pl n, //
+kokku    kokku+0 //_D_ //
+poolsada    pool_sada+0 //_N_ sg n, //
+korterit    korter+t //_S_ sg p, //
+Niebüllis    Niebüll+s //_H_ sg in, //    Niebülli+s //_H_ sg in, //
+,    , //_Z_ //
+Kielis    Kiel+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Lübeckis    Lübeck+s //_H_ sg in, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+rendib    renti+b //_V_ b, //
+neid    tema+d //_P_ pl p, //
+välja    välja+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+kirjutab    kirjuta+b //_V_ b, //
+Äripäev    Äri_päev+0 //_H_ sg n, //    Äripäev+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+tuuleenergeetika    tuule_energeetika+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+fanaatikute    fanaatik+te //_S_ pl g, //
+õlgadele    õlg+dele //_S_ pl all, //
+toetunud    toetu+nud //_V_ nud, //    toetu=nud+0 //_A_ //    toetu=nud+0 //_A_ sg n, //    toetu=nud+d //_A_ pl n, //
+<TIMEX  tid="t19" type="DURATION" temporalFunction="true" value="PXY" >
+palju    palju+0 //_D_ //
+aastaid    aasta+id //_S_ pl p, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+mitte    mitte+0 //_D_ //
+arvestada    arvesta+da //_V_ da, //
+umbes    umbes+0 //_D_ //
+viit    viis+t //_N_ sg p, //
+tuhandet    tuhat+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+<TIMEX tid="t1_16" type="SET" temporalFunction="true" value="P1M" >
+kuus    kuu+s //_S_ sg in, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+Vello    Vello+0 //_H_ sg n, //
+Selja    selg+0 //_S_ sg g, //
+meeskond    meeskond+0 //_S_ sg n, //
+saab    saa+b //_V_ b, //
+<TIMEX  tid="t20" type="DATE" temporalFunction="true" value="1998" >
+sel    see+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+teadusuuringuteks    teadus_uuring+teks //_S_ pl tr, //
+kasutada    kasuta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Ent    ent+0 //_J_ //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+pole    ole+0 //_V_ neg o, //
+lõplikult    lõplikult+0 //_D_ //
+kadunud    kadu+nud //_V_ nud, //    kadunud+0 //_A_ //    kadunud+0 //_A_ sg n, //    kadunud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+peab    pida+b //_V_ b, //
+Vello    Vello+0 //_H_ sg n, //
+Selg    selg+0 //_S_ sg n, //
+telefoniläbirääkimisi    telefoni_läbi_rääkimine+i //_S_ pl p, //
+Daimler    Daimler+0 //_H_ sg n, //
+Benzi    Benz+0 //_H_ sg g, //    Benzi+0 //_H_ sg g, //
+korporatsiooniga    korporatsioon+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+suurtootja    suur_tootja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+huvitatud    huvita+tud //_V_ tud, //    huvitatud+0 //_A_ //    huvitatud+0 //_A_ sg n, //    huvitatud+d //_A_ pl n, //
+Ilmarise    Ilmaris+0 //_H_ sg g, //
+tehase    tehas+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+Tallinna    Tallinn+0 //_H_ sg g, //
+Tehnikaülikooli    tehnika_üli_kool+0 //_S_ sg g, //
+baasil    baas+l //_S_ sg ad, //
+tuulegeneraatorite    tuule_generaator+te //_S_ pl g, //
+tootmisest    toot=mine+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+läbirääkimised    läbi_rääkimine+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+edukad    edukas+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+jõuab    jõud+b //_V_ b, //
+ehk    ehk+0 //_D_ //
+ka    ka+0 //_D_ //
+Eesti    Eesti+0 //_H_ sg g, //
+selle    see+0 //_P_ sg g, //
+kiirelt    kiirelt+0 //_D_ //
+areneva    arenev+0 //_A_ sg g, //
+majandusharu    majandus_haru+0 //_S_ sg p, //
+rongile    rong+le //_S_ sg all, //
+hüpata    hüppa+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Usun    usku+n //_V_ n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+konstruktorite    konstruktor+te //_S_ pl g, //
+mõte    mõte+0 //_S_ sg n, //
+tuleb    tule+b //_V_ b, //
+järele    järele+0 //_D_ //
+,    , //_Z_ //
+tehnoloogiline    tehnoloogiline+0 //_A_ sg n, //
+baas    baas+0 //_S_ sg n, //
+samuti    samuti+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Vaid    vaid+0 //_D_ //
+klaasplastist    klaas_plast+st //_S_ sg el, //
+labad    laba+d //_S_ pl n, //
+tuleb    tule+b //_V_ b, //
+esialgu    esi_algu+0 //_D_ //
+sisse    sisse+0 //_D_ //
+osta    ost+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+muu    muu+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+täiesti    täiesti+0 //_D_ //
+tavaline    tavaline+0 //_A_ sg n, //
+masinaehituse    masina_ehitus+0 //_S_ sg g, //
+toodang    toodang+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+arutleb    arutle+b //_V_ b, //
+Hiiumaa    Hiiu_maa+0 //_H_ sg g, //
+tuulegeneraatori    tuule_generaator+0 //_S_ sg g, //
+peremees    pere_mees+0 //_S_ sg n, //
+Ruuben    Ruuben+0 //_H_ sg n, //
+Post    Post+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,424 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2002-03-25TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+25.03.2002
+|
+rubriik:
+Eesti
+|
+artikkel:
+Kevadine
+gripilaine
+jäi
+tänavu
+ära
+|
+</ignoreeri>
+<s>
+Erinevalt    erinevalt+0 //_D_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PAST_REF"  comment="saaks ka täpsemalt" >
+varasematest    varasem+test //_C_ pl el, //
+aastatest    aasta+test //_S_ pl el, //
+</TIMEX>
+ei    ei+0 //_V_ neg, //
+registreerinud    registreeri+nud //_V_ nud, //    registreeri=nud+0 //_A_ //    registreeri=nud+0 //_A_ sg n, //    registreeri=nud+d //_A_ pl n, //
+tervisekaitseinspektsioon    tervise_kaitse_inspektsioon+0 //_S_ sg n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2002-SP" >
+tänavu    tänavu+0 //_D_ //
+kevadel    kevad+l //_S_ sg ad, //    kevade+l //_S_ sg ad, //
+</TIMEX>
+inimeste    inimene+te //_S_ pl g, //
+massilist    massiline+t //_A_ sg p, //
+haigestumist    haigestumine+t //_S_ sg p, //
+ülemiste    ülemine+te //_A_ pl g, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+nakkustesse    nakkus+tesse //_S_ pl ill, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Haiguslaine    haigus_laine+0 //_S_ sg n, //
+kas    kas+0 //_D_ //
+jäi    jää+i //_V_ s, //
+ära    ära+0 //_V_ neg o, //
+või    või+0 //_J_ //
+<kindel_piir/>
+pole    ole+0 //_V_ neg o, //
+inimesed    inimene+d //_S_ pl n, //
+tõesti    tõesti+0 //_D_ //
+arstile    arst+le //_S_ sg all, //
+läinud    läinud+0 //_A_ //    läinud+0 //_A_ sg n, //    läinud+d //_A_ pl n, //    mine+nud //_V_ nud, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+käivad    käi+vad //_V_ vad, //
+tööl    töö+l //_S_ sg ad, //
+edasi    edasi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Labor    labor+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2002" >
+tänavu    tänavu+0 //_D_ //
+</TIMEX>
+avastanud    avasta+nud //_V_ nud, //    avasta=nud+0 //_A_ //    avasta=nud+0 //_A_ sg n, //    avasta=nud+d //_A_ pl n, //
+vaid    vaid+0 //_D_ //
+kaks-kolm    kaks-kolm+0 //_N_ sg n, //
+gripijuhtu    gripi_juht+0 //_S_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+tervisekaitseinspektsiooni    tervise_kaitse_inspektsioon+0 //_S_ sg g, //
+infonõunik    info_nõunik+0 //_S_ sg n, //
+Agnes    Agnes+0 //_H_ sg n, //
+Jürgens    Jürgens+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2002-W12" >
+Möödunud    möödu+nud //_V_ nud, //    möödunud+0 //_A_ //    möödunud+0 //_A_ sg n, //    möödunud+d //_A_ pl n, //
+nädalal    nädal+l //_S_ sg ad, //
+</TIMEX>
+põdes    põde+s //_V_ s, //
+ametlikel    ametlik+el //_A_ pl ad, //
+andmetel    andmed+tel //_S_ pl ad, //
+ülemiste    ülemine+te //_A_ pl g, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+haigust    haigus+t //_S_ sg p, //
+5348    5348+0 //_N_ ?, //
+inimest    inimene+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+neist    see+st //_P_ pl el, //
+138    138+0 //_N_ ?, //
+juhul    juht+l //_S_ sg ad, //
+kahtlustasid    kahtlusta+sid //_V_ sid, //
+perearstid    pere_arst+d //_S_ pl n, //
+grippi    gripp+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+üheksa    üheksa+0 //_N_ sg n, //
+last    laps+t //_S_ sg p, //
+vajas    vaja+s //_V_ s, //
+haiglaravi    haigla_ravi+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="2001-W12" anchorTimeID="t4" comment="! anchorTimeID peaks viitama ka t0-ile !" >
+Mullu    mullu+0 //_D_ //
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+</TIMEX>
+olid    ole+id //_V_ sid, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+nakkuse    nakkus+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+tõbised    tõbine+d //_A_ pl n, //
+4591    4591+0 //_N_ ?, //
+inimest    inimene+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Sagenenud    sagene=nu+d //_S_ pl n, //
+haigestumist    haigestumine+t //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+täheldanud    tähelda+nud //_V_ nud, //    tähelda=nud+0 //_A_ //    tähelda=nud+0 //_A_ sg n, //    tähelda=nud+d //_A_ pl n, //
+tervisekaitsjad    tervise_kaitsja+d //_S_ pl n, //
+ka    ka+0 //_D_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="2002-03" mod="START" >
+tänavu    tänavu+0 //_D_ //
+märtsi    märts+0 //_S_ sg g, //
+alguses    algus+s //_S_ sg in, //
+</TIMEX>
+ega    ega+0 //_J_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="2002-02" >
+veebruaris    veebruar+s //_S_ sg in, //
+</TIMEX>
+-    - //_Z_ //
+<kindel_piir/>
+<TIMEX tid="t1_1" type="SET" temporalFunction="true" value="P1W" comment="problemaatiline">
+nädalas    nädal+s //_S_ sg in, //
+</TIMEX>
+haigestunud    haigestu+nud //_V_ nud, //    haigestunud+0 //_A_ //    haigestunud+0 //_A_ sg n, //    haigestunud+d //_A_ pl n, //
+inimeste    inimene+te //_S_ pl g, //
+hulk    hulk+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+5000-6000    5000-6000+0 //_N_ ?, //
+piirimail    piiri_maa+il //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="2001" >
+Mullu    mullu+0 //_D_ //
+</TIMEX>
+tabas    taba+s //_V_ s, //
+gripilaviin    gripi_laviin+0 //_S_ sg n, //
+Eestit    Eesti+t //_H_ sg p, //
+<TIMEX text="18. veebruarini"  tid="t11" type="DATE" temporalFunction="true" value="2002-02-18" >
+<TIMEX text="12.-"  tid="t10" type="DATE" temporalFunction="true" value="2002-02-12" >
+12.-18.    12.-18.+0 //_O_ ?, //
+</TIMEX>
+veebruarini    veebruar+ni //_S_ sg ter, //
+</TIMEX>
+<TIMEX tid="t12" type="DURATION" temporalFunction="true" value="PXXD" beginPoint="t10" endPoint="t11" />
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true"  value="2001-W07" comment="eelneva ajavahemiku teisendamine nädalaks">
+nädala    nädal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+registreeriti    registreeri+ti //_V_ ti, //
+üle    üle+0 //_D_ //
+19    19+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+uue    uus+0 //_A_ sg g, //
+ülemiste    ülemine+te //_A_ pl g, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+haigusjuhu    haigus_juht+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Haigustele    Haigustele+0 //_H_ sg g, //
+iseloomulikud    ise_loomulik+d //_A_ pl n, //
+tunnused    tunnus+d //_S_ pl n, //
+:    : //_Z_ //
+</s>
+<s>
+Paragripp    para_gripp+0 //_S_ sg n, //
+Valus    valu+s //_V_ s, //
+kurk    kurk+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+tavaliselt    tavaliselt+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+jää    jää+0 //_V_ o, //
+tulemata    tule+mata //_V_ mata, //
+ka    ka+0 //_D_ //
+nohu    nohu+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+haukuv    hauku=v+0 //_A_ sg n, //
+köha    köha+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Võib    või+b //_V_ b, //
+gripile    gripp+le //_S_ sg all, //
+iseloomulik    ise_loomulik+0 //_A_ sg n, //
+lihaste    lihas+te //_S_ pl g, //
+valu    valu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Paragripp    para_gripp+0 //_S_ sg n, //
+ei    ei+0 //_V_ neg, //
+lähe    mine+0 //_V_ neg o, //
+nädalaga    nädal+ga //_S_ sg kom, //
+mööda    mööda+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+vaevab    vaeva+b //_V_ b, //
+põdejat    põdeja+t //_S_ sg p, //
+pikemat    pikem+t //_C_ sg p, //
+aega    aeg+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+raviks    ravi+ks //_S_ sg tr, //
+eriravimeid    eri_ravim+id //_S_ pl p, //
+pole    ole+0 //_V_ neg o, //
+.    . //_Z_ //
+</s>
+<s>
+Adenoviirus    Adeno_viirus+0 //_H_ sg n, //
+Põdemine    Põdemine+0 //_H_ sg n, //
+võib    või+b //_V_ b, //
+kulgeda    kulge+da //_V_ da, //
+sarnaselt    sarnaselt+0 //_D_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+haigestumisega    haigestumine+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+sellega    see+ga //_P_ sg kom, //
+võivad    või+vad //_V_ vad, //
+kaasneda    kaasne+da //_V_ da, //
+ka    ka+0 //_D_ //
+silmapõletik    silma_põletik+0 //_S_ sg n, //
+,    , //_Z_ //
+seedehäired    seede_häire+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+kõhuvalu    kõhu_valu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<kiil>
+(    ( //_Z_ //
+Rahvasuu    rahva_suu+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+isegi    isegi+0 //_D_ //
+mõned    mõni+d //_P_ pl n, //
+arstid    arst+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seda    see+da //_P_ sg p, //
+silma-    silm+0 //_S_ sg g, //
+või    või+0 //_J_ //
+kõhugripiks    kõhu_gripp+ks //_S_ sg tr, //
+ümber    ümber+0 //_D_ //
+nimetanud    nimeta+nud //_V_ nud, //    nimeta=nud+0 //_A_ //    nimeta=nud+0 //_A_ sg n, //    nimeta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+selliseid    selline+id //_P_ pl p, //
+haigusi    haigus+i //_S_ pl p, //
+maailmas    maa_ilm+s //_S_ sg in, //
+ei    ei+0 //_V_ neg, //
+tunta    tund+ta //_V_ ta, //
+.    . //_Z_ //
+)    ) //_Z_ //
+</kiil>
+</s>
+<s>
+RS-viirus    RS-viir+s //_S_ sg in, //    RS-viirg+s //_S_ sg in, //
+tekitab    tekita+b //_V_ b, //
+köha    köha+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+võib    või+b //_V_ b, //
+kulgeda    kulge+da //_V_ da, //
+astmaatiliste    astmaatiline+te //_A_ pl g, //
+nähtudega    näht+dega //_S_ pl kom, //
+,    , //_Z_ //
+<kindel_piir/>
+nii    nii+0 //_D_ //
+et    et+0 //_J_ //
+lapsel    laps+l //_S_ sg ad, //
+võib    või+b //_V_ b, //
+tekkida    tekki+da //_V_ da, //
+lausa    lausa+0 //_D_ //
+lämbumisoht    lämbu=mis_oht+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Gripp    gripp+0 //_S_ sg n, //
+algab    alga+b //_V_ b, //
+tavaliselt    tavaliselt+0 //_D_ //
+kõrge    kõrge+0 //_A_ sg g, //
+palaviku    palavik+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+lihaste    lihas+te //_S_ pl g, //
+valuga    valu+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+eelmistest    eelmine+test //_A_ pl el, //
+märksa    märksa+0 //_D_ //
+tõsisem    tõsisem+0 //_C_ sg n, //
+haigus    haigus+0 //_S_ sg n, //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+just    just+0 //_D_ //    just+0 //_I_ //
+vanemate    vanem+te //_S_ pl g, //
+inimeste    inimene+te //_S_ pl g, //
+jaoks    jaoks+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+võib    või+b //_V_ b, //
+tüsistusena    tüsistus+na //_S_ sg es, //
+põhjustada    põhjusta+da //_V_ da, //
+kopsupõletikku    kopsu_põletik+0 //_S_ sg p, //
+,    , //_Z_ //
+neeruvaagna    neeru_vaagen+0 //_S_ sg g, //
+põletikku    põletik+0 //_S_ sg p, //
+või    või+0 //_J_ //
+krooniliste    krooniline+te //_A_ pl g, //
+haiguste    haigus+te //_S_ pl g, //
+ägenemist    ägenemine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Seejuures    see_juures+0 //_D_ //
+kergemini    kergemini+0 //_D_ //
+levib    levi+b //_V_ b, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ägedamalt    ägeda=malt+0 //_D_ //
+kulgeb    kulge+b //_V_ b, //
+just    just+0 //_D_ //    just+0 //_I_ //
+A-gripp    A-gripp+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+ülemiste    ülemine+te //_A_ pl g, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+viirushaigused    viirus_haigus+d //_S_ pl n, //
+vajavad    vaja+vad //_V_ vad, //
+tüsistuste    tüsistus+te //_S_ pl g, //
+ärahoidmiseks    ära_hoidmine+ks //_S_ sg tr, //
+korralikku    korralik+0 //_A_ sg p, //
+arsti    arst+0 //_S_ sg p, //
+järelevalve    järele_valve+0 //_S_ sg g, //
+all    all+0 //_K_ //
+ravimist    ravimine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Igasuguse    iga_sugune+0 //_P_ sg g, //
+hingamisteede    hingamis_tee+de //_S_ pl g, //
+haiguse    haigus+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+soovitav    soovitav+0 //_A_ sg n, //
+koju    kodu+0 //_S_ adt, //
+jääda    jää+da //_V_ da, //
+,    , //_Z_ //
+olla    ole+a //_V_ da, //
+voodis    voodi+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+juua    joo+a //_V_ da, //
+palju    palju+0 //_D_ //
+sooja    soe+0 //_A_ sg p, //
+jooki    jook+0 //_S_ sg p, //
+,    , //_Z_ //
+näiteks    näiteks+0 //_D_ //
+mustsõstra    must_sõstar+0 //_S_ sg g, //
+teed    tee+d //_S_ sg p, //
+ja    ja+0 //_J_ //
+kontakteeruda    kontakteeru+da //_V_ da, //
+arstiga    arst+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Arstil    arst+l //_S_ sg ad, //
+omakorda    oma_korda+0 //_D_ //
+tuleks    tule+ks //_V_ ks, //
+täpse    täpne+0 //_A_ sg g, //
+diagnoosimise    diagnoosi=mine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+efektiivse    efektiivne+0 //_A_ sg g, //
+ravi    ravi+0 //_S_ sg g, //
+huvides    huvi+des //_S_ pl in, //
+saata    saat+a //_V_ da, //
+haigelt    haige+lt //_S_ sg abl, //
+võetud    võetud+0 //_A_ //    võetud+0 //_A_ sg n, //    võetud+d //_A_ pl n, //    võt+tud //_V_ tud, //
+proov    proov+0 //_S_ sg n, //
+viroloogialaborisse    viroloogia_labor+sse //_S_ sg ill, //
+.    . //_Z_ //
+</s>
+<s>
+allikas    allikas+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Tervisekaitseinspektsioon    tervise_kaitse_inspektsioon+0 //_S_ sg n, //
+</s>

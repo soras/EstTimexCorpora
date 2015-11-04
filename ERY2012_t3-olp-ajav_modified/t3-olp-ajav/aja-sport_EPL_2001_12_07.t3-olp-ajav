@@ -1,0 +1,586 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2001-12-07TXX:XX" />
+<ignoreeri>
+|
+autor:
+Andrus
+Allika
+|
+ajalehenumber:
+Eesti
+Päevaleht
+07.12.2001
+|
+rubriik:
+Sport
+|
+artikkel:
+Inglise
+jalgpalli
+uhkus
+iirlastele
+|
+</ignoreeri>
+<s>
+Alex    Alex+0 //_H_ sg n, //
+Fergusoni    Ferguson+0 //_H_ sg g, //    Fergusoni+0 //_H_ sg g, //
+viimane    viimane+0 //_A_ sg n, //
+hooaeg    hoo_aeg+0 //_S_ sg n, //
+Manchester    Manchester+0 //_H_ sg n, //
+Unitedi    United+0 //_H_ sg g, //    Unitedi+0 //_H_ sg g, //
+peatreenerina    pea_treener+na //_S_ sg es, //
+sai    saa+i //_V_ s, //
+pisut    pisut+0 //_D_ //
+helgemaid    helgem+id //_C_ pl p, //
+toone    toon+e //_S_ pl p, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2001-12-05" >
+kolmapäeval    kolma_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ManU    manu+0 //_D_ //
+alistas    alista+s //_V_ s, //
+Meistrite    meister+te //_S_ pl g, //
+liigas    liiga+s //_S_ sg in, //
+Porto    porto+0 //_S_ sg n, //
+Boavista    Boavista+0 //_H_ sg n, //
+3    3+0 //_N_ ?, //
+:    : //_Z_ //
+0.    0.+0 //_O_ ?, //
+</s>
+<s>
+Kuna    kuna+0 //_J_ //
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+jalgpallivaatlejad    jalg_palli_vaatleja+d //_S_ pl n, //
+peavad    pida+vad //_V_ vad, //
+ManU    manu+0 //_D_ //
+võimalust    võimalus+t //_S_ sg p, //
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+meistritiitlit    meistri_tiitel+t //_S_ sg p, //
+kaitsta    kaits+ta //_V_ da, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+peaaegu    pea_aegu+0 //_D_ //
+lootusetuks    lootusetu+ks //_A_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+sõltub    sõltu+b //_V_ b, //
+Fergusoni    Ferguson+0 //_H_ sg g, //    Fergusoni+0 //_H_ sg g, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2001" comment="problemaatiline, kas 2001 või 2000">
+viimasele    viimane+le //_A_ sg all, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+antav    antav+0 //_A_ sg n, //
+hinnang    hinnang+0 //_S_ sg n, //
+suuresti    suuresti+0 //_D_ //
+Unitedi    United+0 //_H_ sg g, //    Unitedi+0 //_H_ sg g, //
+edust    edu+st //_S_ sg el, //
+Meistrite    meister+te //_S_ pl g, //
+liigas    liiga+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Inglismaa    Inglis_maa+0 //_H_ sg g, //
+meistriliigas    meistri_liiga+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+United    Unite+d //_H_ pl n, //    United+0 //_H_ sg n, //
+langenud    lange+nud //_V_ nud, //    langenud+0 //_A_ //    langenud+0 //_A_ sg n, //    langenud+d //_A_ pl n, //
+kaheksandaks    kaheksandaks+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2001-12" >
+detsembri    detsember+0 //_S_ sg g, //
+</TIMEX>
+seisuga    seis+ga //_S_ sg kom, //
+<TIMEX  tid="t5" type="DURATION" temporalFunction="true" value="P11Y" beginPoint="t6" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+11    11+0 //_N_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1990" />
+</TIMEX>
+kehvim    kehvim+0 //_U_ sg n, //
+koht    koht+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Viimasest    viimane+st //_A_ sg el, //
+kuuest    kuus+st //_N_ sg el, //
+mängust    mäng+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kaotatud    kaota+tud //_V_ tud, //    kaotatud+0 //_A_ //    kaotatud+0 //_A_ sg n, //    kaotatud+d //_A_ pl n, //
+neli    neli+0 //_N_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+viimati    viimati+0 //_D_ //
+saadi    saa+di //_V_ ti, //
+koduväljakul    kodu_väljak+l //_S_ sg ad, //
+0    0+0 //_N_ ?, //
+:    : //_Z_ //
+3    3+0 //_N_ ?, //
+sugeda    suge+da //_V_ da, //
+Chelsealt    Chelsealt+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t7" type="DURATION" temporalFunction="true" value="P9Y" beginPoint="t8" endPoint="t0" >
+viimase    viimane+0 //_A_ sg g, //
+üheksa    üheksa+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="1992" />
+</TIMEX>
+suurim    suurim+0 //_U_ sg n, //
+kaotus    kaotus+0 //_S_ sg n, //
+kodumängus    kodu_mäng+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+kirjeldab    kirjelda+b //_V_ b, //
+Reuters    Reuters+0 //_H_ sg n, //
+ManU    manu+0 //_D_ //
+mõõna    mõõn+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Fergusoni    Ferguson+0 //_H_ sg g, //    Fergusoni+0 //_H_ sg g, //
+kallid    kallis+d //_A_ pl n, //
+ostud    ost+d //_S_ pl n, //
+pole    ole+0 //_V_ neg o, //
+meeldinud    meeldi+nud //_V_ nud, //    meeldi=nud+0 //_A_ //    meeldi=nud+0 //_A_ sg n, //    meeldi=nud+d //_A_ pl n, //
+fännidele    fänn+dele //_S_ pl all, //
+ega    ega+0 //_J_ //
+klubi    klubi+0 //_S_ sg g, //
+bossidele    boss+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Hollandi    Holland+0 //_H_ sg g, //
+koondise    koondis+0 //_S_ sg g, //
+ründaja    ründaja+0 //_S_ sg n, //
+Ruud    Ruu+d //_H_ pl n, //    Ruud+0 //_H_ sg n, //
+van    van+0 //_Y_ ?, //
+Nistelrooy    Nistelrooy+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Argentina    Argentina+0 //_H_ sg g, //
+koondise    koondis+0 //_S_ sg g, //
+poolkaitsja    pool_kaitsja+0 //_S_ sg g, //
+Juan    Juan+0 //_H_ sg n, //
+Sebastian    Sebastian+0 //_H_ sg n, //
+Veroni    Veron+0 //_H_ sg g, //    Veroni+0 //_H_ sg g, //
+eest    eest+0 //_K_ //
+käis    käi+s //_V_ s, //
+Ferguson    Ferguson+0 //_H_ sg n, //
+välja    välja+0 //_D_ //
+kokku    kokku+0 //_D_ //
+ligi    ligi+0 //_D_ //
+50    50+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+naela    nael+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+1,25    1,25+0 //_N_ ?, //
+miljardit    miljard+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+tekitas    tekita+s //_V_ s, //
+meelepaha    meele_paha+0 //_S_ sg g, //
+hollandlasest    hollandlane+st //_S_ sg el, //
+keskkaitsja    kesk_kaitsja+0 //_S_ sg g, //
+Jaap    Jaap+0 //_H_ sg n, //
+Stami    Stam+0 //_H_ sg g, //    Stami+0 //_H_ sg g, //
+müümine    müümine+0 //_S_ sg n, //
+Rooma    Rooma+0 //_H_ sg g, //
+Laziole    Laziole+0 //_H_ sg g, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="2001-09" >
+septembris    september+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Allakäik    alla_käik+0 //_S_ sg n, //
+börsil    börs+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Sama    sama+0 //_P_ sg n, //
+järsk    järsk+0 //_A_ sg n, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+langus    langus+0 //_S_ sg n, //
+tabelis    tabel+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+ka    ka+0 //_D_ //
+ManU    manu+0 //_D_ //
+allakäik    alla_käik+0 //_S_ sg n, //
+börsil    börs+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t10" type="DATE" temporalFunction="false" value="2000-03" >
+2000.    2000.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+märtsis    märts+s //_S_ sg in, //
+</TIMEX>
+maksis    maks+is //_V_ s, //
+ManU    manu+0 //_D_ //
+aktsia    aktsia+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+nelja    neli+0 //_N_ sg p, //
+naela    nael+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+klubi    klubi+0 //_S_ sg g, //
+koguväärtust    kogu_väärtus+t //_S_ sg p, //
+hinnati    hinda+ti //_V_ ti, //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ühele    üks+le //_N_ sg all, //    üks+le //_P_ sg all, //
+miljardile    miljard+le //_N_ sg all, //
+naelsterlingile    nael_sterling+le //_S_ sg all, //
+<kiil>
+(    ( //_Z_ //
+umbes    umbes+0 //_D_ //
+25    25+0 //_N_ ?, //
+miljardit    miljard+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t11" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+pakub    pakku+b //_V_ b, //
+Reuters    Reuters+0 //_H_ sg n, //
+Unitedi    United+0 //_H_ sg g, //    Unitedi+0 //_H_ sg g, //
+väärtuseks    väärtus+ks //_S_ sg tr, //
+vaid    vaid+0 //_D_ //
+340    340+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+naela    nael+0 //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+8,5    8,5+0 //_N_ ?, //
+miljardit    miljard+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Aktsia    aktsia+0 //_S_ sg g, //
+hind    hind+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="2001-10" >
+oktoobri    oktoober+0 //_S_ sg g, //
+</TIMEX>
+madalseisu    madal_seis+0 //_S_ sg p, //
+1,18    1,18+0 //_N_ ?, //
+-lt    lt+0 //_Y_ ?, //
+naelalt    nael+lt //_S_ sg abl, //
+tõusnud    tõus+nud //_V_ nud, //    tõus=nud+0 //_A_ //    tõus=nud+0 //_A_ sg n, //    tõus=nud+d //_A_ pl n, //
+1,3    1,3+0 //_N_ ?, //
+naelani    nael+ni //_S_ sg ter, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+tõusu    tõus+0 //_S_ sg g, //
+põhjuseks    põhjus+ks //_S_ sg tr, //
+peetakse    pida+takse //_V_ takse, //
+Iiri    Iiri+0 //_H_ sg g, //
+magnaatide    magnaat+de //_S_ pl g, //
+J.P.    J.P+0 //_Y_ ?, //
+McManuse    Mc_manus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+John    John+0 //_H_ sg n, //
+Magnieri    Magnieri+0 //_H_ sg n, //
+plaani    plaan+0 //_S_ sg p, //
+ManU    manu+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+aktsiaseltsi    aktsia_selts+0 //_S_ sg g, //
+juhtimine    juhtimine+0 //_S_ sg n, //
+üle    üle+0 //_D_ //
+võtta    võt+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Mitmete    mitu+te //_P_ pl g, //
+hipodroomide    hipo_droom+de //_S_ pl g, //
+omanikud    omanik+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+traavivõistluste    traavi_võistlus+te //_S_ pl g, //
+korraldajad    korraldaja+d //_S_ pl n, //
+McManus    Mc_manus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+Magnier    Magnier+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Cubic    Cubic+0 //_H_ sg n, //
+Expression    Expression+0 //_H_ sg n, //
+Company    Company+0 //_H_ sg n, //
+kaudu    kaudu+0 //_K_ //
+hulganisti    hulganisti+0 //_D_ //
+ManU    manu+0 //_D_ //
+aktsiaid    aktsia+id //_S_ pl p, //
+kokku    kokku+0 //_D_ //
+ostnud    ost+nud //_V_ nud, //    ost=nud+0 //_A_ //    ost=nud+0 //_A_ sg n, //    ost=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Reutersi    Reuters+0 //_H_ sg g, //
+andmeil    andmed+il //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kahe    kaks+0 //_N_ sg g, //
+iirlase    iirlane+0 //_S_ sg g, //
+käes    käes+0 //_K_ //
+8,65    8,65+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+Unitedi    United+0 //_H_ sg g, //    Unitedi+0 //_H_ sg g, //
+aktsiatest    aktsia+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+ManU    manu+0 //_D_ //
+suurim    suurim+0 //_U_ sg n, //
+osanik    osanik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+satelliit-TV    satelliit-TV+0 //_Y_ ?, //
+operaator    operaator+0 //_S_ sg n, //
+BSkyB    BSkyB+0 //_Y_ ?, //
+9,9    9,9+0 //_N_ ?, //
+protsendiga    protsent+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Ajalehe    aja_leht+0 //_S_ sg g, //
+Observer    Observer+0 //_H_ sg n, //
+andmeil    andmed+il //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+BskyB    BskyB+0 //_Y_ ?, //
+alustanud    alusta+nud //_V_ nud, //    alusta=nud+0 //_A_ //    alusta=nud+0 //_A_ sg n, //    alusta=nud+d //_A_ pl n, //
+läbirääkimisi    läbi_rääkimine+i //_S_ pl p, //
+oma    oma+0 //_P_ sg g, //
+osaluse    osalus+0 //_S_ sg g, //
+müümiseks    müümine+ks //_S_ sg tr, //
+Iiri    Iiri+0 //_H_ sg g, //
+magnaatidele    magnaat+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+BSkyB    BSkyB+0 //_Y_ ?, //
+esindaja    esindaja+0 //_S_ sg n, //
+väitis    väit+is //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+"    " //_Z_ //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegu    praegu+0 //_D_ //
+</TIMEX>
+sellist    selline+t //_P_ sg p, //
+plaani    plaan+0 //_S_ sg p, //
+pole    ole+0 //_V_ neg o, //
+"    " //_Z_ //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+keeldus    keeldu+s //_V_ s, //
+kommenteerimast    kommenteeri+mast //_V_ mast, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+läbirääkimisi    läbi_rääkimine+i //_S_ pl p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t14" type="DATE" temporalFunction="false" value="1999" >
+1999.    1999.+0 //_O_ ?, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+oli    ole+i //_V_ s, //
+BSkyB    BSkyB+0 //_Y_ ?, //
+ise    ise+0 //_D_ //
+valmis    valmis+0 //_A_ //
+aktsiate    aktsia+te //_S_ pl g, //
+kontrollpaki    kontroll_pakk+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+maksma    maks+ma //_V_ ma, //
+üle    üle+0 //_D_ //
+600    600+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+naela    nael+0 //_S_ sg g, //
+<kiil>
+(    ( //_Z_ //
+15    15+0 //_N_ ?, //
+miljardit    miljard+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+kuid    kuid+0 //_J_ //
+Inglise    inglise+0 //_G_ //
+liiga    liiga+0 //_D_ //
+keelas    keela+s //_V_ s, //
+selle    see+0 //_P_ sg g, //
+tehingu    tehing+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+iirlaste    iirlane+te //_S_ pl g, //
+ost    ost+0 //_S_ sg n, //
+õnnestub    õnnestu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+saadakse    saa+dakse //_V_ takse, //
+enda    ise+0 //_P_ sg g, //
+kätte    käsi+tte //_S_ adt, //
+peaaegu    pea_aegu+0 //_D_ //
+20    20+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+Unitedi    United+0 //_H_ sg g, //    Unitedi+0 //_H_ sg g, //
+aktsiatest    aktsia+test //_S_ pl el, //
+,    , //_Z_ //
+<kindel_piir/>
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+peaks    pida+ks //_V_ ks, //
+piisama    piisa+ma //_V_ ma, //
+firma    firma+0 //_S_ sg g, //
+juhtimise    juhtimine+0 //_S_ sg g, //
+ülevõtmiseks    üle_võtmine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Sõbrad    sõber+d //_S_ pl n, //
+tulid    tule+id //_V_ sid, //
+appi    abi+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Võimaliku    võimalik+0 //_A_ sg g, //
+tehingu    tehing+0 //_S_ sg g, //
+muudab    muut+b //_V_ b, //
+aga    aga+0 //_J_ //
+eriti    eriti+0 //_D_ //
+intrigeerivaks    intrigeeriv+ks //_A_ sg tr, //
+tõsiasi    tõsi_asi+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+iirlased    iirlane+d //_S_ pl n, //
+McManus    Mc_manus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+Magnier    Magnier+0 //_H_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+šotlase    šotlane+0 //_S_ sg g, //
+Fergusoni    Ferguson+0 //_H_ sg g, //    Fergusoni+0 //_H_ sg g, //
+head    hea+d //_A_ pl n, //
+sõbrad    sõber+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ferguson    Ferguson+0 //_H_ sg n, //
+aga    aga+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t15" type="DURATION" temporalFunction="true" value="PXY" beginPoint="t16" endPoint="t0" >
+viimastel    viimane+tel //_A_ pl ad, //
+aastatel    aasta+tel //_S_ pl ad, //
+<TIMEX  tid="t16" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+klubi    klubi+0 //_S_ sg g, //
+juhatusega    juhatus+ga //_S_ sg kom, //
+kehvalt    kehvalt+0 //_D_ //
+läbi    läbi+0 //_D_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Hoopis    hoopis+0 //_D_ //
+teravaks    terav+ks //_A_ sg tr, //
+läks    mine+s //_V_ s, //
+asi    asi+0 //_S_ sg n, //
+<TIMEX  tid="t17" type="DATE" temporalFunction="true" value="2001-SP" >
+kevadel    kevad+l //_S_ sg ad, //    kevade+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+arutati    aruta+ti //_V_ ti, //
+tema    tema+0 //_P_ sg g, //
+võimalikku    võimalik+0 //_A_ sg p, //
+staatust    staatus+t //_S_ sg p, //
+ManU-s    ManU+s //_S_ sg in, //
+pärast    pärast+0 //_K_ //
+peatreeneri    pea_treener+0 //_S_ sg g, //
+ametist    amet+st //_S_ sg el, //
+loobumist    loobumine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Ferguson    Ferguson+0 //_H_ sg n, //
+ihkas    ihka+s //_V_ s, //
+juhatusse    juhatus+se //_S_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+jäi    jää+i //_V_ s, //
+pika    pikk+0 //_A_ sg g, //
+ninaga    nina+ga //_S_ sg kom, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ähvardas    ähvarda+s //_V_ s, //
+igasugused    iga_sugune+d //_P_ pl n, //
+suhted    suhe+d //_S_ pl n, //
+Unitediga    United+ga //_H_ sg kom, //    Unitedi+ga //_H_ sg kom, //
+katkestada    katkesta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Lõpuks    lõpuks+0 //_D_ //
+andis    and+is //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+nõusoleku    nõus_olek+0 //_S_ sg g, //
+pidada    pida+da //_V_ da, //
+<TIMEX  tid="t18" type="DURATION" temporalFunction="false" value="P5Y" >
+viis    viis+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+konsultandi    konsultant+0 //_S_ sg g, //
+ametit    amet+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+iirlastest    iirlane+test //_S_ pl el, //
+sõbrad    sõber+d //_S_ pl n, //
+saavad    saa+vad //_V_ vad, //
+klubis    klubi+s //_S_ sg in, //
+suurema    suurem+0 //_C_ sg g, //
+sõnaõiguse    sõna_õigus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+<TIMEX  tid="t19" type="DURATION" temporalFunction="false" value="P59Y" >
+59-aastase    59_aastane+0 //_A_ sg g, //
+</TIMEX>
+šotlase    šotlane+0 //_S_ sg g, //
+positsioon    positsioon+0 //_S_ sg n, //
+Unitedis    United+s //_H_ sg in, //    Unitedi+s //_H_ sg in, //
+tunduvalt    tunduvalt+0 //_D_ //
+tugevamaks    tugevam+ks //_C_ sg tr, //
+muutuda    muutu+da //_V_ da, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Garel Püüa 
+ Eesti ajaloolaste arvates tuleks <TIMEX3 tid="t139" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähiajal</TIMEX3> katsetada , kas sinna 
+ Venemaa kaitseministri käsul avalikustati <TIMEX3 tid="t140" type="DATE" value="PAST_REF" anchorTimeID="t0" >hiljuti</TIMEX3> üle nelja miljoni sealse kaitseministeeriumi arhiivides leiduva dokumendi , mis puudutavad punaarmee ja sõjalaevastiku tegevust <TIMEX3 tid="t141" type="DATE" value="1941">1941.</TIMEX3>-<TIMEX3 tid="t142" type="DATE" value="1945">1945. aastal</TIMEX3><TIMEX3 tid="t143" type="DURATION" value="P4Y" beginPoint="t141" endPoint="t142"/> , kuid Eesti ajaloolased suhtuvad uudisesse üsna skeptiliselt . 
+ " Minu teada pole kaitseministeeriumi arhiivi <TIMEX3 tid="t144" type="DURATION" value="PXY" beginPoint="t319" endPoint="t0" >viimastel aastatel</TIMEX3><TIMEX3 tid="t319" type="DATE" value="XXXX" temporalFunction="true"/> Eestist küll keegi pääsenud , " nentis ajaloodoktor Tõnu-Andrus Tannberg . 
+ Tema sõnul on keeruline kommenteerida , mida see uudis Eesti uurijate jaoks kaasa toob , sest seni pole isegi täpsemalt teada , millised dokumendid Venemaal avalikustati . 
+ " Aga <TIMEX3 tid="t145" type="DATE" value="FUTURE_REF" anchorTimeID="t0" >lähiajal</TIMEX3> tasub järele proovida , kas sinna on üldse võimalik pääseda , sest <TIMEX3 tid="t146" type="DURATION" value="P4Y" anchorTimeID="t143">periood</TIMEX3> on huvitav , " arvas Tannberg . 
+ Ajaloolase sõnul on Venemaa arhiivisüsteem mitmetasandiline ning föderaalarhiividesse , nagu sealne riigiarhiiv , pääseb lihtsamini . 
+ Lisaks on Venemaal ametkondlikud arhiivid , mille alla kuuluvad ka kaitseministeeriumi ja sõjamerelaevastiku keskarhiiv , kuhu saab ainult kaitseministeeriumi loal . 
+</TimeML>

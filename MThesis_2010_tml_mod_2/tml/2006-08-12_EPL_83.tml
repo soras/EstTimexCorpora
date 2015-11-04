@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Viljandi Kirsimäe aidale kogutud 130 000 krooni 
+Tiiu Laks 
+ Rahahätta jäänud Viljandi Kirsimäe aida jaoks on annetuste teel kogutud umbes 130 000 krooni , lisaks tuhandetes kroonides kõnesid annetustelefonile . 
+ Pärimusmuusika keskuse projektijuhi Epp Alatalu sõnul on seda palju , arvestades , et see tähendab umbes 30 ülekannet <TIMEX3 tid="t403" type="SET" value="P1D" >päevas</TIMEX3> ning et nad ei ole selle üle eriti lärmi löönud . 
+ Pärimusmuusika keskus soovib <TIMEX3 tid="t404" type="DATE" value="2007" mod="END" >2007. aasta lõpuks</TIMEX3> kokku saada kolm miljonit krooni . 
+ Viljandi lossimägedes paiknevas aidas kavatsetakse <TIMEX3 tid="t405" type="DATE" value="2008" >2008. aastal</TIMEX3> avada Eesti pärimusmuusika keskus , kus oleks 300-kohaline kontserdisaal , töötoad ja pärimusmuusika raamatukogu . 
+ " Kivide ja mördi raha hakkab ära sööma raha , millest panna kokku keskuse sisu , " ütles Alatalu . 
+ Projekti <TIMEX3 tid="t406" type="DATE" value="2005-SU" mod="END">2005. aasta hilissuvel</TIMEX3> valmimisest saadik on ehitushinnad kolmandiku võrra tõusnud ning uute arvutuste järgi jääb tulevasel keskusel näiteks heliraamatukogu ja kontserdisaali täitmiseks ehitusmaterjalide arvelt raha puudu . 
+</TimeML>

@@ -1,0 +1,180 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-07-08TXX:XX" />
+<ignoreeri>
+|
+autor:
+PM
+|
+ajalehenumber:
+Postimees
+2000.07.08
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Majandus
+|
+artikkel:
+Eesti
+suuremad
+kütusemüüjad
+langetasid
+hindu
+|
+</ignoreeri>
+<s>
+Neste    Neste+0 //_H_ sg n, //
+,    , //_Z_ //
+Statoil    Stat_oil+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Shell    Shell+0 //_H_ sg n, //
+langetasid    langeta+sid //_V_ sid, //
+kütuse    kütus+0 //_S_ sg g, //
+jaemüügihindu    jae_müügi_hind+u //_S_ pl p, //
+15    15+0 //_N_ ?, //
+sendi    sent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+tuues    too+es //_V_ des, //
+põhjuseks    põhjus+ks //_S_ sg tr, //
+maailmaturuhinna    maa_ilma_turu_hind+0 //_S_ sg g, //
+languse    langus+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+konkurentide    konkurent+de //_S_ pl g, //
+käitumise    käitumine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Neste    Neste+0 //_H_ sg n, //
+alandas    alanda+s //_V_ s, //
+automaatjaamades    automaat_jaam+des //_S_ pl in, //
+jaemüügihindu    jae_müügi_hind+u //_S_ pl p, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2000-07-05" >
+kolmapäeval    kolma_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+teenindusjaamades    teenindus_jaam+des //_S_ pl in, //
+muutusid    muutu+sid //_V_ sid, //
+Futura    Futura+0 //_H_ sg g, //
+bensiini    bensiin+0 //_S_ sg g, //
+hinnad    hind+d //_S_ pl n, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="2000-07-06" >
+neljapäeval    nelja_päev+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kinnitas    kinnita+s //_V_ s, //
+Neste    Neste+0 //_H_ sg g, //
+Eesti    Eesti+0 //_H_ sg g, //
+jaemüügijuht    jae_müügi_juht+0 //_S_ sg n, //
+Artur    Artur+0 //_H_ sg n, //
+Praun    Praun+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Automaatjaamades    automaat_jaam+des //_S_ pl in, //
+maksab    maks+b //_V_ b, //
+bensiin    bensiin+0 //_S_ sg n, //
+Futura    Futura+0 //_H_ sg n, //
+95    95+0 //_N_ ?, //
+9,70    9,70+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+Futura    Futura+0 //_H_ sg n, //
+98+    98++0 //_N_ ?, //
+10,60    10,60+0 //_N_ ?, //
+,    , //_Z_ //
+teenindusjaamades    teenindus_jaam+des //_S_ pl in, //
+maksab    maks+b //_V_ b, //
+Futura    Futura+0 //_H_ sg n, //
+95    95+0 //_N_ ?, //
+10,60    10,60+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+Futura    Futura+0 //_H_ sg n, //
+98+    98++0 //_N_ ?, //
+10,85    10,85+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Pliivaba    plii_vaba+0 //_A_ sg p, //
+bensiini    bensiin+0 //_S_ sg p, //
+95    95+0 //_N_ ?, //
+liitri    liiter+0 //_S_ sg g, //
+hind    hind+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+9,95    9,95+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+tasemel    tase+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Statoilis    Stat_oil+s //_H_ sg in, //
+maksab    maks+b //_V_ b, //
+bensiin    bensiin+0 //_S_ sg n, //
+95    95+0 //_N_ ?, //
+Ultima    Ultima+0 //_H_ sg n, //
+10.60    10.60+0 //_N_ ?, //
+ning    ning+0 //_J_ //
+98    98+0 //_N_ ?, //
+Ultima    Ultima+0 //_H_ sg g, //
+10.85.    10.85.+0 //_N_ ?, //
+</s>
+<s>
+Lisanditeta    Lisanditeta+0 //_H_ sg g, //
+bensiini    bensiin+0 //_S_ sg g, //
+95    95+0 //_N_ ?, //
+liiter    liiter+0 //_S_ sg n, //
+maksab    maks+b //_V_ b, //
+9.95.    9.95.+0 //_N_ ?, //
+</s>
+<s>
+Ka    ka+0 //_D_ //
+Shell    Shell+0 //_H_ sg n, //
+Eesti    Eesti+0 //_H_ sg n, //
+langetas    langeta+s //_V_ s, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2000-07-07" >
+eile    eile+0 //_D_ //
+</TIMEX>
+jaemüügihindu    jae_müügi_hind+u //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Shelli    Shell+0 //_H_ sg g, //
+teenindusjaamades    teenindus_jaam+des //_S_ pl in, //
+maksab    maks+b //_V_ b, //
+Shell    Shell+0 //_H_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+tegevdirektori    tegev_direktor+0 //_S_ sg g, //
+Riina    Riina+0 //_H_ sg n, //
+Aamisepa    Aami_sepp+0 //_H_ sg g, //    Aamisepa+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+bensiin    bensiin+0 //_S_ sg n, //
+95    95+0 //_N_ ?, //
+9,95    9,95+0 //_N_ ?, //
+,    , //_Z_ //
+95    95+0 //_N_ ?, //
+V    V+0 //_O_ ?, //
+Power    Power+0 //_H_ sg n, //
+10,80    10,80+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+98    98+0 //_N_ ?, //
+10,80    10,80+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Alexela    Alexela+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+oma    oma+0 //_P_ sg g, //
+tanklates    tankla+tes //_S_ pl in, //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+hindu    hind+u //_S_ pl p, //
+alandanud    alanda+nud //_V_ nud, //    alanda=nud+0 //_A_ //    alanda=nud+0 //_A_ sg n, //    alanda=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Raplamaal Juuru - Rapla tee 11. kilomeetril leidis <TIMEX3 tid="t49" type="TIME" value="2007-06-15T16" anchorTimeID="t0">eile kella 16 ajal</TIMEX3> aset liiklusõnnetus , kus tagasipööret tegema hakanud sõiduauto sõitis ette kaubikule . 
+ Tagasipööret sooritama hakanud Opel Vectra , mida juhtis Alari ( s <TIMEX3 tid="t50" type="DATE" value="1988">1988</TIMEX3> ), sõitis ette tagant lähenenud kaubikule Renault Master , mida juhtis Jako ( s <TIMEX3 tid="t51" type="DATE" value="1985">1985</TIMEX3> ), vahendas politsei korrapidaja . 
+ Opeli juht ja kaassõitja Indrek ( s <TIMEX3 tid="t52" type="DATE" value="1987">1987</TIMEX3> ) toimetati raskete vigastustega Põhja-Eesti regionaalhaigla Mustamäe osakonda . 
+</TimeML>

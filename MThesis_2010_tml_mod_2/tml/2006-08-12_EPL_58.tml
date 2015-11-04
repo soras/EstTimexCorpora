@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kuidas saada edukaks kirjanikuks ehk Christopher Paolini lugu 
+Reporter Eda Post luges läbi eesti keeles ilmunud raamatud " Eragon " ja " Vanem " ning uuris , kes on nende autor - kirjanduse imelapseks nimetatud Christopher Paolini . 
+ Christopher Paolini oli <TIMEX3 tid="t265" type="DURATION" value="P15Y" >15-aastane</TIMEX3> USA poiss ja <TIMEX3 tid="t266" type="DATE" value="PAST_REF" anchorTimeID="t0">äsja</TIMEX3> koduõppes keskkooli lõpetanud . 
+ Kuna vanemad ei lubanud tal nii noorelt kolled?isse minna , polnud tal <TIMEX3 tid="t267" type="DURATION" value="P2Y">paar aastat</TIMEX3> midagi mõistlikku teha . 
+ Aja surnukslöömiseks kirjutas ta oma unistused raamatuks " Eragon " . 
+ <TIMEX3 tid="t268" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> on ta <TIMEX3 tid="t269" type="DURATION" value="P23Y" >23-aastane</TIMEX3> ja pole ikka veel kolled?isse jõudnud , sest " Eragoni " ja sarja teist osa " Vanem " on müüdud juba mitu miljonit eksemplari , " Eragonist " valmib Foxi stuudios <TIMEX3 tid="t270" type="DATE" value="2006-12-24" comment="BEFORE_OR_EQUAL_THAN" anchorTimeID="t0">jõuludeks</TIMEX3> film ja pooleli on triloogia viimase osa kirjutamine . 
+ " Pärandi triloogia " algab sellega , et väljamõeldud maal Alaga&#235;sias elav <TIMEX3 tid="t271" type="DURATION" value="P15Y" >15-aastane</TIMEX3> poiss Eragon leiab kodu lähedalt mägedest kummalise sinise kivi . 
+ Mõne aja pärast koorub sellest sinine lohetüdruk Saphira ja Eragonist saab legendaarsete loheratsanike järeltulija . 
+ Loheratsanikud hävitanud türanlik kuningas Galbatorix saadab oma sõdurid Eragoni ja Saphirat kinni võtma . 
+ Juhtumisi poiss ja lohe pääsevad , aga mõrvatakse poisi onu ja nende kodu põletatakse maha . 
+ Eragon ja Saphira asuvad kättemaksuteele ja nii algavad suured seiklused . 
+</TimeML>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ <TIMEX3 tid="t259" type="DATE" value="2007-06-15" anchorTimeID="t0">Eilse</TIMEX3> Saaremaa velotuuri 123,8 kilomeetri pikkuse etapi Tartust läbi Põlva ja Kanepi Otepääle võitis Jaan Kirsipuu Andrei Mustoneni ja Janek Tombaku ees . 
+ Otsustavad sündmused toimusid Põlva ja Kanepi vahel , kui peagrupil sõitsid eest ära viis meest - Janar Jermakov , Mustonen , Kalle Kriit , Kirsipuu ja lõuna-aafriklane Adam Illingworth . 
+ See viisik kasvatas oma edu jälitajate ees koguni <TIMEX3 tid="t260" type="DURATION" value="PT2M">kahele minutile.</TIMEX3> 
+ Esimesel Otepää ringil jäid Jermakov ja Illingworth aga grupist maha . 
+ Mäefiniši Otepääl võitis Kalle Kriit , järgnesid Kirsipuu ja Mustonen . 
+ Enne viimast kahte kilomeetrit jäi maha ka Kriit ning võitja selgitasid mees mehe võitluses Kirsipuu ja Mustonen . 
+</TimeML>

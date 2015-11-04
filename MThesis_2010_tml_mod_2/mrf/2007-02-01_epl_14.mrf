@@ -1,0 +1,125 @@
+Toimetaja    toimetaja+0 //_S_ sg n, //
+:    : //_Z_ //
+Riina    Riina+0 //_H_ sg n, //
+Kallas    Kallas+0 //_H_ sg n, //
+Detsembri    detsember+0 //_S_ sg g, //
+lõpu    lõpp+0 //_S_ sg g, //
+seisuga    seis+ga //_S_ sg kom, //
+oli    ole+i //_V_ s, //
+Eesti    Eesti+0 //_H_ sg g, //
+stabiliseerimisreservi    stabiliseerimis_reserv+0 //_S_ sg g, //
+maht    maht+0 //_S_ sg n, //
+soetusmaksumuses    soetus_maksumus+s //_S_ sg in, //
+5,92    5,92+0 //_N_ ?, //
+miljardit    miljard+t //_N_ sg p, //
+ja    ja+0 //_J_ //
+turuväärtuses    turu_väärtus+s //_S_ sg in, //
+5,96    5,96+0 //_N_ ?, //
+miljardit    miljard+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+Rahandusministeeriumi    rahandus_ministeerium+0 //_S_ sg g, //
+teatel    teade+l //_S_ sg ad, //
+oli    ole+i //_V_ s, //
+reservi    reserv+0 //_S_ sg g, //
+turuväärtus    turu_väärtus+0 //_S_ sg n, //
+2006.    2006.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+lõpuks    lõpp+ks //_S_ sg tr, //
+võrreldes    võrdle+des //_V_ des, //
+kolmanda    kolmas+0 //_O_ sg g, //
+kvartaliga    kvartal+ga //_S_ sg kom, //
+kasvanud    kasva+nud //_V_ nud, //    kasva=nud+0 //_A_ //    kasva=nud+0 //_A_ sg n, //    kasva=nud+d //_A_ pl n, //
+70,4    70,4+0 //_N_ ?, //
+miljoni    miljon+0 //_N_ sg g, //
+krooni    kroon+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+ehk    ehk+0 //_J_ //
+ligikaudu    ligi_kaudu+0 //_D_ //
+1,2    1,2+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+2006.    2006.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+algusega    algus+ga //_S_ sg kom, //
+võrreldes    võrdle+des //_V_ des, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+reservi    reserv+0 //_S_ sg g, //
+turuväärtus    turu_väärtus+0 //_S_ sg n, //
+kasvanud    kasva+nud //_V_ nud, //    kasva=nud+0 //_A_ //    kasva=nud+0 //_A_ sg n, //    kasva=nud+d //_A_ pl n, //
+430,6    430,6+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+ehk    ehk+0 //_J_ //
+7,8    7,8+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+Eelmise    eelmine+0 //_A_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+neljandas    neljas+s //_O_ sg in, //
+kvartalis    kvartal+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+reservi    reserv+0 //_S_ sg g, //
+tulusus    tulusus+0 //_S_ sg n, //
+1,08    1,08+0 //_N_ ?, //
+protsenti    protsent+0 //_S_ sg p, //
+.    . //_Z_ //
+Reservi    reserv+0 //_S_ adt, //
+realiseeritud    realiseeri+tud //_V_ tud, //    realiseeri=tud+0 //_A_ //    realiseeri=tud+0 //_A_ sg n, //    realiseeri=tud+d //_A_ pl n, //
+kasum    kasum+0 //_S_ sg n, //
+moodustab    moodusta+b //_V_ b, //
+2006.    2006.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+detsembri    detsember+0 //_S_ sg g, //
+lõpu    lõpp+0 //_S_ sg g, //
+seisuga    seis+ga //_S_ sg kom, //
+114,5    114,5+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+;    ; //_Z_ //
+realiseerimata    realiseeri=mata+0 //_A_ //
+kasum    kasum+0 //_S_ sg n, //
+aga    aga+0 //_J_ //
+45,9    45,9+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+Riigieelarvest    riigi_eel_arve+st //_S_ sg el, //
+laekus    laeku+s //_V_ s, //
+2006.    2006.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+neljandas    neljas+s //_O_ sg in, //
+kvartalis    kvartal+s //_S_ sg in, //
+reservi    reserv+0 //_S_ adt, //
+51,5    51,5+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+2006.    2006.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+viimases    viimane+s //_A_ sg in, //
+kvartali    kvartal+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+mõjutasid    mõjuta+sid //_V_ sid, //
+rahvusvahelisi    rahvus_vaheline+i //_A_ pl p, //
+raha    raha+0 //_S_ sg p, //
+ja    ja+0 //_J_ //
+kapitaliturge    kapitali_turg+e //_S_ pl p, //
+enim    enim+0 //_U_ sg n, //
+Euroopa    Euroopa+0 //_H_ sg g, //
+keskpanga    kesk_pank+0 //_S_ sg g, //
+poolne    poolne+0 //_A_ sg n, //
+jätkuv    jätkuv+0 //_A_ sg n, //
+baasintressimäära    baas_intressi_määr+0 //_S_ sg g, //
+tõstmine    tõstmine+0 //_S_ sg n, //
+3,5    3,5+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+tasemele    tase+le //_S_ sg all, //
+,    , //_Z_ //
+toornafta    toor_nafta+0 //_S_ sg g, //
+hinna    hind+0 //_S_ sg g, //
+alanemine    alanemine+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+dollari    dollar+0 //_S_ sg g, //
+nõrgenemine    nõrgenemine+0 //_S_ sg n, //
+.    . //_Z_ //

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: The Who alustab maailmaturneed 
+Konfliktse ajaloo , lahkuminemiste ja kokkutulemiste poolest tuntud kunagine ( ja paljude jaoks ka <TIMEX3 tid="t258" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegune</TIMEX3> ) kultusbänd The Who on jälle tagasi , kirjutab Tiiu Laks . 
+ The Who kaks järelejäänud põhiliiget , kogu bändi ajaloo jooksul omavahel kakelnud laulja Roger Daltrey ( <TIMEX3 tid="t259" type="DURATION" value="P62Y" >62</TIMEX3> ) ja laulukirjutaja-kitarrist Pete Townshend ( <TIMEX3 tid="t260" type="DURATION" value="P61Y" >61</TIMEX3> ) annavad <TIMEX3 tid="t261" type="DATE" value="2006-10" anchorTimeID="t0">oktoobris</TIMEX3> välja albumi " WHO2 " . 
+ Lisaks sellele kuulutati , et <TIMEX3 tid="t262" type="DATE" value="2006-09" anchorTimeID="t0">septembris</TIMEX3> algab maailmaturnee - esimene <TIMEX3 tid="t263" type="DURATION" value="P20Y" >20 aasta jooksul</TIMEX3> . 
+ Juba on uuelt albumilt ilmunud The Who kurikuulsa ?anri näide - miniooper nimega " Wire&amp;Glass " . 
+ Townshend tunnistas , et vanadel fännidel ei tasu nende uuelt plaadilt oodata endise The Who uuestisündi . 
+ Daltrey soovis , et Townshend kirjutaks noorust kummardavas rock'n'roll'i maailmas plaadi , mis kirjeldaks ja peegeldaks vanema generatsiooni tundeid ja olukorda . 
+ <TIMEX3 tid="t264" type="DURATION" value="PT11M" >11-minutiline</TIMEX3> miniooper kõlabki täpselt nii . 
+ See on vanade meeste muusika . 
+</TimeML>

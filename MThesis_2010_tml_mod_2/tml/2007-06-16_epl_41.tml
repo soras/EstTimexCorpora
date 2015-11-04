@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Internet 
+ Kuigi Niiluse jõge Aafrikas on <TIMEX3 tid="t168" type="DURATION" value="PXY">aastaid</TIMEX3> peetud maailma pikimaks jõeks , väidavad mitmed teadlased , et maailma pikim jõgi on hoopis Amazonase jõgi Lõuna-Ameerikas . 
+ Seni on Amazonast tunnustatud kui maailma kõige veerikkamat jõge . 
+ Pikkuse osas jäi jõgi siiski Niilusele alla . 
+ <TIMEX3 tid="t169" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >Nüüd</TIMEX3> väidavad mitmed teadlased , et Amazonas on Niilusest pikem , vahendab BBC . 
+ Väidetavalt avastasid nad <TIMEX3 tid="t170" type="DURATION" value="P2W">kahenädalase</TIMEX3> ekspeditsiooni käigus jõe algpunkti esialgsest lõuna pool , Lõuna-Peruus Mismi mäe jalamilt 5000 meetri kõrguselt . 
+ Teadlaste kinnitusel on Amazonase pikkuseks 6800 kilomeetrit ja Niiluse pikkuseks 6695 kilomeetrit . 
+ Brasiilia geograafia ja statistika instituudi direktor Guido Gelli sõnul võib Aamazonast pidada maailma pikimaks jõeks . 
+</TimeML>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Eesti spordiajakirjanike liit tegi <TIMEX3 tid="t247" type="DATE" value="2006" anchorTimeID="t0">möödunud aastast</TIMEX3> kokkuvõtteid . 
+ Kaks auhinda võitis Eesti Päevalehe sporditoimetus . 
+ Parima foto auhind kuulus Joosep Martinsonile , kes pildistas Eesti ja Poola jäähokimatši ning tabas <TIMEX3 tid="t248" type="DATE" value="PAST_REF" anchorTimeID="t0" >hetke</TIMEX3> , kui litter väravajoonele libises . 
+ Parim kirjutava pressi publitsistikalugu oli aga " Pettus : jätame mängu ära , mängime tulemuseks 65 : 45 , " kus Andrus Nilk ja Ville Arike kirjeldasid , kuidas A-klassi korvpallineiud mänge pidamata kirjutasid lahtritesse tulemusi . 
+ Kaks auhinda võitis Gunnar Press SL Õhtulehest ( parim kolumn ja uudislugu ) , parima võistlusülevaate tegi Jaan Martinson Kristina Šmiguni olümpiavõidust . 
+ Maakonnalehe preemia võitis Anne Põder Järva Teatajast . 
+</TimeML>

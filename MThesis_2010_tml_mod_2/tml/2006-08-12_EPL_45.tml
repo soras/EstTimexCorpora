@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kristina ?migun : ei usu , et treeneriks hakkan 
+Rain Pruul 
+ Kahekordne olümiavõitja Kristina *migun kavatseb <TIMEX3 tid="t197" type="DATE" value="FUTURE_REF" anchorTimeID="t0">lähipäevil</TIMEX3> koos sõbranna Claudia Künzeliga Pühajärvele rannavollet mängima minna . 
+ Said <TIMEX3 tid="t198" type="DATE" value="2006-08-12" anchorTimeID="t0">täna</TIMEX3> soomlannade järel neljanda koha , mida ise enda proloogisõidust arvad ? 
+ Võib-olla oleksin pidanud <TIMEX3 tid="t199" type="DATE" value="2006-08-12" anchorTimeID="t0">täna</TIMEX3> rohkem tähelepanu tehnikale pöörama , aga hasart oli liiga suur . 
+ Nii kui võistlusnumbri selga tõmbasin , adrenaliin tõusis ja hakkasin kohe lahmima . 
+ <TIMEX3 tid="t200" type="DATE" value="2006-08-13" anchorTimeID="t0">Homsel</TIMEX3> jooksurajal lähen kindlasti endast kõike andma . 
+ Teen hea jooksu , annan jalgadele valu . 
+ Jaak Mae heitis <TIMEX3 tid="t201" type="DATE" value="2006-W30" mod="APPROX" anchorTimeID="t0">paari nädala taguses</TIMEX3> intervjuus ette , et Otepää rullsuusarajad kipuvad liialt kiireks ja seega ka ohtlikuks minema , kuidas sulle tundub ? 
+ <TIMEX3 tid="t202" type="DATE" value="2005" anchorTimeID="t0">Eelmisel aastal</TIMEX3> oli kindlasti ohtlikum , <TIMEX3 tid="t203" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> on juba kogu saepuru rajal olevatesse vagudesse vajunud ning tee on ühtlasem . 
+ Mulle meeldib , et siin rajal saab kiirust hoida , et pole liialt palju kurve . 
+</TimeML>

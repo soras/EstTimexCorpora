@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Garbo jättis saladuse enda teada 
+ TAMBET KAUGEMA , tambet.kaugema@postimees.ee 
+ Tüse pakk omaaegse Hollywoodi filmitähe Greta Garbo kirju , mille sisu sai teatavaks <TIMEX3 tid="t275" type="DATE" value="2000-04-17" anchorTimeID="t0">sel esmaspäeval</TIMEX3> , <TIMEX3 tid="t276" type="DATE" value="2000" anchorTimeID="t284">kümme aastat pärast Garbo surma</TIMEX3> , ei anna selget kinnitust kuulujuttudele , nagu oleks tal olnud <TIMEX3 tid="t277" type="DURATION" value="PXY">aastaid</TIMEX3> kestnud lesbiline armusuhe stsenarist Mercedes de Acostaga . 
+ Samas ei lükka avatud kirjad neid kuulujutte ka ümber . 
+ " Asjaolu , et neis kirjades pole kordagi öeldud , et Garbo igatseb Mercedes de Acosta järgele või armastab teda , tähendab palju , " ütles uudisteagentuurile AP Garbo biograaf Karen Swenson , " kuid küsimärke ripub õhus endiselt palju . 
+ Inimesed tõlgendavad asju niikuinii nõnda , nagu nad parajasti just ise tahavad . " 
+ 55 kirja , 17 postkaarti , 15 telegrammi , fotod ja luuletused ( kõik <TIMEX3 tid="t278" type="DATE" value="1931" >aastaist 1931</TIMEX3>-<TIMEX3 tid="t279" type="DATE" value="1959" >1959</TIMEX3><TIMEX3 tid="t280" type="DURATION" value="P28Y" beginPoint="t278" endPoint="t279"/> ) kinkis de Acosta <TIMEX3 tid="t281" type="DATE" value="1960" >aastal 1960</TIMEX3> Philadelphias asuvale Rosenbachi muuseumile , seades tingimuseks , et need avatakse alles <TIMEX3 tid="t282" type="DATE" value="2000" anchorTimeID="t284">kümme aastat pärast tema või Garbo surma</TIMEX3> - sõltuvalt sellest , kumb sureb viimasena . 
+ De Acosta väitis veidi pärast kirjade loovutamist ilmunud autobiograafias , et nad olid armukesed . 
+ Garbo reageeris sellele igasuguste kontaktide katkestamisega . 
+ De Acosta suri <TIMEX3 tid="t283" type="DATE" value="1968" >1968. aastal</TIMEX3> , Garbo elupäevad kestsid märksa kauem , <TIMEX3 tid="t284" type="DATE" value="1990-04-15" >1990. aasta 15. aprillini</TIMEX3> . 
+ Lisaks Garbo sugulastele , kes olid huvitatud kuulujuttude lõppemisest , ootasid pikisilmi kirjade avamist ka filmiajaloolased , et leida sealt võimalikku vastust küsimusele , miks otsustas Garbo <TIMEX3 tid="t285" type="DATE" value="1941" >1941. aastal</TIMEX3> teha Hollywoodiga lõpparve , olles tookord kõigest <TIMEX3 tid="t286" type="DURATION" value="P36Y" >36-aastane</TIMEX3> ja oma kuulsuse tipul . 
+</TimeML>

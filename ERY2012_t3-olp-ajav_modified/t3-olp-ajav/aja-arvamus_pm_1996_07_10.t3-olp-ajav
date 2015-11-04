@@ -1,0 +1,234 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1996-07-10TXX:XX" />
+<ignoreeri>
+|
+autor:
+MÄRT
+KINNAS
+,
+Karksi-Nuia
+|
+ajalehenumber:
+Postimees
+1996.07.10
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Arvamus
+|
+alamrubriik:
+Kirjad
+toimetusele
+|
+artikkel:
+Elu
+vajab
+lahendust
+|
+</ignoreeri>
+<s>
+Kuidagi    kuidagi+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+unustada    unusta+da //_V_ da, //
+eestlaste    eestlane+te //_S_ pl g, //
+poliitilist    poliitiline+t //_A_ sg p, //
+aktiivsust    aktiivsus+t //_S_ sg p, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="PXY">
+nõukogude    nõu_kogu+de //_S_ pl g, //
+võimu    võim+0 //_S_ sg g, //
+lõpuaastatel    lõpu_aasta+tel //_S_ pl ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Siis    siis+0 //_D_ //
+oli    ole+i //_V_ s, //
+kogu    kogu+0 //_A_ //
+rahval    rahvas+l //_S_ sg ad, //
+kindel    kindel+0 //_A_ sg n, //
+soov    soov+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+tahtmine    tahtmine+0 //_S_ sg n, //
+tagasi    tagasi+0 //_D_ //
+saada    saa+da //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+endist    endine+t //_A_ sg p, //
+Eestimaad    Eesti_maa+d //_H_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+olid    ole+id //_V_ sid, //
+tagatud    taga+tud //_V_ tud, //    taga=tud+0 //_A_ //    taga=tud+0 //_A_ sg n, //    taga=tud+d //_A_ pl n, //
+õigused    õigus+d //_S_ pl n, //
+oma    oma+0 //_P_ sg g, //
+varale    vara+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+kindlustatud    kindlusta+tud //_V_ tud, //    kindlustatud+0 //_A_ //    kindlustatud+0 //_A_ sg n, //    kindlustatud+d //_A_ pl n, //
+tulevik    tulevik+0 //_S_ sg n, //
+lastele    laps+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Vahel    vahel+0 //_D_ //
+tekib    tekki+b //_V_ b, //
+tunne    tunne+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+võimu    võim+0 //_S_ sg g, //
+juurde    juurde+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+valed    vale+d //_A_ pl n, //
+inimesed    inimene+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+suudetud    suude=tud+0 //_A_ //    suude=tud+0 //_A_ sg n, //    suude=tud+d //_A_ pl n, //    suut+tud //_V_ tud, //
+kehtetuks    kehtetu+ks //_A_ sg tr, //
+tunnistada    tunnista+da //_V_ da, //
+isegi    isegi+0 //_D_ //
+nõukogudeaegset    nõu_kogude_aegne+t //_A_ sg p, //
+ülekohut    üle_kohus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+varade    vara+de //_S_ pl g, //    varad+de //_S_ pl g, //
+riisumist    riisumine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+On    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+hakatud    haka=tud+0 //_A_ //    haka=tud+0 //_A_ sg n, //    haka=tud+d //_A_ pl n, //    hakka+tud //_V_ tud, //
+kasutama    kasuta+ma //_V_ ma, //
+venitamise    venitamine+0 //_S_ sg g, //
+taktikat    taktika+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+sellega    see+ga //_P_ sg kom, //
+jämedalt    jämedalt+0 //_D_ //
+rikutud    rikku+tud //_V_ tud, //    rikutud+0 //_A_ //    rikutud+0 //_A_ sg n, //    rikutud+d //_A_ pl n, //
+demokraatia    demo_kraatia+0 //_S_ sg g, //
+reegleid    reegel+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+rahvusvaheliselt    rahvus_vaheliselt+0 //_D_ //
+tunnustatud    tunnusta+tud //_V_ tud, //    tunnustatud+0 //_A_ //    tunnustatud+0 //_A_ sg n, //    tunnustatud+d //_A_ pl n, //
+omandiõigusi    omandi_õigus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegust    praegune+t //_A_ sg p, //
+</TIMEX>
+elu    elu+0 //_S_ sg p, //
+jälgides    jälgi+des //_V_ des, //
+võib    või+b //_V_ b, //
+tõdeda    tõde+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+majandusreformid    majandus_reform+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ebaõnnestunud    eba_õnnestu+nud //_V_ nud, //    eba_õnnestunud+0 //_A_ //    eba_õnnestunud+0 //_A_ sg n, //    eba_õnnestunud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegune    praegune+0 //_A_ sg n, //
+</TIMEX>
+üliliberaalne    üli_liberaalne+0 //_A_ sg n, //
+majandussüsteem    majandus_süsteem+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+takistanud    takista+nud //_V_ nud, //    takista=nud+0 //_A_ //    takista=nud+0 //_A_ sg n, //    takista=nud+d //_A_ pl n, //
+meie    mina+0 //_P_ pl g, //
+majanduse    majandus+0 //_S_ sg g, //
+normaalset    normaalne+t //_A_ sg p, //
+arengut    areng+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+meie    mina+0 //_P_ pl g, //
+turg    turg+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+reguleerimata    reguleeri=mata+0 //_A_ //
+.    . //_Z_ //
+</s>
+<s>
+Riik    riik+0 //_S_ sg n, //
+saaks    saa+ks //_V_ ks, //
+olla    ole+a //_V_ da, //
+ainult    ainult+0 //_D_ //
+siis    siis+0 //_D_ //
+rikas    rikas+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tal    tema+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tugev    tugev+0 //_A_ sg n, //
+majandus    majandus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eluga    elu+ga //_S_ sg kom, //
+tuleb    tule+b //_V_ b, //
+edasi    edasi+0 //_D_ //
+liikuda    liiku+da //_V_ da, //
+,    , //_Z_ //
+nõustuda    nõustu+da //_V_ da, //
+meie    mina+0 //_P_ pl g, //
+maasaadikute    maa_saadik+te //_S_ pl g, //
+ettepanekuga    ette_panek+ga //_S_ sg kom, //
+ja    ja+0 //_J_ //
+jätta    jät+a //_V_ da, //
+maha    maha+0 //_D_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegune    praegune+0 //_A_ sg n, //
+</TIMEX>
+tollivaba    tolli_vaba+0 //_A_ sg n, //
+majandus    majandus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Eestile    Eesti+le //_H_ sg all, //
+oleks    ole+ks //_V_ ks, //
+kiiresti    kiiresti+0 //_D_ //
+vaja    vaja+0 //_D_ //
+korralikku    korralik+0 //_A_ sg p, //
+hinna-    hind+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+maksupoliitikat    maksu_poliitika+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Nüüd    nüüd+0 //_D_ //
+</TIMEX>
+,    , //_Z_ //
+mil    mil+0 //_D_ //
+õnnelikult    õnnelikult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+lõpule    lõpp+le //_S_ sg all, //
+viidud    vii+dud //_V_ tud, //    vii=dud+0 //_A_ //    vii=dud+0 //_A_ sg n, //    vii=dud+d //_A_ pl n, //
+riigimeeste    riigi_mees+te //_S_ pl g, //
+järjekordne    järje_kordne+0 //_A_ sg n, //
+palkade    palk+de //_S_ pl g, //
+korrastamine    korrastamine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+oleks    ole+ks //_V_ ks, //
+aeg    aeg+0 //_S_ sg n, //
+mõtlema    mõtle+ma //_V_ ma, //
+hakata    hakka+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ka    ka+0 //_D_ //
+põllumeeste    põllu_mees+te //_S_ pl g, //
+töö    töö+0 //_S_ sg n, //
+saaks    saa+ks //_V_ ks, //
+väärtustatud    väärtusta+tud //_V_ tud, //    väärtusta=tud+0 //_A_ //    väärtusta=tud+0 //_A_ sg n, //    väärtusta=tud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>

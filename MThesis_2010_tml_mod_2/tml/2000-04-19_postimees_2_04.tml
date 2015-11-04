@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Nybiti alistanud Delta möödus A. Le Coqist 
+ Ehitustööriista korvpallurid teenisid esimese võidu 
+ ANDRUS NILK , andrus.nilk@postimees.ee 
+ Eesti meeste korvpalliliiga põhiturniiri eelviimases voorus toimusid kaalukad sündmused : Tartu Delta alistas kodus Nybiti 95 : 78 ja tõusis kolmandaks , Keila Puuviljaparadiisile 71 : 81 alla jäänud Tallinna Ülikoolide/A. Le Coqi meeskond langes neljandaks . 
+ Delta ja A. Le Coq on kogunud üks voor enne lõppu 19 võitu , paremus 3 : 2 omavahelistes kohtumistes tagab tartlastele kolmanda koha . 
+ Kui Delta alistab <TIMEX3 tid="t54" type="DATE" value="2000-04-19" anchorTimeID="t0">täna</TIMEX3> ka Basketi , saab Emajõelinna meeskond Jüri esinduse vastaseks kohamängude esimeses ringiski . 
+ Delta edu nullib ühtlasi A. Le Coqi ja Kalevi <TIMEX3 tid="t55" type="DATE" value="2000-04-19" anchorTimeID="t0">tänase</TIMEX3> kohtumise tähenduse . 
+ Sel juhul tuleb A. Le Coqil play-off-turniiri avaringis duelleerida <TIMEX3 tid="t56" type="DATE" value="2000-04-18" anchorTimeID="t0">eilse</TIMEX3> nahutaja Puuviljaparadiisiga , paari võitja läheb poolfinaalis vastamisi põhihooaja parima , Kaleviga . 
+ Nii Kalev kui põhihooajal teiseks tulnud Nybit sekkuvad kohamängude teises ringis . 
+ A. Le Coqi kahvatu mäng 
+ Puuviljaparadiisi meeskond nõelas treener Andres Sõbra juhendamisel 12 kohtumisest 11 võitu kogunud A. Le Coqi nõrkushetke kasutades ja venitas poolajaedu 37 : 33 <TIMEX3 tid="t57" type="DURATION" value="PT2M" mod="APPROX">paari minutiga</TIMEX3> 42 : 33-le . 
+ Sõber tõi Rauno Pehka , Margus Metstaki ja Indrek Rumma asemel platsile kaitset kohendama vähekogenumad pallurid , kuid Keila meeskonna hoog jätkus . 
+ <TIMEX3 tid="t58" type="DATE" value="2000-W15" comment="raske määratleda, aga võib eeldada, et eelmine nädal" anchorTimeID="t0">Nädal varem</TIMEX3> loovutasid treener Kalle Klandorfi hoolealused võitu tõotava 10-punktise edu heitluses Kaleviga , seekord viga ei kordunud . 
+ " Tahtsime enne play-off'i esitada korraliku partii , A. Le Coq tegutses aga lahjalt , " ütles Keilale 23 punkti toonud Priit Pihela . 
+ Klandorfi rõõmustas teade , et <TIMEX3 tid="t59" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> tuleb neil kohamängudel tõenäoliselt kohtuda A. Le Coqiga . 
+ " See meeskond sobib meile , " sõnas ta . 
+ Põhiturniiril jäi A. Le Coq peale 3 : 2. 
+ Van Gent lubas preemiat 
+ Seni võiduta Ehitustööriist alistas teise autsaideri Jüri Basketi 79 : 57. " Viimaks suutsime murdumist vältida , " sõnas Ehitustööriista treener Allan Dorbek . 
+ Ivo Uibokant viskas võitjatele 17 , Priit Silland 16 , Kristo Reinumäe 15 ja Jesper Parve 13 punkti . 
+ <TIMEX3 tid="t60" type="DATE" value="PAST_REF" comment="umbmäärane ajaviide" >Vahepeal</TIMEX3> noormängijaid juhendanud , <TIMEX3 tid="t61" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> Belgias treenerina töötav Maarten van Gent lubas Dorbekile , et loovutab hoolealuste võidu korral osa palgast neile . 
+ " Ma ei kahetse , et poisid kogesid tema käe all teistsugust lähenemist , " hindas Dorbek van Genti tööd . 
+ " Kõik treenisid himuga , paljusid innustamas võimalus minna Ameerikasse õppima . " 
+ Ehitustööriista omanikud soovivad meeskonda <TIMEX3 tid="t62" type="DATE" value="2001" anchorTimeID="t0">järgmiselgi aastal</TIMEX3> koos hoida . 
+ " Aga siis ei tahaks enam peksupoiss olla , " ütles Ehitustööriista juht Ivar Valdmaa . 
+ " Plaan on tugevdusi värvata . " 
+</TimeML>

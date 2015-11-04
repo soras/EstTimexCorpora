@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Jooksu järel on Suverulli liidrid Rot?ev ja ?evt?enko 
+Saku Suverull <TIMEX3 tid="t177" type="DATE" value="2006" >2006</TIMEX3> <TIMEX3 tid="t178" type="DATE" value="XXXX-XX-XX" comment="valdkonnaspetsiifiline">teine võistluspäev</TIMEX3> algas murdmaajooksudega ( naised 3 km ja mehed 6 km ) , mille tulemuste põhjal alustatakse <TIMEX3 tid="t179" type="TIME" value="2006-08-12TEV" anchorTimeID="t0">täna õhtul</TIMEX3> viitstardist rullsuusatamist ( naised 12 km ja mehed 20 km ) . 
+ Meestest pääseb <TIMEX3 tid="t180" type="TIME" value="2006-08-12TEV" anchorTimeID="t179">õhtul</TIMEX3> esimesena rajale Vassili Rot?ev ( Venemaa ) , naistest Valentina ?evt?enko ( Ukraina ) , kellele Kristina ?migun kaotas jooksurajal vaid <TIMEX3 tid="t181" type="DURATION" value="PT0.7S" >0,7 sekundiga</TIMEX3> . 
+ Meeste võistluses oli teise ringi lõpuks moodustunud viieliikmeline juhtgrupp , kuhu kuulusid Suverulli <TIMEX3 tid="t182" type="DATE" value="2005" anchorTimeID="t0">mullune</TIMEX3> võitja Vassili Rot?ev , tema kaasmaalane Nikolai Pankratov , Sergei Dolidovit? ( Valgevene ) , rootslane Anders Södergren ja alles 55. kohalt jooksurajale läinud Luka? Bauer ( T?ehhimaa ) . 
+ Sellest grupist rebisid end <TIMEX3 tid="t1182" type="DATE" value="FUTURE_REF" comment="tõlgendatav ka lühikese ajavahemikuna; ankurdub eelneva sündmuse külge">peagi</TIMEX3> lahti Rot?ev ja Bauer , kes püsisid ees lõpuni . 
+ Fini?ispurt oli teravam Rot?evil , kes pääseb <TIMEX3 tid="t183" type="TIME" value="2006-08-12TEV" anchorTimeID="t180">õhtul</TIMEX3> rolleridistantsile <TIMEX3 tid="t184" type="DURATION" value="PT0.7S" >0,7 sekundit</TIMEX3> enne Bauerit . 
+ Kolmandana lõpetanud Dolidovit? kaotas võitjale juba <TIMEX3 tid="t185" type="DURATION" value="PT24.4S" >24,4 sekundiga</TIMEX3> . 
+ Esikolmikule järgnesid Pankratov ( <TIMEX3 tid="t186" type="DURATION" value="PT24.7S" >+24,7</TIMEX3> ) ja Södergren ( <TIMEX3 tid="t187" type="DURATION" value="PT29.7S" >+29,7</TIMEX3> ) . 
+</TimeML>

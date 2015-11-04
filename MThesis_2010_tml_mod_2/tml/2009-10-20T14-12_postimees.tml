@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-10-20T14:12" functionInDocument="CREATION_TIME"/>
+
+Korraks näeme kuiva ilma
+<TIMEX3 tid="t1" type="TIME" value="2009-10-20T14:12">20.10.2009 14:12</TIMEX3>
+Krista Odakivi, EMHI sünoptik
+
+<TIMEX3 tid="t2" type="DATE" value="2009-10-21" anchorTimeID="t0">Homme</TIMEX3> on üle Eesti libisemas kõrgrõhuhari, mis vahelduseks pisut kuivemat ilma pakub.
+
+Seda rõõmu on meile aga vaid viivuks, sest Musta mere rannikult on põhja suunas liikumas madalrõhkkond, mille pilved <TIMEX3 tid="t3" type="DATE" value="2009-10-21" anchorTimeID="t2">päeva jooksul</TIMEX3> üle Leedu ja Läti liiguvad ning <TIMEX3 tid="t4" type="TIME" value="2009-10-21TEV" anchorTimeID="t0">homme õhtul</TIMEX3> alates Lõuna-Eestist suureneb saju võimalus taas.
+
+<TIMEX3 tid="t5" type="DATE" value="2009-10-21" anchorTimeID="t0">Homme</TIMEX3> on pilves selgimistega ilm. <TIMEX3 tid="t6" type="TIME" value="2009-10-21TEV" anchorTimeID="t5">Õhtupoolikul</TIMEX3> võib Lõuna-Eestis kohati vihma sadada. Puhub ida- ja kirdetuul 4-10, <TIMEX3 tid="t7" type="TIME" value="2009-10-21TAF" anchorTimeID="t6">pärastlõunal</TIMEX3> Liivi lahe ääres puhanguti 12-14 m/s.
+
+Sooja tuleb 6-9 kraadi.
+</TimeML>
+

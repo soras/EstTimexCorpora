@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Kristiina Viiron 
+ Suure ettemaksu tõttu pole enam võimalik 
+ Täisühing Võru Devon pole siiani Pokumaal alustanud kaevupuurimist , kuigi töö oleks pidanud valmis saama juba <TIMEX3 tid="t40" type="DATE" value="2007-05" anchorTimeID="t0">mais</TIMEX3> . 
+ Et tööde eest on tasutud 146 000-kroonine ettemaks , ei ole ettevõttel võimalik <TIMEX3 tid="t41" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praegu</TIMEX3> kuskilt mujalt uut töötegijat tellida . 
+ " Tellisin töö <TIMEX3 tid="t42" type="DATE" value="2007-03" anchorTimeID="t0">märtsis</TIMEX3> ja kiiresti-kiiresti oli vaja teha ettemaks , sest mingid torud pidid kallimaks minema , " rääkis AS-i Valmap Grupp töödejuhataja Aare Seemen . 
+ Seemen on saanud firmalt korduvalt uusi tähtaegu . 
+ Kui kaev <TIMEX3 tid="t43" type="DATE" value="2007-05" anchorTimeID="t0">mais</TIMEX3> ei valminud , pidi seda tehtama <TIMEX3 tid="t44" type="DATE" value="2007-06" anchorTimeID="t0">juunis</TIMEX3> , siis <TIMEX3 tid="t45" type="DATE" value="2007-07" anchorTimeID="t0">juulis</TIMEX3> , kuid ka <TIMEX3 tid="t46" type="DATE" value="2007-08" anchorTimeID="t0">augustis</TIMEX3> on Pokumaa ehitajad sama lõhkise küna ees . 
+ Marju Kolk tunnistab , et tööd on tõesti tegemata , lisaks eespool mainitutele ootab järjekorras veelgi tellimusi . 
+</TimeML>

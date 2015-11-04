@@ -1,0 +1,167 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-04-17TXX:XX" />
+<ignoreeri>
+|
+autor:
+KAIV
+VILMAR
+,
+Valgamaa
+|
+ajalehenumber:
+Postimees
+1997.04.17
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Arvamus
+|
+alamrubriik:
+Kirjad
+toimetusele
+|
+artikkel:
+Kuidas
+ma
+sigu
+müüsin
+|
+</ignoreeri>
+<s>
+Helistasin    helista+sin //_V_ sin, //
+kuulutuse    kuulutus+0 //_S_ sg g, //
+peale    peale+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ pl in, //    mis+s //_P_ sg in, //
+seisab    seis+b //_V_ b, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Pidevalt    pidevalt+0 //_D_ //
+noorloomad    noor_loom+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+sead    siga+d //_S_ pl n, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Vastas    vasta+s //_V_ s, //
+Ennu-nimeline    Ennu-nimeline+0 //_A_ sg n, //
+mees    mees+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lubas    luba+s //_V_ s, //
+ära    ära+0 //_D_ //
+osta    ost+a //_V_ da, //
+kuus    kuus+0 //_N_ sg n, //
+siga    siga+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Lasingi    lask+ingi //_V_ sin, //
+sead    siga+d //_A_ pl n, //
+tappa    tap+a //_V_ da, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+Ennuga    Enn+ga //_H_ sg kom, //
+jäi    jää+i //_V_ s, //
+jutt    jutt+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+saame    saa+me //_V_ me, //
+kokku    kokku+0 //_D_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1997-04-14" >
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+Tõrva    tõrv+0 //_S_ sg g, //
+parkimisplatsil    parkimis_plats+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Keda    kes+da //_P_ pl p, //    kes+da //_P_ sg p, //
+aga    aga+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+tulnud    tul=nud+0 //_A_ //    tul=nud+0 //_A_ sg n, //    tul=nud+d //_A_ pl n, //    tule+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+oli    ole+i //_V_ s, //
+Enn    Enn+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Helistasin    helista+sin //_V_ sin, //
+<TIMEX tid="t1_7" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t1" >
+hiljem    hiljem+0 //_D_ //
+</TIMEX>
+mitu    mitu+0 //_P_ sg n, //
+korda    kord+0 //_S_ sg p, //
+mobiilile    mobiil+le //_S_ sg all, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+lõpuks    lõpuks+0 //_D_ //
+ütles    ütle+s //_V_ s, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+mees    mees+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Ennul    Enn+l //_H_ sg ad, //
+polevat    ole+vat //_V_ neg vat, //
+sigu    siga+u //_S_ pl p, //
+enam    enam+0 //_D_ //
+vaja    vaja+0 //_D_ //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+.    . //_Z_ //
+</s>
+<s>
+Sead    siga+d //_S_ pl n, //
+olid    ole+id //_V_ sid, //
+aga    aga+0 //_J_ //
+tapetud    tap+tud //_V_ tud, //    tapetud+0 //_A_ //    tapetud+0 //_A_ sg n, //    tapetud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Sain    saa+in //_V_ sin, //
+õnneks    õnn+ks //_S_ sg tr, //
+erandkorras    erand_kord+s //_S_ sg in, //
+kuus    kuus+0 //_N_ sg n, //
+tapetud    tap+tud //_V_ tud, //    tapetud+0 //_A_ //    tapetud+0 //_A_ sg n, //    tapetud+d //_A_ pl n, //
+siga    siga+0 //_S_ sg p, //
+ära    ära+0 //_D_ //
+müüa    müü+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Vastasel    vastane+l //_A_ sg ad, //
+korral    kord+l //_S_ sg ad, //
+oleks    ole+ks //_V_ ks, //
+kahju    kahi+0 //_S_ sg g, //    kahju+0 //_S_ sg g, //
+suur    suur+0 //_A_ sg n, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+:    : //_Z_ //
+<kindel_piir/>
+kilo    kilo+0 //_S_ sg n, //
+sealiha    sea_liha+0 //_S_ sg p, //
+maksab    maks+b //_V_ b, //
+umbes    umbes+0 //_D_ //
+28    28+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Kogu    kogu+0 //_A_ //
+loo    lood+0 //_S_ sg g, //    loog+0 //_S_ sg g, //    lugu+0 //_S_ sg g, //
+juures    juures+0 //_K_ //
+võtsin    võt+sin //_V_ sin, //
+end    ise+0 //_P_ sg p, //
+töölt    töö+lt //_S_ sg abl, //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="P2D" >
+kaheks    kaks+ks //_N_ sg tr, //
+päevaks    päev+ks //_S_ sg tr, //
+</TIMEX>
+vabaks    vaba+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>

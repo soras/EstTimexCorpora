@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Valestart tegi Tarmo Jallai ettevaatlikuks 
+Kristi Vahemaa , Göteborg 
+ Meeste 110 m tõkkejooksu lõpetas Tarmo Jallai ajaga 13,89 , mis andis 22. koha . 
+ " Ajaga ei ole ma üldse rahul , küll aga vormiga , " sõnas Jallai , kelle eesmärk oli jõuda poolfinaali . 
+ 16 parema sekka viis veel 13,72 . 
+ " Ilm oli hea , enesetunne samuti , ei teagi , mille taha korralik tulemus jäi , " analüüsis Jallai . 
+ " Soomlase Juha Sonci valestart tegi muidugi ettevaatlikuks , " sõnas Jallai , kuigi lähe oli just see , millega võiks rahule jääda . 
+ " Hakkasin kohe punnitama , läksin pingesse ja pidurdasin iseenda hoogu , selle asemel et 13,70 kanti ära joosta , " ohkas tõkkesprinter , kes <TIMEX3 tid="t220" type="DURATION" value="P2M" mod="APPROX">ligi kaks kuud</TIMEX3> USA-s harjutas . 
+</TimeML>

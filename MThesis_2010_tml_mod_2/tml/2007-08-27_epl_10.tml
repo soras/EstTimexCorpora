@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Raimo Poom 
+ <TIMEX3 tid="t60" type="DATE" value="2007-08-25" anchorTimeID="t0">Laupäeval</TIMEX3> toimunud Keskerakonna konverentsil oli ette nähtud , et erakonna esimees peab <TIMEX3 tid="t61" type="DURATION" value="PT30M" >pooletunnise</TIMEX3> kõne . 
+ Kas vanameister hakkab väsima ? 
+ Kongressi juhatama asunud eksharidusminister Mailis Reps ja märtsivalimiste järel Tallinna linnapea toolist Savisaare kasuks loobunud Jüri Ratas panid aga esimese asjana ette esimees Edgar Savisaare kõneks eraldatud aja pikendamise <TIMEX3 tid="t62" type="DURATION" value="PT1H" >terve tunnini</TIMEX3> . 
+ Nii ka läks . 
+ Talle omasel kiirel edasisööstval sammul kõnepulti lipanud Savisaare poliitilise olukorra analüüsi kuulati hiirvaikuses <TIMEX3 tid="t63" type="DURATION" value="PT1H" >täpselt tund aega</TIMEX3> . 
+ Erakonna endine peasekretär ja <TIMEX3 tid="t64" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >nüüdne</TIMEX3> aseesimees Kadri Must seletas kuluaarides , et pigem oli esialgselt väljapakutud <TIMEX3 tid="t65" type="DURATION" value="PT30M" >pooletunnine</TIMEX3> esinemine mõeldud arvestama saalis olnute võimet tükk aega vaikselt kohapeal püsida . 
+ " Kõne algne visand oleks kestnud <TIMEX3 tid="t66" type="DURATION" value="PT4H" >neli tundi</TIMEX3> . 
+ Me nägime <TIMEX3 tid="t67" type="TIME" value="2007-08-25TNI" comment="arvatavasti siis öö vastu laupäeva?!" anchorTimeID="t60">terve öö</TIMEX3> vaeva , et seda kärpida , ja <TIMEX3 tid="t68" type="DURATION" value="PT30M" >poolde tundi</TIMEX3> poleks see kuidagi mahtunud , " rääkis ta . 
+</TimeML>

@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2009-12-14T07:41" functionInDocument="CREATION_TIME" comment="(esmaspäev)"/>
+
+REKLAAM
+Krimi
+Prindi | Saada sõbrale
+SAADA SÕBRALE
+Sinu nimi või e-mail:
+Sõbra e-mail:
+Palun sisestage turvakood: [Sisesta pildikood]
+
+Mängib video:
+
+Vaata siit kõiki Reporter.ee videosid
+Suurenda Vaata videot Lugeja saadetud pilt Vaata galeriid
+Tagasi Edasi 1/1
+
+foto: Margus Ansu
+foto
+http://f.postimees.ee/f/2009/01/22/121085t40hd263.jpg
+http://f.postimees.ee/f/2009/01/22/121085t41h6c3b.jpg
+Margus Ansu
+
+Autoostjaid petnud endine motomees jäi riigikohtus süüdi
+
+<TIMEX3 tid="t1" type="TIME" value="2009-12-14T07:41">14.12.2009 07:41</TIMEX3>
+
+Kommenteeri | Prindi
+Riigikohus jättis kelmuses süüdi motovõistluste korraldamisega populaarsust kogunud saarlase Rein Õue, kes vedas veoautode ostjaid ninapidi, lubades soovijatele Saksamaalt veokid tuua ja küsis selle eest üle poole miljoni krooni ettemaksu.
+REKLAAM
+
+ 
+
+Kuigi Harju maakohus tunnistas <TIMEX3 tid="t2" type="DATE" value="2009-04" anchorTimeID="t0">tänavu aprillis</TIMEX3> Õue kelmuses õigeks, Tallinna ringkonnakohus <TIMEX3 tid="t3" type="DATE" value="2009-09" anchorTimeID="t0">septembris</TIMEX3> siiski nii ei arvanud ja tühistas esimese astme kohtuotsuse ning mõistis mehe lisaks kelmusele süüdi ka omastamises, kirjutas Meie Maa.
+
+Kohus karistas Rein Õuet mõlema kuriteo eest kokku <TIMEX3 tid="t4" type="DURATION" value="P2Y6M" >kahe ja poole aasta</TIMEX3> pikkuse vangistusega tingimisi <TIMEX3 tid="t5" type="DURATION" value="P3Y" >kolmeaastase</TIMEX3> katseajaga. Mees kaebas ringkonnakohtu otsuse advokaadi vahendusel riigikohtusse edasi, kuid loakogu ei andnud <TIMEX3 tid="t6" type="DATE" value="2009-12-07" anchorTimeID="t0">7. detsembril</TIMEX3> kaebuse läbivaatamiseks menetlusluba. Seega jääb Õue kuritegudes lõplikult süüdi.
+
+Vastavalt kohtuotsusele tuleb Rein Õuel ühele kannatanule hüvitada 320 000 krooni ja teisele 200 000 krooni. Lisaks peab mees hüvitama laevapileti eest maksmata jäänud 7775 krooni.
+
+Kohtuotsuse järgi sõlmis Õue <TIMEX3 tid="t7" type="DATE" value="2003-01">2003. aasta jaanuaris</TIMEX3>-<TIMEX3 tid="t8" type="DATE"  value="2003-02" anchorTimeID="t7">veebruaris</TIMEX3><TIMEX3 tid="t9" type="DURATION" beginPoint="t7" endPoint="t8" value="PXM"/> Harjumaal ühe firmaga suulise müügilepingu, mille kohaselt ta pidi tarnima Saksamaalt ja üle andma veoki Scania hinnaga 250 000 krooni. Õue küsis firma esindajalt 200 000 krooni ettemaksu, lubades pärast seda auto ostjale üle anda.
+
+Rein Õue ise väitis, et auto seisis Kieli sadamas. Millegipärast hakatud teda aga ähvardama ning tal polnud tahtmist enam auto Eestisse toomisega tegelda ja ta müünud masina Saksamaal teisele ostjale maha.
+
+Toimetas Martti Kass
+Rubriigi uudised Kõik uudised »
+
+<TIMEX3 tid="t10" type="TIME" value="2009-12-14T08:15" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">08:15</TIMEX3> Toila sanatooriumis põles infrapunasaun  (2)
+
+<TIMEX3 tid="t11" type="TIME" value="2009-12-14T07:56" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">07:56</TIMEX3> Saaremaal hukkus saunapõlengus inimene
+
+<TIMEX3 tid="t12" type="TIME" value="2009-12-14T07:41" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">07:41</TIMEX3> Autoostjaid petnud endine motomees jäi riigikohtus süüdi
+
+<TIMEX3 tid="t13" type="TIME" value="2009-12-14T07:16" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">07:16</TIMEX3> Juhiloata ATV-juht sai vigastada
+
+<TIMEX3 tid="t14" type="TIME" value="2009-12-13T22:57" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">22:57 13.12</TIMEX3> Soomlasi vedanud taksobuss tegi kesklinnas tõsise avarii  (12)
+
+<TIMEX3 tid="t15" type="TIME" value="2009-12-13T14:51" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">14:51 13.12</TIMEX3> Liiklejad on lumesajus toime tulnud  (20)
+
+<TIMEX3 tid="t16" type="TIME" value="2009-12-13T14:05" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">14:05 13.12</TIMEX3> Šveitsi politsei kahtlustab eestlast illegaalses võidusõidus  (37)
+
+<TIMEX3 tid="t17" type="TIME" value="2009-12-13T10:04" anchorTimeID="t0" comment="Vajalik taustateadmine struktuuri kohta!">10:04 13.12</TIMEX3> Noor rollerijuht sõitis bussile ette  (3)
+REKLAAM
+
+Lisa oma kommentaar
+
+Nimi:
+
+Loe kommentaare
+
+E-post:
+
+Palun korrake turvakoodi punasesse kasti: Sisesta pildikood
+
+Näita e-maili avalikult
+
+NB! Vaata kommenteerimise tingimusi.
+</TimeML>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kiili vallas üritatakse Guinnessi maailmerekordit 
+" <TIMEX3 tid="t166" type="DATE" value="2006-08-19" anchorTimeID="t0">19. augustil</TIMEX3> algusega <TIMEX3 tid="t167" type="TIME" value="2006-08-19T12:00" anchorTimeID="t166">kell 12.00</TIMEX3> hakkavad kaheksateist Kiili valla noort mängima võrkpalli , " teatas ürituse peakorraldaja Reilika Muuli . 
+ " Tahame mängida Kalev Kiili spordihallis <TIMEX3 tid="t168" type="DURATION" value="PT24H" >24 tundi</TIMEX3> ühtejärge võrkpalli , " kinnitas Muuli . 
+ MTÜ Rõõmuvabriku korraldatatavale maailmarekordiüritusele on kutsutud neli kohtuniku , kes vahetustega oma tööd teevad . 
+ <TIMEX3 tid="t169" type="TIME" value="2006-08-19T12" anchorTimeID="t167">Kell 12</TIMEX3> alguse saaval mängul ei tehta mängupause rohkem , kui ainult vahetuste jaoks tarvis on . 
+ Ka pooltevahetused jäävad ära . 
+ " Pealtvaatajatele on sissepääs tasuta , " selgitas MTÜ Rõõmuvabrik juhatuse liige Katrin Kildmaa . 
+ " Kogu mäng võetakse algusest lõpuni linti , mis saadetakse hiljem koos taotlusega Guinness World Recordsisse Londonis . " 
+</TimeML>

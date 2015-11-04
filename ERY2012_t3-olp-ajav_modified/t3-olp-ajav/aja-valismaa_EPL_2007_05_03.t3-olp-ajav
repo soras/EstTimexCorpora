@@ -1,0 +1,225 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2007-05-03TXX:XX" />
+<ignoreeri>
+|
+autor:
+Aino
+Siebert
+|
+ajalehenumber:
+Eesti
+Päevaleht
+03.05.2007
+|
+rubriik:
+Välismaa
+|
+artikkel:
+Der
+Spiegel
+:
+Gerhard
+Schröder
+demonteerib
+ennast
+|
+</ignoreeri>
+<s>
+Foto    foto+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Reuters    Reuters+0 //_H_ sg n, //
+</s>
+<s>
+Der    Der+0 //_H_ sg n, //
+Spiegel    Spiegel+0 //_H_ sg n, //
+kirjutab    kirjuta+b //_V_ b, //
+ühes    üks+s //_N_ sg in, //    üks+s //_P_ sg in, //
+oma    oma+0 //_P_ sg g, //
+artiklis    artikkel+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+Saksamaa    Saksa_maa+0 //_H_ sg g, //
+Liitvabariigi    liit_vaba_riik+0 //_S_ sg g, //
+endine    endine+0 //_A_ sg n, //
+kantsler    kantsler+0 //_S_ sg n, //
+Gerhard    Gerhard+0 //_H_ sg n, //
+Schröder    Schröder+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+ikka    ikka+0 //_D_ //
+veel    veel+0 //_D_ //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+aru    aru+0 //_S_ sg p, //
+oma    oma+0 //_P_ sg g, //
+südamesôbra    südamesôbra+0 //_S_ sg g, //
+Vladimir    Vladimir+0 //_H_ sg n, //
+Putini    Putin+0 //_H_ sg g, //
+vaenulikust    vaenulik+st //_A_ sg el, //
+poliitikast    poliitika+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+teeb    tege+b //_V_ b, //
+talle    tema+lle //_P_ sg all, //
+Eestis    Eesti+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Moskvas    Moskva+s //_H_ sg in, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+draamatilistest    draamati=line+test //_A_ pl el, //
+sündmustest    sündmus+test //_S_ pl el, //
+edasi    edasi+0 //_D_ //
+reklaami    reklaam+0 //_S_ sg g, //
+igalpool    igal_pool+0 //_S_ sg n, //
+seal    seal+0 //_D_ //
+kus    kus+0 //_D_ //
+ainult    ainult+0 //_D_ //
+vôib    vôib+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+Môni    Môn+0 //_H_ sg g, //    Môni+0 //_H_ sg g, //
+aeg    aeg+0 //_S_ sg n, //
+tagasi    tagasi+0 //_D_ //
+</TIMEX>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Schröder    Schröder+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+kutsutud    kutsu+tud //_V_ tud, //    kutsutud+0 //_A_ //    kutsutud+0 //_A_ sg n, //    kutsutud+d //_A_ pl n, //
+saksa    saksa+0 //_G_ //
+avalik-ôigusliku    avalik-ôigus=lik+0 //_A_ sg g, //
+telekanali    tele_kanal+0 //_S_ sg g, //
+ARD    ARD+0 //_Y_ ?, //
+Berliin-Direkt    Berliin-Direkt+0 //_H_ sg n, //
+moderaator    moderaator+0 //_S_ sg n, //
+Thomas    Thomas+0 //_H_ sg n, //
+Rothi    Roth+0 //_H_ sg g, //    Rothi+0 //_H_ sg g, //
+lahkumispeole    lahkumis_peo+le //_S_ sg all, //    lahkumis_pidu+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+ajakirjanik    aja_kirjanik+0 //_S_ sg n, //
+läheb    mine+b //_V_ b, //
+juhatama    juhata+ma //_V_ ma, //
+meediakanali    meedia_kanal+0 //_S_ sg g, //
+Moskva    Moskva+0 //_H_ sg g, //
+bürood    büroo+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+pani    pane+i //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+talle    tema+lle //_P_ sg all, //
+väga    väga+0 //_D_ //
+südamele    süda+le //_S_ sg all, //
+"    " //_Z_ //
+anda    and+a //_V_ da, //
+Venemaast    Vene_maa+st //_H_ sg el, //
+paremat    parem+t //_C_ sg p, //
+ja    ja+0 //_J_ //
+mitmekesisemat    mitme_kesisem+t //_C_ sg p, //
+pilti    pilt+0 //_S_ sg p, //
+"    " //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+On    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+juba    juba+0 //_D_ //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" comment="vaieldav, kas mõeldakse 'on ammusest teada'">
+ammu    ammu+0 //_D_ //
+</TIMEX>
+teada    tead+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+endine    endine+0 //_A_ sg n, //
+saksa    saksa+0 //_G_ //
+tipppoliitik    tipp_poliitik+0 //_S_ sg n, //
+peab    pida+b //_V_ b, //
+Kremlihärrat    kremli_härra+t //_S_ sg p, //
+,    , //_Z_ //
+tema    tema+0 //_P_ sg g, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegust    praegune+t //_A_ sg p, //
+</TIMEX>
+gaasi-partnerit    gaasi-partner+t //_S_ sg p, //
+,    , //_Z_ //
+"    " //_Z_ //
+absoluutseks    absoluutne+ks //_A_ sg tr, //
+demokraadiks    demo_kraat+ks //_S_ sg tr, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kui    Kui+0 //_H_ sg g, //    Kui+0 //_H_ sg n, //    kui+0 //_D_ //    kui+0 //_J_ //
+Putin    Putin+0 //_H_ sg n, //
+oleks    ole+ks //_V_ ks, //
+demokraat    demo_kraat+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kelleks    kes+ks //_P_ pl tr, //    kes+ks //_P_ sg tr, //
+Schröder    Schröder+0 //_H_ sg n, //
+teda    tema+da //_P_ sg p, //
+peab    pida+b //_V_ b, //
+,    , //_Z_ //
+"    " //_Z_ //
+nii    nii+0 //_D_ //
+saksa    saksa+0 //_G_ //
+juhtiv    juhtiv+0 //_A_ sg n, //
+poliitiline    poliitiline+0 //_A_ sg n, //
+ajakiri    aja_kiri+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+toimuks    toimu+ks //_V_ ks, //
+Moskvas    Moskva+s //_H_ sg in, //
+selliseid    selline+id //_P_ pl p, //
+kokkupôrkeid    kokkupôrk+id //_S_ pl p, //    kokkupôrkei+d //_S_ sg p, //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+Putin-noorte    Putin-noor+te //_S_ pl g, //
+Nashi    Nashi+0 //_H_ sg n, //
+rünnak    rünnak+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+suursaadikule    suur_saadik+le //_S_ sg all, //
+Marina    Marina+0 //_H_ sg n, //
+Kaljurannale    Kalju_rand+le //_H_ sg all, //
+pressikonverentsi    pressi_konverents+0 //_S_ sg g, //
+ajal.    aeg+l //_S_ sg ad, //
+</s>
+<s>
+Meist    Meist+0 //_H_ sg n, //
+keegi    keegi+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+vôiks    vôiks+0 //_S_ sg n, //
+Berliinis    Berliin+s //_H_ sg in, //
+ette    ette+0 //_D_ //
+kujutada    kujuta+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+juusod    juuso+d //_S_ pl n, //    juusod+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+sotsiaaldemokraatide    sotsiaal_demo_kraat+de //_S_ pl g, //
+noorteorganisatsioon    noorte_organisatsioon+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+tormaksid    torma+ksid //_V_ ksid, //
+näiteks    näide+ks //_S_ sg tr, //
+kallale    kallale+0 //_D_ //
+Austria    Austria+0 //_H_ sg g, //
+suursaaikule    suursaaiku+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tema    tema+0 //_P_ sg g, //
+ihukaitsjad    ihu_kaitsja+d //_S_ pl n, //
+oleksid    ole+ksid //_V_ ksid, //
+sunnitud    sundi+tud //_V_ tud, //    sunnitud+0 //_A_ //    sunnitud+0 //_A_ sg n, //    sunnitud+d //_A_ pl n, //
+diplomaati    diplomaat+0 //_S_ adt, //
+pipraspreiga    piprasp_reig+0 //_S_ sg p, //
+kaitsma    kaits+ma //_V_ ma, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>

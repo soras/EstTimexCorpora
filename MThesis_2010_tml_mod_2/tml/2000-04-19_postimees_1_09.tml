@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Tervisepäev trallib <TIMEX3 tid="t93" type="DATE" value="2000-04-23" anchorTimeID="t0">jüripäeval</TIMEX3> lauluväljakul 
+ <TIMEX3 tid="t94" type="DATE" value="2000-04-23" anchorTimeID="t0">Pühapäeval</TIMEX3> saab kogu perega tervist testida 
+ ANNIKA ALASOO , annika.alasoo@postimees.ee 
+ <TIMEX3 tid="t95" type="DATE" value="2000-04-23" anchorTimeID="t0">Jüripäeval</TIMEX3> saavad tartlased testida oma tervist iga kandi pealt , alates aidsianalüüsist ja lõpetades lihasjõudluse määramisega . 
+ <TIMEX3 tid="t96" type="DURATION" value="P5Y">Viiendat aastat järjest</TIMEX3> on lauluväljakul perede tervisepäev . 
+ Tervisepäeva eestvedaja , Eesti tervisekasvatuse ühingu esinaine Sirje Voronina loodab , et <TIMEX3 tid="t97" type="DATE" value="2000-04-23"  anchorTimeID="t0">pühapäeval</TIMEX3> särab päike vähemalt <TIMEX3 tid="t98" type="TIME" value="2000-04-23T11" anchorTimeID="t97">hommikul kella üheteistkümnest</TIMEX3> <TIMEX3 tid="t99" type="TIME" value="2000-04-23T16" anchorTimeID="t98">neljani pärastlõunal</TIMEX3> <TIMEX3 tid="t100" type="DURATION" value="PT5H" beginPoint="t98" endPoint="t99"/>. 
+ Varasemal neljal korral on tervisetundideks ilusat ilma igatahes jagunud . 
+ " See võiks olla samamoodi traditsioon nagu <TIMEX3 tid="t101" type="SET" value="XXXX-SP-XX" >igakevadised tervisepäevadki</TIMEX3> , " leiab Voronina . 
+ Pulsist aidsitestini 
+ Ka vihmaga ei jää tervisepäev ära , lihtsalt kõike plaanitut pole siis nii mõnus ette võtta - Tartu Noorte Loodusemaja looduserada oleks siis märg ja Tartu Liikumissõprade Seltsi tervisekäijate taldade alt pritsiks pori . 
+ Tartu üksiku jalaväepataljoni nekrutid näitaksid huvilistele elustamist ka siis , kui vinguks vinge tuul : raami ja mannekeeniga tuleks lihtsalt telki kolida . 
+ Seevastu kiirabiautosse saab iga ilmaga - Tartu kiirabi näitab keerulisemaid elustamisvõtteid ja -vahendeid . 
+ Kes varem tervisepäeval käinud , võtku kaasa tervisekaart , sest ka <TIMEX3 tid="t102" type="DATE" value="FUTURE_REF" anchorTimeID="t0" comment="mõeldakse tervisepäeva tulevikus">nüüd</TIMEX3> mõõdavad arstid-õed koolilaste pikkust , kaalu , pulssi , vererõhku ning lihasejõudu , samuti tasakaalu ja koordinatsiooni . 
+ " Igaüks saab arstilt soovituse , kas oleks vaja rohkem treenida , " lisab Voronina . 
+ Tuberkuloosiohu tõttu ei mõõdeta kopsumahtu . 
+ Lastel pole mõtet uurida kolesteroolitaset ega südameinfarkti riskitegurit , need probleemid tekivad alles täiskasvanuil - nemad võivad seda tasuta mõõta lasta , kuni mudilased jalgrattaga vigursõitu teevad või päästeameti tuletõrjevoolikust täpsust sihivad . 
+ Iga osaline võiks kaasa võtta kas ratta , rula või rulluisud - saab teistega osavust ja kiirust võrrelda . 
+ Võitjad saavad auhindu nagu päris võistlustel . 
+ <TIMEX3 tid="t103" type="SET" value="P1Y" quant="EVERY">Igal aastal</TIMEX3> on huvi tekitanud aidsi teabelaud ja alati on ka aidsitesti nõutud . 
+ Voronina ei osanud öelda , kas keegi sealt ka kurvastavalt positiivse tulemusega on lahkunud . 
+ Tervisepäevast ei puudu õpetus , kuidas tervislikku toitu valida , ning muidugi näitavad hambaarstid , kuidas hambaid pesta . 
+ Tuhanded oodatud 
+ Tervisekasvatuse õpetaja Sirje Voronina on rahul , et tal on läinud korda <TIMEX3 tid="t104" type="DATE" value="2000-SP" anchorTimeID="t0">kevadeks</TIMEX3> kurnatud õpilased enne eksameid värskesse õhku meelitada : terviseloengud on ju palju tüütumad . 
+ <TIMEX3 tid="t105" type="DATE" value="1996" >1996. aasta</TIMEX3> esimese tervisepäeva 260 osalise asemel ootavad korraldajad sel korral lauluväljakule kümme korda rohkem rahvast , <TIMEX3 tid="t106" type="DATE" value="1999" anchorTimeID="t0">mullu</TIMEX3> oli päevalisi üle kahe tuhande . 
+ Sotsiaalministeerium toetab tervisepäeva 20 000 krooniga , lisaks aitavad Tartu linnavalitsus , haridusosakond , linnaarstiteenistus , AS Kaupmees , Aardla Hulgikaup , AS Pere Leib , Terviseleht , OÜ Büroodisain , AS Rain , Tartu naisselts ja Kaitseliidu Tartu malev . 
+</TimeML>

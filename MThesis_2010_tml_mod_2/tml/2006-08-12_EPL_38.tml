@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: <TIMEX3 tid="t157" type="DATE" value="2006-08-12" anchorTimeID="t0">Täna</TIMEX3> saab eesti teater <TIMEX3 tid="t158" type="DURATION" value="P100Y" >100-aastaseks</TIMEX3> 
+<TIMEX3 tid="t159" type="DATE" value="1906-08-12" anchorTimeID="t0">Täna sada aastat tagasi</TIMEX3> avati eesti esimene kutseline teater ja pandi alus järjepidevale eesti teatritraditsioonile . 
+ <TIMEX3 tid="t160" type="DATE" value="1906-08-12" >1906. aasta 12. augustil</TIMEX3> avati piduliku kontserdiga uus , juugendstiilis Vanemuise teatrimaja . 
+ <TIMEX3 tid="t161" type="DATE" value="1906-08-13" anchorTimeID="t160">13. augustil</TIMEX3> esietendus kutselise Vanemuise esimene lavastus - August Kitzbergi äsjavalminud näitemäng " Tuulte pöörises " . 
+ Esimese kutselise eesti teatri juhiks sai end teatrialaselt Saksamaal ja mujal Euroopas täiendanud Karl Menning . 
+ <TIMEX3 tid="t162" type="DATE" value="1906-09" anchorTimeID="t161">Sama aasta septembris</TIMEX3> kuulutati Paul Pinna ja Theodor Altermanni eestvedamisel kutseliseks ka Estonia teater . 
+ <TIMEX3 tid="t163" type="DATE" value="1911" >1911. aastal</TIMEX3> avati Endla nimeline kutseline teater juba ka Pärnus . 
+ Viljandi Ugala muudeti kutseliseks <TIMEX3 tid="t164" type="DATE" value="1926" >1926. aastal</TIMEX3> . 
+ Eesti teater on üle elanud sõjad ja okupatsioonid ning nõukogude range tsensuuri . 
+ <TIMEX3 tid="t165" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praeguseks</TIMEX3> on Eesti ühe suurima teatrikülastatavusega riike maailmas . 
+ Eestis tegutseb üle kahekümne teatri , neist suurem osa kutselised ja tunnustatud teatrid . 
+ Eesti trupid on võitnud ka palju rahvusvahelisi auhindu . 
+</TimeML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Terrorirünnak filmis " World Trade Center "  
+<TIMEX3 tid="t358" type="DATE" value="2006-08-09" anchorTimeID="t0">9. augustil</TIMEX3> esilinastus <TIMEX3 tid="t359" type="DATE" value="2001-09">2001. aasta septembri</TIMEX3> sündmustest rääkiv lakoonilise pealkirjaga " World Trade Center " . 
+ Filmi taga on küll vastuolulise mainega legendaarne re?issöör Oliver Stone , kuid mõneti isegi oodatud ?oki asemel pakub ta välja ootamatult heroilise ja sentimentaalse vaatenurga . 
+ Filmi vaatas Andris Feldmanis . 
+ <TIMEX3 tid="t360" type="DATE" value="2006-09" anchorTimeID="t0">Septembris</TIMEX3> <TIMEX3 tid="t361" type="DURATION" value="P60Y" >60-aastaseks</TIMEX3> saava vanameistri Stone'i terrorirünnakust rääkiv film on juba teine " nendest traagilistest ja maailma muutvatest " sündmustest rääkiv linateos <TIMEX3 tid="t362" type="DATE" value="2006" anchorTimeID="t0">sel aastal</TIMEX3> . 
+ <TIMEX3 tid="t363" type="DATE" value="PAST_REF" anchorTimeID="t0" >Mõned kuud tagasi</TIMEX3> jõudis kinolinale Paul Greengrassi " United 93 " , mis kõneles neljandast terroristide kaaperdatud lennukist , mis kukkus alla oma sihtmärgini jõudmata . 
+ Filmide ilmumine on tekitanud küsimusi , kas inimesed on vaid <TIMEX3 tid="t364" type="DATE" value="2006" comment="keerukam ankurdamine" anchorTimeID="t365">viis aastat hiljem</TIMEX3> nendeks valmis . 
+ Kuigi Greengrassi film on saanud kriitikutelt kiita ja olnud mõõdukalt edukas ka kassatulu poolest , on Stone oodatult tekitanud märksa rohkem furoori . 
+ Näinud mõlemat filmi , tuleb tõdeda , et suuremat tähelepanu vääriks kindlasti " United 93 " , mis kõnetab vaatajat oma vahetu ja lihtsa stiiliga ootamatult siiralt ja julgelt , kirjeldades <TIMEX3 tid="t365" type="DATE" value="2001-09-11" comment="taustateadmine">selle päeva</TIMEX3> kaost otsimata suuri kangelasi . 
+</TimeML>

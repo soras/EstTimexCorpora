@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Tallinna abilinnapea Merike Martinsoni eestvedamisel ja juhtimisel kogunenud riskilaste ümarlaual otsustati , et vajalik on kaardistada koolivägivalla alased uuringud ja luua selle vastu võitlemiseks toimiv koostöövõrgustik . 
+ Seekordsel riskilaste ümarlaual oli teemaks koolivägivald ning selle ennetamiseks võimalike tegevuste leidmine ja ohvrite aitamine . 
+ Ettekannetega esinesid lastekaitse liidu esindaja ning Põhja-politsei prefektuuri komissar Ly Kallas , kes rääkis kiusamisest ja koolivägivallast politsei vaatenurgast , teatas pealinna pressiteenistus . 
+ Martinsoni sõnul tuleb kokku koguda seni tehtud ja ka <TIMEX3 tid="t34" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praegu</TIMEX3> töös olevad koolivägivalla alased uuringud . 
+ " Selleks , et meie töö oleks tulemuslikum ja kannaks vilja , tuleb luua toimiv koostöövõrgustik koolivägivalla vastu töötavate institutsioonide vahel , " märkis Martinson . 
+ " Tunnustan kõiki , kes selle nimel tööd teevad , näiteks pedagoogid , koolipsühholoogid , noorsoopolitsei , sotsiaalosakonnad ja erinevad nõustamiskabinetid , kuid usun , et koostöös jõuame oma eesmärgini tagada lastele turvalisus . " 
+</TimeML>

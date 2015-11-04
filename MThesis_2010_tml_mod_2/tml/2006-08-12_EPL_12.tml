@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Baltsqn-13 saabub tagasi Eestisse 
+Foto : kaitsevägi 
+ <TIMEX3 tid="t52" type="DATE" value="2006-08-13" anchorTimeID="t0">Pühapäeval , 13. augustil</TIMEX3> saabub kodumaale <TIMEX3 tid="t53" type="DURATION" value="P6M" >kuus kuud</TIMEX3> Kosovos NATO rahutagamismissioonil Taani pataljoni kooseisus teeninud Eesti luurekompanii BaltSquadron-13 . 
+ Alates <TIMEX3 tid="t54" type="DATE" value="2006-02" anchorTimeID="t0">veebruarist</TIMEX3> Kosovos teeninud 66-liikmeline Baltsqn-13 viis oma vastutusalal läbi patrulle , teostas läbiotsimisi ja teostas erinevate objektide julgeolekut . 
+ Baltsqn-13 teenis KFOR ( Kosovo Forces ) Taani pataljoni DANBN kooseisus . 
+ Baltsqn-13 ülemaks on kapten Mait Müürsepp . 
+ Enne rahutagamismissioonile minekut läbis luurekompanii väljaõppetsükli Taani instruktorite käe all . 
+ Väljaõppe käigus ühtlustati juhtimisprotseduure , harjutati koostööd teiste üksustega ning treeniti tegutsemist tihedalt asustatud alal . 
+ <TIMEX3 tid="t55" type="DATE" value="2005-12-07" >7. detsembril 2005</TIMEX3> pikendas Riigikogu kaitseväele antud mandaati osalemaks NATO juhitavate rahutagamisjõudude KFOR koosseisus Kosovos kuni 150 kaitseväelasega <TIMEX3 tid="t56" type="DATE" value="2007" mod="END" >2007. aasta lõpuni</TIMEX3> . 
+</TimeML>

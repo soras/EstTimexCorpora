@@ -1,0 +1,442 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2000-08-19TXX:XX" />
+<ignoreeri>
+|
+ajalehenumber:
+Eesti
+Päevaleht
+19.08.2000
+|
+rubriik:
+Eesti
+|
+artikkel:
+Sukeldumine
+Estoniale
+võib
+jõuda
+ETV
+ekraanile
+|
+</ignoreeri>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Televisiooni    televisioon+0 //_S_ sg g, //
+juhatuse    juhatus+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Aare    Aare+0 //_H_ sg n, //
+Urm    Urm+0 //_H_ sg n, //
+polnud    ole+nud //_V_ neg nud, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="2000-08-18" >
+reedeks    reede+ks //_S_ sg tr, //
+</TIMEX>
+veel    veel+0 //_D_ //
+otsustanud    otsusta+nud //_V_ nud, //    otsusta=nud+0 //_A_ //    otsusta=nud+0 //_A_ sg n, //    otsusta=nud+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+võtta    võt+a //_V_ da, //
+vastu    vastu+0 //_D_ //
+pakkumine    pakkumine+0 //_S_ sg n, //
+osta    ost+a //_V_ da, //
+riigitelevisioonile    riigi_televisioon+le //_S_ sg all, //
+ameeriklasest    ameeriklane+st //_S_ sg el, //
+miljonäri    miljonär+0 //_S_ sg g, //
+Gregg    Gregg+0 //_H_ sg n, //
+Bemise    Bemis+0 //_H_ sg g, //
+Estonia-ekspeditsioonil    Estonia-ekspeditsioon+l //_S_ sg ad, //
+kogutav    kogutav+0 //_A_ sg n, //
+filmimaterjal    filmi_materjal+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kolmeliikmelise    kolme_liikmeline+0 //_A_ sg g, //
+meeskonnaga    meeskond+ga //_S_ sg kom, //
+Bemise    Bemis+0 //_H_ sg g, //
+tuukrite    tuuker+te //_S_ pl g, //
+sukeldumist    sukeldu=mine+t //_S_ sg p, //
+Estoniale    Estonia+le //_H_ sg all, //
+jäädvustava    jäädvusta=v+0 //_A_ sg g, //
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+teleajakirjaniku    tele_aja_kirjanik+0 //_S_ sg g, //
+Jutta    Jutta+0 //_H_ sg n, //
+Rabe    Rabe+0 //_H_ sg g, //
+saadetud    saadetud+0 //_A_ //    saadetud+0 //_A_ sg n, //    saadetud+d //_A_ pl n, //    saat+tud //_V_ tud, //
+pakkumises    pakkumine+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+näiteks    näide+ks //_S_ sg tr, //
+ostuhinna    ostu_hind+0 //_S_ sg g, //
+lahter    lahter+0 //_S_ sg n, //
+tühi    tühi+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+selgitas    selgita+s //_V_ s, //
+Urm    Urm+0 //_H_ sg n, //
+Postimehele    Posti_mees+le //_H_ sg all, //    Postimehe+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Selles    see+s //_P_ sg in, //
+paarileheküljelises    paari_lehe_küljeline+s //_A_ sg in, //
+kirjas    kiri+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+näiteks    näide+ks //_S_ sg tr, //
+levitamisõigused    levitamis_õigus+d //_S_ pl n, //
+lahtiseks    lahtine+ks //_A_ sg tr, //
+jäetud    jäe=tud+0 //_A_ //    jäe=tud+0 //_A_ sg n, //    jäe=tud+d //_A_ pl n, //    jät+tud //_V_ tud, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+märkis    märki+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Iseenesest    ise_enesest+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+täiesti    täiesti+0 //_D_ //
+tavapärane    tava_pärane+0 //_A_ sg n, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Estonia    Estonia+0 //_H_ sg g, //
+ametlikus    ametlik+s //_A_ sg in, //
+hukuversioonis    huku_versioon+s //_S_ sg in, //
+oma    oma+0 //_P_ sg g, //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0">
+varasemates    varasem+tes //_C_ pl in, //
+</TIMEX>
+saadetes    saade+tes //_S_ pl in, //
+ning    ning+0 //_J_ //
+kirjutistes    kirjutis+tes //_S_ pl in, //
+korduvalt    korduvalt+0 //_D_ //
+kahelnud    kahel=nud+0 //_A_ //    kahel=nud+0 //_A_ sg n, //    kahel=nud+d //_A_ pl n, //    kahtle+nud //_V_ nud, //
+Rabe    Rabe+0 //_H_ sg g, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Postimehele    Posti_mees+le //_H_ sg all, //    Postimehe+le //_H_ sg all, //
+öelnud    öel=nud+0 //_A_ //    öel=nud+0 //_A_ sg n, //    öel=nud+d //_A_ pl n, //    ütle+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+küsib    küsi+b //_V_ b, //
+ekspeditsioonil    ekspeditsioon+l //_S_ sg ad, //
+kogutava    kogutav+0 //_A_ sg g, //
+toormaterjali    toor_materjal+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+15.000    15.000+0 //_N_ ?, //
+USA    USA+0 //_Y_ ?, //
+dollarit    dollar+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+ligikaudu    ligi_kaudu+0 //_D_ //
+260.000    260.000+0 //_N_ ?, //
+Eesti    Eesti+0 //_H_ sg g, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+vee    vesi+0 //_S_ sg g, //
+all    all+0 //_K_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ekspeditsioonilaeval    ekspeditsiooni_laev+l //_S_ sg ad, //
+filmitud    filmi+tud //_V_ tud, //    filmi=tud+0 //_A_ //    filmi=tud+0 //_A_ sg n, //    filmi=tud+d //_A_ pl n, //
+materjali    materjal+0 //_S_ sg p, //
+peaks    pida+ks //_V_ ks, //
+Rabe    Rabe+0 //_H_ sg g, //
+hinnangul    hinnang+l //_S_ sg ad, //
+kogunema    kogune+ma //_V_ ma, //
+<TIMEX  tid="t2" type="DURATION" temporalFunction="true" value="PT20H" mod="APPROX" >
+ligi    ligi+0 //_D_ //
+20    20+0 //_N_ ?, //
+tundi    tund+0 //_S_ sg p, //
+</TIMEX>
+või    või+0 //_J_ //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="PT20H" mod="MORE_THAN" anchorTimeID="t2" >
+isegi    isegi+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Jäädvustatu    jäädvusta=tu+0 //_S_ sg n, //
+müüakse    müü+akse //_V_ takse, //
+igas    iga+s //_P_ sg in, //
+riigis    riik+s //_S_ sg in, //
+ainult    ainult+0 //_D_ //
+ühele    üks+le //_N_ sg all, //    üks+le //_P_ sg all, //
+telekanalile    tele_kanal+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+koos    koos+0 //_D_ //
+kogutud    kogu+tud //_V_ tud, //    kogu=tud+0 //_A_ //    kogu=tud+0 //_A_ sg n, //    kogu=tud+d //_A_ pl n, //
+toormaterjali    toor_materjal+0 //_S_ sg g, //
+ostmisega    ostmine+ga //_S_ sg kom, //
+saab    saa+b //_V_ b, //
+ka    ka+0 //_D_ //
+õiguse    õigus+0 //_S_ sg g, //
+seda    see+da //_P_ sg p, //
+omakorda    oma_korda+0 //_D_ //
+siseriiklikult    sise_riikliku=lt+0 //_D_ //
+edasi    edasi+0 //_D_ //
+müüa    müü+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Rabe    Rabe+0 //_H_ sg g, //
+poolt    poolt+0 //_K_ //
+avalikkusele    avalikkus+le //_S_ sg all, //
+teatatud    teata+tud //_V_ tud, //    teata=tud+0 //_A_ //    teata=tud+0 //_A_ sg n, //    teata=tud+d //_A_ pl n, //
+hind    hind+0 //_S_ sg n, //
+,    , //_Z_ //
+260.000    260.000+0 //_N_ ?, //
+krooni    kroon+0 //_S_ sg p, //
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ETV-le    ETV+le //_Y_ sg all, //
+iseenesest    ise_enesest+0 //_D_ //
+jõukohane    jõu_kohane+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+tähendas    tähenda+s //_V_ s, //
+Urm    Urm+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Aga    Aga+0 //_H_ sg g, //    Aga+0 //_H_ sg n, //    aga+0 //_J_ //
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+alati    alati+0 //_D_ //
+huvitab    huvita+b //_V_ b, //
+mind    mina+d //_P_ sg p, //
+eelkõige    eel_kõige+0 //_D_ //
+hinna    hind+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kvaliteedi    kvaliteet+0 //_S_ sg g, //
+suhe    suhe+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+lisas    lisa+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Me    mina+0 //_P_ pl n, //
+seisame    seis+me //_V_ me, //
+silmitsi    silmitsi+0 //_D_ //
+ka    ka+0 //_D_ //
+suure    suur+0 //_A_ sg g, //
+riskiga    risk+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+midagi    miski+dagi //_P_ sg p, //
+uut    uus+t //_A_ sg p, //
+ei    ei+0 //_V_ neg, //
+leita    leid+ta //_V_ ta, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+mina    mina+0 //_P_ sg n, //
+pean    pida+n //_V_ n, //
+pärast    pärast+0 //_D_ //
+ikkagi    ikkagi+0 //_D_ //
+täpselt    täpselt+0 //_D_ //
+aru    aru+0 //_S_ sg p, //
+andma    and+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+ma    mina+0 //_P_ sg n, //
+maksumaksja    maksu_maksja+0 //_S_ sg g, //
+rahaga    raha+ga //_S_ sg kom, //
+teinud    tege+nud //_V_ nud, //    tei=nud+0 //_A_ //    tei=nud+0 //_A_ sg n, //    tei=nud+d //_A_ pl n, //
+olen    ole+n //_V_ n, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Eraõigusliku    era_õiguslik+0 //_A_ sg g, //
+TV    tv+0 //_Y_ ?, //
+3    3+0 //_N_ ?, //
+tegevdirektori    tegev_direktor+0 //_S_ sg g, //
+Mart    Mart+0 //_H_ sg n, //
+Luige    Luige+0 //_H_ sg g, //    Luik+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+ei    ei+0 //_V_ neg, //
+ostaks    ost+ks //_V_ ks, //
+TV    tv+0 //_Y_ ?, //
+3    3+0 //_N_ ?, //
+Bemise-ekspeditsioonil    Bemise-ekspeditsioon+l //_S_ sg ad, //
+jäädvustatut    jäädvusta=tu+t //_S_ sg p, //
+isegi    isegi+0 //_D_ //
+mitte    mitte+0 //_D_ //
+siis    siis+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+müügiks    müük+ks //_S_ sg tr, //
+pakutavatele    pakutav+tele //_A_ pl all, //
+filmilintidele    filmi_lint+dele //_S_ pl all, //
+oleks    ole+ks //_V_ ks, //
+jäädvustatud    jäädvusta+tud //_V_ tud, //    jäädvusta=tud+0 //_A_ //    jäädvusta=tud+0 //_A_ sg n, //    jäädvusta=tud+d //_A_ pl n, //
+vraki    vrakk+0 //_S_ sg g, //
+pardas    parras+s //_S_ sg in, //
+haigutav    haigutav+0 //_A_ sg n, //
+auk    auk+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Reklaamimüügist    reklaami_müük+st //_S_ sg el, //
+ning    ning+0 //_J_ //
+materjalide    materjal+de //_S_ pl g, //
+edasimüümisest    edasi_müümine+st //_S_ sg el, //
+saadud    saa+dud //_V_ tud, //    saadud+0 //_A_ //    saadud+0 //_A_ sg n, //    saadud+d //_A_ pl n, //
+raha    raha+0 //_S_ sg p, //
+lihtsalt    lihtsalt+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+tooks    too+ks //_V_ ks, //
+kulutatud    kuluta+tud //_V_ tud, //    kuluta=tud+0 //_A_ //    kuluta=tud+0 //_A_ sg n, //    kuluta=tud+d //_A_ pl n, //
+summat    summa+t //_S_ sg p, //
+kunagi    kunagi+0 //_D_ //
+tagasi    tagasi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+põhjendas    põhjenda+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+Rabe    Rabe+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+tema    tema+0 //_P_ sg g, //
+telemeeskonna    tele_meeskond+0 //_S_ sg g, //
+tarvis    tarvis+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Bemise    Bemis+0 //_H_ sg g, //
+ekspeditsioonilaeval    ekspeditsiooni_laev+l //_S_ sg ad, //
+kohad    koha+d //_S_ pl n, //    koht+d //_S_ pl n, //
+olemas    ole+mas //_V_ mas, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+mitte    mitte+0 //_D_ //
+ühelegi    üks+legi //_N_ sg all, //    üks+legi //_P_ sg all, //
+katastroofis    katastroof+s //_S_ sg in, //
+hukkunute    hukkunu+te //_S_ pl g, //
+omaste    omane+te //_A_ pl g, //
+organisatsiooni    organisatsioon+0 //_S_ sg g, //
+esindajale    esindaja+le //_S_ sg all, //
+pardal    parras+l //_S_ sg ad, //
+ruumi    ruum+0 //_S_ sg p, //
+ei    ei+0 //_V_ neg, //
+leidunud    leidu+nud //_V_ nud, //    leidu=nud+0 //_A_ //    leidu=nud+0 //_A_ sg n, //    leidu=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Alguses    algus+s //_S_ sg in, //
+Rootsi    Rootsi+0 //_H_ sg g, //
+omasteorganisatsioonide    omas+te_organisatsioon+de //_S_ pl g, //
+ning    ning+0 //_J_ //
+kiriku    kirik+0 //_S_ sg g, //
+esindajaile    esindaja+ile //_S_ pl all, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+pakkumise    pakkumine+0 //_S_ sg g, //
+vaatlejatena    vaatleja+tena //_S_ pl es, //
+sukeldumisoperatsioonide    sukeldu=mis_operatsioon+de //_S_ pl g, //
+juures    juures+0 //_K_ //
+viibida    viibi+da //_V_ da, //
+võttis    võt+is //_V_ s, //
+Bemis    Bem+s //_H_ sg in, //    Bemi+s //_H_ sg in, //
+tagasi    tagasi+0 //_D_ //
+põhjendusega    põhjendus+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+vabu    vaba+u //_A_ pl p, //
+kohti    koht+i //_S_ pl p, //
+laeval    laev+l //_S_ sg ad, //
+enam    enam+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+.    . //_Z_ //
+</s>
+<s>
+Vaatlejate    vaatleja+te //_S_ pl g, //
+kohalviibimine    kohal_viibimine+0 //_S_ sg n, //
+pidid    pida+id //_V_ sid, //
+hajutama    haju+tama //_V_ tama, //    hajuta+ma //_V_ ma, //
+kahtlusi    kahtlus+i //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //    nagu+0 //_J_ //
+rikuks    rikku+ks //_V_ ks, //
+Bemis    Bemis+0 //_H_ sg n, //
+vrakile    vrakk+le //_S_ sg all, //
+sukeldudes    sukeldu+des //_V_ des, //
+selle    see+0 //_P_ sg g, //
+suhtes    suhtes+0 //_K_ //
+välja    välja+0 //_D_ //
+kuulutatud    kuuluta+tud //_V_ tud, //    kuuluta=tud+0 //_A_ //    kuuluta=tud+0 //_A_ sg n, //    kuuluta=tud+d //_A_ pl n, //
+hauarahu    haua_rahu+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="2000-08-16" >
+Kolmapäeval    kolma_päev+l //_S_ sg ad, //
+</TIMEX>
+Postimehega    posti_mees+ga //_S_ sg kom, //
+vestelnud    vestel=nud+0 //_A_ //    vestel=nud+0 //_A_ sg n, //    vestel=nud+d //_A_ pl n, //    vestle+nud //_V_ nud, //
+Bemise    Bemis+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+loodavad    loot+vad //_V_ vad, //
+nad    tema+d //_P_ pl n, //
+Estoniale    Estonia+le //_H_ sg all, //
+sukeldumise    sukeldu=mine+0 //_S_ sg g, //
+operatsiooniga    operatsioon+ga //_S_ sg kom, //
+algust    algus+t //_S_ sg p, //
+teha    tege+a //_V_ da, //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="2000-08-23" mod="ON_OR_BEFORE" >
+mitte    mitte+0 //_D_ //
+hiljem    hiljem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+eelseisval    eel_seisev+l //_A_ sg ad, //
+kolmapäeval    kolma_päev+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Rabe    Rabe+0 //_H_ sg g, //
+hinnangute    hinnang+te //_S_ pl g, //
+kohaselt    kohaselt+0 //_K_ //
+võib    või+b //_V_ b, //
+kuni    kuni+0 //_K_ //
+200.000    200.000+0 //_N_ ?, //
+dollarit    dollar+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+ligi    ligi+0 //_D_ //
+3,5    3,5+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+krooni    kroon+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+maksev    maksev+0 //_A_ sg n, //
+operatsioon    operatsioon+0 //_S_ sg n, //
+kesta    kest+a //_V_ da, //
+<TIMEX text="10 päeva"  tid="t6" type="DURATION" temporalFunction="false" value="P10D" >
+<TIMEX text="8-"  tid="t5" type="DURATION" temporalFunction="false" value="P8D" >
+8-10    8-10+0 //_N_ ?, //
+</TIMEX>
+päeva    päev+0 //_S_ sg p, //
+</TIMEX>
+.    . //_Z_ //
+</s>

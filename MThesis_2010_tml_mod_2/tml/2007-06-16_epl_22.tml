@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Toimetaja : Haldi Ellam 
+ Pärnu maakohus mõistis <TIMEX3 tid="t67" type="DURATION" value="P5M">viieks kuuks</TIMEX3> vangi noore naise , kes <TIMEX3 tid="t68" type="DATE" value="2007-02" mod="MID" anchorTimeID="t0">veebruari keskel</TIMEX3> põhjustas Tallinna - Tartu maanteel Kükita grilli lähedal avarii , mille tagajärjel hukkus noor mees . 
+ Lisaks sellele , et neiu oli liiklusõnnetuse toimpanemise ajal joobes , puudus tal ka juhiluba , kirjutas Järva Teataja . 
+ <TIMEX3 tid="t69" type="DATE" value="2007-06-12" anchorTimeID="t0">Teisipäeval</TIMEX3> kuulutas Pärnu maakohtu Paide kohtumaja kohtunik Ingrid Niinemägi välja otsuse , mis määrab avarii põhjustanud Tatjana Balandina ( avarii ajal <TIMEX3 tid="t70" type="DURATION" value="P19Y">19aastane</TIMEX3> ) <TIMEX3 tid="t71" type="DURATION" value="P5M">viieks kuuks</TIMEX3> vanglasse karistust kandma . 
+ Sellele lisandub <TIMEX3 tid="t72" type="DURATION" value="P3Y">kolmeaastase</TIMEX3> katseajaga <TIMEX3 tid="t73" type="DURATION" value="P2Y">kaks aastat</TIMEX3> ja <TIMEX3 tid="t74" type="DURATION" value="P1M">üks kuu</TIMEX3> tingimisi vangistust . 
+ Balandina ja tema kaaslased alustasid <TIMEX3 tid="t75" type="TIME" value="2007-02-13TMO" anchorTimeID="t0">13. veebruari hommikul</TIMEX3> pärast <TIMEX3 tid="t76" type="TIME" value="2007-02-13TNI" anchorTimeID="t75">öist</TIMEX3> pidu teed Tartust Tallinna . 
+ Vähese juhtimiskogemusega Balandina asus rooli kui kõige kainem . 
+ Esimene õnnetus juhtus juba alguspunktis , kus Balandina hoovist väljasõidul sõitis otsa teisele autole . 
+ Hoolimata sellest otsustati teekonda jätkata . 
+</TimeML>

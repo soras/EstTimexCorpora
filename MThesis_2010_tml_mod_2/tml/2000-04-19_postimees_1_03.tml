@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Turvauuring vanglalinnale ! 
+ REIN JÜRIADO 
+ Turu tänava lõpus tühermaal valmib <TIMEX3 tid="t6" type="DATE" value="2002" mod="START" >2002. aasta alguses</TIMEX3> Eesti esimene pärast taasiseseisvumist ehitatud vangla . 
+ Tartu võidab vanglast mitmes mõttes : mitusada inimest saab töökoha , vanglast kujuneb suur tarbija Tartu sooja- ja veetootjaile , aga ka teistele teenindusettevõtetele . 
+ <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> tühjana seisvale Emajõe-äärsele soisele alale kerkib uus hoonekompleks . 
+ Plusse võib leida enamgi . 
+ Peamiseks miinuseks peetakse Tartu kaduvat turvalisust : <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> Tallinna keskvanglas eluaegset karistust kandvad kurikaelad kolivad tuhandekohalise vangla valmimisel unisesse Taaralinna . 
+ Linnavõim ja politsei ei usu , et Tartu võiks vangla ehitamisega linlastele ohtlikumaks muutuda . 
+ Väidetakse , et võimalikust ohust on <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> liiga vara rääkida , sest vangla valmib alles <TIMEX3 tid="t11" type="DATE" value="2002" anchorTimeID="t0">kahe aasta pärast</TIMEX3> . 
+ Riik kulutab kinnipidamiskoha rajamiseks ligi 400 miljonit krooni . 
+ Justiitsministeerium kinnitab , et vangla vastab euronõuetele - seega tehakse kõik , et muuta võimatuks põgenemine . 
+ Tartlasi teeb murelikuks pigem hirm , et kinnipeetavate vabaduses olevad " töökaaslased " võivad siia elama asuda ja seeläbi meie kõigi turvalisust kahandada . 
+ Häirib ka see , et linn ega riik ole seni uurinud , kas vanglalinnaks saamine kahjustab Tartu turvalisust . 
+ Kindlasti tasuks tellida võrdlusuuring mõne linnaga , kuhu on <TIMEX3 tid="t12" type="DATE" value="PAST_REF" anchorTimeID="t0">viimasel ajal</TIMEX3> ehitatud niisugune vangla . 
+ Ehk on hirm suurem kui oht , aga seda peab näitama usaldusväärne uuring . 
+</TimeML>

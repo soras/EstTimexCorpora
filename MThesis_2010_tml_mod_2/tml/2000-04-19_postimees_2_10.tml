@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Sõduritel napib teatmikke ja memuaare 
+ Postimees kutsub rahvast ülemaalisele aktsioonile , et Eesti sõdurid ei unustaks lugemist 
+ KAAREL KAAS , TOOMAS SILDAM , uudised@postimees.ee 
+ <TIMEX3 tid="t106" type="DATE" value="2000-04-18" >18. aprill 2000</TIMEX3> , Eesti kaitseväe vahipataljon : Stalini " Kogutud teosed " ning sõdurid Spig Välbe ( vasakul ) ja Allan Leetmaa . 
+ Toomas Huik 
+ Kapral Märt Põlluveer , kellest jäid koju riiulitesse lükitud seinatäied väärtkirjandust , vaatab <TIMEX3 tid="t107" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> kaitseväes kompanii puhketoas tõtt mõnekümne raamatuga ja mõtleb , kas võtta lugemiseks " Kalevipoeg " või " Veterinaarparasitoloogia " . 
+ <TIMEX3 tid="t108" type="DURATION" value="P19Y" >19-aastane</TIMEX3> Põlluveer on üks ligi kolmest tuhandest ajateenijast , kelle lugemisharjumus ähvardab kaitseväes känguda .
+ " Kuigi ma pole mingi raamatukoi , tuleb aeg-ajalt impulss , et võtaks ja loeks midagi head , " ütleb <TIMEX3 tid="t110" type="DATE" value="1999-07" anchorTimeID="t0">mullu juulis</TIMEX3> <TIMEX3 tid="t111" type="DURATION" value="P1Y" >aastaks</TIMEX3> püssi alla läinud Põlluveer <TIMEX3 tid="t112" type="DATE" value="XXXX-WXX">nädal enne eesti raamatu aasta algust</TIMEX3> . 
+ Kui ta Kalju Saaberi " Härgamisi " on <TIMEX3 tid="t113" type="SET" value="XXXX-XX-XXTEV">õhtupoolikute</TIMEX3> vabadust kasutades lõpuni lugenud , seisab noormees Tallinna päästekompanii kasarmu kolmanda korruse puhketoas vastamisi kahe raamaturiiuliga . 
+ Need meenutavad stalkerlikku pilti mahajäetud külaraamatukogust : kolm " Kalevipoja " ühesugust mustaseljalist köidet , viis Rudolf Tobiase " Oma aja peeglis " , Sholohhovi " Ülesküntud uudismaa " esimene köide kõrvuti Kafkaga . 
+ Siis Rudolf Sirge kogutud teosed , edasi kui eksinu - Arthur Hailey " Strong medicine " . 
+ Siis Friedebert Tuglase teoste esimene köide ja lõpuks üllatus - punasekaaneline " Veterinaarparasitoloogia " . 
+ Need raamatud tervitavad ka <TIMEX3 tid="t114" type="DATE" value="2000-FA" anchorTimeID="t0">sügisel</TIMEX3> kõrgkoolidest kaitseväkke nopitud noortudengeid . 
+ " Populaarteaduslikke raamatuid võiks olla ja memuaare , " unistab kapral Põlluveer , kes jagab end <TIMEX3 tid="t115" type="DATE" value="PRESENT_REF" anchorTimeID="t0" >praegu</TIMEX3> kaitseväeteenistuse ning bioloogia ja keemia riigieksamiks valmistumise vahel . 
+ Raha ainult kriminullideks 
+ Päästesõdur Põlluveere igatsust jagab ka Elvi Reinu , kes <TIMEX3 tid="t116" type="SET" value="XXXX-XX-XXT14" quant="EVERY" >iga päev kell 14</TIMEX3> keerab lukust lahti sidepataljoni raamatukogutoa ukse , et sõdurid saaksid neljalt Gutenbergi universumit täistuubitud riiulilt endale meelepärast valida . 
+ " Tahaks siia ikkagi rohkem tõsist ja süvakirjandust osta , " ütleb ta . 
+ Eelarvekroonid seavad aga soovidele piirid , kuigi Reinu sõnul sai ta <TIMEX3 tid="t117" type="DATE" value="2000" anchorTimeID="t0">tänavu</TIMEX3> oma käsutusse päris palju raha . 
+ " 40 000 krooni on meie jaoks ikka väga suur raha , " nendib ta . 
+ Sellest summast tuleb tegelikkuses tasuda ka näiteks ajateenijate teatrikülastuste eest ning nii tellibki Reinu raamatupoodidest peamiselt pehmekaanelisi kriminulle ja ajaviitejutte . 
+ Väärtkirjandust on Reinu kahte ja poolt tuhandet köidet sisaldavates valdustes siiski <TIMEX3 tid="t118" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegugi</TIMEX3> . 
+ Näiteks seesama Sholohhovi " Ülesküntud uudismaa " . 
+ " Iseenesest suurepärane teos , " leiab Reinu . 
+ Sholohhovi kõrval lebavad rahulikult kaks köidet Nikolai Ostrovski nime kunagiste kooliõpilaste mällu söövitanud teosest " Kuidas karastus teras " . 
+ Seda , kas need pärinevad <TIMEX3 tid="t119" type="DATE" value="1994" >1994. aastal</TIMEX3> <TIMEX3 tid="t120" type="DATE" value="1994" anchorTimeID="t119">toona</TIMEX3> Erika tänaval asunud sidepataljoni hoovile vuranud veoautos rappunud kastidest ( nende sisust sidepataljoni raamatukogu <TIMEX3 tid="t121" type="DATE" value="XXXX" anchorTimeID="t120">omal ajal</TIMEX3> alguse saigi ) , inimeste kodudest või likvideeritud haruraamatukogude hoidlatest , ei oska Reinu <TIMEX3 tid="t122" type="DATE" value="PRESENT_REF" comment="yldises tähenduses" anchorTimeID="t0">täna</TIMEX3> enam päris täpselt öelda . 
+ " Vähemalt mingi valikuvõimalus on olemas , " ei ole ta raatsinud punakirjanduse kultusraamatuid välja praakida . 
+ Kivikas Ostrovski vastas 
+ Vastasriiulilt põrnitseb Nõukogudemaa kirjamehe Ostrovski köiteid Vabadussõja õppursõdureist jutustav " Nimed marmortahvlil " Albert Kivikase sulest , veidi edasi võib hõbedaselt raamatuseljalt lugeda : Jüri Ehlvest " Krutsiaana " . 
+ Riiulite alumisel korrusel puhkavad prantsuse suurvaimu Honor&#233; de Balzaci " Kogutud teosed " . 
+ Kõige värskemaks on sidepataljoni valgete seintega raamatukogutoas Andrus Kivirähki ja Mart Juure ühisautorluse tulemusena valminud " Rahva oma kaitse " . 
+ " Sõdurid loevad ja itsitavad , " on Reinu humoristide kingitusega rahul . 
+ Vahipataljoni raamatukoguhoidjal Sirje Kidronil pole seevastu erilist põhjust viimase annetuse üle rõõmustada , sest selleks on Jossif Stalini punakaanelises köites venekeelne . 
+ " Oleks hoopiski teabekirjandust ja sõnaraamatuid vaja , " nendib ta . 
+ Näiteks " Eesti entsüklopeedia " viimaseid köiteid kahest kitsukesest toast <TIMEX3 tid="t123" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >praegu</TIMEX3> ei leia , sest 30 000 krooni tuleb jagada raamatute , ajakirjanduse tellimise ja teatripiletite vahel . 
+ Üht-teist on Kidronil ajateenijatele siiski ka <TIMEX3 tid="t124" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> pakkuda - näiteks riiulivahetäis Anton Hansen Tammsaare " Tõde ja õigust " või kaks korda samapalju hiirekõrvulisi " Mirabilia " sarja raamatuid . 
+ Rahvas raamatuid tooma 
+ Nii nagu inimesed aitasid taastada <TIMEX3 tid="t125" type="DATE" value="1999-FA" anchorTimeID="t0">mullu sügisel</TIMEX3> mahapõlenud Kihnu raamatukogu , saab rahvas talgulistena kanda kokku raamatud ka kaitsejõudude pataljonide ja kompaniide lugemistubadesse . 
+ Nimetagem seda annetusaktsiooni lihtsalt : " Kingi sõdurile raamat ! " 
+ Kaitseministeerium andis nõusoleku , et igaüks saab raamatud viia oma kodukoha riigikaitseosakonda või -büroosse , tallinlased peaksid minema kaitseministeeriumi valvelauda . 
+ Vajalikud aadressid ja telefonid avaldab <TIMEX3 tid="t126" type="DATE" value="2000-04-19" anchorTimeID="t0">tänane</TIMEX3> Postimees siinsamas kõrval . 
+ Riigikaitseosakonnad , kus annetajate nimed kirja pannakse , saadavad raamatud edasi pataljonide ja üksikute kompaniide lugemistubadesse . 
+ Aktsiooniga " Kingi sõdurile raamat ! " lubas liituda ka Rootsi eestlaste kogukond . 
+ Eesti Rahvusfondi esimees Ülo Ignats arvas , et väliseestlastel on huvitavat memuaar- ja militaarkirjandust , mille üle ehk sõdurid kodumaal erilist heameelt võiksid tunda . 
+ Annetatud raamatute Rootsist ära toomise mure võtab enda kanda Eesti välisministeerium . 
+ Postimees loosib kõigi annetajate vahel välja 20 Postimehe <TIMEX3 tid="t127" type="DURATION" value="P3M" >kolme kuu</TIMEX3> tasuta tellimust . 
+ Ent kõigist auhindadest olulisem on teadmine , et sõdurid ei pea väeosade lugemistubades enam tõtt vaatama vaid Sholohhovi või Ostrovski raamatutega . 
+ Millise raamatu kingite sõdurile ? 
+ Merle Sikka 
+ Naiskodukaitse aseesinaine 
+ Kahtlemata peaksid kaitsejõud pataljonide raamatukogude täiendamisele senisest rohkem tähelepanu pöörama . 
+ Vähemasti Tallinnas asuvate pataljonide raamatukogud on viletsas seisukorras , nii et kindlasti võiks kaitsejõudude eelarves selleks suurem summa olla . 
+ Meie naiskodukaitses parasjagu kogumegi kõikvõimalike annetuste abil sõdurikodudele raamatuid . 
+ Aktsiooni endaga tegelikult alles alustasime ja <TIMEX3 tid="t128" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> on raamatuid ikka üksjagu kogunenud . 
+ Inimesed annavad igasuguseid raamatuid - nii kriminulle kui ka klassikalist kirjandust , tõlkekirjandust , aga ka neid raamatuid , mis on juba nõukogude ajal välja antud . 
+ Mart Laar 
+ peaminister 
+ Esimesena kingiksin Ilmar Talve " Johansoni reisid " . 
+ Usun , et rahva kaitsetahtele mõjub kosutavalt - nagu paljude rahvaste kogemusest teame - kui sõdade kogu traagika kunstilise käsitluse kõrval on kirjanduses oma tasakaalustav koht ka humoorikatel sõjalugudel . 
+ Aga loomulikult tahan ma Eesti kaitseväelastele kinkida rohkem kui ühe raamatu , sest sõduril peab olema hea lugemisvara ja rikkalik lugemislaud . 
+ Ülo Ignats 
+ Eesti Rahvusfondi esimees ( Stockholm ) 
+ Võibolla kingiksin mõne suurema teatmeteose , näiteks " Eesti riik ja rahvas Teises maailmasõjas " , mis koosneb kümmekonnast köitest . 
+ Oleks tore , kui leiaks ka mõned lauluraamatud , kus nii isamaalised kui ka seltskondlikud laulud sees . 
+ Raamatute annetamine sõduritele on oluline , sest nagu öeldakse - sõjaväes treenib kõige rohkem ootamist ja vaba aega on kõikide riikide armeedes . 
+ Kindlasti on väga tähtis , et noored ei kaotaks sõjaväes oma lugemisharjumust . 
+ Rootsist oleme juba <TIMEX3 tid="t130" type="DURATION" value="P10Y" >10</TIMEX3>-<TIMEX3 tid="t131" type="DURATION" value="P12Y" >12 aastat</TIMEX3> Eestisse raamatuid saatnud . 
+ Inimesed lähevad hauda , nende lapsed ei valda enam eesti keelt ja paluvad pärandustompu sattunud raamatud vanemate sünnimaale saata . 
+ Kindlasti on väliseestlastel huvi annetada raamatuid Eesti sõduritele . 
+ Seda on lubanud toetada ka kaitseväe juhataja esindaja Rootsis . 
+ Kuhu raamatud viia 
+ TALLINN : Sakala 1 , kaitseministeerium 
+ PÄRNU : Aia 28 , tel 30 764 
+ KÄRDLA : Leigri väljak 5 , tel 32 038 
+ HAAPSALU : Lahe 17 , tel 37 008 
+ KURESSAARE : Väljaku 5 , tel 33 888 
+ RAPLA : Vahe 3 , tel 94 450 
+ TARTU : Puiestee 114 , tel 407 132 
+ PÕLVA : Võru 3 , tel 95 383 
+ VALGA : Lai 19 , tel 40 230 
+ VÕRU : Kreutzwaldi 1 , tel 28 172 
+ RAKVERE : Pikk 46 , tel 23 820 
+ KOHTLA-JÄRVE : Lai 4 , tel 73 646 
+ PAIDE : Tallinna 16 , tel 50 638 
+ JÕGEVA : Aia 4 , tel 23 598 
+ VILJANDI : Saarepeedi vald , Peetrimõisa küla , tel 55 384 
+</TimeML>

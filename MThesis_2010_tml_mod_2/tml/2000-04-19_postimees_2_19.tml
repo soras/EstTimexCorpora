@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Ivi Eenmaa süüdistab Tallinna võime ebaseaduslikus tehingus 
+ Korteriühistut juhtiv ekslinnapea nõuab majas tegutseva firma lahkumist 
+ URMAS SEAVER , urmas.seaver@postimees.ee 
+ Tallinnas Kaarli pst 11 korteriühistut juhtiv endine linnapea Ivi Eenmaa võitleb ühistukaaslaste toel linna ja erafirmaga , kes majaelanike hinnangul tegutseb hoones Kesklinna valitsuse loal ebaseaduslikult . 
+ " Mäletan , et kui olin linnapea , käisin ühel korteriühistu kokkusaamisel ja rääkisin kõva häälega , kuidas linn toetab korteriühistuid , " ütles Eenmaa , kes juhtis Tallinna <TIMEX3 tid="t194" type="DATE" value="1997" >aastatel 1997</TIMEX3>-<TIMEX3 tid="t195" type="DATE" value="1999" >1999.</TIMEX3><TIMEX3 tid="t196" type="DURATION" value="P2Y" beginPoint="t194" endPoint="t195" /> " <TIMEX3 tid="t197" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüd</TIMEX3> olen ise ühistu esindajana olukorras , kus linn käitub vastupidi . " 
+ 58 korterit hõlmava korteriühistu juhi Eenmaa väitel sõlmis linn <TIMEX3 tid="t198" type="DATE" value="1999-SU" anchorTimeID="t0">mullu suvel</TIMEX3> ebaseaduslikult rendilepingu Kaarli pst 11 majas linnale kuuluvatele pindadele OÜga Apeki Investeeringud , kuid Kesklinna valitsus ei teatanud sellest majast 88% omavale ühistule . 
+ Varem rentis hoones linnale kuuluvaid pindasid <TIMEX3 tid="t199" type="DURATION" value="PXY">mitmeid aastaid</TIMEX3> Eesti Spordimeditsiinikeskus ( ESK ) . 
+ Ühistul polnud seejärel võimalik kellelegi kommunaalteenuste arveid esitada ning <TIMEX3 tid="t200" type="DATE" value="2000-04-01" anchorTimeID="t0">1. aprilliks</TIMEX3> võlgnes Apeki Investeeringud Eenmaa sõnul ühistule üle 35 000 krooni . 
+ Eenmaa ütles , et ühistu ei soovigi enam erafirmaga kommunaalmaksete lepingut sõlmida , sest ei taha ennast majas ebaseaduslikult tegutseva firmaga siduda . 
+ Rendib pindu edasi 
+ Ühistu hinnangul , mida toetab ka neile saadetud vastus õiguskantslerilt , polnud Kesklinna valitsusel õigus ESKga sõlmitud rendilepingus vastaspoolt uut lepingut sõlmimata ja tingimusi muutmata lihtsalt teise asutusega asendada . 
+ Nii maksab ka allrentnikke võttev Apek sarnaselt ESKga linnale pinna eest 20 krooni ruutmeetrilt , mis on linnale kuuluvate mitteeluruumide üüri alghind . 
+ Kuigi linnaosa otsustas ühistu pealekäimisel <TIMEX3 tid="t201" type="DATE" value="1999-11" mod="END" anchorTimeID="t0">mullu novembri lõpus</TIMEX3> Apekiga koostöö lõpetada , rendib viimane majas endiselt linnale kuuluvaid pindasid eri firmadele . 
+ <TIMEX3 tid="t202" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> asuvad kunagise ESK ruumes kinnisvarafirma Kuldne Katus , psühholoogi kabinet , raamatuid levitav AS Gertis Gewey ja Model Management Mark Si , lisaks on Apekiga rendilepingut sõlmimas turismifirma Valensatur . 
+ Kesklinna vanema asetäitja Jüri Lump ütles Postimehele , et linnaosa pole seadust rikkunud , kui vormistas ESK asemele rentnikuks erafirma . 
+ Lumbi hinnangul on tekkinud olukorras eelkõige süüdi erafirma , kes ei ole täitnud oma lepingujärgseid kohustusi . 
+ Erafirma tõrjub süüdistusi 
+ Lump ütles , et Kesklinn tühistas lepingu Apekiga , sest too ei täitnud nõuet kasutada ruume konsultatsiooni- ja meditsiinilise nõustamise keskusena . 
+ Samuti pole Apek Lumbi väitel esitanud linnaosavalitsusele kooskõlastamiseks ühtegi allrendilepingut . 
+ Erafirma saab majas edasi tegutseda vaid seetõttu , et on Kesklinna vanema tühistava korralduse kohtus vaidlustanud , mainis Lump . 
+ Apeki projektijuht Rain Kalda ütles , et kuna nii Tallinna halduskohus kui ka ringkonnakohus on nende kaebuse tagasi lükanud , kavatseb firma <TIMEX3 tid="t203" type="DATE" value="FUTURE_REF" anchorTimeID="t0">lähiajal</TIMEX3> Kesklinna vanema otsuse vaidlustada Tallinna linnakohtus . 
+ Kalda väitis Postimehele , et kõik ruumides asuvad firmad on seotud konsultatsiooniga , nii näiteks annab Kuldne Katus kinnisvara-alast nõu , Model Managemendi nime all tegutseb esteetikakool ja fotoateljee , uus firma Valensatur hakkab aga andma reisikonsultatsioone . 
+ Kalda ütles , et kuna ühistu keeldub nendega suhtlemast , on see takistanud firmal leida meditsiinikeskuse jaoks sobivaid allrentnikke . 
+ Ta lisas , et firma on kõik allrendilepingud linnaosavalitsusele kooskõlastamiseks saatnud . 
+</TimeML>

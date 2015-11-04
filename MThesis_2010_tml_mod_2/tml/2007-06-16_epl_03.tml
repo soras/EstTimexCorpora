@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Näib , et ootamatult karskusaatele pühendunud Keskerakond saabki vähemalt Tallinnas oma tahtmise ja edasipidi enam poes <TIMEX3 tid="t6" type="TIME" value="T20" comment="võib olla ka RECURRENCE">pärast kella kaheksat</TIMEX3> napsi ei müüda. 
+ Mis seal ikka , tegelikult pole ju vahet . 
+ Kui tõesti peaks <TIMEX3 tid="t7" type="TIME" value="TNI">vastu ööd</TIMEX3> jube janu ja viinaisu kallale tulema , eks siis kõrtsist ikka klaasikese saab . 
+ Aga kui trahterisse minna ei viitsi , siis tuleb lihtsalt olukorraga leppida ja <TIMEX3 tid="t8" type="TIME" value="TMO">hommikuni</TIMEX3> oodata . 
+ See pole ka pikk aeg , elab üle . 
+ <TIMEX3 tid="t9" type="TIME" value="TNI">Öö</TIMEX3> on magamiseks 
+ Meie inimesed on kohutaval kombel ära hellitatud . 
+ Millegipärast kujutavad nad ette , justkui oleks ostmine midagi sarnast hingamisega - kui poed kinni pannakse , siis järgneb lämbumine ja surm . 
+ Ei ole nii . 
+ Pole sugugi hädavajalik kogu aeg midagi osta . 
+ Mina olin kahe käega poolt , kui <TIMEX3 tid="t10" type="TIME" value="TNI">öine</TIMEX3> viinamüük lõpetati , sest <TIMEX3 tid="t11" type="TIME" value="TNI">öösel</TIMEX3> pole üldse tarvis midagi müüa . 
+ Isegi mitte leiba . 
+ <TIMEX3 tid="t12" type="TIME" value="TNI">Öösel</TIMEX3> inimesed magavad , teiste seas ka poemüüjad . 
+ Ei ole tarvis kogu aeg leti taga valvel seista , juhuks kui mõnel unetul tekib tahtmine kuuvalgel õgida . 
+ Las kannatab <TIMEX3 tid="t13" type="TIME" value="TMO">hommikuni</TIMEX3> ! 
+ Inimesed on elanud üle Leningradi blokaadi , talunud nälga ja janu kõrbetes , kannatanud tühja kõhtu koonduslaagrites - no mis on selle kõrval <TIMEX3 tid="t14" type="TIME" value="TNI">üks öö</TIMEX3> ? 
+ Kui olid nii hooletu , et ei märganud õigel ajal endale nosimist muretseda , eks siis kuula natuke aega kõhu korinat . 
+ Teinekord oled ettenägelikum . 
+ Ja üldse pole tarvis <TIMEX3 tid="t15" type="TIME" value="TEV" mod="END">hilja õhtul</TIMEX3> süüa - see on ebatervislik . 
+ Inimesed kebigu normaalsel ajal magama , selle asemel et <TIMEX3 tid="t16" type="TIME" value="TNI">öösel</TIMEX3> mööda ärisid tuuseldada . 
+ Küll <TIMEX3 tid="t17" type="TIME" value="TMO">hommikul</TIMEX3> poed lahti tehakse , siis saab saia ja vorsti ja piima . 
+</TimeML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kas oleme õnnetu rahvus ?  
+Majandusstatistika järgi läheb Eestil hästi ning võiks oodata , et igale indiviidile meeldib tema elu ja ta on õnnelik . 
+ Paraku on järjest tihedamini kuulda , et eestlased on ühed õnnetumad inimesed maailmas . 
+ Ma ise liituks selle poolega , kes ütleb , et keskmine eestlane on tõepoolest õnnetu . 
+ Kuid ma ei otsiks peamisi põhjusi meeletust laenukoormusest või kasvavatest intressidest . 
+ Mida üldse mõeldakse sõnaga " õnnetu " ? 
+ Siinkohal tuleb minna indiviidile lähemale , sest selle sõna tähendus on subjektiivne , igaühele erinev . 
+ Mis teeb mind eestlasena õnnetuks ? 
+ See ei ole raha ! 
+ Põhjus on hoopis inimsuhetes . 
+ Iga laps saadetakse teele kodust ja sealt edasi liigub ta kooli . 
+ Kui kõik läheb hästi , on ta <TIMEX3 tid="t30" type="DATE" value="XXXX-XX-XX" comment="üldises tähenduses">12</TIMEX3>-<TIMEX3 tid="t31" type="DATE" value="XXXX-XX-XX" comment="üldises tähenduses">15 aasta pärast</TIMEX3> tööturul ja laiemalt võttes ka täisväärtuslik ühiskonna liige . 
+ Sellest hetkest on ta iseseisev ja saab tegutseda vastavalt enda soovidele . 
+</TimeML>

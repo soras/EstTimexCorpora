@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kaks Läänemaa tanklat müüs solkkütust 
+<TIMEX3 tid="t46" type="DATE" value="2006-07" anchorTimeID="t0">Juulis</TIMEX3> leidsid maksu- ja tolliameti inspektorid Parila ja Dirhami tanklast müügilt normidele mittevastavat kütust . 
+ Majandustegevuse registri andmeil oli GT Oil Estonia Parila tanklas kütuse leektäpp nõutava 55 kraadi asemel 42 kraadi , Mellson Grupi Dirhami sadama tanklas aga 35 kraadi , kirjutab Lääne Elu . 
+ Leektäpp on vedeliku madalaim temperatuur , mille juures hakkab vedelikust eralduma auru nii palju , et tekib süttiv auru ja õhu segu . 
+ GT Oil Estonia nelja tanklaga keti jaemüügijuhi Antti Lepiku sõnul on see nende ettevõttel viie tegutsemisaasta jooksul esimene selline juhtum . 
+ " Me tõesti ei kontrolli igat saadud laadungit , sest hangime kütust ainult tuntud ja lugupeetud terminalidest , " ütles ta . 
+ Nimetatud allanormikohane laadung olevat Lepiku sõnul tulnud Maardu terminalist . 
+</TimeML>

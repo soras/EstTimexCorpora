@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Paranenud Tammert on lõppvaatuseks valmis 
+Tiit Lääne 
+ Eesti kettahiiud sihivad <TIMEX3 tid="t221" type="DATE" value="2006-08-12" anchorTimeID="t0">tänasel</TIMEX3> lõppvõistluse kahte medalit , mis oleks ülim . 
+ Lõppvaatus kujuneb Eesti tandemi Kanter-Tammert vastasseisuks Aleknaga . 
+ Aleksander Tammert on teda kimbutanud tervisehädad seljataha jätnud , enestunde üle <TIMEX3 tid="t222" type="TIME" value="2006-08-11TEV" anchorTimeID="t221" comment="problemaatiline, võib olla ka mitte-konkreetne">finaali eelõhtul</TIMEX3> ei kurtnud . 
+ Eesti rekordimees , kes pääses <TIMEX3 tid="t223" type="TIME" value="2006-08-10TMO" anchorTimeID="t0">neljapäeva hommikul</TIMEX3> toimunud kvalifikatsioonist lõppvõistlusele juba avakatsel , on vaatamata vahepealsele kubemevalule lahinguks valmis . 
+ " Ei ole hullu midagi . 
+ Enesetunne on kogu aeg paremuse suunas liikunud ja tunnen end juba päris hästi , " ütles Tammert <TIMEX3 tid="t224" type="TIME" value="2006-08-11TEV" anchorTimeID="t0">eile õhtul</TIMEX3> optimistlikul toonil . 
+ Kubemetrauma andvat end tunda sügavamaid venitusi tehes . 
+ " Eks sellega tuleb lihtsalt arvestada ning venitada lihaseid teistmoodi . " 
+ Alekna ei muretse 
+ Mis tulemus kehas on , ei julgenud olümpiapronks Tammert ennustada . 
+ " Kõik sõltub sellest , millised augud viimasest kaheksast-üheksast treeninguvabast päevast on sportlikku vormi jäänud . 
+ Aga n-ö teise e?eloni meestega , kes heidavad 66 meetri peale , usun suutvat rinda pista , " arvas Tammert . 
+</TimeML>

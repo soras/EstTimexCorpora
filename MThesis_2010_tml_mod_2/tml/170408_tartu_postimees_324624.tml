@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="TIME" value="2008-04-17T17:05" functionInDocument="CREATION_TIME" comment="(neljapäev)"/>
+
+Rong viis 
+<TIMEX3 tid="t1" type="DATE" value="2008-04-14" anchorTimeID="t0">
+esmaspäeval
+</TIMEX3>
+tööle kolm riigikogulast ja ministri
+
+Tartu Postimees küsis Tartust valitud riigikogu liikmetelt, milline on nende
+tüüpiline töönädal, et lugejagi saaks aimu, kas meie valitud teevad tööd või
+võtavad levinud arvamuse kohaselt palka mittemillegi eest.
+
+Helmer Jõgi kirjutas, et tema sõidab tavaliselt autoga Tallinna
+<TIMEX3 tid="t2" type="TIME" value="XXXX-WXX-7TEV">
+ pühapäeva õhtul,
+</TIMEX3>
+nii tekib aega hommikuse meediaülevaatega tutvumiseks. «Tihti peab ka <TIMEX3 tid="t3" type="TIME" value="XXXX-WXX-XTAF">nädala 
+sees mõnel pärastlõunal</TIMEX3> Tartusse tulema,» vastas Jõgi.
+«Tallinnaski toimub
+<TIMEX3 tid="t4" type="SET" value="XXXX-WXX-WE">
+nädalalõppudel
+</TIMEX3>
+palju huvitavat, mis lisaks enesetäiendamisele laiendab suhtlusringkonda. 
+Arvan, et lisaks palgale annab riigikogu liikmele tõelise sõltumatuse eelkõige
+kompetentsus, mis tuleb eneseharimise ja informeeritusega.»
+Hannes Astoki tüüpiline töönädal seevastu algab 
+<TIMEX3 tid="t5" type="TIME" value="XXXX-WXX-1T05:50">
+esmaspäeval kell 5.50
+</TIMEX3>
+Tartu - Tallinna rongis. «Muide, 
+<TIMEX3 tid="t6" type="DATE" value="2008-04-14" anchorTimeID="t0">
+läinud esmaspäeval
+</TIMEX3>
+oli Tartu-Tallinna kiirrongi internetivagunis tööle tõttamas kolm riigikogulast
+ja üks minister, rääkimata teistest tublidest ja tegusatest kaaslinlastest,»
+vastas Astok ajalehele.
+
+Karel Rüütli võttis aga oma töönädala kokku niimoodi: «Enamik päevi on sisustatud
+seaduseloomest tulenevate koosolekute ja istungitega, istungivälisel ajal 
+keskendun seaduseelnõude läbitöötamisele ja parandusettepanekute tegemisele, 
+aga ka eelnõude koostamisele.»
+
+<TIMEX3 tid="t7" type="DATE" value="2008-04-18" anchorTimeID="t0"> 
+Homsest
+</TIMEX3>
+Tartu Postimehest saab lugeda töönädala aruandeid riigikogulastelt Margus
+Tsahknalt, Heljo Pikhofilt, Helmer Jõgilt, Hannes Astokilt, Karel Rüütlilt,
+Aadu Mustalt, Silver Meikarilt ja Toomas Trapidolt. 
+</TimeML>
+

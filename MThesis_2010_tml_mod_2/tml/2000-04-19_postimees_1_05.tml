@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Kuritegevus maakonnas on plahvatuslikult kasvanud 
+ PRIIT RAJALO , priit.rajalo@postimees.ee 
+ Tartu maakonnas on kuritegevus<TIMEX3 tid="t29" type="DATE" value="2000-01"/> <TIMEX3 tid="t30" type="DURATION" value="P3M" beginPoint="t29" endPoint="t32" anchorTimeID="t0">tänavu kolme kuuga</TIMEX3> <TIMEX3 tid="t31" type="DATE" value="1999" anchorTimeID="t0">mullusega</TIMEX3> <TIMEX3 tid="t32" type="DATE" value="2000-03" />võrreldes kasvanud 73,2 protsenti . 
+ Enim on hoogustunud salajased vargused . 
+ Kuigi kuritegude hulgalt jääb maakond linnale tunduvalt alla , on kuritegevuse kasvuprotsent seal suurem . 
+ Sagenenud on vargused autodest ja kuriteod avalikes kohtades . 
+ Tartu politseiprefekt Raivo Palu märkis , et kuritegevuse kasv maakonnas on siiski rohkem statistiline , sest kuritegude hulk on kokkuvõttes väike . 
+ " Raske on küll öelda , miks on kuritegevus maakonnas kasvanud , kuid eks üks põhjus ole ka see , et vahelejäämise võimalus on suhteliselt väike , " nentis prefekt . 
+ " Kindlasti on põhjuseks seegi , et maal on inimesed vaesemad . " 
+ <TIMEX3 tid="t33" type="DATE" value="2000-04-18" anchorTimeID="t0">Eile</TIMEX3> maakonnas ringsõidul viibinud Palu sõnas , et kuritegevus kasvab valdades , kus on väga raske tööd leida ja mis asuvad linnast kaugel . 
+ " Samuti on maapiirkondades palju suvekodusid , mis seisavad <TIMEX3 tid="t34" type="SET" value="XXXX-FA" >sügiseti</TIMEX3> ja <TIMEX3 tid="t35" type="SET" value="XXXX-WI" >talviti</TIMEX3> tühjana , ja sinna on lihtne sisse murda , " lisas Palu . 
+ Maakonna suurimaks probleemiks on roolijoodikud : umbes iga kolmanda inimkannatanuga lõppenud liiklusõnnetuse põhjustab roolijoodik . 
+ Ka siin on Palu hinnangul põhjus selles , et maakonnas on alkoholijoobes autojuhi politseile vahelejäämise risk suhteliselt minimaalne . 
+ Seetõttu tuleb Palu väitel üha rohkem patrullida maakonna teedel , mistõttu aga nõrgeneb liiklusjärelevalve linnas . 
+</TimeML>

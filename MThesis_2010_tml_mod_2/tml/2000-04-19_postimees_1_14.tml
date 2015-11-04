@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)"/>
+ ARTIKKEL: Meistrivõistlused jätkuvad 
+ JOHANNES MILLER , sport@postimees.ee 
+ Tartu meistrivõistlustel korvpallis võitis ülikooli esindusmeeskond esiliigas AS Gefi 7961 ja EPMÜ 71 : 61 , teises liigas oli Elva üle korvpallikooli ( KK ) teisest meeskonnast 64 : 51. 
+ <TIMEX3 tid="t164" type="DATE" value="2000-04-19" anchorTimeID="t0">Täna</TIMEX3> , <TIMEX3 tid="t165" type="TIME" value="2000-04-19T18:30" anchorTimeID="t0">19. aprillil kell 18.30</TIMEX3> kohtuvad ülikooli spordihoones TÜ I - EPMÜ . 
+ <TIMEX3 tid="t166" type="TIME" value="2000-04-20T18:30" anchorTimeID="t0">Neljapäeval , 20. aprillil kell 18.30</TIMEX3> on Turu tänava võimlas vastamisi Elva ja KK II . 
+ <TIMEX3 tid="t167" type="DATE" value="2000-04-23" anchorTimeID="t0">Pühapäeval , 23. aprillil</TIMEX3> kohtuvad Kõrveküla spordihoones <TIMEX3 tid="t168" type="TIME" value="2000-04-23T10:30" anchorTimeID="t167">kell 10.30</TIMEX3> Elva ja KK II mängu võitja - Kroonpress ja <TIMEX3 tid="t169" type="TIME" value="2000-04-23T11:30" anchorTimeID="t167">kell 11.30</TIMEX3> TÜ I ja EPMÜ mängu võitja - Sumros Grupp . 
+</TimeML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Ksenija Balta parandab vead <TIMEX3 tid="t212" type="DATE" value="2006-08-15" anchorTimeID="t0">teisipäeval</TIMEX3> Tallinnas 
+Kristi Vahemaa , Göteborg 
+ Naiste kaugushüppes lõppvõistluse kohta püüdnud Ksenija Balta sai 6.03-ga 26. koha . 
+ Kolmanda katse eel käis Ksenija närviliselt ringi , tegi vahepeal paigalt hüppeid ning siirdus siis kindlameelse näoga rajale . 
+ Kahjuks tõukas eestlanna paku tagant ning kirja jäi vaid 6.03. 
+  " Ise hüppasin halvasti , " lausus Balta . 
+ " Ilm oli hea , värske , sain hingata , kõik oli korras . " 
+ Kõige enam oli tal kahju avakatsest , ent lõppvõistlusele viinuks ka teine üritus . 
+ " Aga see on ju tuntud tõde , et kõik üleastutud hüpped on pikad , " naeratas <TIMEX3 tid="t213" type="DATE" value="2006" anchorTimeID="t0">tänavu</TIMEX3> 6.56 hüpanud Balta . 
+ Balta tervisehädad on möödanik , <TIMEX3 tid="t214" type="DURATION" value="P1W" comment="puudu beginPoint ja endPoint!">Göteborgis oldud nädala jooksul</TIMEX3> muutus enesetunne järjest paremaks . 
+ " Kui EM-i kokku võtta , siis algus oli väga hea , aga <TIMEX3 tid="t215" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> on emotsioonid all . 
+ Aga mitte kauaks , " lubas Balta . 
+ " Hüppan ka Tallinn <TIMEX3 tid="t216" type="DATE" value="2006" >2006</TIMEX3> võistlusel ja üritan seal vigu parandada . " 
+</TimeML>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Tuuli Aug 
+ Läti välisminister Artis Pabriks esitas lahkumisavalduse , kuna pole nõus korruptsioonivastase võitluse büroo juhi Aleksejs Loskutovsi vallandamisega . 
+ Läti välisminister Artis Pabriks küll esitas lahkumisavalduse , ent peaminister Aigars Kalvitis keeldus teda ametist vabastamast , vahendab LETA . 
+ " Pabriks peab tööd jätkama , " teatas Kalvitis . 
+ Pabriks esitas lahkumisavalduse samal Rahvapartei istungil , mil erakond viskas välja regionaalministri Aigars Stokenbergsi , kes on samuti Loskutovsi vallandamise vastu olnud , vahendab Reuters . 
+ " Välja viskamise põhjus on ilmselge - minu mõju parteis kasvas ja partei asutaja Andris Skele ei tahtnud oma positsiooni kaotada , " selgitas Stokenbergs The Baltic Times'ile . 
+ Loskutovse vallandamise suhtes teeb ametliku otsuse seim , kuid <TIMEX3 tid="t74" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> tegi välisminister Pabriks peaministrile ettepaneku Loskutovse vallandamise otsus ümber vaadata . 
+</TimeML>

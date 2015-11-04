@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Tampere teatrifestival pakkus rahvus- vahelisi ja kodumaiseid piiri ületajaid 
+Tiiu Laks 
+ 38. Tampereen Teatterikesä ( Tampere Teatrisuvi ) keskendus <TIMEX3 tid="t283" type="DATE" value="2006" anchorTimeID="t0">sellel aastal</TIMEX3> piirideta teatrile ja uutele briti tähtedele . 
+ Paarkümmend lavastust suutsid ühisel jõul müüre lõhkuda küll , kirjutab Tiiu Laks . 
+ Tampere Teatrisuvi on selgelt kuraatorifestival . 
+ Selle kolm kunstilist juhti sõidavad mööda maailma ringi , vaatavad teatrit ja kutsuvad parimad <TIMEX3 tid="t284" type="DATE" value="2006-08" comment="võib olla ka üldises tähenduses" anchorTimeID="t0">augustiks</TIMEX3> Soome festivalile . 
+ " Me teeme seda festivali soomlastele , " kuulutas festivali kunstiline juht Jukka-Pekka Pajunen veendunult , rõhutades pigem muu teatri pakkumist soomlastele kui soome teatri viimist , tutvustamist ja propageerimist muule maailmale . 
+ Avignoni ja Edinburghi kuulsate teatrifestivalide kõrval vaikselt toimetav Tampere Teatrisuvi võib jääda isegi tamperelastele endile üsna märkamatuks . 
+ Ometi on seal kohal maailmanimed nagu Tim Crouch , Mark Ravenhill ja Chris Kondek . 
+ Tampere festival ei ole küll uute talentide avastaja nagu kaks eelmainitut ( eriti Edinburghi festival ) , kuid seda võib siiski nimetada prestii?ikaks festivaliks . 
+</TimeML>

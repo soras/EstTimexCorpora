@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Dannar Leitmaa 
+ Foto : Reuters 
+ <TIMEX3 tid="t72" type="DATE" value="2007-10-18" anchorTimeID="t0">Eile</TIMEX3> ründas enesetaputerrorist <TIMEX3 tid="t73" type="DURATION" value="P8Y" comment="Kas 'järel' muudab siin semantikat?">kaheksa aasta</TIMEX3> järel Pakistani tagasi pöördunud endise peaministri Benazir Bhutto konvoid . 
+ Videot plahvatusest võib näha Briti ajalehe Guardiani kodulehelt aadressilt http : //www.guardian.co.uk/news/video/2007/oct/19/bhutto.suicide.bomb Plahvatuses hukkus 136 inimest , kuid endine peaminister pääses vigastusteta . 
+</TimeML>

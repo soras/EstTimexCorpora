@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Haldi Ellam 
+ Foto : Reuters 
+ Kommenteerides Türgi ähvardust kurdi mässuliste ohjeldamiseks Iraaki sisse tungida , leiab välisminister Urmas Paet , et Türgi ja Iraak peaksid pingestunud olukorrale rahumeelse lahenduse leidma . 
+ " Türgil on õigus oma kodanikke rünnakute eest kaitsta , kuid seda peaks ennekõike tegema tihedas koostöös Iraagiga , " ütles Paet Portugalis pealinnas Lissabonis toimunud Euroopa Liidu välisministrite kohtumisel . 
+ Ministrid tõdesid , et Türgi ja Iraak peavad üheskoos leidma lahenduse pingestunud olukorrale ning tegema koostööd ka terrorismivastases võitluses laiemalt . 
+ Põhja-Iraagis redutavad Kurdi separatistid ähvardasid tungida üle piiri Türki , kus nad on korraldanud ja kavatsevad ka <TIMEX3 tid="t161" type="DATE" value="FUTURE_REF" anchorTimeID="t0">edaspidi</TIMEX3> korraldada rünnakuid Türgi ametivõimude vastu . 
+ Türgi parlament andis <TIMEX3 tid="t61" type="DATE" value="2007-10-17" anchorTimeID="t0">kolmapäeval</TIMEX3> valitsusele Iraagi ründamiseks loa . 
+ Türgi peaminister Recep Tayyip Erdogan on öelnud , et parlamendi heakskiit ei pruugi sõjalisi tagajärgi endaga kaasa tuua . 
+</TimeML>

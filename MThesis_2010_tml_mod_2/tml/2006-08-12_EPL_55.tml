@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Mr Nice'i naljad 
+Erna retk . 
+ Retke marsruudil on küla . 
+ Külas istuvad vanamemmed tare ees pingil ja jälgivad ilma ja inimesi . 
+ Kiirmarsil läheneb laigulistes mundrites Erna võistlejate rühm , pingutusest leemendavad sõdurid , rühma ees sörgib ovitser . 
+ Et memmed vaatavad telekat ja loevad lehti , siis on nad kursis , mis toimub , kes <TIMEX3 tid="t253" type="DATE" value="PRESENT_REF" anchorTimeID="t0">momendil</TIMEX3> juhtgrupis , milline on relvastus jne. 
+ Vaatavad lihtsalt uudishimulikult : põnev vaheldus külaklat?ile . 
+ Heidavad pilgu ka lähenevale võitlejate salgale . 
+ Üks vanamemm kommenteerib teistele : " Näed sa , ohvitser võttis kaardi välja . 
+ Kohe tulevad teed küsima . " 
+ Õige on vanarahva tarkus : kõike raha teenida ei ole võimalik ! 
+ Aga teiselt poolt : ... maha juua on täiesti võimalik ! 
+</TimeML>

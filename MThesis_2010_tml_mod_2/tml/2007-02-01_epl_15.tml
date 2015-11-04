@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Haldi Ellam 
+ Hansapanga internetipanga töö on <TIMEX3 tid="t105" type="TIME" value="2007-02-01TMO" anchorTimeID="t0">täna hommikul</TIMEX3> juba <TIMEX3 tid="t106" type="DURATION" value="PT2H" mod="MORE_THAN"> üle kahe tunni</TIMEX3> häiritud olnud . 
+ Panga teatel on tegemist tehniliste probleemidega ning panga IT-spetsialistid püüavad portaali taas töökorda seada . 
+ Häireid Hanza.neti töös esines juba <TIMEX3 tid="t107" type="TIME" value="2007-02-01T09:30" anchorTimeID="t105">poole kümnest hommikul</TIMEX3> . 
+ Hansapanga pressiesindaja ütles Päevaleht Online'le , et inimestel , kellel jääb Hanzaneti rikke tõttu näiteks börsil mõni toiming tegemata , on võimalus panga poole pöörduda ning õigustatud nõude puhul on pank valmis võimaliku kahju hüvitama . 
+</TimeML>

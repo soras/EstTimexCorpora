@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ <TIMEX3 tid="t111" type="DATE" value="2007-06-15" comment="maailmateadmus või vihje artikli lõpus :)" >Rabarocki esimese päeva</TIMEX3> päikeseline ilm meelitas rokisõbrad Järvakanti juba <TIMEX3 tid="t112" type="DATE" value="2007-06-15" mod="SECOND_HALF" anchorTimeID="t111" comment="päeva teine pool?">poolest tööpäevast.</TIMEX3> 
+ <TIMEX3 tid="t113" type="TIME" value="2007-06-15TEV" anchorTimeID="t112">Õhtupoolikuks</TIMEX3> oli melu festivaliplatsil ning telklaagris tuurid üles võtnud . 
+ <TIMEX3 tid="t114" type="DATE" value="2007" anchorTimeID="t0">Tänavuse</TIMEX3> peo avas Eesti muusikaauhindade jagamisel aasta punk- ja metal-artisti tiitli pälvinud Shelton San . 
+ Piletijärjekorras seisnud rokisõbrad rihtisid end platsile kodumaise industriaalilegendi Pedigree ajaks . 
+ <TIMEX3 tid="t115" type="DATE" value="2007-06-15" anchorTimeID="t0">Eile</TIMEX3> esinesid Järvakandis veel Clawfinger ( Rootsi ) , The Datsuns ( Uus-Meremaa ) , Apoptygma Berzerk ( Norra ) , Poets of the Fall ( Soome ) , Dagö , Tanel Padar &amp; The Sun ja Pedigree . 
+ <TIMEX3 tid="t116" type="DATE" value="2007-06-16" anchorTimeID="t0">Täna</TIMEX3> võib Rabarockil kuulda ansambleid Laibach ( Sloveenia ) , Electric Six ( USA ) , Nick Oliveri and The Mondo Generator ( USA ) , Pain ( Rootsi ) , Peer Günt ( Soome ) , Metsatöll , Kosmikud , Tharaphita , Agent M ja Mr. Lawrence . 
+ <TIMEX3 tid="t117" type="DATE" value="2007" anchorTimeID="t0">Tänavusel</TIMEX3> Rabarockil ongi üheks huvitavamaks esinejaks Mihkel Raua <TIMEX3 tid="t118" type="DATE" value="2000">2000. aastal</TIMEX3> laiali läinud bänd Mr. Lawrence , mis tuli kokku ainult selleks esinemiseks . 
+</TimeML>

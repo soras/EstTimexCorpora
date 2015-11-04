@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Ebaseaduslikke ehitisi ei kõiguta ka linna vastuseis 
+Askur Alas 
+ Linnavalitsuse katsed reegleid rikkuvatele ehitajatele vastu astuda jooksevad liiva . 
+ Linna ehitusjärelevalve teeb ebaseaduslikult ehitavatele kinnisvaraarendajatele ja omanikele trahvi , mõnel juhul on trahv määratud koguni kaheksa korda , kuid suurt abi sellest pole . 
+ Trahv või sunniraha makstakse ära ja töö läheb edasi . 
+ Seadusele vilistavate ebaseaduslike majaehitajate tipus troonivad <TIMEX3 tid="t78" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> OÜ Topkraft , AS Oriost , Ludmilla Kanepe , Juri Jant?uk , Maksim Velit?enko , Alekhan Albogat?ijev , Jevdokija Lukjant?uk ja OÜ Primus Ehitus . 
+ Neist OÜ Topkraft ehitab ebaseaduslikult koguni mitut maja eri kohtadesse ning ignoreerib kõiki linna ehitusjärelevalve ettekirjutusi järjepidevalt . 
+ Linnaplaneerimisamet on pöördunud majandusministeeriumi poole taotlusega kustutada OÜ Topkrafti majandustegevuse registreering , et firma ei saaks enam ehitada . 
+ Ministeerium edastas taotluse tehnilise järelevalve inspektsioonile , mis aga näitab üles täielikku suutmatust . 
+ Inspektsiooni väitel ei saavat linna ehitusjärelevalve poolseid ettekirjutusi registreeringu kustutamise aluseks võtta , sest arvestada saab ainult inspektsiooni enda ettekirjutusi . 
+</TimeML>

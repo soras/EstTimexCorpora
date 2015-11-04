@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Röövitud avaaritari isa sai tütrelt rahustava võltskirja 
+" Minuga on kõik korras , tahan jääda oma kavaleriga , ära muretse . " 
+ - sellise kirja sai Dagestanis röövitud Eesti kodanikust avaaritari Aminat Mahmudova isa Apandi . 
+ Ta peab seda teadet aga võltsinguks . 
+ " <TIMEX3 tid="t72" type="SET" value="PT1H" quant="EVERY">Iga tunni</TIMEX3>-<TIMEX3 tid="t73" type="SET" value="PT2H" quant="EVERY">paari</TIMEX3>  tagant lubatakse mulle , et <TIMEX3 tid="t1171" type="DATE" value="FUTURE_REF">kohe varsti</TIMEX3> kohtud oma tütrega . 
+ Nii <TIMEX3 tid="t74" type="DURATION" value="P2D">kaks ööpäeva järjest</TIMEX3> , ent lubadusteks need on jäänudki , " ütles <TIMEX3 tid="t75" type="DATE" value="198" >1980ndatel</TIMEX3> Eestisse kolinud Apandi Mahmudov , vahendab Postimees . 
+ Tütre isa väitel on kuriteo taga Mahhat?kala abilinnapea Hamil Amarovit? Magomedovi <TIMEX3 tid="t76" type="DURATION" value="P19Y" >19-aastane</TIMEX3> poeg Rustam , seda möönab nii miilits kui Magomedov ise . 
+ Viimast kahtlust kinnitab see , et hoolimata hämamisest andis viitsemeer Mahmudovile käsitsi kirjutatud kirja Aminatilt . 
+ Kirjas teatab Tallinna Tehnikaülikooli tudeng , et on elus ja terve , ärgu keegi muretsegu tema pärast ja väidab , et läks vabatahtlikult kaasa röövlitega , kes <TIMEX3 tid="t77" type="TIME" value="2006-08-03T20:30" anchorTimeID="t0">3. augusti õhtul kella poole üheksa paiku</TIMEX3> tungisid Mahmudovite korterisse Mahhat?kalas . 
+</TimeML>

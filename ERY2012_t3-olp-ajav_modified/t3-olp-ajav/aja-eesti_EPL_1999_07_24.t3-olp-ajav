@@ -1,0 +1,411 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-07-24TXX:XX" />
+<ignoreeri>
+|
+autor:
+Helen
+Eelrand
+|
+ajalehenumber:
+Eesti
+Päevaleht
+24.07.1999
+|
+rubriik:
+Eesti
+|
+artikkel:
+Folk
+haaras
+Viljandi
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="1999" >
+Tänavusel    tänavune+l //_A_ sg ad, //
+</TIMEX>
+peol    peo+l //_S_ sg ad, //    pidu+l //_S_ sg ad, //
+rekordarv    rekord_arv+0 //_S_ sg n, //
+esinejaid    esineja+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+külastajaid    külastaja+id //_S_ pl p, //
+</s>
+<s>
+Viljandi    Viljandi+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t2" type="TIME" temporalFunction="true" value="1999-07-23TEV" >
+eile    eile+0 //_D_ //
+õhtul    õhtu+l //_S_ sg ad, //
+</TIMEX>
+seitsmendast    seitsmes+st //_O_ sg el, //
+pärimusmuusikafestivalist    pärimus_muusika_festival+st //_S_ sg el, //
+osavõtjaid    osa_võtja+id //_S_ pl p, //
+pilgeni    pilgeni+0 //_D_ //
+täis    täis+0 //_D_ //
+-    - //_Z_ //
+<kindel_piir/>
+liikluses    liiklus+s //_S_ sg in, //
+olid    ole+id //_V_ sid, //
+ummikud    ummik+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+käepaeltega    käe_pael+tega //_S_ pl kom, //
+pidulisi    piduline+i //_S_ pl p, //
+jagus    jagu+s //_V_ s, //
+kõigisse    kõik+sse //_P_ pl ill, //
+parkidesse    park+desse //_S_ pl ill, //
+ja    ja+0 //_J_ //
+muruväljakutele    muru_väljak+tele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="1999-07-23" comment="normaliseerimine teksti põhjal järeldamist" >
+Esimene    esimene+0 //_O_ sg n, //
+päev    päev+0 //_S_ sg n, //
+</TIMEX>
+tõi    too+i //_V_ s, //
+kokku    kokku+0 //_D_ //
+4000    4000+0 //_N_ ?, //
+külastajat    külastaja+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tervelt    tervelt+0 //_D_ //
+tuhande    tuhat+0 //_N_ sg g, //
+võrra    võrra+0 //_K_ //
+enam    enam+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1998" >
+eelmisel    eelmine+l //_A_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX tid="t1_2" type="DATE" temporalFunction="true" value="FUTURE_REF" >
+Varsti    varsti+0 //_D_ //
+</TIMEX>
+peame    pida+me //_V_ me, //
+tõsiselt    tõsiselt+0 //_D_ //
+mõtlema    mõtle+ma //_V_ ma, //
+hakkama    hakka+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+festivali    festival+0 //_S_ sg p, //
+saabki    saa+bki //_V_ b, //
+suurendada    suurenda+da //_V_ da, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+möönis    möön+is //_V_ s, //
+festivali    festival+0 //_S_ sg g, //
+pressisekretär    pressi_sekretär+0 //_S_ sg n, //
+Andri    Andri+0 //_H_ sg n, //
+Maimets    Mai_mets+0 //_H_ sg n, //    Maimets+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Maimetsa    mai_mets+0 //_S_ sg g, //
+kinnitusel    kinnitus+l //_S_ sg ad, //
+kasvab    kasva+b //_V_ b, //
+osalejate    osaleja+te //_S_ pl g, //
+arv    arv+0 //_S_ sg n, //
+algusaegadest    algus_aeg+dest //_S_ pl el, //
+peale    peale+0 //_K_ //
+<TIMEX  tid="t4" type="SET" temporalFunction="true" value="P1Y" quant="EVERY" >
+igal    iga+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+umbes    umbes+0 //_D_ //
+20    20+0 //_N_ ?, //
+protsendi    protsent+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Esimest    esimene+t //_O_ sg p, //
+korda    kord+0 //_S_ sg p, //
+osalejatest    osaleja+test //_S_ pl el, //
+saavad    saa+vad //_V_ vad, //
+reeglina    reegel+na //_S_ sg es, //
+traditsioonilised    traditsiooniline+d //_A_ pl n, //
+käijad    käija+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+omakorda    oma_korda+0 //_D_ //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="XXXX" comment="üldises tähenduses" >
+järgmiseks    järgmine+ks //_A_ sg tr, //
+aastaks    aasta+ks //_S_ sg tr, //
+</TIMEX>
+jälle    jälle+0 //_D_ //
+uued    uus+d //_A_ pl n, //
+külastajad    külastaja+d //_S_ pl n, //
+kaasa    kaasa+0 //_D_ //
+võtavad    võt+vad //_V_ vad, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+kirjeldas    kirjelda+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Valdava    valdav+0 //_A_ sg g, //
+enamiku    enamik+0 //_S_ sg g, //
+pärimusmuusika    pärimus_muusika+0 //_S_ sg g, //
+festivali    festival+0 //_S_ sg g, //
+publikust    publik+st //_S_ sg el, //
+moodustavad    moodusta+vad //_V_ vad, //
+ekstravagantse    ekstravagantne+0 //_A_ sg g, //
+välimusega    välimus+ga //_S_ sg kom, //
+noored    noor+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Tallinlane    Tal_linlane+0 //_H_ sg n, //    Tallinlane+0 //_H_ sg n, //
+Tõnu    Tõnu+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX  tid="t6" type="DURATION" temporalFunction="true" value="P23Y" >
+23    23+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+oli    ole+i //_V_ s, //
+peo    peo+0 //_S_ sg g, //    pidu+0 //_S_ sg g, //
+ajaks    aeg+ks //_S_ sg tr, //
+lasknud    lask+nud //_V_ nud, //    lask=nud+0 //_A_ //    lask=nud+0 //_A_ sg n, //    lask=nud+d //_A_ pl n, //
+oma    oma+0 //_P_ sg g, //
+soengusse    soeng+sse //_S_ sg ill, //
+lõigata    lõika+ta //_V_ da, //
+ja    ja+0 //_J_ //
+värvida    värvi+da //_V_ da, //
+Eesti    Eesti+0 //_H_ sg g, //
+kaardi    kaart+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+kinnitas    kinnita+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+folkfestival    folk_festival+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tema    tema+0 //_P_ sg g, //
+jaoks    jaoks+0 //_K_ //
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="XXXX" >
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+tippsündmus    tipp_sündmus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t8" type="DATE" temporalFunction="true" value="XXXX-SU" >
+Suvised    suvine+d //_A_ pl n, //
+</TIMEX>
+plaanid    plaan+d //_S_ pl n, //
+tuleb    tule+b //_V_ b, //
+ikka    ikka+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+festivali    festival+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+teha    tege+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kõigepealt    kõige_pealt+0 //_D_ //
+tõmbab    tõmba+b //_V_ b, //
+mind    mina+d //_P_ sg p, //
+siia    siia+0 //_D_ //
+muusika    muusika+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Ma    mina+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+kujuta    kujuta+0 //_V_ o, //
+ette    ette+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kust    kust+0 //_D_ //
+korraldajad    korraldaja+d //_S_ pl n, //
+neid    see+d //_P_ pl p, //
+esinejaid    esineja+id //_S_ pl p, //
+leiavad    leid+vad //_V_ vad, //
+-    - //_Z_ //
+<kindel_piir/>
+Venemaa    Vene_maa+0 //_H_ sg g, //
+sügavustest    sügavus+test //_S_ pl el, //
+tuuakse    too+akse //_V_ takse, //
+bändid    bänd+d //_S_ pl n, //
+kohale    kohale+0 //_D_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+rääkis    rääki+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+vaimustunult    vaimustunu=lt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+festivali    festival+0 //_S_ sg g, //
+ametlikku    ametlik+0 //_A_ sg p, //
+tantsu    tants+0 //_S_ sg g, //
+ingliskat    ingliska+t //_S_ sg p, //
+õpetavad    õpeta+vad //_V_ vad, //
+Ülle    Ülle+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX tid="t1_3" type="DURATION" temporalFunction="true" value="P22Y">
+22    22+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+Jaanika    Jaanika+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+<TIMEX tid="t1_4" type="DURATION" temporalFunction="true" value="P21Y">
+21    21+0 //_N_ ?, //
+</TIMEX>
+)    ) //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üritusel    üritus+l //_S_ sg ad, //
+käinud    käi+nud //_V_ nud, //    käi=nud+0 //_A_ //    käi=nud+0 //_A_ sg n, //    käi=nud+d //_A_ pl n, //
+<TIMEX  tid="t9" type="SET" temporalFunction="true" value="P1Y" quant="EVERY" comment="mod problemaatiline">
+pea    pea+0 //_S_ sg g, //
+igal    iga+l //_P_ sg ad, //
+aastal    aasta+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Kõige    kõige+0 //_D_ //
+ehedamad    eheda=m+d //_C_ pl n, //
+asjad    asi+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+need    see+d //_P_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+esitatakse    esita+takse //_V_ takse, //
+ilma    ilma+0 //_K_ //
+võimenduseta    võimendus+ta //_S_ sg ab, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+hiiu    hiid+0 //_S_ sg g, //
+kannel    kannel+0 //_S_ sg n, //
+või    või+0 //_J_ //
+viiul    viiul+0 //_S_ sg n, //
+läheb    mine+b //_V_ b, //
+juba    juba+0 //_D_ //
+mikrofoni    mikrofon+0 //_S_ adt, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+asi    asi+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+rääkisid    rääki+sid //_V_ sid, //
+neiud    neid+d //_S_ pl n, //    neiu+d //_S_ pl n, //
+asjatundlikult    asja_tundlikult+0 //_D_ //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+sama    sama+0 //_P_ sg n, //
+asi    asi+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Köömneaidas    köömne_ait+s //_S_ sg in, //
+räägitavate    räägi=tav+te //_A_ pl g, //
+muinasjuttudega    muinas_jutt+dega //_S_ pl kom, //
+-    - //_Z_ //
+<kindel_piir/>
+need    see+d //_P_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võrratud    võrratu+d //_A_ pl n, //
+!    ! //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Nad    tema+d //_P_ pl n, //
+pidasid    pida+sid //_V_ sid, //
+folkfestivali    folk_festival+0 //_S_ sg g, //
+mõneti    mõneti+0 //_D_ //
+alternatiiviks    alternatiiv+ks //_S_ sg tr, //
+tantsupeole    tantsu_pidu+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Oleme    ole+me //_V_ me, //
+nii-öelda    nii-öelda+0 //_D_ //
+folgi    folk+0 //_A_ sg g, //
+süles    süli+s //_S_ sg in, //
+kasvanud    kasva+nud //_V_ nud, //    kasva=nud+0 //_A_ //    kasva=nud+0 //_A_ sg n, //    kasva=nud+d //_A_ pl n, //
+,    , //_Z_ //
+tantsinud    tantsi+nud //_V_ nud, //    tantsi=nud+0 //_A_ //    tantsi=nud+0 //_A_ sg n, //    tantsi=nud+d //_A_ pl n, //
+paljudes    palju+des //_P_ pl in, //
+ansamblites    ansambel+tes //_S_ pl in, //
+,    , //_Z_ //
+omandanud    omanda+nud //_V_ nud, //    omanda=nud+0 //_A_ //    omanda=nud+0 //_A_ sg n, //    omanda=nud+d //_A_ pl n, //
+selle    see+0 //_P_ sg g, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+läbi    läbi+0 //_K_ //
+kogemuste    kogemus+te //_S_ pl g, //
+-    - //_Z_ //
+tantsupeol    tantsu_pidu+l //_S_ sg ad, //
+ununeb    unune+b //_V_ b, //
+tihti    tihti+0 //_D_ //
+see    see+0 //_P_ sg n, //
+ära    ära+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tantsust    tants+st //_S_ sg el, //
+tuleb    tule+b //_V_ b, //
+mõnu    mõnu+0 //_S_ sg n, //
+tunda    tund+a //_V_ da, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+kõnelesid    kõnele+sid //_V_ sid, //
+nad    tema+d //_P_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="1999-07-25" >
+Pühapäevani    püha_päev+ni //_S_ sg ter, //
+</TIMEX>
+kestev    kestev+0 //_A_ sg n, //
+pärimusmuusika    pärimus_muusika+0 //_S_ sg g, //
+festival    festival+0 //_S_ sg n, //
+hõlmab    hõlma+b //_V_ b, //
+lisaks    lisa+ks //_S_ sg tr, //
+300    300+0 //_N_ ?, //
+esineja    esineja+0 //_S_ sg g, //
+kontserdile    kontsert+le //_S_ sg all, //
+ka    ka+0 //_D_ //
+muinasjututundi    muinas_jutu_tund+0 //_S_ sg p, //
+,    , //_Z_ //
+näputööringi    näpu_töö_ring+0 //_S_ sg g, //
+,    , //_Z_ //
+tantsuklubi    tantsu_klubi+0 //_S_ sg g, //
+,    , //_Z_ //
+rahvamuusikakoguja    rahva_muusika_koguja+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+pillilaata    pilli_laat+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>

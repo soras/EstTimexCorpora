@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ARTIKKEL: ANVAR SAMOST : Kohuke kosib rukkilille 
+Kas Rahvaliidu präänik Keskerakonnale Rüütli tagasivalimise eest on kahe partei ühinemine ? 
+ Keskerakonna juhi Edgar Savisaare otsus sedavõrd vara presidendivalimistel Arnold Rüütli selja taha astuda on üllatav . 
+ Oli ju oodata , et tavapärane keskvingerdamine ilma seisukohta selgelt väljendamata kestab vähemalt <TIMEX3 tid="t1" type="DATE" value="2006-08-28" anchorTimeID="t0">28. augustini</TIMEX3> , aga mingis vormis ehk isegi valijameeste kogu kokkutulekuni . 
+ Mis võis juhtuda ? 
+ Täpselt ei oska sellele küsimusele <TIMEX3 tid="t2" type="DATE" value="PRESENT_REF" anchorTimeID="t0">hetkel</TIMEX3> vastata ilmselt mitte keegi peale Keskerakonna ning Rahvaliidu juhtide ja nende lähikonna . 
+ Enam-vähem kindlalt on teada kahe populistliku partei kokkuleppe üks pool - Keskerakond toetab valijameeste kogus presidendikandidaatidest Rüütlit . 
+ Mida Edgar Savisaar Villu Reiljani käest vastu sai , on aga täiesti segane . 
+</TimeML>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: <TIMEX3 tid="t338" type="DURATION" value="P2D" >Kahe päevaga</TIMEX3> sündis kolm hiidpandapoega 
+<TIMEX3 tid="t339" type="DATE" value="2006-08-07" anchorTimeID="t0">Esmaspäeval</TIMEX3> tuli Edela-Hiinas Wolongi hiidpandade uurimiskeskuses ilmavalgele karupoeg , kellesuurust pole kunagi varem vangistuses sündinud . 
+ <TIMEX3 tid="t340" type="DURATION" value="P6Y" >Kuueaastase</TIMEX3> Zhang Ka esimene , kunstliku seemendamise teel saadud poeg kaalus 218 grammi . 
+ Tavaliselt jääb vangistuses sündinud hiidpandade sünnikaal 83 ja 190 grammi vahele . 
+ Sünnitus kestis märksa kauem kui kunagi varem - <TIMEX3 tid="t341" type="DURATION" value="PT34H" >34 tundi</TIMEX3> . 
+ Wolongi uurimiskeskuse teatel on nii ema kui ka poeg hea tervise juures . 
+ <TIMEX3 tid="t342" type="DATE" value="2006-08-06" anchorTimeID="t0">Pühapäeval</TIMEX3> ja <TIMEX3 tid="t343" type="DATE" value="2006-08-07" anchorTimeID="t0">esmaspäeval</TIMEX3> sündis Wolongi lähedal Chengdu hiidpandade uurimiskeskuses kaks paari kaksikuid karupoisse . 
+ Ka kaksikute emad , <TIMEX3 tid="t344" type="DURATION" value="P6Y" >kuueaastased</TIMEX3> hiidpandad on omavahel kaksikud . 
+ <TIMEX3 tid="t345" type="DATE" value="2006" anchorTimeID="t0">Sel aastal</TIMEX3> on Hiinas vangistuses sündinud kuus hiidpandapoega . 
+</TimeML>

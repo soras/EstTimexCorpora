@@ -1,0 +1,209 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1998-12-14TXX:XX" />
+<ignoreeri>
+|
+autor:
+MALLE
+TOOMISTE
+|
+ajalehenumber:
+Postimees
+1998.12.14
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Uudised
+|
+artikkel:
+Tantsurühm
+Kungla
+seadis
+tantsud
+filmiks
+|
+</ignoreeri>
+<s>
+Majanduskitsikuse    majandus_kitsikus+0 //_S_ sg g, //
+kiuste    kiuste+0 //_K_ //
+tegi    tege+i //_V_ s, //
+Viljandist    Viljandi+st //_H_ sg el, //
+Tallinna    Tallinn+0 //_H_ adt, //
+kolinud    koli+nud //_V_ nud, //    koli=nud+0 //_A_ //    koli=nud+0 //_A_ sg n, //    koli=nud+d //_A_ pl n, //
+tantsurühm    tantsu_rühm+0 //_S_ sg n, //
+Kungla    Kungla+0 //_H_ sg n, //
+taasiseseisvunud    taas_ise_seisvu+nud //_V_ nud, //    taas_ise_seisvu=nud+0 //_A_ //    taas_ise_seisvu=nud+0 //_A_ sg n, //    taas_ise_seisvu=nud+d //_A_ pl n, //
+Eestis    Eesti+s //_H_ sg in, //
+esimese    esimene+0 //_O_ sg g, //
+tantsufilmi    tantsu_film+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Rahvatantsu    rahva_tants+0 //_S_ sg g, //
+tippu    tipp+0 //_S_ adt, //
+esindava    esindav+0 //_A_ sg g, //
+Kungla    Kungla+0 //_H_ sg n, //
+juhendaja    juhendaja+0 //_S_ sg n, //
+Annika    Annika+0 //_H_ sg n, //
+Aavik    Aavik+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+filmi    film+0 //_S_ sg g, //
+“    “ //_Z_ //
+Tulek    tulek+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+su    sina+0 //_P_ sg g, //
+saatus    saatus+0 //_S_ sg n, //
+”    ” //_Z_ //
+stsenaristina    stsenarist+na //_S_ sg es, //
+sidus    sidu+s //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+mitme    mitu+0 //_P_ sg g, //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+autoriga    autor+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Filmis    Filmis+0 //_H_ sg n, //
+seob    sidu+b //_V_ b, //
+ta    tema+0 //_P_ sg g, //
+Mait    Mait+0 //_H_ sg n, //
+Agu    Agu+0 //_H_ sg n, //
+,    , //_Z_ //
+Maido    Maido+0 //_H_ sg n, //
+Saare    Saare+0 //_H_ sg g, //
+,    , //_Z_ //
+Marika    Marika+0 //_H_ sg n, //
+Nurmeotsa    Nurmeotsa+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+teiste    teine+te //_O_ pl g, //    teine+te //_P_ pl g, //
+tantsud    tants+d //_S_ pl n, //
+tegevustikuga    tegevustik+ga //_S_ sg kom, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+peategelane    pea_tegelane+0 //_S_ sg n, //
+lahkub    lahku+b //_V_ b, //
+kodust    kodu+st //_S_ sg el, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+hakkab    hakka+b //_V_ b, //
+hiljem    hiljem+0 //_D_ //
+meenutama    meenu+tama //_V_ tama, //    meenuta+ma //_V_ ma, //
+lapsepõlve    lapse_põli+0 //_S_ sg p, //    lapse_põlv+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mõistes    mõist+es //_V_ des, //
+elu    elu+0 //_S_ sg g, //
+väärtusi    väärtus+i //_S_ pl p, //
+ja    ja+0 //_J_ //
+õnne    õnn+0 //_S_ sg p, //
+tagantjärele    tagant_järele+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Tantsupedagoog    tantsu_pedagoog+0 //_S_ sg n, //
+Ilma    ilma+0 //_K_ //
+Adamson    Adamson+0 //_H_ sg n, //
+nentis    nenti+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+võrreldes    võrdle+des //_V_ des, //
+näiteks    näiteks+0 //_D_ //
+tema    tema+0 //_P_ sg g, //
+juhendatavast    juhenda=tav+st //_A_ sg el, //
+tantsuansamblist    tantsu_ansambel+st //_S_ sg el, //
+Sõprus    Sõprus+0 //_H_ sg n, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+kolme    kolm+0 //_N_ sg g, //
+filmiga    film+ga //_S_ sg kom, //
+<TIMEX  tid="t1" type="DURATION" temporalFunction="true" value="PXY" >
+nõukogude    nõu_kogu+de //_S_ pl g, //
+aastail    aasta+il //_S_ pl ad, //
+</TIMEX>
+mõjub    mõju+b //_V_ b, //
+Kungla    Kungla+0 //_H_ sg n, //
+väikese    väike+0 //_A_ sg g, //    väikene+0 //_A_ sg g, //
+rühmaga    rühm+ga //_S_ sg kom, //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+film    film+0 //_S_ sg n, //
+tänapäevaselt    täna_päevaselt+0 //_D_ //
+,    , //_Z_ //
+pakkudes    pakk+des //_S_ pl in, //
+nii    nii+0 //_D_ //
+rahvalikku    rahvalik+0 //_A_ sg p, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+modernset    modernne+t //_A_ sg p, //
+stiili    stiil+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Mulle    mina+lle //_P_ sg all, //
+meeldib    meeldi+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+noor    noor+0 //_A_ sg n, //
+inimene    inimene+0 //_S_ sg n, //
+end    ise+0 //_P_ sg p, //
+otsib    otsi+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Adamson    Adamson+0 //_H_ sg n, //
+pärast    pärast+0 //_K_ //
+filmi    film+0 //_S_ sg p, //
+teistkordset    teist_kordne+t //_A_ sg p, //
+vaatamist    vaatamine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Aavikut    Aavik+t //_H_ sg p, //
+nimetas    nimeta+s //_V_ s, //
+Adamson    Adamson+0 //_H_ sg n, //
+andekaks    andekas+ks //_A_ sg tr, //
+tantsujuhiks    tantsu_juht+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kel    kes+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+veel    veel+0 //_D_ //
+kasvuruumigi    kasvu_ruum+gi //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DURATION" temporalFunction="false" value="PT48M" >
+48-minutilise    48_minutiline+0 //_A_ sg g, //
+</TIMEX>
+filmi    film+0 //_S_ sg g, //
+operaator    operaator+0 //_S_ sg n, //
+Raivo    Raivo+0 //_H_ sg n, //
+Lugima    Lugima+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+enne    enne+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+filmi    film+0 //_S_ sg p, //
+laiemale    laiem+le //_C_ sg all, //
+publikule    publik+le //_S_ sg all, //
+televisioonis    televisioon+s //_S_ sg in, //
+näidata    näita+ta //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+peaks    pida+ks //_V_ ks, //
+tema    tema+0 //_P_ sg g, //
+hinnangul    hinnang+l //_S_ sg ad, //
+filmi    film+0 //_S_ sg p, //
+lühendama    lühenda+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+kompaktsemaks    kompaktsem+ks //_C_ sg tr, //
+tegema    tege+ma //_V_ ma, //
+.    . //_Z_ //
+</s>

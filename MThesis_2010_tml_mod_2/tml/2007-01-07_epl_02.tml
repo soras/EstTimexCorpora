@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-01-07" functionInDocument="CREATION_TIME" comment="(pühapäev)"/>
+Toimetaja : Tuuli Aug 
+ <TIMEX3 tid="t4" type="DATE" value="2007-W02" mod="START" anchorTimeID="t0">Järgmise nädala esimestel päevadel</TIMEX3> on väljas valdavalt plusskraadid , taevas on pilvine ja sageli sajab vihma . 
+ <TIMEX3 tid="t5" type="TIME" value="2007-01-08TNI" anchorTimeID="t4">Ööl vastu esmaspäeva</TIMEX3> pilvisus tiheneb ning <TIMEX3 tid="t6" type="TIME" value="2007-01-08TNI" mod="END" anchorTimeID="t5">hommikupoole ööd</TIMEX3> hakkab alates saartest vihma sadama ja kohati on udu , kirjutab EMHI . 
+ <TIMEX3 tid="t7" type="TIME" value="2007-01-08TDT" anchorTimeID="t6">Päeval</TIMEX3> on pilves ilm , sajab vihma ning sekka võib tulla ka lörtsi . 
+ <TIMEX3 tid="t8" type="TIME" value="2007-01-08TNI" anchorTimeID="t7">Öösel</TIMEX3> on temperatuur kohati nullis , kuid <TIMEX3 tid="t9" type="TIME" value="2007-01-08TDT" anchorTimeID="t8">päeval</TIMEX3> on üle Eesti sooja üks kuni kuus kraadi . 
+ Ka <TIMEX3 tid="t10" type="DATE" value="2007-01-09" anchorTimeID="t5">teisipäev</TIMEX3> on pilvine , õhusooja on sarnaselt <TIMEX3 tid="t11" type="DATE" value="2007-01-08" anchorTimeID="t10">esmaspäevaga</TIMEX3> 1-6 kraadi . 
+ <TIMEX3 tid="t12" type="TIME" value="2007-01-09TNI" anchorTimeID="t10">Öösel</TIMEX3> sajab paljudes kohtades vihma ja lörtsi , <TIMEX3 tid="t13" type="TIME" value="2007-01-09TDT" anchorTimeID="t12">päeval</TIMEX3> kohati vihma . 
+ <TIMEX3 tid="t14" type="DATE" value="2007-01-10" anchorTimeID="t11">Kolmapäev</TIMEX3> on samuti pilvine ja paljudes kohtades sajab vihma , <TIMEX3 tid="t15" type="TIME" value="2007-01-10TDT" anchorTimeID="t14">päeval</TIMEX3> saju võimalus väheneb . 
+ Sooja on veidi rohkem kui <TIMEX3 tid="t16" type="DURATION" value="P2D" mod="APPROX" beginPoint="t42" endPoint="t43" anchorTimeID="t14">paaril eelmisel päeval</TIMEX3><TIMEX3 tid="t42" type="DATE" value="2007-01-08" temporalFunction="true"/><TIMEX3 tid="t43" type="DATE" value="2007-01-09" temporalFunction="true"/> - temperatuurid jäävad 2-7 kraadi vahemikku . 
+ <TIMEX3 tid="t17" type="TIME" value="2007-01-11TNI" anchorTimeID="t14">Neljapäeva öösel</TIMEX3> on taevas pilvine ja mitmel pool sajab enamasti lörtsi ning lund , <TIMEX3 tid="t18" type="TIME" value="2007-01-11TDT" anchorTimeID="t17">päeval</TIMEX3> on pilvi vähem ning saju võimalus väike . 
+ <TIMEX3 tid="t19" type="TIME" value="2007-01-11TNI" anchorTimeID="t18">Öösel</TIMEX3> võib temperatuur langeda kolme miinuskraadini , kuid <TIMEX3 tid="t20" type="TIME" value="2007-01-11TDT" anchorTimeID="t19">päeval</TIMEX3> läheb jälle soojemaks ja kraadiklaas näitab 0-4 soojakraadi . 
+</TimeML>

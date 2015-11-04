@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Toimetaja : Erik Rand 
+ Foto : Rene Suurkaev 
+ Viljandi ühendatud kutsekeskkooli õpilased ehitavad Viiratsisse eramut , mis valmimise järel oksjonil maha müüakse , et saada raha edasise õppetegevuse tarvis . 
+ Kooli ehitusosakonna juht Rein Kalda rääkis , et idee hakata ehitajaid sel viisil õpetama oli ta saanud Soomest , kus seda laialt kasutatakse , kirjutab Sakala . 
+ " See on kõige parem moodus , " kiitis ta , sest õpilased peavad läbi käima kogu kadalipu alates mullatöödest ja lõpetades ukseluku paigaldamisega . 
+ Et iga tulevane spetsialist , olgu ta üldehitaja , keskkonnatehnika lukksepp , ehitusviimistleja või elektrik , tegeleb majaehitusel oma erialaga , saab ühe eramu abil väärt teadmisi sadakond noort . 
+ Ehkki kooli eesmärk pole kinnisvaraarendust põhitegevuseks muuta , ei jää see maja viimaseks . 
+ Heina tänav 6 eramu pannakse oksjonile , et saadava kasumi abil ehitada järgmisi ning plaanide täitumise korral alustatakse <TIMEX3 tid="t16" type="SET" value="P1Y" quant="EVERY">igal aastal</TIMEX3> uut hoonet , nii et iga ehitusala õpilane saaks oma <TIMEX3 tid="t17" type="DURATION" value="P3Y" comment="TODO: kooliaja aasta ei võrdu täpselt tavalise aastaga...">kolmeaastase kooliaja jooksul</TIMEX3> maja otsast lõpuni valmis teha . 
+</TimeML>

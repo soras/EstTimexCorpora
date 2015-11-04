@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-10-19" functionInDocument="CREATION_TIME" comment="(reede)"/>
+ Holger Roonemaa 
+ Aaviksoo : esialgu ei ole kavas <TIMEX3 tid="t37" type="DATE" value="2008" mod="AFTER">pärast 2008. aastat</TIMEX3> Iraagi-missiooni pikendada . 
+ Valitsus kiitis <TIMEX3 tid="t38" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> küll heaks kõigi Eesti välismissioonide <TIMEX3 tid="t39" type="DURATION" value="P1Y">ühe aasta võrra</TIMEX3> pikendamise , kuid kaitseminister Jaak Aaviksoo hinnangul ei pikendata Iraagi missiooni <TIMEX3 tid="t40" type="DATE" value="2008" mod="END" anchorTimeID="t0">järgmise aasta lõpus</TIMEX3> enam uuesti . 
+ " Jagame seisukohta , et sõjaline kohalolek tuleb tasapisi ümber lülitada tsiviilmissiooniks , ja loodame , et need plaanid , mis on tehtud hiljemalt <TIMEX3 tid="t41" type="DATE" value="2009">2009. aastaks</TIMEX3> , peavad ka paika . 
+ Esialgu ei ole Eestil kavatsust <TIMEX3 tid="t42" type="DATE" value="2008" mod="AFTER">pärast 2008. aastat</TIMEX3> missiooni pikendada , " ütles Aaviksoo <TIMEX3 tid="t43" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> valitsuse pressikonverentsil Iraagist rääkides . 
+ Sealse Eesti väekontingendi vähendamist ei ole Aaviksoo sõnul <TIMEX3 tid="t44" type="DATE" value="PRESENT_REF" anchorTimeID="t0">praegu</TIMEX3> kavas . 
+ Opositsioon : lõpetage missioon 
+ Aaviksoo rõhutas <TIMEX3 tid="t45" type="DATE" value="2007-10-18" anchorTimeID="t0">eile</TIMEX3> , et endiselt on Eesti tähtsaim missioon Afganistanis . 
+ " See missioon on mõnes mõttes NATO missioonide proovikivi : kas suudetakse väga keerulise ajaloolise taustaga riigis panustada demokraatia ja vaba turumajanduse ülesehitamisele või mitte , " lausus minister . 
+ Afganistanis on Eestil 130 kaitseväelast . 
+</TimeML>

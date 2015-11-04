@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Kilk ja kultuur 
+Ärimees Rein Kilgile ( <TIMEX3 tid="t396" type="DURATION" value="P53Y" >53</TIMEX3> ) kuulub lisaks turvafirmale , sadamatele , Werolile ja paljudele muudele ettevõtetele ka mitmeid kultuuriobjekte . 
+ Alati , kui Kilk ostab järjekordse muinsuskaitse all oleva hoone , algavad jutud uue kultuurikeskuse rajamisest . 
+ Kui palju ärimehel kultuuriobjekte on , uuris Tiiu Laks . 
+ Ammende villa 
+ <TIMEX3 tid="t397" type="DATE" value="1995" >1995. aastal</TIMEX3> alustasid kaks suurt ärimeest Kilk ja Luik Pärnu mereäärse villa renoveerimistöid . 
+ <TIMEX3 tid="t398" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praeguseks</TIMEX3> ühe kuulsama Eesti villa kordategemisel peeti tugevalt silmas originaalilähedust , rikka kaupmehe perekonna elamumiljöö loomist . 
+ Ehitustööd algasid <TIMEX3 tid="t399" type="DATE" value="1997" >1997. aastal</TIMEX3> ning <TIMEX3 tid="t400" type="DATE" value="1999-09" >1999. aasta septembris</TIMEX3> avati majas 24 toaga hotell ja 80-kohaline restoran . 
+ <TIMEX3 tid="t401" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> korraldatakse Ammende villas kultuuriüritusi , sealhulgas kontserte ja teatrietendusi . 
+ Juba Ammende villa taastamisel tehti koostööd Aivar Roosaarega , kes on teinud kaasa mitmetes Kilgi restaureerimisprojektides . 
+ Roosaar pani <TIMEX3 tid="t402" type="DATE" value="2004" >2004. aastal</TIMEX3> paberile Ammende juurdeehitiste eskiisid , kuid need jäid teostamata . 
+ Tookord viitas Kilk Ammende villa peahoone restaureerimisest tekkinud negatiivsele vastukajale . 
+</TimeML>

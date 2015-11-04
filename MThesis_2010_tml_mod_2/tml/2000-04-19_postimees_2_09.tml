@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2000-04-19" functionInDocument="CREATION_TIME" comment="(Kolmap, W16)" />
+ ARTIKKEL: Proffide vabrik kärpis võimsust 
+ TÕNU KEES , tonu.kees@postimees.ee 
+ <TIMEX3 tid="t95" type="DATE" value="XXXX-XX-XX">Samal ajal</TIMEX3> kui Aavo Pikkuus käivitab uut klubi , ootavad Eesti <TIMEX3 tid="t96" type="DATE" value="PAST_REF" anchorTimeID="t0"  >viimaste aegade</TIMEX3> võimsaima jalgrattakantsi Jõgeva Centrumi eestvedajad paremaid aegu : töö jätkamiseks tippudega puudub raha . 
+ Jõgeva Centrumist on tuule tiibadesse saanud kolm meie proffi - Lauri Aus , Janek Tombak ja Innar Mändoja - , Ag2r'i farmklubist üritab elukutseliste leeri pääseda Erki Pütsep . 
+ " Kah-ju , et klubi on sattunud raskesse seisu , " ütles Aus . 
+ " Sain siit sportlasteeks kõva põhja , <TIMEX3 tid="t98" type="DURATION" value="PXXY">hiilgeaastatel</TIMEX3> töötasid Jõgeva Centrumis Kalev Raudsepp , Allar Tõnissar , Ardi Väljaru ja Mallor Türna . 
+ Noored treenerid oskasid korraldada huvitavaid laagreid , nende juures käisid harjutamas kogu ümbruskonna noored . " 
+ <TIMEX3 tid="t99" type="DATE" value="PAST_REF" anchorTimeID="t0" >Vanade aegade</TIMEX3> mälestuseks ja <TIMEX3 tid="t100" type="DATE" value="FUTURE_REF" comment="rinnastus+ellips" anchorTimeID="t0">uute</TIMEX3> ootuses avas Ausi esimene juhendaja Kalev Raudsepp <TIMEX3 tid="t101" type="DATE" value="2000-04-17" anchorTimeID="t0">esmaspäeval</TIMEX3> Äksi motellis Lauri Ausi sviidi . 
+ Kahe magamistoa ja saunaga hoonet saab Aus <TIMEX3 tid="t102" type="SET" value="P1Y" quant="EVERY">igal aastal</TIMEX3> <TIMEX3 tid="t103" type="DURATION" value="P1W" >ühe nädala</TIMEX3> tasuta kasutada . 
+ Juhul kui ta peaks jõudma MMil või OMil pjedestaalile , on elamine koos söögi ja joogiga <TIMEX3 tid="t104" type="DURATION" value="P1M" >kuuks ajaks</TIMEX3> prii . 
+ " Meie kandis on Lauri legend . 
+ Alati , kui ta kodumaile tuleb , algab väikestel rattapoistel pidu , " ütles Raudsepp . 
+</TimeML>

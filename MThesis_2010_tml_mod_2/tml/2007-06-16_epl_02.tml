@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-06-16" functionInDocument="CREATION_TIME" comment="(laupäev, W24)"/>
+ Liisa Past 
+ Kodanikuühiskonna arendaja Lagle Parek ütleb , et Eesti muutustest pole kaotanud keegi , sest pole midagi enamat kui oma riik ja vabadus . 
+ Kunagine vabadusvõitleja ja tipp-poliitik , <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF" anchorTimeID="t0">nüüd</TIMEX3> Pirita kloostris ning mitmes kodanikeühenduses tegutsev Lagle Parek ütleb , et Eesti muutustest ei ole kaotanud keegi , sest ei ole midagi enamat kui oma riik ja vabadus . 
+ Oled Eesti poliitikaga olnud seotud <TIMEX3 tid="t5" type="DURATION" value="P30Y">30 aastat.</TIMEX3> 
+ Kuidas see on aja jooksul muutunud ? 
+ Sellel ajal , kui poliitika ei toida , vaid toob kaasa repressioone ja ebameeldivusi , ei ole karta , et tegevusse tullakse omakasu pärast , sest reaalselt saadakse ainult kahju , siis tullakse oma ideede ja põhimõtete pärast . 
+ Kui elu läks paremaks , tuli väga kiiresti juurde printsiibituid inimesi . 
+ Aga ega printsiibitu inimene ole paha , ta võib olla väga hea liider , tal on head juhiomadused , mida on tõenäoliselt raskem rakendada , kui inimesel on eetilised tõekspidamised . 
+ Võimu juurde kogunevatele printsiibitutele inimestele ei pea alati halba tegema , kui on korrale kutsuv vastukaal . 
+ Võimu ei saa kuritarvitada , kui seda jälgib aktiivne ja teadlik kodanik . 
+</TimeML>

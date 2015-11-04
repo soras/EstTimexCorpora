@@ -1,0 +1,798 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-03-23TXX:XX" />
+<ignoreeri>
+|
+autor:
+TARVI
+UUSEN
+|
+ajalehenumber:
+Postimees
+1999.03.23
+|
+alaosa:
+Põhileht
+|
+rubriik:
+Sport
+|
+artikkel:
+Liptoni
+turniir
+kogub
+tuure
+|
+</ignoreeri>
+<s>
+Key    Key+0 //_H_ sg n, //
+Biscayne'is    Biscayne+s //_H_ sg in, //
+peetavail    peetav+il //_A_ pl ad, //
+prestiižikail    prestiižikas+il //_A_ pl ad, //
+Liptoni    Lipton+0 //_H_ sg g, //    Liptoni+0 //_H_ sg g, //
+tennisemeistrivõistlustel    tennise_meistri_võistlus+tel //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kolme    kolm+0 //_N_ sg g, //
+ringi    ring+0 //_S_ sg g, //
+järel    järel+0 //_K_ //
+viis    viis+0 //_N_ sg n, //
+esikümnemeest    esi_kümne_mees+t //_S_ sg p, //
+audis    aut+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+naistel    naine+tel //_S_ pl ad, //
+paistab    paist+b //_V_ b, //
+asetus    asetus+0 //_S_ sg n, //
+rohkem    rohkem+0 //_D_ //
+maksvat    maksev+t //_A_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Juba    juba+0 //_D_ //
+<TIMEX  tid="t1" type="DURATION" temporalFunction="true" value="PXM" >
+mitu    mitu+0 //_P_ sg n, //
+kuud    kuu+d //_S_ pl n, //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+meeste    mees+te //_S_ pl g, //
+turniiridele    turniir+dele //_S_ pl all, //
+vürtsi    vürts+0 //_S_ sg g, //
+lisanud    lisa+nud //_V_ nud, //    lisa=nud+0 //_A_ //    lisa=nud+0 //_A_ sg n, //    lisa=nud+d //_A_ pl n, //
+teadmine    teadmine+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+üsna    üsna+0 //_D_ //
+mitmel    mitu+l //_P_ sg ad, //
+tennisistil    tennisist+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+edu    edu+0 //_S_ sg g, //
+korral    korral+0 //_K_ //
+võimalik    võimalik+0 //_A_ sg n, //
+tõusta    tõus+ta //_V_ da, //
+ka    ka+0 //_D_ //
+ATP    ATP+0 //_Y_ ?, //
+edetabelijuhiks    ede_tabeli_juht+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Sama    sama+0 //_P_ sg n, //
+kehtib    kehti+b //_V_ b, //
+ka    ka+0 //_D_ //
+viiendaks    viies+ks //_O_ sg tr, //
+suure    suur+0 //_A_ sg g, //
+slämmi    slämm+0 //_S_ sg g, //
+turniiriks    turniir+ks //_S_ sg tr, //
+kutsutavate    kutsutav+te //_A_ pl g, //
+,    , //_Z_ //
+kõva    kõva+0 //_A_ sg g, //
+kattega    kate+ga //_S_ sg kom, //
+väljakuil    väljak+il //_S_ pl ad, //
+peetavate    peetav+te //_A_ pl g, //
+Liptoni    Lipton+0 //_H_ sg g, //    Liptoni+0 //_H_ sg g, //
+meistrivõistluste    meistri_võistlus+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1999-03-14" >
+Üle-eelmisel    üle-eelmine+l //_A_ sg ad, //
+pühapäeval    püha_päev+l //_S_ sg ad, //
+</TIMEX>
+Indian    Indian+0 //_H_ sg n, //
+Wellsi    Wells+0 //_H_ sg g, //    Wellsi+0 //_H_ sg g, //    Wellss+0 //_H_ sg g, //
+turniiril    turniir+l //_S_ sg ad, //
+paleepöördega    palee_pööre+ga //_S_ sg kom, //
+hakkama    hakka+ma //_V_ ma, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+hispaanlasele    hispaanlane+le //_S_ sg all, //
+Carlos    Carlo+s //_H_ sg in, //
+Moyale    Moya+le //_H_ sg all, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+esimene    esimene+0 //_O_ sg n, //
+turniir    turniir+0 //_S_ sg n, //
+esireketina    esi_reket+na //_S_ sg es, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+aga    aga+0 //_J_ //
+jääda    jää+da //_V_ da, //
+ka    ka+0 //_D_ //
+viimaseks    viimane+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+edu    edu+0 //_S_ sg p, //
+<TIMEX tid="t1_1" type="DATE" temporalFunction="true" value="PRESENT_REF" mod="ON_OR_BEFORE" anchorTimeID="t0" >
+seni    seni+0 //_D_ //
+</TIMEX>
+ATP    ATP+0 //_Y_ ?, //
+tabelit    tabel+t //_S_ sg p, //
+juhtinud    juhti+nud //_V_ nud, //    juhti=nud+0 //_A_ //    juhti=nud+0 //_A_ sg n, //    juhti=nud+d //_A_ pl n, //
+ameeriklase    ameeriklane+0 //_S_ sg g, //
+Pete    Pete+0 //_H_ sg n, //
+Samprase    Sampras+0 //_H_ sg g, //
+ees    ees+0 //_K_ //
+oli    ole+i //_V_ s, //
+turniiri    turniir+0 //_S_ sg g, //
+eel    eel+0 //_K_ //
+vaid    vaid+0 //_D_ //
+37    37+0 //_N_ ?, //
+punkti    punkt+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+neile    tema+le //_P_ pl all, //
+kahele    kaks+le //_N_ sg all, //
+oli    ole+i //_V_ s, //
+shanss    shanss+0 //_S_ sg n, //
+leida    leid+a //_V_ da, //
+oma    oma+0 //_P_ sg g, //
+nimi    nimi+0 //_S_ sg n, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="1999-03-21" anchorTimeID="t2" comment="pole päris selge, millist pühapäeva mõeldakse">
+järgmisel    järgmine+l //_A_ sg ad, //
+esmaspäeval    esmas_päev+l //_S_ sg ad, //
+</TIMEX>
+uue    uus+0 //_A_ sg g, //
+ATP    ATP+0 //_Y_ ?, //
+edetabeli    ede_tabel+0 //_S_ sg g, //
+esirealt    esi_rida+lt //_S_ sg abl, //
+veel    veel+0 //_D_ //
+venelasel    venelane+l //_S_ sg ad, //
+Jevgeni    Jevgeni+0 //_H_ sg n, //
+Kafelnikovil    Kafelnikov+l //_H_ sg ad, //
+,    , //_Z_ //
+hispaanlasel    hispaanlane+l //_S_ sg ad, //
+Alex    Alex+0 //_H_ sg n, //
+Corretjal    Corretja+l //_H_ sg ad, //
+ja    ja+0 //_J_ //
+austraallasel    austraallane+l //_S_ sg ad, //
+Patrick    Patrick+0 //_H_ sg n, //
+Rafteril    Rafter+l //_H_ sg ad, //    Rafteri+l //_H_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Meestel    mees+tel //_S_ pl ad, //
+langevad    lange+vad //_V_ vad, //
+kuulsused    kuulsus+d //_S_ pl n, //
+</s>
+<s>
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="XXXX-WXX-7" >
+Pühapäevaste    Püha_päevane+te //_H_ pl g, //    Pühapäe_vaste+0 //_H_ sg g, //
+</TIMEX>
+matshide    matsh+de //_S_ pl g, //
+järel    järel+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+turniir    turniir+0 //_S_ sg n, //
+kahe    kaks+0 //_N_ sg g, //
+troonitaotleja    trooni_taotleja+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+viie    viis+0 //_N_ sg g, //
+esikümnemehe    esi_kümne_mees+0 //_S_ sg g, //
+võrra    võrra+0 //_K_ //
+vaesem    vaesem+0 //_C_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1999" >
+Tänavu    tänavu+0 //_D_ //
+</TIMEX>
+ebaõnnestunult    eba_õnnestunult+0 //_D_ //
+mängiv    mängiv+0 //_A_ sg n, //
+Rafter    Rafter+0 //_H_ sg n, //
+jäi    jää+i //_V_ s, //
+kahes    kaks+s //_N_ sg in, //
+setis    sett+s //_S_ sg in, //
+alla    alla+0 //_D_ //
+samale    sama+le //_P_ sg all, //
+vastasele    vastane+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kellele    kes+le //_P_ pl all, //    kes+le //_P_ sg all, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+lahtistelgi    lahtine+telgi //_A_ pl ad, //
+,    , //_Z_ //
+sakslasele    sakslane+le //_S_ sg all, //
+Nicolas    Nicolas+0 //_H_ sg n, //
+Kieferile    Kieferile+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Löön    löö+n //_V_ n, //
+palli    pall+0 //_S_ sg g, //
+hästi    hästi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+ga    ga+0 //_Y_ ?, //
+minu    mina+0 //_P_ sg g, //
+löökide    löök+de //_S_ pl g, //
+valik    valik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kohutav    kohutav+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+”    ” //_Z_ //
+ütles    ütle+s //_V_ s, //
+Rafter    Rafter+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1999" >
+tänavu    tänavu+0 //_D_ //
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võitnud    võit+nud //_V_ nud, //    võit=nud+0 //_A_ //    võit=nud+0 //_A_ sg n, //    võit=nud+d //_A_ pl n, //
+vaid    vaid+0 //_D_ //
+viis    viis+0 //_N_ sg n, //
+matshi    matsh+0 //_S_ sg p, //
+kuue    kuus+0 //_N_ sg g, //
+kaotuse    kaotus+0 //_S_ sg g, //
+kõrval    kõrval+0 //_K_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+pole    ole+0 //_V_ neg o, //
+ühelgi    üks+lgi //_N_ sg ad, //    üks+lgi //_P_ sg ad, //
+turniiril    turniir+l //_S_ sg ad, //
+veel    veel+0 //_D_ //
+veerandfinaaligi    veerand_finaal+gi //_S_ sg p, //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+“    “ //_Z_ //
+Pean    pida+n //_V_ n, //
+mängima    mängi+ma //_V_ ma, //
+protsentide    protsent+de //_S_ pl g, //
+tennist    tennis+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t7" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praegu    praegu+0 //_D_ //
+</TIMEX>
+ma    mina+0 //_P_ sg n, //
+seda    see+da //_P_ sg p, //
+ei    ei+0 //_V_ neg, //
+tee    tege+0 //_V_ o, //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+otsustavate    otsustav+te //_A_ pl g, //
+punktide    punkt+de //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+.    . //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Mark    Mark+0 //_H_ sg n, //
+Philippoussise    Philippoussinen+0 //_H_ sg g, //
+<kiil>
+(    ( //_Z_ //
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+kaotus    kaotus+0 //_S_ sg n, //
+venelasele    venelane+le //_S_ sg all, //
+Marat    Marat+0 //_H_ sg n, //
+Safinile    Safinile+0 //_H_ sg g, //
+kahes    kaks+s //_N_ sg in, //
+kiires    kiire+s //_A_ sg in, //
+lõppmängus    lõpp_mäng+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+Moya    Moya+0 //_H_ sg n, //
+võit    võit+0 //_S_ sg n, //
+kolmes    kolm+s //_N_ sg in, //
+setis    sett+s //_S_ sg in, //
+Jason    Jason+0 //_H_ sg n, //
+Stoltenbergi    Stoltenberg+0 //_H_ sg g, //
+üle    üle+0 //_K_ //
+tegi    tege+i //_V_ s, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="1999-03-21" >
+pühapäeva    püha_päev+0 //_S_ sg g, //
+</TIMEX>
+austraallastele    austraallane+tele //_S_ pl all, //
+tõeliselt    tõeliselt+0 //_D_ //
+mustaks    must+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Moyal    Moya+l //_H_ sg ad, //
+polnud    ole+nud //_V_ neg nud, //
+kerge    kerge+0 //_A_ sg n, //
+ka    ka+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+esimeses    esimene+s //_O_ sg in, //
+matshis    matsh+s //_S_ sg in, //
+esireketina    esi_reket+na //_S_ sg es, //
+.    . //_Z_ //
+</s>
+<s>
+Võit    võit+0 //_S_ sg n, //
+itaallase    itaallane+0 //_S_ sg g, //
+Davide    Dav+de //_H_ pl g, //    Davi+de //_H_ pl g, //    Davide+0 //_H_ sg g, //
+Sanguinetti    Sangui_net+0 //_H_ adt, //
+üle    üle+0 //_D_ //
+tuli    tule+i //_V_ s, //
+samuti    samuti+0 //_D_ //
+kolmesetilise    kolme_seti=line+0 //_A_ sg g, //
+mängu    mäng+0 //_S_ sg g, //
+järel    järel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Sampras    Sampras+0 //_H_ sg n, //
+alistas    alista+s //_V_ s, //
+rootslase    rootslane+0 //_S_ sg g, //
+Jonas    Jonas+0 //_H_ sg n, //
+Björkmani    Björkmani+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+neljandasse    neljas+sse //_O_ sg ill, //
+ringi    ring+0 //_S_ adt, //
+jõudsid    jõud+sid //_V_ sid, //
+tippudest    tipp+dest //_S_ pl el, //
+veel    veel+0 //_D_ //
+Corretja    Corretja+0 //_H_ sg n, //
+,    , //_Z_ //
+Richard    Richard+0 //_H_ sg n, //
+Krajicek    Krajicek+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+Holland    Holland+0 //_H_ sg n, //
+,    , //_Z_ //
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+Marcelo    Marcelo+0 //_H_ sg n, //
+Rios    Rios+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+Tshiili    Tshiili+0 //_H_ sg n, //
+,    , //_Z_ //
+8    8+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Välja    välja+0 //_D_ //
+langes    lange+s //_V_ s, //
+aga    aga+0 //_J_ //
+nr.    nr+0 //_Y_ ?, //
+8    8+0 //_N_ ?, //
+,    , //_Z_ //
+britt    britt+0 //_S_ sg n, //
+Tim    Tim+0 //_H_ sg n, //
+Henman    Henman+0 //_H_ sg n, //
+kaotusega    kaotus+ga //_S_ sg kom, //
+prantslasele    prantslane+le //_S_ sg all, //
+Jerome    Jerome+0 //_H_ sg g, //
+Golmard'ile    Golmard+le //_H_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Et    et+0 //_J_ //
+Kafelnikov    Kafelnikov+0 //_H_ sg n, //
+ja    ja+0 //_J_ //
+Andre    Andre+0 //_H_ sg n, //
+Agassi    Agassi+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+USA    USA+0 //_Y_ ?, //
+,    , //_Z_ //
+9    9+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+olid    ole+id //_V_ sid, //
+kaotanud    kaota+nud //_V_ nud, //    kaota=nud+0 //_A_ //    kaota=nud+0 //_A_ sg n, //    kaota=nud+d //_A_ pl n, //
+juba    juba+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+ringis    ring+s //_S_ sg in, //
+peetud    peetu+d //_V_ d, //    peetud+0 //_A_ //    peetud+0 //_A_ sg n, //    peetud+d //_A_ pl n, //    pida+tud //_V_ tud, //
+avamatshid    ava_matsh+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+konkurentsis    konkurents+s //_S_ sg in, //
+veel    veel+0 //_D_ //
+viis    viis+0 //_N_ sg n, //
+esikümnesse    esi_kümme+sse //_S_ sg ill, //
+paigutatud    paiguta+tud //_V_ tud, //    paiguta=tud+0 //_A_ //    paiguta=tud+0 //_A_ sg n, //    paiguta=tud+d //_A_ pl n, //
+meest    mees+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Venelane    venelane+0 //_S_ sg n, //
+jäi    jää+i //_V_ s, //
+alla    alla+0 //_D_ //
+ameeriklasele    ameeriklane+le //_S_ sg all, //
+Vince    Vince+0 //_H_ sg n, //
+Spadeale    Spadeale+0 //_H_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+võitis    võit+is //_V_ s, //
+avageimi    ava_geim+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+oli    ole+i //_V_ s, //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+ees    ees+0 //_K_ //
+juba    juba+0 //_D_ //
+3    3+0 //_N_ ?, //
+:    : //_Z_ //
+0.    0.+0 //_O_ ?, //
+</s>
+<s>
+Naistel    naine+tel //_S_ pl ad, //
+plaanipärasemalt    plaani_pärase=malt+0 //_D_ //
+</s>
+<s>
+Õrnema    Õrnem+0 //_H_ sg g, //    Õrnema+0 //_H_ sg g, //
+soo    soo+0 //_S_ sg g, //    sugu+0 //_S_ sg g, //
+tennisehierarhia    tennise_hierarhia+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kindlamalt    kindlamalt+0 //_D_ //
+paigas    paik+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Kõlavam    kõla=vam+0 //_C_ sg n, //
+nimi    nimi+0 //_S_ sg n, //
+neist    see+st //_P_ pl el, //
+<kiil>
+,    , //_Z_ //
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+pidanud    pida+nud //_V_ nud, //    pida=nud+0 //_A_ //    pida=nud+0 //_A_ sg n, //    pida=nud+d //_A_ pl n, //
+reketid    reket+d //_S_ pl n, //
+kotti    kott+0 //_S_ sg p, //    kott+i //_S_ pl p, //
+panema    pane+ma //_V_ ma, //
+,    , //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kahekordne    kahe_kordne+0 //_A_ sg n, //
+selle    see+0 //_P_ sg g, //
+turniiri    turniir+0 //_S_ sg g, //
+võitja    võitja+0 //_S_ sg g, //
+hispaanlanna    hispaanlanna+0 //_S_ sg n, //
+Aranxta    Aranxta+0 //_H_ sg n, //
+Sanchez-Vicario    Sanchez-Vicario+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+5    5+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+kaotusega    kaotus+ga //_S_ sg kom, //
+teises    teine+s //_O_ sg in, //    teine+s //_P_ sg in, //
+ringis    ringis+0 //_K_ //
+Luksemburgi    Luksemburg+0 //_H_ sg g, //
+tennisistile    tennisist+le //_S_ sg all, //
+Anne    Anne+0 //_H_ sg n, //
+Kremerile    Kremerile+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t10" type="DATE" temporalFunction="true" value="1999-03-21" >
+Pühapäeval    püha_päev+l //_S_ sg ad, //
+</TIMEX>
+jäid    jää+id //_V_ sid, //
+pealtvaatajaiks    pealt_vaataja+iks //_S_ pl tr, //
+ka    ka+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+tugevat    tugev+t //_A_ sg p, //
+prantslannat    prantslanna+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Nathalie    Nathalie+0 //_H_ sg n, //
+Tauziat    Tauziat+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+10    10+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+jäi    jää+i //_V_ s, //
+alla    alla+0 //_D_ //
+Natasha    Natasha+0 //_H_ sg n, //
+Zverevale    Zverevale+0 //_H_ sg g, //
+<kiil>
+(    ( //_Z_ //
+Valgevene    Valge_vene+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t12" type="DATE" temporalFunction="true" value="1999" >
+selle    see+0 //_P_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+komeet    komeet+0 //_S_ sg n, //
+Amelie    Amelie+0 //_H_ sg n, //
+Mauresmo    Mauresmo+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+14    14+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+Jelena    Jelena+0 //_H_ sg g, //
+Lihhovtsevale    Lihhovtsevale+0 //_H_ sg g, //
+<kiil>
+(    ( //_Z_ //
+Venemaa    Vene_maa+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Esireket    esi_reket+0 //_S_ sg n, //
+Martina    Martina+0 //_H_ sg n, //
+Hingis    Hingis+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+Shveits    Shveits+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+teisena    teine+na //_O_ sg es, //    teine+na //_P_ sg es, //
+paigutatud    paiguta+tud //_V_ tud, //    paiguta=tud+0 //_A_ //    paiguta=tud+0 //_A_ sg n, //    paiguta=tud+d //_A_ pl n, //
+Lindsay    Lindsay+0 //_H_ sg n, //
+Davenport    Davenport+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+USA    USA+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+nr.    nr+0 //_Y_ ?, //
+3    3+0 //_N_ ?, //
+Monica    Monica+0 //_H_ sg n, //
+Seles    Seles+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+USA    USA+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+neljandasse    neljas+sse //_O_ sg ill, //
+ringi    ring+0 //_S_ adt, //
+jõudnud    jõud+nud //_V_ nud, //    jõud=nud+0 //_A_ //    jõud=nud+0 //_A_ sg n, //    jõud=nud+d //_A_ pl n, //
+suuremalt    suurem+lt //_C_ sg abl, //
+higistamata    higista+mata //_V_ mata, //
+.    . //_Z_ //
+</s>
+<s>
+Heas    hea+s //_A_ sg in, //
+hoos    hoog+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ka    ka+0 //_D_ //
+Liptoni    Lipton+0 //_H_ sg g, //    Liptoni+0 //_H_ sg g, //
+turniiri    turniir+0 //_S_ sg g, //
+viiekordne    viie_kordne+0 //_A_ sg n, //
+võitja    võitja+0 //_S_ sg n, //
+Steffi    Steffi+0 //_H_ sg n, //
+Graf    Graf+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+7    7+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Sakslanna    sakslanna+0 //_S_ sg n, //
+loovutas    loovuta+s //_V_ s, //
+kolmandas    kolmas+s //_O_ sg in, //
+ringis    ring+s //_S_ sg in, //
+Henrieta    Henrieta+0 //_H_ sg g, //
+Nagyovale    Nagyovale+0 //_H_ sg g, //
+vaid    vaid+0 //_D_ //
+neli    neli+0 //_N_ sg n, //
+geimi    geim+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Liptoni    Lipton+0 //_H_ sg g, //    Liptoni+0 //_H_ sg g, //
+turniir    turniir+0 //_S_ sg n, //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+Nii    Nii+0 //_H_ sg g, //    Nii+0 //_H_ sg n, //    nii+0 //_D_ //
+ATP    ATP+0 //_Y_ ?, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+WTA    WTA+0 //_Y_ ?, //
+ainus    ainus+0 //_A_ sg n, //
+<TIMEX  tid="t14" type="DURATION" temporalFunction="false" value="P11D" >
+11-päevane    11_päevane+0 //_A_ sg n, //
+</TIMEX>
+ja    ja+0 //_J_ //
+96    96+0 //_N_ ?, //
+osavõtjaga    osa_võtja+ga //_S_ sg kom, //
+turniir    turniir+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+tavaliselt    tavaliselt+0 //_D_ //
+kestavad    kest+vad //_V_ vad, //
+turniirid    turniir+d //_S_ pl n, //
+<TIMEX  tid="t15" type="DURATION" temporalFunction="false" value="P1W" >
+nädala    nädal+0 //_S_ sg g, //
+</TIMEX>
+ning    ning+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+32-64    32-64+0 //_N_ ?, //
+osalejaga    osaleja+ga //_S_ sg kom, //
+,    , //_Z_ //
+slämmiturniirid    slämmi_turniir+d //_S_ pl n, //
+<TIMEX  tid="t16" type="DURATION" temporalFunction="false" value="P2W" >
+kaks    kaks+0 //_N_ sg n, //
+nädalat    nädal+t //_S_ sg p, //
+</TIMEX>
+ja    ja+0 //_J_ //
+128    128+0 //_N_ ?, //
+osalejaga    osaleja+ga //_S_ sg kom, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+Nii    Nii+0 //_H_ sg g, //    Nii+0 //_H_ sg n, //    nii+0 //_D_ //
+ATP    ATP+0 //_Y_ ?, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+WTA    WTA+0 //_Y_ ?, //
+ainus    ainus+0 //_A_ sg n, //
+<TIMEX  tid="t17" type="DURATION" temporalFunction="false" value="P11D" >
+11-päevane    11_päevane+0 //_A_ sg n, //
+</TIMEX>
+ja    ja+0 //_J_ //
+96    96+0 //_N_ ?, //
+osavõtjaga    osa_võtja+ga //_S_ sg kom, //
+turniir    turniir+0 //_S_ sg n, //
+<kiil>
+(    ( //_Z_ //
+tavaliselt    tavaliselt+0 //_D_ //
+kestavad    kest+vad //_V_ vad, //
+turniirid    turniir+d //_S_ pl n, //
+<TIMEX  tid="t18" type="DURATION" temporalFunction="false" value="P1W" >
+nädala    nädal+0 //_S_ sg g, //
+</TIMEX>
+ning    ning+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+32-64    32-64+0 //_N_ ?, //
+osalejaga    osaleja+ga //_S_ sg kom, //
+,    , //_Z_ //
+slämmiturniirid    slämmi_turniir+d //_S_ pl n, //
+<TIMEX  tid="t19" type="DURATION" temporalFunction="false" value="P2W" >
+kaks    kaks+0 //_N_ sg n, //
+nädalat    nädal+t //_S_ sg p, //
+</TIMEX>
+ja    ja+0 //_J_ //
+128    128+0 //_N_ ?, //
+osalejaga    osaleja+ga //_S_ sg kom, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+Auhinnaraha    au_hinna_raha+0 //_S_ sg g, //
+kokku    kokku+0 //_D_ //
+4,775    4,775+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+dollarit    dollar+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+sellest    see+st //_P_ sg el, //
+meestel    mees+tel //_S_ pl ad, //
+2,7    2,7+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+naistel    naine+tel //_S_ pl ad, //
+2,075    2,075+0 //_N_ ?, //
+miljonit    miljon+t //_N_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Meeste    mees+te //_S_ pl g, //
+võitja    võitja+0 //_S_ sg n, //
+saab    saa+b //_V_ b, //
+360    360+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+naistel    naine+tel //_S_ pl ad, //
+265    265+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+dollarit    dollar+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+Meeste    Meene+te //_H_ pl g, //    Mees+te //_H_ pl g, //    Meeste+0 //_H_ sg g, //
+esikoht    esi_koht+0 //_S_ sg n, //
+maksab    maks+b //_V_ b, //
+270    270+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+naistel    naine+tel //_S_ pl ad, //
+260    260+0 //_N_ ?, //
+edetabelipunkti    ede_tabeli_punkt+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+<TIMEX  tid="t20" type="DATE" temporalFunction="true" value="1998" >
+Mullu    mullu+0 //_D_ //
+</TIMEX>
+võitsid    võit+sid //_V_ sid, //
+Marcelo    Marcelo+0 //_H_ sg n, //
+Rios    Rios+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+Tshiili    Tshiili+0 //_H_ sg n, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+Venus    Venus+0 //_H_ sg n, //
+Williams    Williams+0 //_H_ sg n, //
+<kiil>
+(    ( //_Z_ //
+USA    USA+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+<TIMEX  tid="t21" type="DATE" temporalFunction="true" value="1999" >
+Tänavusel    tänavune+l //_A_ sg ad, //
+</TIMEX>
+turniiril    turniir+l //_S_ sg ad, //
+osaleb    osale+b //_V_ b, //
+maailma    maa_ilm+0 //_S_ sg g, //
+edetabeli    ede_tabel+0 //_S_ sg g, //
+50    50+0 //_N_ ?, //
+paremast    parem+st //_C_ sg el, //
+48    48+0 //_N_ ?, //
+naist    naine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+47    47+0 //_N_ ?, //
+meest    mees+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+x    x+0 //_Y_ ?, //
+<TIMEX  tid="t22" type="DATE" temporalFunction="true" value="2000" >
+Järgmisest    järgmine+st //_A_ sg el, //
+aastast    aasta+st //_S_ sg el, //
+</TIMEX>
+kannab    kand+b //_V_ b, //
+turniir    turniir+0 //_S_ sg n, //
+uue    uus+0 //_A_ sg g, //
+peasponsori    pea_sponsor+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+Ericssoni    Ericsson+0 //_H_ sg g, //
+nime    nimi+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>

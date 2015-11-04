@@ -1,0 +1,474 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2004-04-21TXX:XX" />
+<ignoreeri>
+|
+autor:
+Kaivo
+Kopli
+|
+ajalehenumber:
+Eesti
+Päevaleht
+21.04.2004
+|
+rubriik:
+Välismaa
+|
+artikkel:
+Putin
+tõstis
+riigiametnike
+palka
+,
+samuti
+enda
+oma
+|
+</ignoreeri>
+<s>
+Teist    teine+t //_O_ sg p, //    teine+t //_P_ sg p, //
+ametiaega    ameti_aeg+0 //_S_ sg p, //
+alustanud    alusta+nud //_V_ nud, //    alusta=nud+0 //_A_ //    alusta=nud+0 //_A_ sg n, //    alusta=nud+d //_A_ pl n, //
+Vene    Vene+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+Vladimir    Vladimir+0 //_H_ sg n, //
+Putin    Putin+0 //_H_ sg n, //
+tegi    tege+i //_V_ s, //
+meelehead    meele_hea+d //_S_ sg p, //
+kõrgematele    kõrgem+tele //_C_ pl all, //
+riigiametnikele    riigi_ametnik+ele //_S_ pl all, //
+,    , //_Z_ //
+<kindel_piir/>
+tõstes    tõst+es //_V_ des, //
+töövõime    töö_võime+0 //_S_ sg g, //
+suurendamisele    suurendamine+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+korruptsiooni    korruptsioon+0 //_S_ sg g, //
+piiramisele    piiramine+le //_S_ sg all, //
+viidates    viita+tes //_V_ des, //
+neil    tema+l //_P_ pl ad, //
+tublisti    tublisti+0 //_D_ //
+palka    palk+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+unustamata    unusta+mata //_V_ mata, //
+ka    ka+0 //_D_ //
+ennast    ise+t //_P_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+;    ; //_Z_ //
+Presidendi    president+0 //_S_ sg g, //
+kuupalk    kuu_palk+0 //_S_ sg n, //
+tõusis    tõus+is //_V_ s, //
+presidendi    president+0 //_S_ sg g, //
+dekreediga    dekreet+ga //_S_ sg kom, //
+peaaegu    pea_aegu+0 //_D_ //
+kaks    kaks+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+5100    5100+0 //_N_ ?, //
+dollarini    dollar+ni //_S_ sg ter, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+ajalehe    aja_leht+0 //_S_ sg g, //
+Vedomosti    Vedomosti+0 //_H_ sg g, //
+andmeil    andmed+il //_S_ pl ad, //
+ligineb    ligine+b //_V_ b, //
+näiteks    näide+ks //_S_ sg tr, //
+Hispaania    Hispaania+0 //_H_ sg g, //
+peaministri    pea_minister+0 //_S_ sg g, //
+palgale    palk+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Briti    Brit+0 //_H_ sg g, //    Briti+0 //_H_ sg g, //    Britt+0 //_H_ sg g, //
+peaministri    pea_minister+0 //_S_ sg g, //
+palgast    palk+st //_S_ sg el, //
+moodustab    moodusta+b //_V_ b, //
+see    see+0 //_P_ sg n, //
+siiski    siiski+0 //_D_ //
+vaid    vaid+0 //_D_ //
+viiendiku    viiendik+0 //_N_ sg g, //
+ja    ja+0 //_J_ //
+USA    USA+0 //_Y_ ?, //
+presidendi    president+0 //_S_ sg g, //
+palgast    palk+st //_S_ sg el, //
+kuuendiku    kuuendik+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Viiekordne    viie_kordne+0 //_A_ sg n, //
+palgatõus    palga_tõus+0 //_S_ sg n, //
+</s>
+<s>
+Vene    Vene+0 //_H_ sg g, //
+peaministri    pea_minister+0 //_S_ sg g, //
+töötasu    töö_tasu+0 //_S_ sg n, //
+kerkis    kerki+s //_V_ s, //
+ligi    ligi+0 //_D_ //
+viis    viis+0 //_N_ sg n, //
+korda    kord+0 //_S_ sg p, //
+,    , //_Z_ //
+4000    4000+0 //_N_ ?, //
+dollarini    dollar+ni //_S_ sg ter, //
+,    , //_Z_ //
+asepeaministril    ase_pea_minister+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+ministritel    minister+tel //_S_ pl ad, //
+3000    3000+0 //_N_ ?, //
+dollarini    dollar+ni //_S_ sg ter, //
+ning    ning+0 //_J_ //
+aseministritel    ase_minister+tel //_S_ pl ad, //
+1500    1500+0 //_N_ ?, //
+dollarini    dollar+ni //_S_ sg ter, //
+.    . //_Z_ //
+</s>
+<s>
+Mõne    mõni+0 //_P_ sg g, //
+ministeeriumi    ministeerium+0 //_S_ sg g, //
+osakonnajuhataja    osakonna_juhataja+0 //_S_ sg n, //
+töötasu    töö_tasu+0 //_S_ sg p, //
+tõusvat    tõus+vat //_V_ vat, //
+koguni    koguni+0 //_D_ //
+12    12+0 //_N_ ?, //
+korda    kord+0 //_S_ sg p, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+palgalisa    palga_lisa+0 //_S_ sg p, //
+said    saa+id //_V_ sid, //
+ka    ka+0 //_D_ //
+35    35+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+alama    alam+0 //_C_ sg g, //
+astme    aste+0 //_S_ sg g, //
+ametnikku    ametnik+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+kel    kes+l //_P_ sg ad, //
+töötasu    töö_tasu+0 //_S_ sg n, //
+tõusis    tõus+is //_V_ s, //
+100-500    100-500+0 //_N_ ?, //
+dollarit    dollar+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Vene    Vene+0 //_H_ sg g, //
+või    või+0 //_J_ //
+pigem    pigem+0 //_D_ //
+küll    küll+0 //_D_ //
+selle    see+0 //_P_ sg g, //
+pea-    pea+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+suurlinnade    suur_linn+de //_S_ pl g, //
+elule    elu+le //_S_ sg all, //
+iseloomulikult    ise_loomuliku=lt+0 //_D_ //
+esitasidki    esita+sidki //_V_ sid, //
+paljud    palju+d //_P_ pl n, //
+meediaväljaanded    meedia_välja_anne+d //_S_ pl n, //
+palganumbrid    palga_number+d //_S_ pl n, //
+dollarites    dollar+tes //_S_ pl in, //
+.    . //_Z_ //
+</s>
+<s>
+Vedomosti    Vedomosti+0 //_H_ sg n, //
+lisab    lisa+b //_V_ b, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+näitena    näide+na //_S_ sg es, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+<TIMEX  tid="t1" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+hakkab    hakka+b //_V_ b, //
+Vene    Vene+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+Eesti    Eesti+0 //_H_ sg g, //
+kolleegist    kolleeg+st //_S_ sg el, //
+rohkem    rohkem+0 //_D_ //
+teenima    teeni+ma //_V_ ma, //
+-    - //_Z_ //
+vastavalt    vastavalt+0 //_K_ //
+61    61+0 //_N_ ?, //
+833    833+0 //_N_ ?, //
+ja    ja+0 //_J_ //
+41    41+0 //_N_ ?, //
+472    472+0 //_N_ ?, //
+dollarit    dollar+t //_S_ sg p, //
+<TIMEX tid="t1_1" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Rubladesse    rubla+desse //_S_ pl ill, //
+arvestatult    arvestatu=lt+0 //_D_ //
+saaks    saa+ks //_V_ ks, //
+Vene    Vene+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+seega    seega+0 //_D_ //
+1    1+0 //_N_ ?, //
+762    762+0 //_N_ ?, //
+236    236+0 //_N_ ?, //
+rubla    rubla+0 //_S_ sg p, //
+<TIMEX tid="t1_2" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Miljonäri    Miljonäri+0 //_H_ sg n, //
+Putinist    Putin+st //_H_ sg el, //
+palgatõusu    palga_tõus+0 //_S_ sg g, //
+tõttu    tõttu+0 //_K_ //
+aga    aga+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+ta    tema+0 //_P_ sg n, //
+juba    juba+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seda    see+da //_P_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Putini    Putin+0 //_H_ sg g, //
+valimiste-eelne    valimis+te-eelne+0 //_A_ sg n, //
+varandusliku    varanduslik+0 //_A_ sg g, //
+seisu    seis+0 //_S_ sg g, //
+deklaratsiooni    deklaratsioon+0 //_S_ sg g, //
+järgi    järgi+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tal    tema+l //_P_ sg ad, //
+vara    vara+0 //_D_ //
+kaheksa    kaheksa+0 //_N_ sg g, //
+miljoni    miljon+0 //_N_ sg g, //
+rubla    rubla+0 //_S_ sg g, //
+ulatuses    ulatus+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Palka    palk+0 //_S_ adt, //
+tõsteti    tõst+ti //_V_ ti, //
+siiski    siiski+0 //_D_ //
+vaid    vaid+0 //_D_ //
+ligikaudu    ligi_kaudu+0 //_D_ //
+kümnel    kümme+l //_N_ sg ad, //
+protsendil    protsent+l //_S_ sg ad, //
+kõigist    kõik+st //_P_ pl el, //
+Vene    Vene+0 //_H_ sg g, //
+riigiteenistujatest    riigi_teenistuja+test //_S_ pl el, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ülejäänute    üle_jäänu+te //_S_ pl g, //
+tasu    tasu+0 //_S_ sg g, //
+kasvust    kasv+st //_S_ sg el, //
+pole    ole+0 //_V_ neg o, //
+midagi    miski+dagi //_P_ sg p, //
+kuulda    kuul+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Sellegipoolest    sellegi_poolest+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegemist    tegemine+t //_S_ sg p, //
+suurima    suurim+0 //_U_ sg g, //
+ametnike    ametnik+e //_S_ pl g, //
+palgatõusuga    palga_tõus+ga //_S_ sg kom, //
+nõukogude    nõu_kogu+de //_S_ pl g, //
+aja    aeg+0 //_S_ sg g, //
+järgsel    järgne+l //_A_ sg ad, //
+Venemaal    Vene_maa+l //_H_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Asepeaminister    Ase_pea_minister+0 //_H_ sg n, //
+Aleksandr    Aleksandr+0 //_H_ sg n, //
+Šukovi    Šukov+0 //_H_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+saadi    saa+di //_V_ ti, //
+raha    raha+0 //_S_ sg g, //
+palgatõusuks    palga_tõus+ks //_S_ sg tr, //
+valitsusvahetuse    valitsus_vahetus+0 //_S_ sg g, //
+käigus    käigus+0 //_K_ //
+tehtud    tege+tud //_V_ tud, //    tehtud+0 //_A_ //    tehtud+0 //_A_ sg n, //    tehtud+d //_A_ pl n, //
+koondamise    koondamine+0 //_S_ sg g, //
+arvel    arvel+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Šukov    Šukov+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+Interfaxile    Interfax+le //_H_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+palgatõus    palga_tõus+0 //_S_ sg n, //
+aitab    aita+b //_V_ b, //
+võidelda    võitle+da //_V_ da, //
+korruptsiooniga    korruptsioon+ga //_S_ sg kom, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+kvalifitseeritud    kvalifitseeri+tud //_V_ tud, //    kvalifitseeri=tud+0 //_A_ //    kvalifitseeri=tud+0 //_A_ sg n, //    kvalifitseeri=tud+d //_A_ pl n, //
+ametnike    ametnik+e //_S_ pl g, //
+valik    valik+0 //_S_ sg n, //
+riigiametitesse    riigi_amet+tesse //_S_ pl ill, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+lihtsam    lihtsam+0 //_C_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+vahe    vahe+0 //_S_ sg g, //
+eraettevõtluses    era_ette_võtlus+s //_S_ sg in, //
+teenituga    teenitud+ga //_A_ sg kom, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väiksem    väiksem+0 //_C_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t0" >
+Varem    varem+0 //_D_ //
+</TIMEX>
+tõsteti    tõst+ti //_V_ ti, //
+palka    palk+0 //_S_ sg p, //
+salaja    salaja+0 //_D_ //
+</s>
+<s>
+"    " //_Z_ //
+Ega    ega+0 //_D_ //
+see    see+0 //_P_ sg n, //
+reform    reform+0 //_S_ sg n, //
+riiklikus    riiklik+s //_A_ sg in, //
+televisioonis    televisioon+s //_S_ sg in, //
+ei    ei+0 //_V_ neg, //
+ilmu    ilmu+0 //_V_ o, //
+ja    ja+0 //_J_ //
+kõvasti    kõvasti+0 //_D_ //
+välja    välja+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+hõigata    hõika+ta //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+Jeltsin    Jeltsin+0 //_H_ sg n, //
+oma    oma+0 //_P_ sg g, //
+palka    palk+0 //_S_ sg p, //
+suurendas    suurenda+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+tegi    tege+i //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+seda    see+da //_P_ sg p, //
+salajase    salajane+0 //_A_ sg g, //
+dekreediga    dekreet+ga //_S_ sg kom, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+uurimiskeskuse    uurimis_keskus+0 //_S_ sg g, //
+Panorama    Panorama+0 //_H_ sg n, //
+juht    juht+0 //_S_ sg n, //
+Vladimir    Vladimir+0 //_H_ sg n, //
+Pribõlovski    Pribõlovski+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+paljudel    palju+del //_P_ pl ad, //
+bürokraatidel    büro_kraat+del //_S_ pl ad, //
+väikese    väike+0 //_A_ sg g, //    väikene+0 //_A_ sg g, //
+palga    palk+0 //_S_ sg g, //
+kompensatsiooniks    kompensatsioon+ks //_S_ sg tr, //
+hulk    hulk+0 //_S_ sg n, //
+privileege    privileeg+e //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Kõrgete    kõrge+te //_A_ pl g, //
+ametnike    ametnik+e //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+näiteks    näiteks+0 //_D_ //
+miljoneid    miljon+id //_N_ pl p, //
+väärt    väärt+0 //_A_ //
+tasuta    tasu+ta //_S_ sg ab, //
+korterid    korter+d //_S_ pl n, //
+,    , //_Z_ //
+autojuhiga    auto_juht+ga //_S_ sg kom, //
+autod    auto+d //_S_ pl n, //
+,    , //_Z_ //
+suvilad    suvila+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Eksminister    eks_minister+0 //_S_ sg n, //
+Jevgeni    Jevgeni+0 //_H_ sg n, //
+Jassin    Jassin+0 //_H_ sg n, //
+privileege    privileeg+e //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+eita    eita+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+kuid    kuid+0 //_J_ //
+peab    pida+b //_V_ b, //
+neid    tema+d //_P_ pl p, //
+väikese    väike+0 //_A_ sg g, //    väikene+0 //_A_ sg g, //
+palga    palk+0 //_S_ sg g, //
+juures    juures+0 //_K_ //
+tähtsusetuks    tähtsusetu+ks //_A_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Aastapalk    aasta_palk+0 //_S_ sg n, //
+dollarites    dollar+tes //_S_ pl in, //
+</s>
+<s>
+-USA    USA+0 //_Y_ ?, //
+president    president+0 //_S_ sg n, //
+-    - //_Z_ //
+400    400+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+</s>
+<s>
+-Briti    britt+0 //_S_ sg g, //
+peaminister    pea_minister+0 //_S_ sg n, //
+-    - //_Z_ //
+291    291+0 //_N_ ?, //
+750    750+0 //_N_ ?, //
+</s>
+<s>
+-Prantsuse    prantsuse+0 //_G_ //
+valitsusliige    valitsus_liige+0 //_S_ sg n, //
+-    - //_Z_ //
+190    190+0 //_N_ ?, //
+810    810+0 //_N_ ?, //
+</s>
+<s>
+-Hispaania    Hispaania+0 //_H_ sg g, //
+peaminister    pea_minister+0 //_S_ sg n, //
+-    - //_Z_ //
+72    72+0 //_N_ ?, //
+000    000+0 //_N_ ?, //
+</s>
+<s>
+-Eesti    Eesti+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+-    - //_Z_ //
+41    41+0 //_N_ ?, //
+472    472+0 //_N_ ?, //
+</s>
+<s>
+Allikas    allikas+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+Vedomosti    Vedomosti+0 //_H_ sg n, //
+</s>

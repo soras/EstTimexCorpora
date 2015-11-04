@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2006-08-12" functionInDocument="CREATION_TIME" comment="% (L) 32. nädal"/>
+ ARTIKKEL: Klimti tööd tagasi saanud juudi pere müüb need maha 
+<TIMEX3 tid="t326" type="DATE" value="2006-06" anchorTimeID="t0">Juunis</TIMEX3> ostis kosmeetikaärimees Ronald Lauder oma New Yorgis asuvale muuseumile Neue Galerie Bloch-Baueri kollektsiooni viiest tööst kõige kuulsama , Adele Bloch-Baueri kuldse portree senikuulmatu 135 miljoni dollari eest . 
+ <TIMEX3 tid="t327" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Nüüdseks</TIMEX3> on selge , et ka ülejäänud neli maali lähevad müüki . 
+ Maalide tagastamisele <TIMEX3 tid="t328" type="DATE" value="2006-SP" anchorTimeID="t0">selle aasta kevadel</TIMEX3> eelnes <TIMEX3 tid="t329" type="DURATION" value="PXY" >aastatepikkune</TIMEX3> kohtuasi , et selgitada , kas nende Gustav Klimti tööde õiguspärane omanik on Viinis elanud juudi ärimehe Ferdinand Bloch-Baueri vennatütar Maria Altmann või Austria riik , kelle valdusesse jõudsid teosed pärast natside poolt konfiskeerimist . 
+ <TIMEX3 tid="t330" type="DATE" value="PRESENT_REF" anchorTimeID="t0">Praegu</TIMEX3> on kõik viis maali näitusel Neue Galeries . 
+ Alates maalide jõudmisest Maria Altmanni valdusesse on Christie ja Sotheby oksjonimajad võistelnud õiguse eest need maha müüa . 
+ <TIMEX3 tid="t331" type="DATE" value="2006-W32" anchorTimeID="t0">Sel nädalal</TIMEX3> teatas Christie , et nad jõudsid kokkuleppele ja maalid müüakse <TIMEX3 tid="t332" type="DATE" value="2006-FA" anchorTimeID="t0">sügisel</TIMEX3> . 
+ Veel pole kindel , kas müük on privaatne või oksjonivormis . 
+ Teoste " Kasemets/pöögimets " ( <TIMEX3 tid="t333" type="DATE" value="1901" >1901</TIMEX3> ) , " Adele Bloch-Bauer II " ( <TIMEX3 tid="t334" type="DATE" value="1912" >1912</TIMEX3> ) , " Õunapuu " ( <TIMEX3 tid="t335" type="DATE" value="1912" >1912</TIMEX3> ) ja " Majad Unterachis Attersee ääres " ( <TIMEX3 tid="t336" type="DATE" value="1916" >1916</TIMEX3> ) koguväärtuseks hinnatakse umbes 100 miljonit dollarit ( üle 1,2 miljardi krooni ) . 
+ Neue Galeries saab pilte näha veel <TIMEX3 tid="t337" type="DATE" value="2006-09-18" anchorTimeID="t0">18. septembrini</TIMEX3> . 
+</TimeML>

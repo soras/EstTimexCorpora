@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-02-01" functionInDocument="CREATION_TIME" comment="(Neljap, W05)"/>
+ Toimetaja : Riina Kallas 
+ <TIMEX3 tid="t97" type="DATE" value="2006-12" mod="END" anchorTimeID="t0">Detsembri lõpu</TIMEX3> seisuga oli Eesti stabiliseerimisreservi maht soetusmaksumuses 5,92 miljardit ja turuväärtuses 5,96 miljardit krooni . 
+ Rahandusministeeriumi teatel oli reservi turuväärtus <TIMEX3 tid="t98" type="DATE" value="2006" mod="END" >2006. aasta lõpuks</TIMEX3> võrreldes <TIMEX3 tid="t99" type="DATE" value="2006-Q3" anchorTimeID="t98">kolmanda kvartaliga</TIMEX3> kasvanud 70,4 miljoni krooni võrra ehk ligikaudu 1,2 protsenti . 
+ <TIMEX3 tid="t100" type="DATE" value="2006" mod="START" >2006. aasta algusega</TIMEX3> võrreldes on reservi turuväärtus kasvanud 430,6 miljonit krooni ehk 7,8 protsenti . 
+ <TIMEX3 tid="t101" type="DATE" value="2006-Q4" anchorTimeID="t0">Eelmise aasta neljandas kvartalis</TIMEX3> oli reservi tulusus 1,08 protsenti . 
+ Reservi realiseeritud kasum moodustab <TIMEX3 tid="t102" type="DATE" value="2006-12" mod="END" >2006. aasta detsembri lõpu</TIMEX3> seisuga 114,5 miljonit krooni ; realiseerimata kasum aga 45,9 miljonit krooni . 
+ Riigieelarvest laekus <TIMEX3 tid="t103" type="DATE" value="2006-Q4" >2006. aasta neljandas kvartalis</TIMEX3> reservi 51,5 miljonit krooni . 
+ <TIMEX3 tid="t104" type="DATE" value="2006-Q4">2006. aasta viimases kvartali jooksul</TIMEX3> mõjutasid rahvusvahelisi raha ja kapitaliturge enim Euroopa keskpanga poolne jätkuv baasintressimäära tõstmine 3,5 protsendi tasemele , toornafta hinna alanemine ja dollari nõrgenemine . 
+</TimeML>

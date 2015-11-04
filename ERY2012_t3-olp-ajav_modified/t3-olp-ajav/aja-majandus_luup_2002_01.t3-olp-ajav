@@ -1,0 +1,1440 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="2002-01-19TXX:XX" />
+<ignoreeri>
+|
+autor:
+Arvi
+Parbo
+|
+ajakirjanumber:
+Luup
+Nr
+.
+1
+(
+140
+)
+,
+jaanuar
+2002
+|
+rubriik:
+MAJANDUS
+|
+artikkel:
+Mida
+võiks
+Austraalialt
+õppida
+?
+|
+</ignoreeri>
+<s>
+PÕLEVKIVITÖÖSTUS    põlev_kivi_tööstus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Austraalia    Austraalia+0 //_H_ sg g, //
+mäetööstuse    mäe_tööstus+0 //_S_ sg g, //
+nestor    nestor+0 //_S_ sg n, //
+Sir    Sir+0 //_H_ sg n, //
+Arvi    Arvi+0 //_H_ sg n, //
+Parbo    Parbo+0 //_H_ sg n, //
+soovitab    soovita+b //_V_ b, //
+maavarade    maa_vara+de //_S_ pl g, //
+majandamisel    majandamine+l //_S_ sg ad, //
+õppida    õppi+da //_V_ da, //
+sealsetest    sealne+test //_A_ pl el, //
+kogemustest    kogemus+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Mune    muna+e //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+tohiks    tohti+ks //_V_ ks, //
+mingil    mingi+l //_P_ sg ad, //
+tingimusel    tingimus+l //_S_ sg ad, //
+ühte    üks+0 //_N_ sg p, //    üks+0 //_P_ sg p, //
+korvi    korv+0 //_S_ sg g, //
+panna    pane+a //_V_ da, //
+ehk    ehk+0 //_J_ //
+anda    and+a //_V_ da, //
+kogu    kogu+0 //_A_ //
+maavara    maa_vara+0 //_S_ sg n, //
+kasutamine    kasutamine+0 //_S_ sg n, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+ettevõtte    ette_võte+0 //_S_ sg g, //
+otsustada    otsusta+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Austraalia    Austraalia+0 //_H_ sg g, //
+riiklikus    riiklik+s //_A_ sg in, //
+ja    ja+0 //_J_ //
+majanduslikus    majanduslik+s //_A_ sg in, //
+arengus    areng+s //_S_ sg in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+maavaradel    maa_vara+del //_S_ pl ad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+alati    alati+0 //_D_ //
+suur    suur+0 //_A_ sg n, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Rääkida    rääki+da //_V_ da, //
+võib    või+b //_V_ b, //
+kahest    kaks+st //_N_ sg el, //
+arenguperioodist    arengu_periood+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Esimene    esimene+0 //_O_ sg n, //
+neist    see+st //_P_ pl el, //
+algas    alga+s //_V_ s, //
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="18" mod="SECOND_HALF" >
+19.    19.+0 //_O_ ?, //
+sajandi    sajand+0 //_S_ sg g, //
+teisel    teine+l //_O_ sg ad, //    teine+l //_P_ sg ad, //
+poolel    pool+l //_N_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Lõuna-Austraalias    Lõuna-Austraalia+s //_H_ sg in, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="false" value="1840" >
+1840.    1840.+0 //_O_ ?, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+avastatud    avasta+tud //_V_ tud, //    avasta=tud+0 //_A_ //    avasta=tud+0 //_A_ sg n, //    avasta=tud+d //_A_ pl n, //
+vasemaardlad    vase_maardla+d //_S_ pl n, //
+hakkasid    hakka+sid //_V_ sid, //
+pikemat    pikem+t //_C_ sg p, //
+aega    aeg+0 //_S_ sg p, //
+rahuldama    rahulda+ma //_V_ ma, //
+kümnendikku    kümnendik+0 //_S_ adt, //
+maailma    maa_ilm+0 //_S_ sg g, //
+vasetarvidusest    vase_tarvidus+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Järgnesid    järgne+sid //_V_ sid, //
+rikkalikud    rikkalik+d //_A_ pl n, //
+kullaleiud    kulla_leid+d //_S_ pl n, //
+New    New+0 //_H_ sg n, //
+South    South+0 //_H_ sg n, //
+Walesis    Wales+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+Viktoorias    Viktooria+s //_H_ sg in, //
+,    , //_Z_ //
+hiljem    hiljem+0 //_D_ //
+Queenslandis    Queensland+s //_H_ sg in, //
+,    , //_Z_ //
+Põhjaterritooriumil    Põhja_territoorium+l //_H_ sg ad, //
+ja    ja+0 //_J_ //
+Lääne-Austraalias    Lääne-Austraalia+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Broken    Broken+0 //_H_ sg n, //
+Hillis    Hillis+0 //_H_ sg n, //
+New    New+0 //_H_ sg n, //
+South    South+0 //_H_ sg n, //
+Walesis    Wales+s //_H_ sg in, //
+avastati    avasta+ti //_V_ ti, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+hakati    hakka+ti //_V_ ti, //
+tootma    toot+ma //_V_ ma, //
+seatina    sea_tina+0 //_S_ sg g, //
+,    , //_Z_ //
+hõbedat    hõbe+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+tsinki    tsink+0 //_S_ sg p, //
+ning    ning+0 //_J_ //
+Tasmaanias    Tasmaania+s //_H_ sg in, //
+asutati    asuta+ti //_V_ ti, //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t2" >
+tolleaegse    tolle_aegne+0 //_A_ sg g, //
+</TIMEX>
+maailma    maa_ilm+0 //_S_ sg g, //
+suurim    suurim+0 //_U_ sg n, //
+inglistina    inglis_tina+0 //_S_ sg n, //
+kaevandus    kaevandu+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+tagajärjel    taga_järg+l //_S_ sg ad, //
+hakkas    hakka+s //_V_ s, //
+rahvaarv    rahva_arv+0 //_S_ sg n, //
+sisserändajate    sisse_rändaja+te //_S_ pl g, //
+arvel    arvel+0 //_K_ //
+kiiresti    kiiresti+0 //_D_ //
+kasvama    kasva+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+asutati    asuta+ti //_V_ ti, //
+suurel    suur+l //_A_ sg ad, //
+hulgal    hulk+l //_S_ sg ad, //
+kaevandustööstusele    kaevandus_tööstus+le //_S_ sg all, //
+vajalikku    vajalik+0 //_A_ sg p, //
+varustust    varustus+t //_S_ sg p, //
+,    , //_Z_ //
+materjale    materjal+e //_S_ pl p, //
+ja    ja+0 //_J_ //
+teenuseid    teenus+id //_S_ pl p, //
+pakkuvaid    pakkuv+id //_A_ pl p, //
+ettevõtteid    ette_võte+id //_S_ pl p, //
+ning    ning+0 //_J_ //
+kodanike    kodanik+e //_S_ pl g, //
+ja    ja+0 //_J_ //
+riigi    riik+0 //_S_ sg g, //
+sissetulekud    sisse_tulek+d //_S_ pl n, //
+tõusid    tõus+id //_V_ sid, //
+järsult    järsult+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t4" type="DURATION" temporalFunction="true" value="P50Y" beginPoint="t2" endPoint="??" >
+Viiekümne    Viiekümne+0 //_H_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+</TIMEX>
+sai    saa+i //_V_ s, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+,    , //_Z_ //
+põllumajandussaaduste    põllu_majandus_saadus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+lambavilla    lamba_vill+0 //_S_ sg g, //    lamba_villa+0 //_S_ sg g, //
+väljaveoga    välja_vedu+ga //_S_ sg kom, //
+üheks    üks+ks //_N_ sg tr, //    üks+ks //_P_ sg tr, //
+rikkamaks    rikkam+ks //_C_ sg tr, //
+maailma    maa_ilm+0 //_S_ sg g, //
+riigiks    riik+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+periood    periood+0 //_S_ sg n, //
+<kiil>
+,    , //_Z_ //
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+uute    uus+te //_A_ pl g, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+avastamise    avastamine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+tootmise    toot=mine+0 //_S_ sg g, //
+tagajärjel    taga_järg+l //_S_ sg ad, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+majanduse    majandus+0 //_S_ sg g, //
+uuele    uus+le //_A_ sg all, //
+tõusule    tõus+le //_S_ sg all, //
+viis    vii+s //_V_ s, //
+,    , //_Z_ //
+</kiil>
+algas    alga+s //_V_ s, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="196" >
+1960.    1960.+0 //_O_ ?, //
+aastatel    aasta+tel //_S_ pl ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Maailmamajanduse    maa_ilma_majandus+0 //_S_ sg g, //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+Saksa    Saks+0 //_H_ sg g, //    Saksa+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Jaapani    Jaapan+0 //_H_ sg g, //
+tööstuse    tööstus+0 //_S_ sg g, //
+kiire    kiire+0 //_A_ sg n, //
+areng    areng+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+tekitanud    tekita+nud //_V_ nud, //    tekita=nud+0 //_A_ //    tekita=nud+0 //_A_ sg n, //    tekita=nud+d //_A_ pl n, //
+tugeva    tugev+0 //_A_ sg g, //
+nõudluse    nõudlus+0 //_S_ sg g, //
+mineraalide    mineraal+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+energia    energia+0 //_S_ sg g, //
+järele    järele+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="PAST_REF" anchorTimeID="t5" >
+Äsja    äsja+0 //_D_ //
+</TIMEX>
+avastatud    avasta+tud //_V_ tud, //    avasta=tud+0 //_A_ //    avasta=tud+0 //_A_ sg n, //    avasta=tud+d //_A_ pl n, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+rauamaagi    raua_maa+gi //_S_ sg g, //    raua_maag+0 //_S_ sg g, //    raua_maak+0 //_S_ sg g, //
+,    , //_Z_ //
+kivisöe    kivi_süsi+0 //_S_ sg g, //
+,    , //_Z_ //
+bauksiidi    bauksiid+0 //_S_ sg g, //    bauksiit+0 //_S_ sg g, //
+,    , //_Z_ //
+nikli    nikkel+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+muude    muu+de //_P_ pl g, //
+mineraalide    mineraal+de //_S_ pl g, //
+maardlad    maardla+d //_S_ pl n, //
+sobisid    sobi+sid //_V_ sid, //
+maailma    maa_ilm+0 //_S_ sg g, //
+isu    isu+0 //_S_ sg g, //
+leevendamiseks    leevendamine+ks //_S_ sg tr, //
+ideaalselt    ideaalselt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Nafta    nafta+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+maagaasi    maa_gaas+0 //_S_ sg g, //
+leiud    leid+d //_S_ pl n, //
+rahuldasid    rahulda+sid //_V_ sid, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+omatarbe    oma_tarve+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+vedeldatud    vedelda+tud //_V_ tud, //    vedelda=tud+0 //_A_ //    vedelda=tud+0 //_A_ sg n, //    vedelda=tud+d //_A_ pl n, //
+kujul    kuju+l //_S_ sg ad, //
+jäi    jää+i //_V_ s, //
+gaasi    gaas+0 //_S_ sg g, //
+üle    üle+0 //_K_ //
+isegi    isegi+0 //_D_ //
+ekspordiks    eksport+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Lühikese    lühike+0 //_A_ sg g, //
+aja    aeg+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+rajati    raja+ti //_V_ ti, //
+Austraalias    Austraalia+s //_H_ sg in, //
+uued    uus+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+suured    suur+d //_A_ pl n, //
+maailmatähtsusega    maa_ilma_tähtsus+ga //_S_ sg kom, //
+tööstused    tööstus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Kuna    kuna+0 //_J_ //
+enamik    enamik+0 //_S_ sg n, //
+maavarasid    maa_vara+sid //_S_ pl p, //
+avastati    avasta+ti //_V_ ti, //
+sisemaal    sise_maa+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+ehitati    ehita+ti //_V_ ti, //
+nende    see+de //_P_ pl g, //
+kaevandamiseks    kaevanda=mine+ks //_S_ sg tr, //
+mitukümmend    mitu_kümmend+0 //_N_ sg n, //
+uut    uus+t //_A_ sg p, //
+asulat    asula+t //_S_ sg p, //
+kogu    kogu+0 //_A_ //
+vajaliku    vajalik+0 //_A_ sg g, //
+infrastruktuuriga    infra_struktuur+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Rajati    raja+ti //_V_ ti, //
+sulatusahjud    sulatus_ahi+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+rafineerimistehased    rafineerimis_tehas+d //_S_ pl n, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ehitati    ehita+ti //_V_ ti, //
+eriotstarbega    eri_ots_tarve+ga //_S_ sg kom, //
+raudteed    raud_tee+d //_S_ pl n, //
+kaevanduspiirkondadest    kaevandus_piirkond+dest //_S_ pl el, //
+sadamatesse    sadam+tesse //_S_ pl ill, //
+.    . //_Z_ //
+</s>
+<s>
+Viimaseid    viimane+id //_A_ pl p, //
+omakorda    oma_korda+0 //_D_ //
+süvendati    süvenda+ti //_V_ ti, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+varustati    varusta+ti //_V_ ti, //
+laevadele    laev+dele //_S_ pl all, //
+sobivate    sobiv+te //_A_ pl g, //
+laadimisseadeldistega    laadimis_seadeldis+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+Austraaliast    Austraalia+st //_H_ sg el, //
+sai    saa+i //_V_ s, //
+maailma    maa_ilm+0 //_S_ sg g, //
+kõige    kõige+0 //_D_ //
+suurem    suurem+0 //_C_ sg n, //
+või    või+0 //_J_ //
+suuruselt    suurus+lt //_S_ sg abl, //
+teine-kolmas    teine-kolmas+0 //_O_ sg n, //
+maavarade    maa_vara+de //_S_ pl g, //
+eksportija    eksportija+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Sellest    see+st //_P_ sg el, //
+ajast    aeg+st //_S_ sg el, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+umbes    umbes+0 //_D_ //
+40%    40%+0 //_N_ ?, //
+oma    oma+0 //_P_ sg g, //
+välisvaluutast    välis_valuuta+st //_S_ sg el, //
+teeninud    teeni+nud //_V_ nud, //    teeni=nud+0 //_A_ //    teeni=nud+0 //_A_ sg n, //    teeni=nud+d //_A_ pl n, //
+mineraaltoodete    mineraal_toode+te //_S_ pl g, //
+väljaveoga    välja_vedu+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+lubas    luba+s //_V_ s, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+soodustas    soodusta+s //_V_ s, //
+sellist    selline+t //_P_ sg p, //
+arengut    areng+t //_S_ sg p, //
+?    ? //_Z_ //
+</s>
+<s>
+Omanik    omanik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+riik    riik+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Austraalias    Austraalia+s //_H_ sg in, //
+kuuluvad    kuulu+vad //_V_ vad, //
+kõik    kõik+0 //_P_ pl n, //    kõik+0 //_P_ sg n, //
+avastatud    avasta+tud //_V_ tud, //    avasta=tud+0 //_A_ //    avasta=tud+0 //_A_ sg n, //    avasta=tud+d //_A_ pl n, //
+maapõuevarad    maa_põue_vara+d //_S_ pl n, //
+osariikidele    osa_riik+dele //_S_ pl all, //
+.    . //_Z_ //
+</s>
+<s>
+Föderaalvalitsusel    föderaal_valitsus+l //_S_ sg ad, //
+pole    ole+0 //_V_ neg o, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+omanikuõigust    omaniku_õigus+t //_S_ sg p, //
+<kiil>
+(    ( //_Z_ //
+välja    välja+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+merealuste    mere_alune+te //_A_ pl g, //
+õli-    õli+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+gaasiväljade    gaasi_väli+de //_S_ pl g, //
+suhtes    suhtes+0 //_K_ //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+kuid    kuid+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+kontrolli    kontroll+0 //_S_ sg g, //
+all    all+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kõikide    kõik+de //_P_ pl g, //
+toodete    toode+te //_S_ pl g, //
+väljavedu    välja_vedu+0 //_S_ sg n, //
+Austraaliast    Austraalia+st //_H_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Kuna    kuna+0 //_J_ //
+siseturg    sise_turg+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+suurte    suur+te //_A_ pl g, //
+kaevanduste    kaevandus+te //_S_ pl g, //
+jaoks    jaoks+0 //_K_ //
+liiga    liiga+0 //_D_ //
+väike    väike+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+otsustab    otsusta+b //_V_ b, //
+föderaalvalitsus    föderaal_valitsus+0 //_S_ sg n, //
+kaevanduste    kaevandus+te //_S_ pl g, //
+rajamise    rajamine+0 //_S_ sg g, //
+ning    ning+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+ning    ning+0 //_J_ //
+millistel    milline+tel //_P_ pl ad, //
+tingimustel    tingimus+tel //_S_ pl ad, //
+võib    või+b //_V_ b, //
+tooteid    toode+id //_S_ pl p, //
+välja    välja+0 //_D_ //
+vedada    veda+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Seda    see+da //_P_ sg p, //
+võimu    võim+0 //_S_ sg p, //
+aga    aga+0 //_J_ //
+kasutatakse    kasuta+takse //_V_ takse, //
+harva    harva+0 //_D_ //
+:    : //_Z_ //
+<kindel_piir/>
+seni    seni+0 //_D_ //
+ainult    ainult+0 //_D_ //
+uraani    uraan+0 //_S_ sg g, //
+suhtes    suhtes+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+riik    riik+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Austraalias    Austraalia+s //_H_ sg in, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+omanik    omanik+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+teostavad    teosta+vad //_V_ vad, //
+nende    tema+de //_P_ pl g, //
+uurimist    uurimine+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+tootmist    tootmine+t //_S_ sg p, //
+ainult    ainult+0 //_D_ //
+erafirmad    era_firma+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Igas    iga+s //_P_ sg in, //
+osariigis    osa_riik+s //_S_ sg in, //
+,    , //_Z_ //
+<kindel_piir/>
+ning    ning+0 //_J_ //
+ka    ka+0 //_D_ //
+föderaalvalitsuses    föderaal_valitsus+s //_S_ sg in, //
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+mineraalide    mineraal+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+energia    energia+0 //_S_ sg g, //
+ministeerium    ministeerium+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+peamine    peamine+0 //_A_ sg n, //
+ülesanne    üles_anne+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+soodustada    soodusta+da //_V_ da, //
+ja    ja+0 //_J_ //
+vastavate    vastav+te //_A_ pl g, //
+seaduste    seadus+te //_S_ pl g, //
+kohaselt    kohaselt+0 //_K_ //
+reguleerida    reguleeri+da //_V_ da, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+uurimist    uurimine+t //_S_ sg p, //
+ning    ning+0 //_J_ //
+tootmist    tootmine+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Osariigid    osa_riik+d //_S_ pl n, //
+annavad    and+vad //_V_ vad, //
+soovijaile    soovija+ile //_S_ pl all, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+uurimiseks    uurimine+ks //_S_ sg tr, //
+kindlaksmääratud    kindla+ks_määra=tud+0 //_A_ //    kindla+ks_määra=tud+0 //_A_ sg n, //    kindla+ks_määra=tud+d //_A_ pl n, //
+alale    ala+le //_S_ sg all, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+ajaks    aeg+ks //_S_ sg tr, //
+ja    ja+0 //_J_ //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+tingimustel    tingimus+tel //_S_ pl ad, //
+ainuõiguse    ainu_õigus+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Tingimuste    tingimus+te //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t7" type="SET" temporalFunction="true" value="P1Y" quant="EVERY" >
+iga-aastane    iga-aastane+0 //_A_ sg n, //
+</TIMEX>
+maks    maks+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+oleneb    olene+b //_V_ b, //
+maa-ala    maa-ala+0 //_S_ sg g, //
+suurusest    suurus+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+regulaarne    regulaarne+0 //_A_ sg n, //
+aruanne    aru_anne+0 //_S_ sg n, //
+töötulemustest    töö_tulemus+test //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+uurimise    uurimine+0 //_S_ sg g, //
+käiguga    käik+ga //_S_ sg kom, //
+ollakse    ole+akse //_V_ takse, //
+rahul    rahul+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+riik    riik+0 //_S_ sg n, //
+õigust    õigus+t //_S_ sg p, //
+pikendada    pikenda+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Tavaliselt    tavaliselt+0 //_D_ //
+antakse    and+takse //_V_ takse, //
+uurimisõigusi    uurimis_õigus+i //_S_ pl p, //
+sooviavalduste    soovi_avaldus+te //_S_ pl g, //
+järjekorras    järje_kord+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Mõnikord    mõni_kord+0 //_D_ //
+,    , //_Z_ //
+eriti    eriti+0 //_D_ //
+naftaväljade    nafta_väli+de //_S_ pl g, //
+uurimisel    uurimine+l //_S_ sg ad, //
+,    , //_Z_ //
+juhtub    juhtu+b //_V_ b, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mitmel    mitu+l //_P_ sg ad, //
+firmal    firma+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+huvi    huvi+0 //_S_ sg p, //
+sama    sama+0 //_P_ sg g, //
+maa-ala    maa-ala+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Sellisel    selline+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+korraldatakse    korralda+takse //_V_ takse, //
+konkurss    konkurss+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+soovijad    soovija+d //_S_ pl n, //
+esitavad    esita+vad //_V_ vad, //
+tähtajaks    täht_aeg+ks //_S_ sg tr, //
+kinnises    kinnine+s //_A_ sg in, //
+ümbrikus    ümbrik+s //_S_ sg in, //
+pakkumised    pakkumine+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kohustavad    kohusta+vad //_V_ vad, //
+kindlaks    kindel+ks //_A_ sg tr, //
+tööprogrammiks    töö_programm+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Edukas    edukas+0 //_A_ sg n, //
+pakkuja    pakkuja+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kelle    kes+0 //_P_ pl g, //    kes+0 //_P_ sg g, //
+programm    programm+0 //_S_ sg n, //
+hinnatakse    hinda+takse //_V_ takse, //
+parimaks    parim+ks //_U_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+uurimine    uurimine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+edukas    edukas+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+maapõuevara    maa_põue_vara+0 //_S_ sg g, //
+leidjal    leidja+l //_S_ sg ad, //
+selle    see+0 //_P_ sg g, //
+tootmiseks    toot=mine+ks //_S_ sg tr, //
+esmaõigus    esma_õigus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Väiksemate    väiksem+te //_C_ pl g, //
+leidude    leid+de //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+toimub    toimu+b //_V_ b, //
+see    see+0 //_P_ sg n, //
+seaduses    seadus+s //_S_ sg in, //
+ette    ette+0 //_D_ //
+nähtud    näge+tud //_V_ tud, //    nähtu+d //_V_ d, //    nähtud+0 //_A_ //    nähtud+0 //_A_ sg n, //    nähtud+d //_A_ pl n, //
+üldiste    üldine+te //_A_ pl g, //
+reeglite    reegel+te //_S_ pl g, //
+kohaselt    kohaselt+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Suuremate    suurem+te //_C_ pl g, //
+leidude    leid+de //_S_ pl g, //
+puhul    puhul+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+vajalikud    vajalik+d //_A_ pl n, //
+seadmed    seade+d //_S_ pl n, //
+nõuavad    nõud+vad //_V_ vad, //
+sadade    sada+de //_N_ pl g, //
+miljonite    miljon+te //_N_ pl g, //
+ja    ja+0 //_J_ //
+vahel    vahel+0 //_K_ //
+mitme    mitu+0 //_P_ sg g, //
+miljardi    miljard+0 //_N_ sg g, //
+dollari    dollar+0 //_S_ sg g, //
+suurust    suurune+t //_A_ sg p, //
+investeeringut    investeering+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+sõlmitakse    sõlmi+takse //_V_ takse, //
+kaevandusfirma    kaevandus_firma+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+valitsuse    valitsus+0 //_S_ sg g, //
+vahel    vahel+0 //_K_ //
+eraldi    eraldi+0 //_A_ //
+leping    leping+0 //_S_ sg n, //
+vastastikuste    vastastikune+te //_A_ pl g, //
+kohustuste    kohustus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+õiguste    õigus+te //_S_ pl g, //
+kohta    kohta+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+kinnitab    kinnita+b //_V_ b, //
+parlament    parlament+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tootja    tootja+0 //_S_ sg g, //
+kohustuste    kohustus+te //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t9" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+tänapäeval    täna_päev+l //_S_ sg ad, //
+</TIMEX>
+üksikasjalikult    üksik_asjalikult+0 //_D_ //
+ette    ette+0 //_D_ //
+nähtud    näge+tud //_V_ tud, //    nähtu+d //_V_ d, //    nähtud+0 //_A_ //    nähtud+0 //_A_ sg n, //    nähtud+d //_A_ pl n, //
+keskkonna    keskkond+0 //_S_ sg g, //
+taastamise    taastamine+0 //_S_ sg g, //
+plaani    plaan+0 //_S_ sg g, //
+täitmine    täitmine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Mõlemal    mõlema+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+maksavad    maks+vad //_V_ vad, //
+tootjad    tootja+d //_S_ pl n, //
+olenevalt    olenevalt+0 //_D_ //
+tootmisõiguse    tootmis_õigus+0 //_S_ sg g, //
+pindalast    pind_ala+st //_S_ sg el, //
+riigile    riik+le //_S_ sg all, //
+<TIMEX  tid="t10" type="SET" temporalFunction="true" value="P1Y" quant="EVERY" >
+iga-aastaseid    iga-aastane+id //_A_ pl p, //
+</TIMEX>
+makse    maks+e //_S_ pl p, //
+,    , //_Z_ //
+peale    peale+0 //_K_ //
+selle    see+0 //_P_ sg g, //
+ka    ka+0 //_D_ //
+kindlaksmääratud    kindla+ks_määra=tud+0 //_A_ //    kindla+ks_määra=tud+0 //_A_ sg n, //    kindla+ks_määra=tud+d //_A_ pl n, //
+protsendi    protsent+0 //_S_ sg g, //
+toodetud    toode=tud+0 //_A_ //    toode=tud+0 //_A_ sg n, //    toode=tud+d //_A_ pl n, //    toot+tud //_V_ tud, //
+mineraalide    mineraal+de //_S_ pl g, //
+turuhinnast    turu_hind+st //_S_ sg el, //
+<kiil>
+(    ( //_Z_ //
+niinimetatud    nii_nimetatud+0 //_D_ //
+royalty    royalty+0 //_S_ sg n, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Vahel    vahel+0 //_D_ //
+pole    ole+0 //_V_ neg o, //
+selge    selge+0 //_A_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+maapõuevara    maa_põue_vara+0 //_S_ sg g, //
+kasutamine    kasutamine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+võimalik    võimalik+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Küsimusi    küsimus+i //_S_ pl p, //
+võib    või+b //_V_ b, //
+olla    ole+a //_V_ da, //
+tehnoloogia    tehnoloogia+0 //_S_ sg g, //
+või    või+0 //_J_ //
+turustamise    turustamine+0 //_S_ sg g, //
+osas    osas+0 //_K_ //
+või    või+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+vaja    vaja+0 //_D_ //
+leida    leid+a //_V_ da, //
+partnereid    partner+id //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+aitaks    aita+ks //_V_ ks, //
+riski    risk+0 //_S_ sg g, //
+vähendada    vähenda+da //_V_ da, //
+ja    ja+0 //_J_ //
+tuua    too+a //_V_ da, //
+juurde    juurde+0 //_D_ //
+vajalikku    vajalik+0 //_A_ sg p, //
+kapitali    kapital+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Sellisel    selline+l //_P_ sg ad, //
+juhul    juht+l //_S_ sg ad, //
+võidakse    või+dakse //_V_ takse, //
+tootmisõigus    tootmis_õigus+0 //_S_ sg n, //
+anda    and+a //_V_ da, //
+tingimuslikult    tingimus=likult+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_D_ //    kui+0 //_J_ //
+suudetakse    suut+takse //_V_ takse, //
+probleemid    probleem+d //_S_ pl n, //
+lahendada    lahenda+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+võib    või+b //_V_ b, //
+projekt    projekt+0 //_S_ sg n, //
+teostuda    teostu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Riik    riik+0 //_S_ sg n, //
+aga    aga+0 //_J_ //
+jääb    jää+b //_V_ b, //
+alati    alati+0 //_D_ //
+maapõuevara    maa_põue_vara+0 //_S_ sg g, //
+omanikuks    omanik+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Tootja    tootja+0 //_S_ sg n, //
+saab    saa+b //_V_ b, //
+teatud    tead+tud //_V_ tud, //    teatud+0 //_A_ //    teatud+0 //_A_ sg n, //    teatud+d //_A_ pl n, //
+ajaks    aeg+ks //_S_ sg tr, //
+tootmisõiguse    tootmis_õigus+0 //_S_ sg g, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+riik    riik+0 //_S_ sg n, //
+võib    või+b //_V_ b, //
+pikendada    pikenda+da //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tegevusega    tegevus+ga //_S_ sg kom, //
+rahul    rahul+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Tootmisõigust    tootmis_õigus+t //_S_ sg p, //
+võib    või+b //_V_ b, //
+riigi    riik+0 //_S_ sg g, //
+loaga    luba+ga //_S_ sg kom, //    luga+ga //_S_ sg kom, //
+selle    see+0 //_P_ sg g, //
+kestusel    kestus+l //_S_ sg ad, //
+müüa    müü+a //_V_ da, //
+või    või+0 //_J_ //
+muul    muu+l //_P_ sg ad, //
+viisil    viis+l //_S_ sg ad, //
+edasi    edasi+0 //_D_ //
+anda    and+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Omanikuõigust    omaniku_õigus+t //_S_ sg p, //
+aga    aga+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+saa    saa+0 //_V_ o, //
+osta    ost+a //_V_ da, //
+ega    ega+0 //_J_ //
+müüa    müü+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Sellise    selline+0 //_P_ sg g, //
+süsteemi    süsteem+0 //_S_ sg g, //
+põhimõte    põhi_mõte+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+maapõuevarad    maa_põue_vara+d //_S_ pl n, //
+peavad    pida+vad //_V_ vad, //
+tooma    too+ma //_V_ ma, //
+kasu    kasu+0 //_S_ sg p, //
+ühiskonnale    ühiskond+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+ilma    ilma+0 //_D_ //
+et    et+0 //_J_ //
+ühiskond    ühiskond+0 //_S_ sg n, //
+kannataks    kannata+ks //_V_ ks, //
+.    . //_Z_ //
+</s>
+<s>
+Riik    riik+0 //_S_ sg n, //
+omanikuna    omanik+na //_S_ sg es, //
+kasutab    kasuta+b //_V_ b, //
+eraettevõtjaid    era_ette_võtja+id //_S_ pl p, //
+nende    see+de //_P_ pl g, //
+riisikol    riisiko+l //_S_ sg ad, //
+nii    nii+0 //_D_ //
+riskantseks    riskantne+ks //_A_ sg tr, //
+uurimistegevuseks    uurimis_tegevus+ks //_S_ sg tr, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+järgnevaks    järgnev+ks //_A_ sg tr, //
+tootmiseks    toot=mine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Nii    nii+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+riski    riski+0 //_V_ o, //
+riik    riik+0 //_S_ sg n, //
+oma    oma+0 //_P_ sg g, //
+sissetulekutega    sisse_tulek+tega //_S_ pl kom, //
+ega    ega+0 //_J_ //
+<kindel_piir/>
+pea    pida+0 //_V_ o, //
+investeerima    investeeri+ma //_V_ ma, //
+,    , //_Z_ //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+uurimise    uurimine+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+tootmisega    toot=mine+ga //_S_ sg kom, //
+aga    aga+0 //_J_ //
+tegelevad    tegele+vad //_V_ vad, //
+nende    see+de //_P_ pl g, //
+alade    ala+de //_S_ pl g, //
+parimad    parim+d //_U_ pl n, //
+spetsialistid    spetsialist+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Riik    riik+0 //_S_ sg n, //
+saab    saa+b //_V_ b, //
+otsest    otsene+t //_A_ sg p, //
+sissetulekut    sisse_tulek+t //_S_ sg p, //
+uurimis-    uurimis //_S_ ?, //
+ja    ja+0 //_J_ //
+tootmisõiguste    tootmis_õigus+te //_S_ pl g, //
+maksude    maks+de //_S_ pl g, //
+,    , //_Z_ //
+royalty    royalty+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+tootja    tootja+0 //_S_ sg n, //
+tasutava    tasu=tav+0 //_A_ sg g, //
+tulumaksu    tulu_maks+0 //_S_ sg g, //
+kaudu    kaudu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Tootja    tootja+0 //_S_ sg g, //
+kasum    kasum+0 //_S_ sg n, //
+pärast    pärast+0 //_K_ //
+kõikide    kõik+de //_P_ pl g, //
+maksude    maks+de //_S_ pl g, //
+<kiil>
+(    ( //_Z_ //
+kaasa    kaasa+0 //_D_ //
+arvatud    arva+tud //_V_ tud, //    arva=tud+0 //_A_ //    arva=tud+0 //_A_ sg n, //    arva=tud+d //_A_ pl n, //
+tulumaksu    tulu_maks+0 //_S_ sg p, //
+)    ) //_Z_ //
+</kiil>
+ja    ja+0 //_J_ //
+tootmiskulude    tootmis_kulu+de //_S_ pl g, //
+katmist    katmine+t //_S_ sg p, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tavaliselt    tavaliselt+0 //_D_ //
+umbes    umbes+0 //_D_ //
+15%    15%+0 //_N_ ?, //
+omanike    omanik+e //_S_ pl g, //
+investeeritud    investeeri+tud //_V_ tud, //    investeeri=tud+0 //_A_ //    investeeri=tud+0 //_A_ sg n, //    investeeri=tud+d //_A_ pl n, //
+kapitalist    kapital+st //_S_ sg el, //
+<TIMEX  tid="t1_1" type="SET" temporalFunction="true" value="P1Y" >
+aastas    aasta+s //_S_ sg in, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+aga    aga+0 //_J_ //
+murdosa    murd_osa+0 //_S_ sg n, //
+toodetud    toode=tud+0 //_A_ //    toode=tud+0 //_A_ sg n, //    toode=tud+d //_A_ pl n, //    toot+tud //_V_ tud, //
+mineraalide    mineraal+de //_S_ pl g, //
+turuväärtusest    turu_väärtus+st //_S_ sg el, //
+.    . //_Z_ //
+</s>
+<s>
+Suurem    suurem+0 //_C_ sg n, //
+osa    osa+0 //_S_ sg n, //
+väärtusest    väärtus+st //_S_ sg el, //
+voolab    voola+b //_V_ b, //
+ühiskonda    ühiskond+0 //_S_ sg p, //
+palkade    palk+de //_S_ pl g, //
+,    , //_Z_ //
+varustuse    varustus+0 //_S_ sg g, //
+,    , //_Z_ //
+materjalide    materjal+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+teenistuste    teenistus+te //_S_ pl g, //
+kulude    kulu+de //_S_ pl g, //
+näol    näol+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Peale    peale+0 //_K_ //
+otsese    otsene+0 //_A_ sg g, //
+sissetuleku    sisse_tulek+0 //_S_ sg g, //
+saab    saa+b //_V_ b, //
+riik    riik+0 //_S_ sg n, //
+osa    osa+0 //_S_ sg p, //
+ka    ka+0 //_D_ //
+sellest    see+st //_P_ sg el, //
+väärtusest    väärtus+st //_S_ sg el, //
+tulumaksude    tulu_maks+de //_S_ pl g, //
+ja    ja+0 //_J_ //
+muude    muu+de //_P_ pl g, //
+maksude    maks+de //_S_ pl g, //
+kaudu    kaudu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+võiks    või+ks //_V_ ks, //
+Austraalialt    Austraalia+lt //_H_ sg abl, //
+õppida    õppi+da //_V_ da, //
+?    ? //_Z_ //
+</s>
+<s>
+Austraalia    Austraalia+0 //_H_ sg g, //
+<TIMEX  tid="t11" type="DURATION" temporalFunction="false" value="P160Y" >
+160-aastased    160_aastane+d //_A_ pl n, //
+</TIMEX>
+kogemused    kogemus+d //_S_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+näidanud    näida=nud+0 //_A_ //    näida=nud+0 //_A_ sg n, //    näida=nud+d //_A_ pl n, //    näita+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+niisugune    nii_sugune+0 //_P_ sg n, //
+süsteem    süsteem+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väga    väga+0 //_D_ //
+edukas    edukas+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Pole    ole+0 //_V_ neg o, //
+kahtlust    kahtlus+t //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mäetööstuseta    mäe_tööstus+ta //_S_ sg ab, //
+oleks    ole+ks //_V_ ks, //
+austraallaste    austraallane+te //_S_ pl g, //
+elatustase    elatus_tase+0 //_S_ sg n, //
+tunduvalt    tunduvalt+0 //_D_ //
+madalam    madalam+0 //_C_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+uurimine    uurimine+0 //_S_ sg n, //
+ning    ning+0 //_J_ //
+tootmine    tootmine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+samas    samas+0 //_D_ //
+tugevalt    tugevalt+0 //_D_ //
+õhutanud    õhuta+nud //_V_ nud, //    õhuta=nud+0 //_A_ //    õhuta=nud+0 //_A_ sg n, //    õhuta=nud+d //_A_ pl n, //
+ja    ja+0 //_J_ //
+toetanud    toeta+nud //_V_ nud, //    toeta=nud+0 //_A_ //    toeta=nud+0 //_A_ sg n, //    toeta=nud+d //_A_ pl n, //
+muude    muu+de //_P_ pl g, //
+tööstusharude    tööstus_haru+de //_S_ pl g, //
+ning    ning+0 //_J_ //
+majanduse    majandus+0 //_S_ sg g, //
+arengut    areng+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Loomulikult    loomulikult+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Austraalia    Austraalia+0 //_H_ sg g, //
+huvides    huvi+des //_S_ pl in, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+eksporditavad    ekspordi=tav+d //_A_ pl n, //
+maavarad    maa_vara+d //_S_ pl n, //
+oleks    ole+ks //_V_ ks, //
+võimalikult    võimalikult+0 //_D_ //
+kõrgväärtuslikud    kõrg_väärtuslik+d //_A_ pl n, //
+:    : //_Z_ //
+<kindel_piir/>
+näiteks    näide+ks //_S_ sg tr, //
+metallid    metall+d //_S_ pl n, //
+mitte    mitte+0 //_D_ //
+maakide    maak+de //_S_ pl g, //
+,    , //_Z_ //
+vaid    vaid+0 //_D_ //
+rafineeritud    rafineeri+tud //_V_ tud, //    rafineeritud+0 //_A_ //    rafineeritud+0 //_A_ sg n, //    rafineeritud+d //_A_ pl n, //
+metallidena    metall+dena //_S_ pl es, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+tihti    tihti+0 //_D_ //
+nii    nii+0 //_D_ //
+kapitali    kapital+0 //_S_ sg g, //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+ka    ka+0 //_D_ //
+turustamise    turustamine+0 //_S_ sg g, //
+võimaluste    võimalus+te //_S_ pl g, //
+küsimus    küsimus+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+praktilise    praktiline+0 //_A_ sg g, //
+lahendusena    lahendus+na //_S_ sg es, //
+võidakse    või+dakse //_V_ takse, //
+samal    sama+l //_P_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+müüa    müü+a //_V_ da, //
+mitut    mitu+t //_P_ sg p, //
+produkti    produkt+0 //_S_ sg p, //
+:    : //_Z_ //
+<kindel_piir/>
+näiteks    näide+ks //_S_ sg tr, //
+rikastatud    rikasta+tud //_V_ tud, //    rikasta=tud+0 //_A_ //    rikasta=tud+0 //_A_ sg n, //    rikasta=tud+d //_A_ pl n, //
+maagikontsentraati    maagi_kontsentraat+0 //_S_ sg p, //
+,    , //_Z_ //
+sulatusahju    sulatus_ahi+0 //_S_ sg g, //
+matti    matt+0 //_S_ adt, //
+ja    ja+0 //_J_ //
+rafineeritud    rafineeri+tud //_V_ tud, //    rafineeritud+0 //_A_ //    rafineeritud+0 //_A_ sg n, //    rafineeritud+d //_A_ pl n, //
+metalli    metall+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Kõrgema    kõrgem+0 //_C_ sg g, //
+väärtusega    väärtus+ga //_S_ sg kom, //
+produktide    produkt+de //_S_ pl g, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+suureneb    suurene+b //_V_ b, //
+tavaliselt    tavaliselt+0 //_D_ //
+aja    aeg+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Erandiks    erand+ks //_S_ sg tr, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+seni    seni+0 //_D_ //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+vaid    vaid+0 //_D_ //
+rauamaak    raua_maak+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+koksisüsi    koksi_süsi+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Paljud    palju+d //_P_ pl n, //
+uuringud    uuring+d //_S_ pl n, //
+kinnitavad    kinnita+vad //_V_ vad, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ulatusliku    ulatuslik+0 //_A_ sg g, //
+terasetööstuse    terase_tööstus+0 //_S_ sg g, //
+loomine    loomine+0 //_S_ sg n, //
+pole    ole+0 //_V_ neg o, //
+Austraalias    Austraalia+s //_H_ sg in, //
+maailmaturu    maa_ilma_turg+0 //_S_ sg g, //
+<TIMEX  tid="t13" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegustes    praegune+tes //_A_ pl in, //
+</TIMEX>
+oludes    olu+des //_S_ pl in, //
+õigustatud    õigusta+tud //_V_ tud, //    õigustatud+0 //_A_ //    õigustatud+0 //_A_ sg n, //    õigustatud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t1_2" type="DURATION" temporalFunction="true" value="PXXY" beginPoint="t1_3" endPoint="t0" >
+Viimaste    viimane+te //_A_ pl g, //
+aastakümnete    aasta_kümme+te //_S_ pl g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX tid="t1_3" type="DATE" temporalFunction="true" value="XXX" />
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kaevandamisel    kaevanda=mine+l //_S_ sg ad, //
+osutatud    osuta+tud //_V_ tud, //    osuta=tud+0 //_A_ //    osuta=tud+0 //_A_ sg n, //    osuta=tud+d //_A_ pl n, //
+suurt    suur+t //_A_ sg p, //
+tähelepanu    tähele_panu+0 //_S_ sg p, //
+keskkonna    keskkond+0 //_S_ sg g, //
+eest    eest+0 //_K_ //
+hoolitsemisele    hoolitsemine+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+selle    see+0 //_P_ sg g, //
+taastamisele    taastamine+le //_S_ sg all, //
+.    . //_Z_ //
+</s>
+<s>
+Hästi    hästi+0 //_D_ //
+tuntud    tund+tud //_V_ tud, //    tuntud+0 //_A_ //    tuntud+0 //_A_ sg n, //    tuntud+d //_A_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+<TIMEX  tid="t14" type="DURATION" temporalFunction="false" value="P40Y" >
+nelikümmend    neli_kümmend+0 //_N_ sg n, //
+aastat    aasta+t //_S_ sg p, //
+</TIMEX>
+kestnud    kest+nud //_V_ nud, //    kest=nud+0 //_A_ //    kest=nud+0 //_A_ sg n, //    kest=nud+d //_A_ pl n, //
+boksiidi    boksiit+0 //_S_ sg g, //
+kaevandamine    kaevanda=mine+0 //_S_ sg n, //
+Lääne-Austraalia    Lääne-Austraalia+0 //_H_ sg g, //
+pealinna    pea_linn+0 //_S_ adt, //
+Perthi    Perth+0 //_H_ sg g, //    Perthi+0 //_H_ sg g, //
+lähistel    lähistel+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+asub    asu+b //_V_ b, //
+maailma    maa_ilm+0 //_S_ sg g, //
+suurim    suurim+0 //_U_ sg n, //
+alumiiniumoksiidi    alumiinium_oksiid+0 //_S_ sg g, //
+tootja    tootja+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Boksiit    boksiit+0 //_S_ sg n, //
+esineb    esine+b //_V_ b, //
+kuni    kuni+0 //_K_ //
+kümne    kümme+0 //_N_ sg g, //
+meetri    meeter+0 //_S_ sg g, //
+paksuste    paksus+te //_S_ pl g, //
+kihtidena    kiht+dena //_S_ pl es, //
+peaaegu    pea_aegu+0 //_D_ //
+maapinnal    maa_pind+l //_S_ sg ad, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kaetud    kae+tud //_V_ tud, //    kaetud+0 //_A_ //    kaetud+0 //_A_ sg n, //    kaetud+d //_A_ pl n, //    kat+tud //_V_ tud, //
+ainulaadse    ainu_laadne+0 //_A_ sg g, //
+metsaga    mets+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Osa    osa+0 //_S_ sg n, //
+sealsest    sealne+st //_A_ sg el, //
+maardlast    maardla+st //_S_ sg el, //
+asub    asu+b //_V_ b, //
+linna    linn+0 //_S_ sg g, //
+veehoidlate    vee_hoidla+te //_S_ pl g, //
+valgalal    valg_ala+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Kaevandusfirma    kaevandus_firma+0 //_S_ sg n, //
+taastab    taasta+b //_V_ b, //
+pärast    pärast+0 //_K_ //
+boksiidi    boksiit+0 //_S_ sg g, //
+eemaldamist    eemaldamine+t //_S_ sg p, //
+pealispinna    pealis_pind+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+istutab    istuta+b //_V_ b, //
+metsa    mets+0 //_S_ sg g, //
+tagasi    tagasi+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Niisiis    nii_siis+0 //_D_ //
+kasutatakse    kasuta+takse //_V_ takse, //
+seda    see+da //_P_ sg p, //
+maa-ala    maa-ala+0 //_S_ sg p, //
+ainult    ainult+0 //_D_ //
+ajutiselt    ajutiselt+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+hiljem    hiljem+0 //_D_ //
+läheb    mine+b //_V_ b, //
+ta    tema+0 //_P_ sg n, //
+taas    taas+0 //_D_ //
+ühiskonna    ühiskond+0 //_S_ sg g, //
+käsutusse    käsutus+se //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ sg g, //
+kaevandusfirma    kaevandus_firma+0 //_S_ sg g, //
+arendatud    arenda+tud //_V_ tud, //    arenda=tud+0 //_A_ //    arenda=tud+0 //_A_ sg n, //    arenda=tud+d //_A_ pl n, //
+meetodeid    meetod+id //_S_ pl p, //
+kasutatakse    kasuta+takse //_V_ takse, //
+<TIMEX  tid="t15" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+nüüd    nüüd+0 //_D_ //
+</TIMEX>
+põllumaa    põllu_maa+0 //_S_ sg n, //
+taastamiseks    taastamine+ks //_S_ sg tr, //
+Austraalias    Austraalia+s //_H_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Eestis    Eesti+s //_H_ sg in, //
+pole    ole+0 //_V_ neg o, //
+maapõuevarasid    maa_põue_vara+sid //_S_ pl p, //
+nii    nii+0 //_D_ //
+rikkalikult    rikkalikult+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+Austraalias    Austraalia+s //_H_ sg in, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+mäetööstusel    mäe_tööstus+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+väiksem    väiksem+0 //_C_ sg n, //
+osatähtsus    osa_tähtsus+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+aga    aga+0 //_J_ //
+ei    ei+0 //_V_ neg, //
+tähenda    tähenda+0 //_V_ o, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+olemasolevaid    olemas_olev+id //_A_ pl p, //
+varasid    vara+sid //_S_ pl p, //    varad+sid //_S_ pl p, //
+ei    ei+0 //_V_ neg, //
+peaks    pida+ks //_V_ ks, //
+energiliselt    energiliselt+0 //_D_ //
+uurima    uuri+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+kasutama    kasuta+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Majanduskasv    majandus_kasv+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+oluline    oluline+0 //_A_ sg n, //
+rahva    rahvas+0 //_S_ sg g, //
+elatustaseme    elatus_tase+0 //_S_ sg g, //
+tõstmiseks    tõstmine+ks //_S_ sg tr, //
+ja    ja+0 //_J_ //
+riigi    riik+0 //_S_ sg g, //
+stabiilsuse    stabiilsus+0 //_S_ sg g, //
+kindlustamiseks    kindlustamine+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Selleks    see+ks //_P_ sg tr, //
+peab    pida+b //_V_ b, //
+kasutama    kasuta+ma //_V_ ma, //
+iga    iga+0 //_P_ sg g, //
+võimalust    võimalus+t //_S_ sg p, //
+:    : //_Z_ //
+<kindel_piir/>
+soodustama    soodusta+ma //_V_ ma, //
+ja    ja+0 //_J_ //
+õhutama    õhuta+ma //_V_ ma, //
+kõiki    kõik+0 //_P_ pl p, //
+ühiskonnale    ühiskond+le //_S_ sg all, //
+vastuvõetavaid    vastu_võetav+id //_A_ pl p, //
+tööstusalasid    tööstus_ala+sid //_S_ pl p, //
+või    või+0 //_J_ //
+tegevusi    tegevus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<s>
+Teadaolevate    teada_olev+te //_A_ pl g, //
+maapõuevarade    maa_põue_vara+de //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eestis    Eesti+s //_H_ sg in, //
+eriline    eriline+0 //_A_ sg n, //
+koht    koht+0 //_S_ sg n, //
+põlevkivil    põlev_kivi+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Põlevkivitööstuse    põlev_kivi_tööstus+0 //_S_ sg g, //
+arendamisel    arendamine+l //_S_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+suur    suur+0 //_A_ sg n, //
+osa    osa+0 //_S_ sg n, //
+meie    mina+0 //_P_ pl g, //
+endi    ise+0 //_P_ pl g, //
+teadlastel    teadlane+tel //_S_ pl ad, //
+ja    ja+0 //_J_ //
+tehnikutel    tehnik+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t16" type="DURATION" temporalFunction="true" value="P80Y" mod="MORE_THAN" beginPoint="t1_5" endPoint="t0" >
+Rohkem    rohkem+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+80    80+0 //_N_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+jooksul    jooksul+0 //_K_ //
+<TIMEX tid="t1_5" type="DATE" temporalFunction="true" value="XXXX" />
+</TIMEX>
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+olnud    ol=nud+0 //_A_ //    ol=nud+0 //_A_ sg n, //    ol=nud+d //_A_ pl n, //    ole+nud //_V_ nud, //
+põlevkivist    põlev_kivi+st //_S_ sg el, //
+õlitoodete    õli_toode+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+elektri    elekter+0 //_S_ sg g, //
+tootmisel    toot=mine+l //_S_ sg ad, //
+maailmas    maa_ilm+s //_S_ sg in, //
+esirinnas    esi_rind+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Põlevkivivarade    põlev_kivi_vara+de //_S_ pl g, //    põlev_kivi_varad+de //_S_ pl g, //
+põhjalik    põhjalik+0 //_A_ sg n, //
+uurimine    uurimine+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+optimaalne    optimaalne+0 //_A_ sg n, //
+kasutamine    kasutamine+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Eesti    Eesti+0 //_H_ sg g, //
+<TIMEX tid="t1_4" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t0">
+tulevikule    tulevik+le //_S_ sg all, //
+</TIMEX>
+väga    väga+0 //_D_ //
+tähtis    tähtis+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>

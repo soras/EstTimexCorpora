@@ -1,0 +1,299 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1999-04-10TXX:XX" />
+<ignoreeri>
+|
+autor:
+Reuters/BNS/EPL
+|
+ajalehenumber:
+Eesti
+Päevaleht
+10.04.1999
+|
+rubriik:
+Välismaa
+|
+artikkel:
+Jeltsin
+tegi
+kummalisi
+vihjeid
+Primakovi
+kohta
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DURATION" temporalFunction="true" value="P6M" beginPoint="t2" endPoint="t0" >
+Viimase    viimane+0 //_A_ sg g, //
+poole    pool+0 //_N_ sg g, //
+aasta    aasta+0 //_S_ sg g, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1998-10" />
+</TIMEX>
+kõige    kõige+0 //_D_ //
+jõulisemas    jõulisem+s //_C_ sg in, //
+ja    ja+0 //_J_ //
+pikemas    pikem+s //_C_ sg in, //
+avalikus    avalik+s //_A_ sg in, //
+esinemises    esinemine+s //_S_ sg in, //
+jagas    jaga+s //_V_ s, //
+Vene    Vene+0 //_H_ sg g, //
+president    president+0 //_S_ sg n, //
+Boriss    Boriss+0 //_H_ sg n, //
+Jeltsin    Jeltsin+0 //_H_ sg n, //
+vaid    vaid+0 //_D_ //
+hädapärast    häda_pärane+t //_A_ sg p, //
+toetust    toetus+t //_S_ sg p, //
+peaminister    pea_minister+0 //_S_ sg n, //
+Jevgeni    Jevgeni+0 //_H_ sg n, //
+Primakovile    Primakov+le //_H_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+kuulutades    kuuluta+des //_V_ des, //
+vajadust    vajadus+t //_S_ sg p, //
+valitsust    valitsus+t //_S_ sg p, //
+tugevdada    tugevda+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+<TIMEX  tid="t3" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+Praeguses    praegune+s //_A_ sg in, //
+</TIMEX>
+olukorras    olu_kord+s //_S_ sg in, //
+,    , //_Z_ //
+<TIMEX  tid="t4" type="DATE" temporalFunction="true" value="PRESENT_REF" anchorTimeID="t0" >
+praegusel    praegune+l //_A_ sg ad, //
+ajal    aeg+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Primakov    Primakov+0 //_H_ sg n, //
+meile    mina+le //_P_ pl all, //
+kasulik    kasulik+0 //_A_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Peame    pida+me //_V_ me, //
+vaatama    vaata+ma //_V_ ma, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+järgmisena    järgmine+na //_A_ sg es, //
+tuleb    tule+b //_V_ b, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+ütles    ütle+s //_V_ s, //
+Jeltsin    Jeltsin+0 //_H_ sg n, //
+kohtumisel    kohtumine+l //_S_ sg ad, //
+kohalike    kohalik+e //_A_ pl g, //
+liidritega    liider+tega //_S_ pl kom, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Teine    teine+0 //_O_ sg n, //    teine+0 //_P_ sg n, //
+küsimus    küsimus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+veel    veel+0 //_D_ //
+see    see+0 //_P_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+peame    pida+me //_V_ me, //
+tugevdama    tugevda+ma //_V_ ma, //
+valitsust    valitsus+t //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+See    see+0 //_P_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+ikka    ikka+0 //_D_ //
+veel    veel+0 //_D_ //
+küsimuseks    küsimus+ks //_S_ sg tr, //
+.    . //_Z_ //
+"    " //_Z_ //
+</s>
+<s>
+Jeltsini    Jeltsin+0 //_H_ sg g, //
+seisukoha-võtud    seisu_koha-võtt+d //_S_ pl n, //
+<kiil>
+,    , //_Z_ //
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+kanti    kand+ti //_V_ ti, //
+televisioonis    televisioon+s //_S_ sg in, //
+üle    üle+0 //_D_ //
+palju    palju+0 //_D_ //
+pikemalt    pikemalt+0 //_D_ //
+kui    kui+0 //_D_ //    kui+0 //_J_ //
+tavaliselt    tavaliselt+0 //_D_ //
+,    , //_Z_ //
+</kiil>
+tulid    tule+id //_V_ sid, //
+ajal    aeg+l //_S_ sg ad, //
+,    , //_Z_ //
+<kindel_piir/>
+mil    mil+0 //_D_ //
+opositsiooni    opositsioon+0 //_S_ sg g, //
+kontrolli    kontroll+0 //_S_ sg g, //
+all    all+0 //_K_ //
+olev    olev+0 //_A_ sg n, //
+Riigiduuma    Riigi_duuma+0 //_H_ sg g, //
+valmistub    valmistu+b //_V_ b, //
+presidendi    president+0 //_S_ sg g, //
+ametist    amet+st //_S_ sg el, //
+tagandamiseks    tagandamine+ks //_S_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+mille    mis+0 //_P_ pl g, //    mis+0 //_P_ sg g, //
+hääletus    hääletus+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+kavandatud    kavanda+tud //_V_ tud, //    kavandatud+0 //_A_ //    kavandatud+0 //_A_ sg n, //    kavandatud+d //_A_ pl n, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="true" value="1999-04-15" >
+15.    15.+0 //_O_ ?, //
+aprillile    aprill+le //_S_ sg all, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Duuma    duuma+0 //_S_ sg g, //
+julgeolekukomitee    julge_oleku_komitee+0 //_S_ sg g, //
+esimees    esi_mees+0 //_S_ sg n, //
+Viktor    Viktor+0 //_H_ sg n, //
+Iljuhhin    Iljuhhin+0 //_H_ sg n, //
+kommunistide    kommunist+de //_S_ pl g, //
+fraktsioonist    fraktsioon+st //_S_ sg el, //
+teatas    teata+s //_V_ s, //
+<TIMEX  tid="t6" type="TIME" temporalFunction="true" value="1999-04-08TEV" >
+neljapäeva    nelja_päev+0 //_S_ sg g, //
+õhtul    õhtu+l //_S_ sg ad, //
+</TIMEX>
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tal    tema+l //_P_ sg ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+usaldusväärseid    usaldus_väärne+id //_A_ pl p, //
+andmeid    andmed+id //_S_ pl p, //
+riigis    riik+s //_S_ sg in, //
+<TIMEX  tid="t1_1" type="DATE" temporalFunction="true" value="FUTURE_REF" anchorTimeID="t6" >
+peatselt    peatselt+0 //_D_ //
+</TIMEX>
+eriolukorra    eri_olu_kord+0 //_S_ sg g, //
+kehtestamise    kehtestamine+0 //_S_ sg g, //
+kohta    kohta+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+arutatakse    aruta+takse //_V_ takse, //
+seda    see+da //_P_ sg p, //
+varianti    variant+0 //_S_ sg p, //
+presidendi    president+0 //_S_ sg g, //
+administratsioonis    administratsioon+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+paljudes    palju+des //_P_ pl in, //
+ametkondades    ametkond+des //_S_ pl in, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+eriolukorra    eri_olu_kord+0 //_S_ sg g, //
+kehtestamiseni    kehtestamine+ni //_S_ sg ter, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+aega    aeg+0 //_S_ sg p, //
+arvestatavat    arvesta+tavat //_V_ tavat, //
+juba    juba+0 //_D_ //
+<TIMEX  tid="t1_2" type="DURATION" temporalFunction="true" value="PXD">
+päevade    päev+de //_S_ pl g, //
+</TIMEX>
+ja    ja+0 //_J_ //
+<TIMEX  tid="t1_3" type="DURATION" temporalFunction="true" value="PTXH">
+tundidega    tund+dega //_S_ pl kom, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Iljuhhin    Iljuhhin+0 //_H_ sg n, //
+ütles    ütle+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+koostatavates    koostatav+tes //_A_ pl in, //
+plaanides    plaan+des //_S_ pl in, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+Primakovi    Primakov+0 //_H_ sg g, //
+valitsuse    valitsus+0 //_S_ sg g, //
+asendamine    asendamine+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+siseminister    sise_minister+0 //_S_ sg n, //
+Sergei    Sergei+0 //_H_ sg n, //
+Stepashini    Stepashin+0 //_H_ sg g, //    Stepashini+0 //_H_ sg g, //
+peaministriks    pea_minister+ks //_S_ sg tr, //
+nimetamine    nimetamine+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Välistatud    välista=tu+d //_S_ pl n, //
+ei    ei+0 //_V_ neg, //
+ole    ole+0 //_V_ o, //
+ka    ka+0 //_D_ //
+Viktor    Viktor+0 //_H_ sg n, //
+Tshernomõrdini    Tshernomõrdin+0 //_H_ sg g, //    Tshernomõrdini+0 //_H_ sg g, //
+kandidatuur    kandidatuur+0 //_S_ sg n, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+oletas    oleta+s //_V_ s, //
+Iljuhhin    Iljuhhin+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+"    " //_Z_ //
+Eriolukorra    eri_olu_kord+0 //_S_ sg g, //
+või    või+0 //_J_ //
+muu    muu+0 //_P_ sg g, //
+erivalitsemisvormi    eri_valitsemis_vorm+0 //_S_ sg g, //
+sisseseadmisega    sisse_seadmine+ga //_S_ sg kom, //
+kaasneb    kaasne+b //_V_ b, //
+duuma    duuma+0 //_S_ sg g, //
+laialisaatmine    laiali_saatmine+0 //_S_ sg g, //
+,    , //_Z_ //
+Kommunistliku    kommunistlik+0 //_A_ sg g, //
+Partei    partei+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+mitme    mitu+0 //_P_ sg g, //
+teise    teine+0 //_O_ sg g, //    teine+0 //_P_ sg g, //
+patriootliku    patriootlik+0 //_A_ sg g, //
+partei    partei+0 //_S_ sg g, //
+keelustamine    keelustamine+0 //_S_ sg n, //
+koos    koos+0 //_K_ //
+kõigi    kõik+0 //_P_ pl g, //
+sellest    see+st //_P_ sg el, //
+tulenevate    tulenev+te //_A_ pl g, //
+tagajärgedega    taga_järg+dega //_S_ pl kom, //
+,    , //_Z_ //
+"    " //_Z_ //
+<kindel_piir/>
+hoiatas    hoiata+s //_V_ s, //
+Iljuhhin    Iljuhhin+0 //_H_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Tema    tema+0 //_P_ sg g, //
+sõnul    sõna+ul //_S_ pl ad, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+eriolukorra    eri_olu_kord+0 //_S_ sg g, //
+ettevalmistamine    ette_valmistamine+0 //_S_ sg n, //
+otseselt    otseselt+0 //_D_ //
+seotud    seotud+0 //_A_ //    seotud+0 //_A_ sg n, //    seotud+d //_A_ pl n, //    sidu+tud //_V_ tud, //
+katsega    katse+ga //_S_ sg kom, //
+"    " //_Z_ //
+ajada    aja+da //_V_ da, //
+nurja    nurja+0 //_D_ //
+presidendi    president+0 //_S_ sg g, //
+tagandamise    tagandamine+0 //_S_ sg g, //
+seaduslik    seaduslik+0 //_A_ sg n, //
+protseduur    protseduur+0 //_S_ sg n, //
+"    " //_Z_ //
+.    . //_Z_ //
+</s>

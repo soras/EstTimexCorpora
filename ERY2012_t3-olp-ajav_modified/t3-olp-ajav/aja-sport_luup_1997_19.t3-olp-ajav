@@ -1,0 +1,1085 @@
+<TIMEX  tid="t0" type="TIME" functionInDocument="CREATION_TIME" value="1997-09-15TXX:XX" />
+<ignoreeri>
+|
+autor:
+tekst
+:
+Tarmo
+Laasi
+|
+ajakirjanumber:
+Luup
+Nr.19
+(
+50
+)
+;
+15.
+september
+1997
+|
+rubriik:
+SPORT
+|
+artikkel:
+Hotell
+Montana
+,
+Luzern
+1939
+|
+</ignoreeri>
+<s>
+<TIMEX  tid="t1" type="DATE" temporalFunction="false" value="1939-07" >
+Juulis    juuli+s //_S_ sg in, //
+1939    1939+0 //_N_ ?, //
+</TIMEX>
+võitis    võit+is //_V_ s, //
+Eesti    Eesti+0 //_H_ sg g, //
+laskemeeskond    laske_meeskond+0 //_S_ sg n, //
+rekordiliste    rekordiline+te //_A_ pl g, //
+tulemustega    tulemus+tega //_S_ pl kom, //
+Shveitsis    Shveits+s //_H_ sg in, //
+Luzernis    Luzern+s //_H_ sg in, //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+32.    32.+0 //_O_ ?, //
+maailmameistrivõistlused    maa_ilma_meistri_võistlus+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Suurejoonelisest    Suure_jooneline+st //_H_ sg el, //
+<TIMEX  tid="t2" type="DATE" temporalFunction="true" value="1939-06-30" anchorTimeID="t1" >
+30.    30.+0 //_O_ ?, //
+juunil    juuni+l //_S_ sg ad, //
+</TIMEX>
+alanud    ala=nud+0 //_A_ //    ala=nud+0 //_A_ sg n, //    ala=nud+d //_A_ pl n, //    alga+nud //_V_ nud, //
+jõukatsumisest    jõu_katsumine+st //_S_ sg el, //
+võttis    võt+is //_V_ s, //
+osa    osa+0 //_S_ sg g, //
+305    305+0 //_N_ ?, //
+täpsuskütti    täpsus_kütt+0 //_S_ adt, //
+17    17+0 //_N_ ?, //
+riigist    riik+st //_S_ sg el, //
+,    , //_Z_ //
+<kindel_piir/>
+eestlasi    eestlane+i //_S_ pl p, //
+oli    ole+i //_V_ s, //
+22.    22.+0 //_O_ ?, //
+</s>
+<s>
+Suures    suur+s //_A_ sg in, //
+osas    osa+s //_S_ sg in, //
+kaadrisõjaväelastest    kaadri_sõja_väelane+test //_S_ pl el, //
+koosnenud    koosne+nud //_V_ nud, //    koosne=nud+0 //_A_ //    koosne=nud+0 //_A_ sg n, //    koosne=nud+d //_A_ pl n, //
+Eesti    Eesti+0 //_H_ sg g, //
+meeskond    meeskond+0 //_S_ sg n, //
+saabus    saabu+s //_V_ s, //
+Shveitsi    Shveits+0 //_H_ sg g, //
+erukindral    eru_kindral+0 //_S_ sg n, //
+Otto    Otto+0 //_H_ sg n, //
+Sternbecki    Sternbeck+0 //_H_ sg g, //    Sternbecki+0 //_H_ sg g, //
+juhtimisel    juhtimine+l //_S_ sg ad, //
+.    . //_Z_ //
+</s>
+<s>
+Oma    oma+0 //_P_ sg g, //
+põhikonkurentideks    põhi_konkurent+deks //_S_ pl tr, //
+loeti    luge+ti //_V_ ti, //
+õigustatult    õigustatult+0 //_D_ //
+võõrustajaid    võõrustaja+id //_S_ pl p, //
+ja    ja+0 //_J_ //
+soomlasi    soomlane+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Tarmo
+Laasi
+|
+ajakirjanumber:
+Luup
+Nr.19
+(
+50
+)
+;
+15.
+september
+1997
+|
+rubriik:
+SPORT
+|
+artikkel:
+Hotell
+Montana
+,
+Luzern
+1939
+|
+alaosa:
+Klaas
+veini
+|
+</ignoreeri>
+<s>
+Luzerni    Luzern+0 //_H_ sg g, //
+raudteejaamas    raud_tee_jaam+s //_S_ sg in, //
+võtsid    võt+sid //_V_ sid, //
+shveitslased    shveitslane+d //_S_ pl n, //
+meie    mina+0 //_P_ pl g, //
+laskureid    laskur+id //_S_ pl p, //
+vastu    vastu+0 //_D_ //
+liigutava    liigutav+0 //_A_ sg g, //
+sõbralikkusega    sõbralikkus+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Kantoni    kanton+0 //_S_ sg g, //
+rahvariides    rahva_riie+s //_S_ sg in, //
+neiud    neid+d //_S_ pl n, //    neiu+d //_S_ pl n, //
+kinnitasid    kinnita+sid //_V_ sid, //
+meestele    mees+tele //_S_ pl all, //
+rinda    rind+0 //_S_ sg p, //
+lillekimbud    lille_kimp+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+pärast    pärast+0 //_K_ //
+tervituseks    tervitus+ks //_S_ sg tr, //
+joodud    joo+dud //_V_ tud, //    joodud+0 //_A_ //    joodud+0 //_A_ sg n, //    joodud+d //_A_ pl n, //
+veiniklaasi    veini_klaas+0 //_S_ adt, //
+juhatati    juhata+ti //_V_ ti, //
+võistlejad    võistleja+d //_S_ pl n, //
+Montana    Montana+0 //_H_ sg n, //
+luksushotelli    luksus_hotell+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Meeskonda    meeskond+0 //_S_ adt, //
+kuulunud    kuulu+nud //_V_ nud, //    kuulu=nud+0 //_A_ //    kuulu=nud+0 //_A_ sg n, //    kuulu=nud+d //_A_ pl n, //
+lennuväekapten    lennu_väe_kapten+0 //_S_ sg n, //
+Evald    Evald+0 //_H_ sg n, //
+Laasi    Laasi+0 //_H_ sg n, //
+meenutas    meenuta+s //_V_ s, //
+hiljem    hiljem+0 //_D_ //
+teatraalset    teatraalne+t //_A_ sg p, //
+juhtumit    juhtum+t //_S_ sg p, //
+tolles    too+s //_P_ sg in, //
+hotellis    hotell+s //_S_ sg in, //
+.    . //_Z_ //
+</s>
+<s>
+Soomlastest    soomlane+test //_S_ pl el, //
+laskekuulsustel    laske_kuulsus+tel //_S_ pl ad, //
+vendadel    vend+del //_S_ pl ad, //
+Viljo    Viljo+0 //_H_ sg g, //
+ja    ja+0 //_J_ //
+Kullervo    Kullervo+0 //_H_ sg g, //
+Leskinenil    Leskinen+l //_H_ sg ad, //    Leskineni+l //_H_ sg ad, //
+läks    mine+s //_V_ s, //
+pärast    pärast+0 //_K_ //
+tervisenapsi    tervise_naps+0 //_S_ sg p, //
+“    “ //_Z_ //
+hammas    hammas+0 //_S_ sg n, //
+verele    veri+le //_S_ sg all, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Hotelli    hotell+0 //_S_ sg p, //
+saabudes    saabu+des //_V_ des, //
+olid    ole+id //_V_ sid, //
+nad    tema+d //_P_ pl n, //
+ainsad    ainus+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+ei    ei+0 //_V_ neg, //
+suvatsenud    suvatse+nud //_V_ nud, //    suvatse=nud+0 //_A_ //    suvatse=nud+0 //_A_ sg n, //    suvatse=nud+d //_A_ pl n, //
+isegi    isegi+0 //_D_ //
+oma    oma+0 //_P_ sg g, //
+tube    tuba+e //_S_ pl p, //
+vaatama    vaata+ma //_V_ ma, //
+minna    mine+a //_V_ da, //
+,    , //_Z_ //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+siirdusid    siirdu+sid //_V_ sid, //
+otseteed    otse_tee+d //_S_ sg p, //
+fuajees    fuajee+s //_S_ sg in, //
+asuvasse    asuv+sse //_A_ sg ill, //
+baari    baar+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Varsti    varsti+0 //_D_ //
+kostis    kost+is //_V_ s, //
+alakorruselt    ala_korrus+lt //_S_ sg abl, //
+kõva    kõva+0 //_A_ sg p, //
+lärmi    lärm+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+Baaris    Baaris+0 //_H_ sg n, //
+avanes    avane+s //_V_ s, //
+küllaltki    küllaltki+0 //_D_ //
+markantne    markantne+0 //_A_ sg n, //
+vaatepilt    vaate_pilt+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Verd    veri+0 //_S_ sg p, //
+täis    täis+0 //_D_ //
+valgunud    valgu+nud //_V_ nud, //    valgu=nud+0 //_A_ //    valgu=nud+0 //_A_ sg n, //    valgu=nud+d //_A_ pl n, //
+silmadega    silm+dega //_S_ pl kom, //
+,    , //_Z_ //
+sassis    sassis+0 //_A_ //
+juuste    juus+te //_S_ pl g, //
+ja    ja+0 //_J_ //
+punetavate    punetav+te //_A_ pl g, //
+nägudega    nägu+dega //_S_ pl kom, //
+põhjanaabrid    põhja_naaber+d //_S_ pl n, //
+“    “ //_Z_ //
+val-mistusid    val-mistusi+d //_S_ pl n, //
+”    ” //_Z_ //
+võistlusteks    võistlus+teks //_S_ pl tr, //
+baari    baar+0 //_S_ adt, //
+sisustust    sisustus+t //_S_ sg p, //
+purustades    purusta+des //_V_ des, //
+.    . //_Z_ //
+</s>
+<s>
+Märatsemise    märatse=mine+0 //_S_ sg g, //
+motiiv    motiiv+0 //_S_ sg n, //
+jäigi    jää+igi //_V_ s, //
+selgusetuks    selgusetu+ks //_A_ sg tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kuna    kuna+0 //_J_ //
+mingit    mingi+t //_P_ sg p, //
+konflikti    konflikt+0 //_S_ sg g, //
+ei    ei+0 //_V_ neg, //
+paistnud    paist+nud //_V_ nud, //    paist=nud+0 //_A_ //    paist=nud+0 //_A_ sg n, //    paist=nud+d //_A_ pl n, //
+kellegi    keegi+gi //_P_ sg g, //
+vahel    vahel+0 //_K_ //
+olevat    ole+vat //_V_ vat, //
+.    . //_Z_ //
+</s>
+<s>
+Hotelli    hotell+0 //_S_ sg g, //
+juhtkond    juhtkond+0 //_S_ sg n, //
+püüdis    püüd+is //_V_ s, //
+märatsejaid    märatse=ja+id //_S_ pl p, //
+politseiniku    politseinik+0 //_S_ sg g, //
+abiga    abi+ga //_S_ sg kom, //
+delikaatselt    delikaatselt+0 //_D_ //
+korrale    kord+le //_S_ sg all, //
+kutsuda    kutsu+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Leskised    Leskis+d //_H_ pl n, //    Leskised+0 //_H_ sg n, //
+aga    aga+0 //_J_ //
+tõmbasid    tõmba+sid //_V_ sid, //
+välja    välja+0 //_D_ //
+soome    soome+0 //_G_ //
+pussid    puss+d //_S_ pl n, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lõhkumine    lõhkumine+0 //_S_ sg n, //
+jätkus    jätku+s //_V_ s, //
+.    . //_Z_ //
+</s>
+<s>
+Siis    siis+0 //_D_ //
+kutsuti    kutsu+ti //_V_ ti, //
+kohale    kohale+0 //_D_ //
+Soome    Soome+0 //_H_ sg g, //
+koondise    koondis+0 //_S_ sg g, //
+kindralist    kindral+st //_S_ sg el, //
+juht    juht+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Erariides    era_riie+s //_S_ sg in, //
+kindral    kindral+0 //_S_ sg n, //
+ilmus    ilmu+s //_V_ s, //
+vaikselt    vaikselt+0 //_D_ //
+baari    baar+0 //_S_ adt, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+jäi    jää+i //_V_ s, //
+hävitustööd    hävitus_töö+d //_S_ sg p, //
+silmitsema    silmitse+ma //_V_ ma, //
+.    . //_Z_ //
+</s>
+<s>
+Veidi    veidi+0 //_D_ //
+hiljem    hiljem+0 //_D_ //
+märkasid    märka+sid //_V_ sid, //
+teda    tema+da //_P_ sg p, //
+vennad    vend+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+tardusid    tardu+sid //_V_ sid, //
+paigale    paigale+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t3" type="DURATION" temporalFunction="false" value="PT1M" mod="APPROX">
+Umbes    umbes+0 //_D_ //
+minutise    minutine+0 //_A_ sg g, //
+</TIMEX>
+vaikuse    vaikus+0 //_S_ sg g, //
+katkestas    katkesta+s //_V_ s, //
+kindrali    kindral+0 //_S_ sg g, //
+heas    hea+s //_A_ sg in, //
+diktsioonis    diktsioon+s //_S_ sg in, //
+öeldud    öeldud+0 //_A_ //    öeldud+0 //_A_ sg n, //    öeldud+d //_A_ pl n, //    ütle+dud //_V_ tud, //
+lause    lause+0 //_S_ sg n, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Pojat    Pojat+0 //_H_ sg n, //
+,    , //_Z_ //
+suomalaiset    suomalaiset+0 //_S_ sg n, //
+ovat    ovat+0 //_S_ sg n, //
+kansainvälisesti    kansainvälisesti+0 //_S_ sg g, //
+tunnettuja    tunnettu=ja+0 //_S_ sg g, //
+kuin    kuin+0 //_S_ sg n, //
+kunnon    kunnon+0 //_S_ sg n, //
+työn    työn+0 //_S_ sg n, //
+miehet    miehet+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Miksi    miksi+0 //_V_ o, //
+jäi    jää+i //_V_ s, //
+työ    työ+0 //_S_ sg g, //
+keskeen    keskeen+0 //_S_ sg n, //
+?    ? //_Z_ //
+</s>
+<s>
+Lamput    Lamput+0 //_H_ sg n, //
+,    , //_Z_ //
+pari    pari+0 //_S_ sg g, //
+tuolia    tuolia+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+peili    peil+0 //_S_ sg g, //
+ovat    ovat+0 //_S_ sg n, //
+vielä    vielä+0 //_S_ sg g, //
+ehjät    ehjät+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Jatkakaa    Jatkakaa+0 //_H_ sg n, //
+!    ! //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Leskiste    Leskis+te //_H_ pl g, //    Leskiste+0 //_H_ sg g, //
+jaoks    jaoks+0 //_K_ //
+olid    ole+id //_V_ sid, //
+aga    aga+0 //_J_ //
+võistlused    võistlus+d //_S_ pl n, //
+võisteldud    võistel=dud+0 //_A_ //    võistel=dud+0 //_A_ sg n, //    võistel=dud+d //_A_ pl n, //    võistle+dud //_V_ tud, //
+,    , //_Z_ //
+<kindel_piir/>
+esimese    esimene+0 //_O_ sg g, //
+rongiga    rong+ga //_S_ sg kom, //
+saadeti    saat+ti //_V_ ti, //
+nad    tema+d //_P_ pl n, //
+koju    kodu+0 //_S_ adt, //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+vabanenud    vabane+nud //_V_ nud, //    vabanenud+0 //_A_ //    vabanenud+0 //_A_ sg n, //    vabanenud+d //_A_ pl n, //
+kõige    kõige+0 //_D_ //
+ohtlikumatest    ohtlikum+test //_C_ pl el, //
+konkurentidest    konkurent+dest //_S_ pl el, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Tarmo
+Laasi
+|
+ajakirjanumber:
+Luup
+Nr.19
+(
+50
+)
+;
+15.
+september
+1997
+|
+rubriik:
+SPORT
+|
+artikkel:
+Hotell
+Montana
+,
+Luzern
+1939
+|
+alaosa:
+Eestlaste
+päike
+Allmendi
+kohal
+|
+</ignoreeri>
+<s>
+Kuigi    kuigi+0 //_D_ //    kuigi+0 //_J_ //
+Allmendi    all_ment+0 //_S_ sg g, //
+rohelusse    rohelus+se //_S_ adt, //
+uppuv    uppuv+0 //_A_ sg n, //
+lasketiir    laske_tiir+0 //_S_ sg n, //
+nägi    näge+i //_V_ s, //
+ilus    ilus+0 //_A_ sg n, //
+välja    välja+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+mõjutasid    mõjuta+sid //_V_ sid, //
+tulemusi    tulemus+i //_S_ pl p, //
+lõõmav    lõõmav+0 //_A_ sg n, //
+päike    päike+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+tugev    tugev+0 //_A_ sg n, //
+tuul    tuul+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Närvilises    närviline+s //_A_ sg in, //
+õhkkonnas    õhkkond+s //_S_ sg in, //
+alanud    ala=nud+0 //_A_ //    ala=nud+0 //_A_ sg n, //    ala=nud+d //_A_ pl n, //    alga+nud //_V_ nud, //
+tuleproov    tule_proov+0 //_S_ sg n, //
+jõudis    jõud+is //_V_ s, //
+haripunkti    hari_punkt+0 //_S_ sg g, //
+<TIMEX  tid="t4" type="TIME" temporalFunction="true" value="1939-07-05TMO" anchorTimeID="t2">
+5.    5.+0 //_O_ ?, //
+juuli    juuli+0 //_S_ sg g, //
+hommikul    hommik+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Eestlased    eestlane+d //_S_ pl n, //
+said    saa+id //_V_ sid, //
+35-kraadises    35_kraadine+s //_A_ sg in, //
+kuumuses    kuumus+s //_S_ sg in, //
+võisteldes    võistle+des //_V_ des, //
+vabapüssiga    vaba_püss+ga //_S_ sg kom, //
+4    4+0 //_N_ ?, //
+kuld-    kuld+0 //_S_ sg n, //
+,    , //_Z_ //
+3    3+0 //_N_ ?, //
+hõbe-    hõbe+0 //_S_ sg n, //
+ja    ja+0 //_J_ //
+1    1+0 //_N_ ?, //
+pronksmedali    pronks_medal+0 //_S_ sg g, //
+soomlaste    soomlane+te //_S_ pl g, //
+5    5+0 //_N_ ?, //
+hõbeda    hõbe+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+1    1+0 //_N_ ?, //
+pronksi    pronks+0 //_S_ sg g, //
+vastu    vastu+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Tõusime    tõus+ime //_V_ sime, //
+korrapealt    korra_pealt+0 //_D_ //
+maailma    maa_ilm+0 //_S_ sg g, //
+tugevaimaks    tugevaim+ks //_U_ sg tr, //
+laskemaaks    laske_maa+ks //_S_ sg tr, //
+!    ! //_Z_ //
+</s>
+<s>
+Lisaks    lisa+ks //_S_ sg tr, //
+Argentina    Argentina+0 //_H_ sg g, //
+rändkarikale    ränd_karikas+le //_S_ sg all, //
+ja    ja+0 //_J_ //
+arvukatele    arvukas+tele //_A_ pl all, //
+medalitele    medal+tele //_S_ pl all, //
+saadi    saa+di //_V_ ti, //
+ka    ka+0 //_D_ //
+rahaline    rahaline+0 //_A_ sg n, //
+preemia    preemia+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+lõviosa    lõvi_osa+0 //_S_ sg n, //
+kulutati    kuluta+ti //_V_ ti, //
+<TIMEX tid="t1_1" type="DURATION" temporalFunction="true" value="PXD" >
+mitmepäevaseks    mitme_päevane+ks //_A_ sg tr, //
+</TIMEX>
+bussiekskursiooniks    bussi_ekskursioon+ks //_S_ sg tr, //
+.    . //_Z_ //
+</s>
+<s>
+Mitmeid    mitu+id //_P_ pl p, //
+medaleid    medal+id //_S_ pl p, //
+võitsid    võit+sid //_V_ sid, //
+ka    ka+0 //_D_ //
+meie    mina+0 //_P_ pl g, //
+püstolilaskurid    püstoli_laskur+d //_S_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+millele    mis+le //_P_ pl all, //    mis+le //_P_ sg all, //
+lisandusid    lisandu+sid //_V_ sid, //
+medalid    medal+d //_S_ pl n, //
+MM-võistluste    MM-võistlus+te //_S_ pl g, //
+raames    raames+0 //_K_ //
+toimunud    toimu+nud //_V_ nud, //    toimunud+0 //_A_ //    toimunud+0 //_A_ sg n, //    toimunud+d //_A_ pl n, //
+maakaitse    maa_kaitse+0 //_S_ sg g, //
+ja    ja+0 //_J_ //
+kaitseliitude    kaitse_liit+de //_S_ pl g, //
+võistlustel    võistlus+tel //_S_ pl ad, //
+.    . //_Z_ //
+</s>
+<s>
+Suur    suur+0 //_A_ sg n, //
+tähelepanu    tähele_panu+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mida    mis+da //_P_ pl p, //    mis+da //_P_ sg p, //
+Eesti    Eesti+0 //_H_ sg g, //
+sõjaväes    sõja_vägi+s //_S_ sg in, //
+ja    ja+0 //_J_ //
+Kaitseliidus    kaitse_liit+s //_S_ sg in, //
+oli    ole+i //_V_ s, //
+pööratud    pööra+tud //_V_ tud, //    pööra=tud+0 //_A_ //    pööra=tud+0 //_A_ sg n, //    pööra=tud+d //_A_ pl n, //
+laskmisele    laskmine+le //_S_ sg all, //
+<kiil>
+(    ( //_Z_ //
+laskmine    laskmine+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+näiteks    näiteks+0 //_D_ //
+äärmiselt    äärmiselt+0 //_D_ //
+populaarne    populaarne+0 //_A_ sg n, //
+kaitseliitlaste    kaitse_liitlane+te //_S_ pl g, //
+hulgas    hulgas+0 //_K_ //
+,    , //_Z_ //
+<kindel_piir/>
+kõigil    kõik+l //_P_ pl ad, //
+42    42+0 //_N_ ?, //
+600    600+0 //_N_ ?, //
+liikmel    liige+l //_S_ sg ad, //
+olid    ole+id //_V_ sid, //
+relvad    relv+d //_S_ pl n, //
+kodus    kodu+s //_S_ sg in, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+andis    and+is //_V_ s, //
+taas    taas+0 //_D_ //
+hiilgavaid    hiilgav+id //_A_ pl p, //
+tulemusi    tulemus+i //_S_ pl p, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Tarmo
+Laasi
+|
+ajakirjanumber:
+Luup
+Nr.19
+(
+50
+)
+;
+15.
+september
+1997
+|
+rubriik:
+SPORT
+|
+artikkel:
+Hotell
+Montana
+,
+Luzern
+1939
+|
+alaosa:
+Matsid
+|
+</ignoreeri>
+<s>
+Meie    mina+0 //_P_ pl g, //
+laskurite    laskur+te //_S_ pl g, //
+seiklused    seiklus+d //_S_ pl n, //
+Shveitsis    Shveits+s //_H_ sg in, //
+sellega    see+ga //_P_ sg kom, //
+veel    veel+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+lõppenud    lõppe+nud //_V_ nud, //    lõppenud+0 //_A_ //    lõppenud+0 //_A_ sg n, //    lõppenud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Ringsõidul    ring_sõit+l //_S_ sg ad, //
+kunstinäitust    kunsti_näitus+t //_S_ sg p, //
+külastades    külasta+des //_V_ des, //
+oli    ole+i //_V_ s, //
+keegi    keegi+0 //_P_ sg n, //
+ohvitserist    ohvitser+st //_S_ sg el, //
+irvhammas    irv_hammas+0 //_S_ sg n, //
+Venust    Venust+0 //_H_ sg n, //
+kujutava    kujutav+0 //_A_ sg g, //
+pildi    pilt+0 //_S_ sg g, //
+ees    ees+0 //_K_ //
+nalja    nali+0 //_S_ sg p, //
+visanud    visa=nud+0 //_A_ //    visa=nud+0 //_A_ sg n, //    visa=nud+d //_A_ pl n, //    viska+nud //_V_ nud, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+“    “ //_Z_ //
+kas    kas+0 //_D_ //
+selline    selline+0 //_P_ sg n, //
+kaunitar    kaunitar+0 //_S_ sg n, //
+meiegi    mina+gi //_P_ pl g, //
+vastu    vastu+0 //_K_ //
+lahke    lahke+0 //_A_ sg n, //
+oleks    ole+ks //_V_ ks, //
+”    ” //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Jutu    jutt+0 //_S_ sg g, //
+lõikas    lõika+s //_V_ s, //
+läbi    läbi+0 //_D_ //
+kile    kile+0 //_S_ sg g, //
+vanainimesehääl    vana_inimese_hääl+0 //_S_ sg n, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+tugeva    tugev+0 //_A_ sg g, //
+saksa    saksa+0 //_G_ //
+aktsendiga    aktsent+ga //_S_ sg kom, //
+eesti    eesti+0 //_G_ //
+keeles    keel+s //_S_ sg in, //
+teatas    teata+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+matsid-talupojad    matsi+d-talu_poeg+d //_S_ pl n, //
+jäävad    jää+vad //_V_ vad, //
+ikka    ikka+0 //_D_ //
+matsideks-talupoegadeks    matsi+deks-talu_poeg+deks //_S_ pl tr, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+end    ise+0 //_P_ sg p, //
+ristiinimese    risti_inimene+0 //_S_ sg g, //
+kombel    kombel+0 //_K_ //
+kusagil    kusagil+0 //_D_ //
+üleval    üleval+0 //_D_ //
+ei    ei+0 //_V_ neg, //
+suutvat    suut+vat //_V_ vat, //
+pidada    pida+da //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+Kuidas    kuidas+0 //_D_ //
+sihukesed    sihuke+d //_P_ pl n, //    sihukene+d //_P_ pl n, //
+üleüldse    üle_üldse+0 //_D_ //
+Euroopasse    Euroopa+sse //_H_ sg ill, //
+sattunud    sattu+nud //_V_ nud, //    sattu=nud+0 //_A_ //    sattu=nud+0 //_A_ sg n, //    sattu=nud+d //_A_ pl n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+?    ? //_Z_ //
+</s>
+<s>
+Õnneks    Õnneks+0 //_H_ sg n, //
+ei    ei+0 //_V_ neg, //
+osanud    osa=nud+0 //_A_ //    osa=nud+0 //_A_ sg n, //    osa=nud+d //_A_ pl n, //    oska+nud //_V_ nud, //
+muldvana    muld_vana+0 //_A_ sg n, //
+paruness    paruness+0 //_S_ sg n, //
+eestlasi    eestlane+i //_S_ pl p, //
+seostada    seosta+da //_V_ da, //
+lõppenud    lõppe+nud //_V_ nud, //    lõppenud+0 //_A_ //    lõppenud+0 //_A_ sg n, //    lõppenud+d //_A_ pl n, //
+laskevõistlustega    laske_võistlus+tega //_S_ pl kom, //
+-    - //_Z_ //
+<kindel_piir/>
+sellise    selline+0 //_P_ sg g, //
+juhtumi    juhtum+0 //_S_ sg g, //
+sattumine    sattumine+0 //_S_ sg n, //
+<TIMEX  tid="t5" type="DATE" temporalFunction="false" value="1939" >
+1939.    1939.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+ajalehte    aja_leht+0 //_S_ sg p, //
+oleks    ole+ks //_V_ ks, //
+arusaadavalt    aru_saadavalt+0 //_D_ //
+tekitanud    tekita+nud //_V_ nud, //    tekita=nud+0 //_A_ //    tekita=nud+0 //_A_ sg n, //    tekita=nud+d //_A_ pl n, //
+ebameeldivat    eba_meeldiv+t //_A_ sg p, //
+furoori    furoor+0 //_S_ sg p, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t6" type="DATE" temporalFunction="true" value="1939-WXX" anchorTimeID="t5" comment="ankurdamine problemaatiline, tuleks ankurdada kahe ajaväljend külge">
+Nädalapäevad    nädala_päev+d //_S_ pl n, //
+hiljem    hiljem+0 //_D_ //
+</TIMEX>
+ootas    oota+s //_V_ s, //
+laskureid    laskur+id //_S_ pl p, //
+Balti    balti+0 //_G_ //
+jaamas    jaam+s //_S_ sg in, //
+juubeldav    juubeldav+0 //_A_ sg n, //
+rahvahulk    rahva_hulk+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<s>
+Järgnes    järgne+s //_V_ s, //
+vastuvõtt    vastu_võtt+0 //_S_ sg n, //
+kindral    kindral+0 //_S_ sg n, //
+Laidoneri    Laidoner+0 //_H_ sg g, //
+juures    juures+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+Vabariigi    vaba_riik+0 //_S_ sg g, //
+lõpuni    lõpp+ni //_S_ sg ter, //
+oli    ole+i //_V_ s, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+veel    veel+0 //_D_ //
+vaid    vaid+0 //_D_ //
+<TIMEX tid="t1_2" type="DURATION" temporalFunction="true" value="PXM" >
+mõni    mõni+0 //_P_ sg n, //
+kuu    kuu+0 //_S_ sg n, //
+</TIMEX>
+...    ... //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Tarmo
+Laasi
+|
+ajakirjanumber:
+Luup
+Nr.19
+(
+50
+)
+;
+15.
+september
+1997
+|
+rubriik:
+SPORT
+|
+artikkel:
+Hotell
+Montana
+,
+Luzern
+1939
+|
+alaosa:
+“
+Viel
+on
+Suomi
+voimissaan
+...
+”
+|
+</ignoreeri>
+<s>
+Need    see+d //_P_ pl n, //
+“    “ //_Z_ //
+Porilaste    porilane+te //_S_ pl g, //
+marsi    marss+0 //_S_ sg g, //
+”    ” //_Z_ //
+sõnad    sõna+d //_S_ pl n, //
+iseloomustavad    ise_loomusta+vad //_V_ vad, //
+hästi    hästi+0 //_D_ //
+meeleolu    meele_olu+0 //_S_ sg p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+valitses    valitse+s //_V_ s, //
+Talvesõja    talve_sõda+0 //_S_ sg g, //
+rindel    rinne+l //_S_ sg ad, //
+<TIMEX  tid="t7" type="DATE" temporalFunction="false" value="1939-WI" >
+1939.    1939.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+talvel    tali+l //_S_ sg ad, //    talv+l //_S_ sg ad, //
+</TIMEX>
+.    . //_Z_ //
+</s>
+<s>
+Eesti    Eesti+0 //_H_ sg n, //
+oli    ole+i //_V_ s, //
+<TIMEX  tid="t1_4" type="DATE" temporalFunction="false" value="1939-WI"  anchorTimeID="t7" >
+selleks    see+ks //_P_ sg tr, //
+ajaks    aeg+ks //_S_ sg tr, //
+</TIMEX>
+juba    juba+0 //_D_ //
+baasidelepinguga    baasi+de_leping+ga //_S_ sg kom, //
+oma    oma+0 //_P_ sg g, //
+iseseisvuse    ise_seisvus+0 //_S_ sg g, //
+kaotanud    kaota+nud //_V_ nud, //    kaota=nud+0 //_A_ //    kaota=nud+0 //_A_ sg n, //    kaota=nud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Talvesõjale    talve_sõda+le //_S_ sg all, //
+elati    ela+ti //_V_ ti, //
+meil    mina+l //_P_ pl ad, //
+siin    siin+0 //_D_ //
+kõvasti    kõvasti+0 //_D_ //
+kaasa    kaasa+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+mitmed    mitu+d //_P_ pl n, //
+sõjaväelased    sõja_väelane+d //_S_ pl n, //
+deserteerusid    deserteeru+sid //_V_ sid, //
+Eesti    Eesti+0 //_H_ sg g, //
+kaitseväest    kaitse_vägi+st //_S_ sg el, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+püüdsid    püüd+sid //_V_ sid, //
+jääteed    jää_tee+d //_S_ sg p, //
+mööda    mööda+0 //_K_ //
+Soome    Soome+0 //_H_ adt, //
+jõuda    jõud+a //_V_ da, //
+.    . //_Z_ //
+</s>
+<s>
+<TIMEX  tid="t8" type="DATE" temporalFunction="false" value="1939" >
+1939.    1939.+0 //_O_ ?, //
+aasta    aasta+0 //_S_ sg g, //
+</TIMEX>
+raskete    raske+te //_A_ pl g, //
+tõrjelahingute    tõrje_lahing+te //_S_ pl g, //
+ajal    ajal+0 //_K_ //
+juhtus    juhtu+s //_V_ s, //
+Laaside    Laas+de //_H_ pl g, //    Laasi+de //_H_ pl g, //    Laaside+0 //_H_ sg g, //
+pere    pere+0 //_S_ sg n, //
+Blaupunkti    Blau_punkt+0 //_H_ sg g, //
+kuulates    kuula+tes //_V_ des, //
+Soomest    Soome+st //_H_ sg el, //
+tulevale    tulev+le //_A_ sg all, //
+rindereportaazhile    rinde_reportaazh+le //_S_ sg all, //
+,    , //_Z_ //
+<kindel_piir/>
+millest    mis+st //_P_ pl el, //    mis+st //_P_ sg el, //
+selgus    selgu+s //_V_ s, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+Montana    Montana+0 //_H_ sg n, //
+baaris    baar+s //_S_ sg in, //
+märatsenud    märatse+nud //_V_ nud, //    märatse=nud+0 //_A_ //    märatse=nud+0 //_A_ sg n, //    märatse=nud+d //_A_ pl n, //
+vendadest    vend+dest //_S_ pl el, //
+oli    ole+i //_V_ s, //
+rindel    rinne+l //_S_ sg ad, //
+ohvitserina    ohvitser+na //_S_ sg es, //
+saanud    saa+nud //_V_ nud, //    saa=nud+0 //_A_ //    saa=nud+0 //_A_ sg n, //    saa=nud+d //_A_ pl n, //
+hakkama    hakka+ma //_V_ ma, //
+ebatavalise    eba_tavaline+0 //_A_ sg g, //
+teoga    tegu+ga //_S_ sg kom, //    tigu+ga //_S_ sg kom, //
+.    . //_Z_ //
+</s>
+<s>
+Tõstmaks    tõst+maks //_V_ maks, //
+võitlusvalmidust    võitlus_valmidus+t //_S_ sg p, //
+ja    ja+0 //_J_ //
+demonstreerimaks    demonstreeri+maks //_V_ maks, //
+oma    oma+0 //_P_ sg g, //
+laskeosavust    laske_osavus+t //_S_ sg p, //
+oli    ole+i //_V_ s, //
+ta    tema+0 //_P_ sg n, //
+keelanud    keela+nud //_V_ nud, //    keela=nud+0 //_A_ //    keela=nud+0 //_A_ sg n, //    keela=nud+d //_A_ pl n, //
+meestel    mees+tel //_S_ pl ad, //
+Soome    Soome+0 //_H_ sg g, //
+positsioone    positsioon+e //_S_ pl p, //
+ründava    ründav+0 //_A_ sg g, //
+,    , //_Z_ //
+umbes    umbes+0 //_D_ //
+kompanii    kompanii+0 //_S_ sg g, //
+suuruse    suurus+0 //_S_ sg g, //
+nõukogude    nõu_kogu+de //_S_ pl g, //
+üksuse    üksus+0 //_S_ sg g, //
+pihta    pihta+0 //_K_ //
+tule    tuli+0 //_S_ sg g, //
+avamise    avamine+0 //_S_ sg g, //
+.    . //_Z_ //
+</s>
+<s>
+Leskinen    Leskinen+0 //_H_ sg n, //
+tulistas    tulista+s //_V_ s, //
+ise    ise+0 //_P_ pl n, //    ise+0 //_P_ sg n, //
+püstoleist    püstol+ist //_S_ pl el, //
+!    ! //_Z_ //
+</s>
+<s>
+Iga    iga+0 //_P_ sg n, //
+lask    lask+0 //_S_ sg n, //
+tabas    taba+s //_V_ s, //
+surmavalt    surmavalt+0 //_D_ //
+või    või+0 //_J_ //
+haavavalt    haava=valt+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Leskinen    Leskinen+0 //_H_ sg n, //
+lõigi    loo+igi //_V_ s, //    löö+igi //_V_ s, //
+jahmunud    jahmu+nud //_V_ nud, //    jahmunud+0 //_A_ //    jahmunud+0 //_A_ sg n, //    jahmunud+d //_A_ pl n, //
+meeste    mees+te //_S_ pl g, //
+silme    silm+0 //_S_ pl g, //
+all    all+0 //_K_ //
+üksinda    üksinda+0 //_D_ //
+rünnaku    rünnak+0 //_S_ sg g, //
+tagasi    tagasi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+hävitades    hävita+des //_V_ des, //
+peaaegu    pea_aegu+0 //_D_ //
+kogu    kogu+0 //_A_ //
+vaenlase    vaenlane+0 //_S_ sg g, //
+kompanii    kompanii+0 //_S_ sg n, //
+.    . //_Z_ //
+</s>
+<ignoreeri>
+|
+autor:
+tekst
+:
+Tarmo
+Laasi
+|
+ajakirjanumber:
+Luup
+Nr.19
+(
+50
+)
+;
+15.
+september
+1997
+|
+rubriik:
+SPORT
+|
+artikkel:
+Hotell
+Montana
+,
+Luzern
+1939
+|
+alaosa:
+Raske
+ülesanne
+|
+</ignoreeri>
+<s>
+Eesti    Eesti+0 //_H_ sg g, //
+sõjavägi    sõja_vägi+0 //_S_ sg n, //
+pidi    pida+i //_V_ s, //
+üle    üle+0 //_D_ //
+elama    ela+ma //_V_ ma, //
+ühe    üks+0 //_N_ sg g, //    üks+0 //_P_ sg g, //
+suurima    suurim+0 //_U_ sg g, //
+alanduse    alandus+0 //_S_ sg g, //
+meie    mina+0 //_P_ pl g, //
+ajaloos    aja_lugu+s //_S_ sg in, //
+-    - //_Z_ //
+<kindel_piir/>
+maailma    maa_ilm+0 //_S_ sg g, //
+parimad    parim+d //_U_ pl n, //
+laskurid    laskur+d //_S_ pl n, //
+andsid    and+sid //_V_ sid, //
+relvad    relv+d //_S_ pl n, //
+käest    käsi+st //_S_ sg el, //
+paukugi    pauk+gi //_S_ sg p, //
+tegemata    tege+mata //_V_ mata, //
+.    . //_Z_ //
+</s>
+<s>
+Eestlastest    eestlane+test //_S_ pl el, //
+laskemaailmameistrite    laske_maa_ilma_meister+te //_S_ pl g, //
+saatus    saatus+0 //_S_ sg n, //
+oli    ole+i //_V_ s, //
+enamasti    enamasti+0 //_D_ //
+äärmiselt    äärmiselt+0 //_D_ //
+traagiline    traagiline+0 //_A_ sg n, //
+,    , //_Z_ //
+vähesed    vähene+d //_A_ pl n, //
+,    , //_Z_ //
+<kindel_piir/>
+kes    kes+0 //_P_ pl n, //    kes+0 //_P_ sg n, //
+sõja    sõda+0 //_S_ sg g, //
+sulatusahjudes    sulatus_ahi+des //_S_ pl in, //
+ja    ja+0 //_J_ //
+Siberi    Siber+0 //_H_ sg g, //
+orjalaagrites    orja_laager+tes //_S_ pl in, //
+füüsiliselt    füüsiliselt+0 //_D_ //
+terveks    terve+ks //_A_ sg tr, //
+jäid    jää+id //_V_ sid, //
+,    , //_Z_ //
+<kindel_piir/>
+olid    ole+id //_V_ sid, //
+peale    peale+0 //_K_ //
+üksikute    üksik+te //_A_ pl g, //
+erandite    erand+te //_S_ pl g, //
+murtud    mur=tud+0 //_A_ //    mur=tud+0 //_A_ sg n, //    mur=tud+d //_A_ pl n, //    murd+tud //_V_ tud, //
+mehed    mees+d //_S_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Laskesport    laske_sport+0 //_S_ sg n, //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+üks    üks+0 //_N_ sg n, //    üks+0 //_P_ sg n, //
+neid    see+d //_P_ pl p, //
+meie    mina+0 //_P_ pl g, //
+kunagisi    kunagine+i //_A_ pl p, //
+tippalasid    tipp_ala+sid //_S_ pl p, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ pl n, //    mis+0 //_P_ sg n, //
+kahjuks    kahjuks+0 //_D_ //
+on    ole+0 //_V_ b, //    ole+0 //_V_ vad, //
+koos    koos+0 //_K_ //
+olemasolevate    olemas_olev+te //_A_ pl g, //
+lasketiirudega    laske_tiir+dega //_S_ pl kom, //
+täiesti    täiesti+0 //_D_ //
+unarusse    unarus+se //_S_ adt, //
+jäänud    jää+nud //_V_ nud, //    jäänud+0 //_A_ //    jäänud+0 //_A_ sg n, //    jäänud+d //_A_ pl n, //
+.    . //_Z_ //
+</s>
+<s>
+Meie    mina+0 //_P_ pl g, //
+kaitseväeski    kaitse_vägi+ski //_S_ sg in, //
+ei    ei+0 //_V_ neg, //
+tegelda    tegele+da //_V_ da, //
+laskmisega    laskmine+ga //_S_ sg kom, //
+piisaval    piisav+l //_A_ sg ad, //
+määral    määr+l //_S_ sg ad, //
+...    ... //_Z_ //
+</s>

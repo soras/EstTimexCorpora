@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TimeML>
+ <TIMEX3 tid="t0" type="DATE" value="2007-08-27" functionInDocument="CREATION_TIME" comment="(Esmasp, W35)"/>
+ Toimetaja : Riina Kallas 
+ Kaubavahetuse puudujääk samas kahaneb 
+ Foto : Marko Mumm 
+ Eksport Venemaale võtab hoogu maha , mõjutades kõige enam valmistoidukaupade ja jookide müüki . 
+ Kui <TIMEX3 tid="t107" type="DATE" value="2007-01" anchorTimeID="t0">jaanuaris</TIMEX3>-<TIMEX3 tid="t108" type="DATE" value="2007-04" anchorTimeID="t0">aprillis</TIMEX3><TIMEX3 tid="t109" type="DURATION" value="P4M" beginPoint="t107" endPoint="t108"/> kasvas toidukaupade ning jookide müük Venemaale võrreldes <TIMEX3 tid="t110" type="DATE" value="2006" anchorTimeID="t0">eelmise aastaga</TIMEX3> 80-90 protsenti , siis <TIMEX3 tid="t111" type="DATE" value="2007-05" anchorTimeID="t0">mais</TIMEX3> oli kasv 40 protsenti , <TIMEX3 tid="t112" type="DATE" value="2007-06" anchorTimeID="t0">juunis</TIMEX3> ulatus kasv 12-17 protsendini , teatas majandus- ja kommunikatsiooniministeerium ( MKM ) . 
+ Kokku kahanes <TIMEX3 tid="t113" type="DATE" value="2007-06" anchorTimeID="t0">juunis</TIMEX3> eksport Venemaale võrreldes <TIMEX3 tid="t114" type="DATE" value="2007-05" anchorTimeID="t0">selle aasta maikuuga</TIMEX3> kaks protsenti . 
+ Kui <TIMEX3 tid="t115" type="DATE" value="2007-03" anchorTimeID="t0">märtsis</TIMEX3> kasvas eksport Venemaale <TIMEX3 tid="t116" type="DATE" value="2006" anchorTimeID="t0">aastatagusega</TIMEX3> võrreldes peaaegu poole võrra , siis <TIMEX3 tid="t117" type="DATE" value="2007-06" anchorTimeID="t0">juunis</TIMEX3> oli kasv 13 protsenti . 
+ Statistikaameti esialgsetel andmetel jäi kogueksport <TIMEX3 tid="t118" type="DATE" value="2006-06" anchorTimeID="t0">eelmise aasta juunikuu</TIMEX3> tasemele , <TIMEX3 tid="t119" type="DATE" value="2007-05" anchorTimeID="t0">selle aasta maikuu</TIMEX3> näitajast oli aga ekspordi maht 8 protsendi võrra väiksem . 
+ Impordis toimusid sarnased muutused . 
+ <TIMEX3 tid="t120" type="DURATION" value="P1Y" beginPoint="t121" endPoint="t122">Aastaga</TIMEX3><TIMEX3 tid="t121" type="DATE" value="2006-07"/><TIMEX3 tid="t122" type="DATE" value="2007-07" /> vähenes import 4 protsenti ja <TIMEX3 tid="t123" type="DATE" value="2007-07" anchorTimeID="t0">eelmise kuuga</TIMEX3> võrreldes 8 protsenti . 
+</TimeML>
