@@ -7,8 +7,8 @@
  Euroopa Nõukogu Parlamentaarne Assamblee otsustas <TIMEX3 tid="t312" type="DATE" value="2000-04-06" anchorTimeID="t0">6. aprillil</TIMEX3> alustada Venemaa osaluse peatamise protsessi nõukogus . 
  ENPA resolutsiooni kohaselt peab Venemaa kohe peatama sõjategevuse Tshetsheenias , järgima vabariigis inimõigusi ning alustama kõnelusi tshetsheenide juhtidega . 
  See resolutsioon saadeti Euroopa Nõukogu liikmesmaadele lõpliku otsuse langetamiseks . 
- <TIMEX3 tid="t313" type="DATE" value="2000-04-07" anchorTimeID="t312">Päev pärast ENPA otsust</TIMEX3> saatis Tshetsheenia Itshkeeria Vabariigi välisminister Iljas Ahmadov ENPA-le avalduse , milles ütles , et Tshetsheenia pool on valmis täitma ENPA resolutsiooni nõudmisi , kuulutama välja vaherahu ning istuma läbirääkimistelaua taha , kuid seda tingimusel , kui samad sammud astub ka Vene pool . 
- Kuid Kreml on <TIMEX3 tid="t314" type="DATE" value="PRESENT_REF" anchorTimeID="t0"  >seniajani</TIMEX3> vaikinud . 
+ <TIMEX3 tid="t313" type="DURATION" value="P1D" anchorTimeID="t312" comment="fraas: Päev pärast ENPA otsust">Päev</TIMEX3> pärast ENPA otsust saatis Tshetsheenia Itshkeeria Vabariigi välisminister Iljas Ahmadov ENPA-le avalduse , milles ütles , et Tshetsheenia pool on valmis täitma ENPA resolutsiooni nõudmisi , kuulutama välja vaherahu ning istuma läbirääkimistelaua taha , kuid seda tingimusel , kui samad sammud astub ka Vene pool . 
+ Kuid Kreml on <TIMEX3 tid="t314" type="DATE" value="PRESENT_REF" anchorTimeID="t0">seniajani</TIMEX3> vaikinud . 
  Kuulda on olnud vaid Kremli esindaja Sergei Jastrzhembski ütlusi , et tshetsheeni terroristid Bassajev , Hattab , Gelajev ja teised tuleb hävitada või türmi pista . 
  Süüdlased on süüdlased 
  Tshetsheenia on kindlal seisukohal : tshetsheenidest süüdlased annavad aru Tshetsheenia seaduste ees , nii nagu kurikuulus polkovnik Budanov vastutab oma tegude eest Vene seaduste järgi . 

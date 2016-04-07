@@ -10,7 +10,7 @@
  Viru keskuse neljanda korruse elustiilikeskuses Felicitalia näeb Tiina Tammetalu , Lilian Mosolaineni ja Bille Neeve maale . 
  Caf&#233; Angelis on üleval Chintis Lundgreni maalid ja Heikki-Erich Merila fototöötlused . 
  Rühmitus Infotankistid tutvustab Sõpruse kinos fotoseeriat " Mängud soorollisoos " . 
- <TIMEX3 tid="t303" type="DATE" value="XXXX-WXX" comment="vaieldav, kas üldse märgistada" >Homokultuuri nädala</TIMEX3> avamisel viibinud luuletaja Ivar Sild peab <TIMEX3 tid="t304" type="DATE" value="XXXX-WXX" comment="vaieldav, kas üldse märgistada" >homokultuurile pühendatud nädala</TIMEX3> puhul oluliseks , et see annab erinevate huvide ning taustaga inimestele võimaluse omavahel suhelda . 
+ Homokultuuri <TIMEX3 tid="t303" type="DURATION" value="P1W" comment="vaieldav, kas üldse märgistada" >nädala</TIMEX3> avamisel viibinud luuletaja Ivar Sild peab homokultuurile pühendatud <TIMEX3 tid="t304" type="DURATION" value="P1W" comment="vaieldav, kas üldse märgistada" >nädala</TIMEX3> puhul oluliseks , et see annab erinevate huvide ning taustaga inimestele võimaluse omavahel suhelda . 
  Eesti ühiskonna tolerantsustaset peab Sild rahuldavaks , tuues paralleeli sõjaeelse aja suhtumisega samasooliste kooselusse . 
  " Mida aeg edasi , seda laiemaks on mõistmise piir läinud , " nendib Sild . 
 </TimeML>
