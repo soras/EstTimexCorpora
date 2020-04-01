@@ -296,7 +296,7 @@ peadirektor    pea_direktor+0 //_S_ sg n, //
 </s>
 <s>
 Aga    aga+0 //_J_ //
-<TIMEX  tid="t7" temporalFunction="true" >
+<TIMEX tid="t7" type="DURATION" temporalFunction="true" value="PTXM" >
 viimased    viimane+d //_A_ pl n, //
 minutid    minut+d //_S_ pl n, //
 </TIMEX>

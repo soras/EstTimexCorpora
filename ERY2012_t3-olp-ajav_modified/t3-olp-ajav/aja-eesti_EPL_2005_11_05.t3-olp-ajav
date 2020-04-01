@@ -1133,33 +1133,6 @@ kompetentsed    kompetentne+d //_A_ pl n, //
 inimesed    inimene+d //_S_ pl n, //
 .    . //_Z_ //
 </s>
-<ignoreeri>
-|
-autor:
-Toivo
-Tänavsuu
-|
-ajalehenumber:
-Eesti
-Päevaleht
-05.11.2005
-|
-rubriik:
-Eesti
-|
-artikkel:
-LHV
-skandaalis
-osaline
-ka
-Lõhmus
-|
-autor:
-Toivo
-Tänavsuu
-|
-|
-</ignoreeri>
 <s>
 Aga    aga+0 //_J_ //
 eks    eks+0 //_D_ //

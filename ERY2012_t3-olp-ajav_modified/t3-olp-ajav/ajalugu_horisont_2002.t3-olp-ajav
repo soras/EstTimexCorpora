@@ -1665,7 +1665,7 @@ mõne    mõni+0 //_P_ sg g, //
 kilomeetri    kilo_meeter+0 //_S_ sg g, //
 kaugusel    kaugusel+0 //_K_ //
 mererannast    mere_rand+st //_S_ sg el, //
-<TIMEX                                              tid="t1_19" type="DATE" temporalFunction="true" value="BC8500" beginPoint="t1_20" endPoint="t1_21">
+<TIMEX                                              tid="t1_19" type="DURATION" temporalFunction="true" value="PXXXXY" beginPoint="t1_20" endPoint="t1_21">
 <TIMEX text="umbes 8.-"                             tid="t1_20" type="DATE" temporalFunction="true" value="BC8"  mod="APPROX">
 <TIMEX text="7. aastatuhande vahetuse paiku e.Kr."  tid="t1_21" type="DATE" temporalFunction="true" value="BC7"  mod="APPROX">
 umbes    umbes+0 //_D_ //
