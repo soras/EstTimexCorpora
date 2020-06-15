@@ -13,4 +13,9 @@
      Reference Corpus of Estonian; a small part comes from an online 
      news portal.
      See "MThesis_2010_tml_mod_2/readme.txt" for details.
-
+     
+ * scripts
+     Scripts for converting TIMEX annotated corpora to EstNLTK's JSON 
+     files, and for evaluating EstNLTK's TimexTagger on the corpus. 
+     EstNLTK v1.6.6+ is required for running the scripts.
+     
