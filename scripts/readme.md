@@ -1,6 +1,6 @@
 ## Processing TIMEX corpora with EstNLTK and evaluating TimexTagger
 
-This folder contains scripts for converting TIMEX corpora to EstNLTK's JSON format files, and for evaluating EstNLTK's TimexTagger on the corpus. EstNLTK v1.6.6+ is required for running the scripts. 
+This folder contains scripts for converting TIMEX corpora to EstNLTK's JSON format files, and for evaluating EstNLTK's TimexTagger on the corpus. [EstNLTK](https://github.com/estnltk/estnltk) v1.6.6+ is required for running the scripts. 
 
 Scripts for converting corpora to EstNLTK's JSON format files:
 
@@ -13,7 +13,7 @@ Script for evaluating TimexTagger:
 
   * `eval_v1_6_timex_tagger.py`
 
-    Provided that the corpora have already been converted to EstNLTK's JSON files, the scrip should be able to find the converted corpora (from the default location), and perform the evaluation. 
+    Provided that the corpora have already been converted to EstNLTK's JSON files, the script should be able to find the converted corpora (from the default location), and perform the evaluation. 
 
     The script outputs a date-stamped log file, which 1) lists matching, missing and redundant TIMEX annotations for each document, 2) reports precison / recall / F1-score for each document. Additionally, corpus-wise evaluation summaries will be provided;
    
