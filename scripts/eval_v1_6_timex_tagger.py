@@ -1,9 +1,9 @@
 # ===========================================================
-#  Evaluates EstNLTK v1.6 TimexTagger on the corpora
+#  Evaluates EstNLTK v1.7 TimexTagger on the corpora
 #
 #  Requirements
-#     Python 3.5+
-#     EstNLTK v1.6.6+
+#     Python 3.7+
+#     EstNLTK v1.7.0+
 # ===========================================================
 
 import os, os.path, re
@@ -14,16 +14,16 @@ from collections import OrderedDict
 from collections import defaultdict
 
 from estnltk.taggers import TimexTagger
-from estnltk.converters import json_to_text
+from estnltk_core.converters import json_to_text
 
 from estnltk.taggers import DiffTagger
-from estnltk.text import Layer
+from estnltk_core import Layer
 
-from estnltk.taggers.standard_taggers.diff_tagger import iterate_diff_conflicts
-from estnltk.taggers.standard_taggers.diff_tagger import iterate_modified
-from estnltk.taggers.standard_taggers.diff_tagger import iterate_missing
-from estnltk.taggers.standard_taggers.diff_tagger import iterate_extra
-from estnltk.layer_operations import flatten
+from estnltk.taggers.system.diff_tagger import iterate_diff_conflicts
+from estnltk.taggers.system.diff_tagger import iterate_modified
+from estnltk.taggers.system.diff_tagger import iterate_missing
+from estnltk.taggers.system.diff_tagger import iterate_extra
+from estnltk_core.layer_operations import flatten
 
 from preprocessing import preprocess_for_timex_tagger
 

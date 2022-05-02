@@ -13,7 +13,7 @@ import copy
 from collections import OrderedDict
 
 from estnltk import Text
-from estnltk.text import Layer
+from estnltk import Layer
 
 # Pattern for lines with single tags
 single_tag_line_pat = re.compile('^(<[^<>]+>)\s*$')
