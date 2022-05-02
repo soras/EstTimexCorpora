@@ -1,8 +1,6 @@
-## Processing TIMEX corpora with EstNLTK and evaluating TimexTagger
+## Converting TIMEX corpora to EstNLTK's JSON files and evaluating TimexTagger
 
-This folder contains scripts for converting TIMEX corpora to EstNLTK's JSON format files, and for evaluating EstNLTK's TimexTagger on the corpus. [EstNLTK](https://github.com/estnltk/estnltk) v1.6.6+ is required for running the scripts. 
-
-Scripts for converting corpora to EstNLTK's JSON format files:
+Scripts for converting corpora of this repository to EstNLTK's JSON format files:
 
   * `convert_ERY2012_to_v1_6_json.py`
   * `convert_Mthesis2010_to_v1_6_json.py`
@@ -22,3 +20,14 @@ Modules (used by scripts):
 
   * `tml_conv_utils.py` -- utilities for converting corpus texts to EstNLTK's Text objects;
   * `preprocessing.py` -- preprocessing with segmentation fixes required by TimexTagger;
+
+
+## Data conversion to/from Brat [for EVENT & TLINK annotation]
+
+  * `convert_ERY2012_json_to_brat.py`
+
+    Converts EstNLTK's JSON files in the folder `../ERY2012_v1_6_json` to [Brat](https://brat.nlplab.org) documents and annotation files and places into the folder `../ERY2012_v1_6_BRAT`. Annotation files will have TIMEX annotations and configuration for (TimeML-based) EVENT, ENTITY and TLINK annotation. 
+
+  * `convert_BRAT_to_estnltk_json.py`
+
+    Converts manually annotated [Brat](https://brat.nlplab.org) documents (`*.txt, *.ann files`) back to EstNLTK's json files that have 'events', 'timexes', 'entities', 'tlinks' and 'event_arguments' annotation layers. Names of the input folder and output folder must be given as command line arguments, see the header of the script for details. 
